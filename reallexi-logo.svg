@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180" role="img" aria-labelledby="title desc">
+  <title id="title">Reallexi LLC</title>
+  <desc id="desc">Reallexi LLC logo</desc>
+  <defs>
+    <linearGradient id="markGradient" x1="22" y1="24" x2="142" y2="148" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#68c9a7"/>
+      <stop offset="0.52" stop-color="#245565"/>
+      <stop offset="1" stop-color="#202744"/>
+    </linearGradient>
+  </defs>
+  <rect x="18" y="18" width="144" height="144" rx="32" fill="url(#markGradient)"/>
+  <path d="M61 125V55h40c18 0 31 11 31 27 0 12-7 22-18 26l22 17h-29l-19-16H83v16H61Zm22-35h16c7 0 11-3 11-9s-4-9-11-9H83v18Z" fill="#ffffff"/>
+  <text x="190" y="83" fill="#17202a" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="0">Reallexi</text>
+  <text x="193" y="126" fill="#245565" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="2">LLC</text>
+</svg>
