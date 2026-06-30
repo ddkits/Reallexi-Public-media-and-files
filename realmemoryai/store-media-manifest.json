@@ -1,0 +1,42 @@
+{
+  "generatedAt": "2026-06-30T20:55:10.183Z",
+  "format": "jpeg",
+  "alpha": false,
+  "screenshots": [
+    {
+      "path": "media/realmemory/screenshots/real-memory-browser-agent-01-chat.jpg",
+      "width": 1280,
+      "height": 800
+    },
+    {
+      "path": "media/realmemory/screenshots/real-memory-browser-agent-02-page-inspection.jpg",
+      "width": 1280,
+      "height": 800
+    },
+    {
+      "path": "media/realmemory/screenshots/real-memory-browser-agent-03-providers.jpg",
+      "width": 1280,
+      "height": 800
+    },
+    {
+      "path": "media/realmemory/screenshots/real-memory-browser-agent-04-artifacts.jpg",
+      "width": 1280,
+      "height": 800
+    },
+    {
+      "path": "media/realmemory/screenshots/real-memory-browser-agent-05-validation.jpg",
+      "width": 1280,
+      "height": 800
+    }
+  ],
+  "smallPromoTile": {
+    "path": "media/realmemory/chrome-web-store/small-promo-tile-440x280.jpg",
+    "width": 440,
+    "height": 280
+  },
+  "marqueePromoTile": {
+    "path": "media/realmemory/chrome-web-store/marquee-promo-tile-1400x560.jpg",
+    "width": 1400,
+    "height": 560
+  }
+}
