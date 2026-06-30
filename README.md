@@ -3,5 +3,5 @@
 Public README, store, and hosted-policy assets live here.
 
 - `videos-imges-downloader/` - assets for this browser extension.
-- `realmemoryai/` - assets for Real Memory Browser Agent.
+- `realmemory/` - assets for Real Memory AI Agent and Browser Agent, including generated Chrome Web Store screenshots and promo tiles.
 - `store/` - legacy/shared store media.
