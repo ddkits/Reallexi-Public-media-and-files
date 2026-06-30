@@ -1,0 +1,18 @@
+{
+  "name": "Mawajez",
+  "short_name": "Mawajez",
+  "description": "Bilingual global news hub owned by RealLexi LLC.",
+  "start_url": "/ar",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0d1014",
+  "theme_color": "#f36b21",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Mawajez</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <main class="popup-shell">
+      <header class="topbar">
+        <div class="brand"><span></span>Mawajez</div>
+        <button id="openSite" title="Open Mawajez" aria-label="Open Mawajez">↗</button>
+      </header>
+
+      <section class="filters">
+        <input id="search" type="search" placeholder="Search news" />
+        <select id="language" aria-label="Language"></select>
+      </section>
+
+      <nav id="categories" class="categories" aria-label="Categories"></nav>
+
+      <section class="status-row">
+        <button id="favoritesOnly" type="button">Favorites</button>
+        <button id="restoreSession" type="button">Restore tab</button>
+        <span id="status">Loading</span>
+      </section>
+
+      <section id="feed" class="feed" aria-live="polite"></section>
+    </main>
+
+    <template id="storyTemplate">
+      <article class="story">
+        <button class="fav" type="button" aria-label="Save">☆</button>
+        <a class="story-link" target="_blank" rel="noopener noreferrer">
+          <span class="source"></span>
+          <strong class="title"></strong>
+          <small class="meta"></small>
+        </a>
+      </article>
+    </template>
+
+    <script src="popup.js" type="module"></script>
+  </body>
+</html>

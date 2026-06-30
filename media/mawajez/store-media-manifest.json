@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-06-30T22:17:00.913Z",
+  "project": "mawajez",
+  "owner": "RealLexi LLC",
+  "publicRepoTargets": [
+    "media/mawajez"
+  ],
+  "chrome": {
+    "name": "Mawajez News Hub",
+    "version": "1.1.0",
+    "owner": "RealLexi LLC",
+    "ownerUrl": "https://reallexi.io",
+    "website": "https://mawajez.com",
+    "supportEmail": "news@reallexi.io",
+    "githubSponsors": "https://github.com/sponsors/ddkits",
+    "buyMeACoffee": "https://buymeacoffee.com/ddkits",
+    "privacyPolicyUrl": "https://github.com/ddkits/Reallexi-Public-media-and-files/blob/main/media/mawajez/policies/PRIVACY.md",
+    "singlePurpose": "Quick browser access to Mawajez public news feeds with local favorites and Mawajez session continuity.",
+    "remoteCode": false,
+    "permissions": [
+      "storage",
+      "alarms",
+      "contextMenus",
+      "sessions"
+    ],
+    "hostPermissions": [
+      "https://mawajez.com/*"
+    ],
+    "screenshots": [
+      "media/screenshots/mawajez-onboarding-1280x800.png",
+      "media/screenshots/mawajez-home-1280x800.png",
+      "media/screenshots/mawajez-videos-1280x800.png",
+      "media/screenshots/mawajez-gallery-1280x800.png",
+      "media/screenshots/mawajez-arabic-1280x800.png",
+      "media/screenshots/mawajez-support-1280x800.png",
+      "media/screenshots/mawajez-extension-popup-1280x800.png"
+    ],
+    "store": "Chrome Web Store",
+    "category": "News and Weather",
+    "shortDescription": "Search multilingual public news feeds, save favorites locally, and reopen Mawajez sessions.",
+    "package": "extensions/mawajez-news-hub-chrome.zip",
+    "promotionalImages": [
+      "media/promotional/chrome-small-promo-tile-440x280.png",
+      "media/promotional/chrome-marquee-promo-tile-1400x560.png"
+    ]
+  },
+  "edge": {
+    "name": "Mawajez News Hub",
+    "version": "1.1.0",
+    "owner": "RealLexi LLC",
+    "ownerUrl": "https://reallexi.io",
+    "website": "https://mawajez.com",
+    "supportEmail": "news@reallexi.io",
+    "githubSponsors": "https://github.com/sponsors/ddkits",
+    "buyMeACoffee": "https://buymeacoffee.com/ddkits",
+    "privacyPolicyUrl": "https://github.com/ddkits/Reallexi-Public-media-and-files/blob/main/media/mawajez/policies/PRIVACY.md",
+    "singlePurpose": "Quick browser access to Mawajez public news feeds with local favorites and Mawajez session continuity.",
+    "remoteCode": false,
+    "permissions": [
+      "storage",
+      "alarms",
+      "contextMenus",
+      "sessions"
+    ],
+    "hostPermissions": [
+      "https://mawajez.com/*"
+    ],
+    "screenshots": [
+      "media/screenshots/mawajez-onboarding-1280x800.png",
+      "media/screenshots/mawajez-home-1280x800.png",
+      "media/screenshots/mawajez-videos-1280x800.png",
+      "media/screenshots/mawajez-gallery-1280x800.png",
+      "media/screenshots/mawajez-arabic-1280x800.png",
+      "media/screenshots/mawajez-support-1280x800.png",
+      "media/screenshots/mawajez-extension-popup-1280x800.png"
+    ],
+    "store": "Microsoft Edge Add-ons",
+    "category": "News and Weather",
+    "shortDescription": "Search public Mawajez news feeds, save local favorites, and reopen Mawajez sessions.",
+    "package": "extensions/mawajez-news-hub-edge.zip",
+    "promotionalImages": [
+      "media/promotional/edge-promo-tile-440x280.png",
+      "media/promotional/edge-marquee-promo-tile-1400x560.png"
+    ]
+  }
+}
