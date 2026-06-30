@@ -1,0 +1,58 @@
+{
+  "name": "sqlite-free-editor",
+  "displayName": "Reallexi SQLite Editor",
+  "version": "0.1.19",
+  "publisher": "ReallexiLLC",
+  "author": "Sam Ayoub",
+  "description": "Free visual SQLite database editor for VS Code with table browsing, row editing, SQL console, CSV/JSON import and export, backups, integrity checks, and SQL.js support.",
+  "homepage": "https://reallexi.io/sqlite-editor-vscode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ReallexiLLC/sqlite-editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ReallexiLLC/sqlite-editor/issues"
+  },
+  "categories": [
+    "Data Science",
+    "Visualization",
+    "Other"
+  ],
+  "keywords": [
+    "reallexi",
+    "sqlite",
+    "sqlite3",
+    "sqlite database",
+    "sqlite editor",
+    "sqlite viewer",
+    "sqlite browser",
+    "sqlite manager",
+    "sqlite gui",
+    "free sqlite editor",
+    "database",
+    "database editor",
+    "database viewer",
+    "database browser",
+    "sql",
+    "sql editor",
+    "sql console",
+    "sql query",
+    "query runner",
+    "table editor",
+    "data grid",
+    "schema viewer",
+    "csv import",
+    "csv export",
+    "json export",
+    "db file",
+    "vscode",
+    "visual studio code",
+    "codespaces",
+    "sql.js"
+  ],
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "pricing": "Free",
+  "preview": false
+}

@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2026-06-30T22:05:58.182Z",
+  "product": "Reallexi SQLite Editor",
+  "packageType": "Visual Studio Code extension",
+  "packageName": "sqlite-free-editor",
+  "version": "0.1.19",
+  "publisher": "ReallexiLLC",
+  "privacyPolicyUrl": "https://github.com/ddkits/Reallexi-Public-media-and-files/blob/main/media/sqlite-editor/policies/PRIVACY.md",
+  "support": {
+    "githubSponsors": "https://github.com/sponsors/ddkits",
+    "buyMeACoffee": "https://buymeacoffee.com/ddkits",
+    "issues": "https://github.com/ReallexiLLC/sqlite-editor/issues"
+  },
+  "icons": [
+    "media/sqlite-editor/icons/icon.png",
+    "media/sqlite-editor/icons/reallexi-logo.png",
+    "media/sqlite-editor/icons/reallexi-logo.svg"
+  ],
+  "screenshots": [
+    "media/sqlite-editor/screenshots/sqlite-editor-data.png",
+    "media/sqlite-editor/screenshots/sqlite-editor-sql.png",
+    "media/sqlite-editor/screenshots/sqlite-editor-demo.gif"
+  ],
+  "policies": [
+    "media/sqlite-editor/policies/PRIVACY.md",
+    "media/sqlite-editor/policies/EDGE_ADDONS_COMPLIANCE.md",
+    "media/sqlite-editor/policies/CHROME_WEB_STORE_REQUIREMENTS.md",
+    "media/sqlite-editor/policies/STORE_PUBLISHING_CHECKLIST.md"
+  ],
+  "publicFiles": [
+    "media/sqlite-editor/public-files/README.md",
+    "media/sqlite-editor/public-files/CHANGELOG.md",
+    "media/sqlite-editor/public-files/LICENSE",
+    "media/sqlite-editor/public-files/package.json"
+  ],
+  "packageArtifact": "media/sqlite-editor/packages/sqlite-free-editor-0.1.19.vsix"
+}
