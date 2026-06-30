@@ -1,42 +1,98 @@
 {
-  "generatedAt": "2026-06-30T20:55:10.183Z",
-  "format": "jpeg",
+  "generatedAt": "2026-06-30T21:05:45.394Z",
+  "formats": [
+    "jpeg",
+    "png"
+  ],
   "alpha": false,
   "screenshots": [
     {
       "path": "media/realmemory/screenshots/real-memory-browser-agent-01-chat.jpg",
+      "pngPath": "media/realmemory/screenshots/real-memory-browser-agent-01-chat.png",
       "width": 1280,
       "height": 800
     },
     {
       "path": "media/realmemory/screenshots/real-memory-browser-agent-02-page-inspection.jpg",
+      "pngPath": "media/realmemory/screenshots/real-memory-browser-agent-02-page-inspection.png",
       "width": 1280,
       "height": 800
     },
     {
       "path": "media/realmemory/screenshots/real-memory-browser-agent-03-providers.jpg",
+      "pngPath": "media/realmemory/screenshots/real-memory-browser-agent-03-providers.png",
       "width": 1280,
       "height": 800
     },
     {
       "path": "media/realmemory/screenshots/real-memory-browser-agent-04-artifacts.jpg",
+      "pngPath": "media/realmemory/screenshots/real-memory-browser-agent-04-artifacts.png",
       "width": 1280,
       "height": 800
     },
     {
       "path": "media/realmemory/screenshots/real-memory-browser-agent-05-validation.jpg",
+      "pngPath": "media/realmemory/screenshots/real-memory-browser-agent-05-validation.png",
       "width": 1280,
       "height": 800
     }
   ],
   "smallPromoTile": {
     "path": "media/realmemory/chrome-web-store/small-promo-tile-440x280.jpg",
+    "pngPath": "media/realmemory/chrome-web-store/small-promo-tile-440x280.png",
     "width": 440,
     "height": 280
   },
   "marqueePromoTile": {
     "path": "media/realmemory/chrome-web-store/marquee-promo-tile-1400x560.jpg",
+    "pngPath": "media/realmemory/chrome-web-store/marquee-promo-tile-1400x560.png",
     "width": 1400,
     "height": 560
+  },
+  "edgeAddons": {
+    "screenshots": [
+      {
+        "path": "media/realmemory/edge-addons/screenshots/real-memory-browser-agent-01-chat.jpg",
+        "pngPath": "media/realmemory/edge-addons/screenshots/real-memory-browser-agent-01-chat.png",
+        "width": 1280,
+        "height": 800
+      },
+      {
+        "path": "media/realmemory/edge-addons/screenshots/real-memory-browser-agent-02-page-inspection.jpg",
+        "pngPath": "media/realmemory/edge-addons/screenshots/real-memory-browser-agent-02-page-inspection.png",
+        "width": 1280,
+        "height": 800
+      },
+      {
+        "path": "media/realmemory/edge-addons/screenshots/real-memory-browser-agent-03-providers.jpg",
+        "pngPath": "media/realmemory/edge-addons/screenshots/real-memory-browser-agent-03-providers.png",
+        "width": 1280,
+        "height": 800
+      },
+      {
+        "path": "media/realmemory/edge-addons/screenshots/real-memory-browser-agent-04-artifacts.jpg",
+        "pngPath": "media/realmemory/edge-addons/screenshots/real-memory-browser-agent-04-artifacts.png",
+        "width": 1280,
+        "height": 800
+      },
+      {
+        "path": "media/realmemory/edge-addons/screenshots/real-memory-browser-agent-05-validation.jpg",
+        "pngPath": "media/realmemory/edge-addons/screenshots/real-memory-browser-agent-05-validation.png",
+        "width": 1280,
+        "height": 800
+      }
+    ],
+    "smallPromotionalTile": {
+      "path": "media/realmemory/edge-addons/small-promotional-tile-440x280.jpg",
+      "pngPath": "media/realmemory/edge-addons/small-promotional-tile-440x280.png",
+      "width": 440,
+      "height": 280
+    },
+    "largePromotionalTile": {
+      "path": "media/realmemory/edge-addons/large-promotional-tile-1400x560.jpg",
+      "pngPath": "media/realmemory/edge-addons/large-promotional-tile-1400x560.png",
+      "width": 1400,
+      "height": 560
+    }
   }
 }
