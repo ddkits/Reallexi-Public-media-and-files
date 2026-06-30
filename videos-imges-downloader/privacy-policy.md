@@ -1,8 +1,8 @@
-# Videos Imges Downloader Privacy Policy
+# Videos Imges Downloader & Screen Recorder Privacy Policy
 
 Effective date: June 30, 2026
 
-Videos Imges Downloader is a browser extension for saving legally accessible videos and images for offline personal use in Chrome and Microsoft Edge.
+Videos Imges Downloader & Screen Recorder is a browser extension for saving legally accessible videos, images, and current-tab screen recordings for offline personal use in Chrome and Microsoft Edge.
 
 ## Data The Extension Handles
 
@@ -13,6 +13,7 @@ The extension may handle:
 - Local settings such as theme, export prompt preference, recording limit, gallery page limit, image size filters, and image export scale.
 - Recent save/export task status.
 - Active-tab media candidates, including response metadata, page image sources, responsive image sources, CSS image references, and page-provided image deep links.
+- Current-tab screen recordings explicitly started by the user.
 
 ## How Data Is Used
 
@@ -21,7 +22,7 @@ Data is used only to provide user-requested extension features:
 - Display candidate videos and images from the active tab.
 - Save selected files to the local offline library.
 - Export selected files through the browser Downloads flow.
-- Record the current tab after explicit user action.
+- Record the current tab screen after explicit user action.
 - Crawl user-configured gallery pages within configured limits.
 - Remember local settings and task status.
 
@@ -33,11 +34,11 @@ Saved files, metadata, settings, and task status remain in the user's browser pr
 
 The extension does not send telemetry, analytics, browsing history, saved media, or page URLs to the publisher or third-party downloader services.
 
-When a user saves or exports a selected URL, the browser may request that URL from the original host to complete the download or local save. The extension does not proxy, scrape through external services, or bypass DRM, paywalls, login restrictions, CORS, or site access controls.
+When a user saves or exports a selected URL, the browser may request that URL from the original host to complete the download or local save. When a user starts screen recording, the browser may capture the current tab through the tab-capture API. The extension does not proxy, scrape through external services, or bypass DRM, paywalls, login restrictions, CORS, or site access controls.
 
 ## Data Sale And Advertising
 
-Reallexi LLC does not sell, rent, or trade user data from Videos Imges Downloader. The extension does not use data for advertising profiles or ad targeting.
+Reallexi LLC does not sell, rent, or trade user data from Videos Imges Downloader & Screen Recorder. The extension does not use data for advertising profiles or ad targeting.
 
 ## User Controls And Deletion
 
@@ -45,7 +46,7 @@ Users can clear saved media from the extension library. Users can also remove al
 
 ## Permissions
 
-The extension requests browser permissions needed for its visible features, including active-tab scanning, downloads, storage, scripting, side panel, tab capture, tab metadata, web request media detection, notifications, and host access for normal web pages. These permissions are used only to provide user-initiated media detection, scanning, recording, exporting, and local storage.
+The extension requests browser permissions needed for its visible features, including active-tab scanning, downloads, storage, scripting, side panel, tab capture, tab metadata, web request media detection, notifications, and host access for normal web pages. These permissions are used only to provide user-initiated media detection, scanning, screen recording, exporting, and local storage.
 
 ## Contact
 
