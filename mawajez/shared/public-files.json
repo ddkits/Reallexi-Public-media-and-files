@@ -1,0 +1,42 @@
+{
+  "product": "betterConsole",
+  "mediaFolder": "mawajez",
+  "generatedAt": "2026-06-30T22:09:08.697Z",
+  "icons": [
+    "icons/betterconsole-icon-128.png",
+    "icons/betterconsole-icon-16.png",
+    "icons/betterconsole-icon-256.png",
+    "icons/betterconsole-icon-32.png",
+    "icons/betterconsole-icon-48.png",
+    "icons/betterconsole-icon-512.png",
+    "icons/betterconsole-logo.svg"
+  ],
+  "screenshots": [
+    "screenshots/01-vision-mode-dashboard.png",
+    "screenshots/01-vision-mode-dashboard.svg",
+    "screenshots/02-grouped-issues.png",
+    "screenshots/02-grouped-issues.svg",
+    "screenshots/03-fix-suggestions.png",
+    "screenshots/03-fix-suggestions.svg",
+    "screenshots/04-sanitized-online-search.png",
+    "screenshots/04-sanitized-online-search.svg",
+    "screenshots/05-debug-report-export.png",
+    "screenshots/05-debug-report-export.svg",
+    "screenshots/06-privacy-settings.png",
+    "screenshots/06-privacy-settings.svg"
+  ],
+  "promotional": [
+    "promotional/large-promo-920x680.png",
+    "promotional/large-promo-920x680.svg",
+    "promotional/marquee-1400x560.png",
+    "promotional/marquee-1400x560.svg",
+    "promotional/small-promo-440x280.png",
+    "promotional/small-promo-440x280.svg"
+  ],
+  "policies": [
+    "policies/chrome-web-store-listing.md",
+    "policies/edge-addons-compliance.md",
+    "policies/privacy-policy.md",
+    "policies/store-submission-checklist.md"
+  ]
+}

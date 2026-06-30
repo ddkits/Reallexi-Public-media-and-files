@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800">
+    <rect width="1280" height="800" fill="#0f1115"/>
+    <rect x="44" y="44" width="1192" height="712" rx="18" fill="#171a21" stroke="#303644" stroke-width="2"/>
+    <rect x="44" y="44" width="1192" height="76" rx="18" fill="#1f2430"/>
+    <rect x="72" y="68" width="32" height="32" rx="7" fill="#a78bfa"/>
+    <text x="120" y="91" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" fill="#f4f7fb">betterConsole</text>
+    <rect x="1054" y="66" width="130" height="36" rx="8" fill="#0f1115" stroke="#a78bfa"/>
+    <text x="1088" y="90" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#f4f7fb">Sponsor</text>
+    <text x="78" y="178" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="850" fill="#f4f7fb">Local-first settings and retention controls</text>
+    <text x="80" y="220" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" fill="#98a2b3">Logs stay in browser storage, cleanup rules are configurable, and data remains user-controlled.</text>
+    <rect x="78" y="252" width="592" height="406" rx="12" fill="#0f1115" stroke="#303644"/>
+    
+      <rect x="96" y="274" width="544" height="76" rx="8" fill="#1f2430" stroke="#303644"/>
+      <circle cx="128" cy="312" r="10" fill="#ff5f57"/>
+      <text x="152" y="306" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#f4f7fb">TypeError: Cannot read properties of undefined</text>
+      <text x="152" y="334" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" fill="#98a2b3">Grouped issue - source, count, severity, and status are retained locally.</text>
+    
+      <rect x="96" y="378" width="544" height="76" rx="8" fill="#1f2430" stroke="#303644"/>
+      <circle cx="128" cy="416" r="10" fill="#f6c453"/>
+      <text x="152" y="410" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#f4f7fb">CSP blocked script-src</text>
+      <text x="152" y="438" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" fill="#98a2b3">Grouped issue - source, count, severity, and status are retained locally.</text>
+    
+      <rect x="96" y="482" width="544" height="76" rx="8" fill="#1f2430" stroke="#303644"/>
+      <circle cx="128" cy="520" r="10" fill="#60a5fa"/>
+      <text x="152" y="514" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#f4f7fb">Failed resource load: /assets/app.css</text>
+      <text x="152" y="542" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" fill="#98a2b3">Grouped issue - source, count, severity, and status are retained locally.</text>
+    
+    <rect x="714" y="252" width="444" height="406" rx="12" fill="#0f1115" stroke="#303644"/>
+    <text x="746" y="308" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="800" fill="#f4f7fb">Fix Suggestions</text>
+    <text x="746" y="356" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" fill="#98a2b3">Likely cause</text>
+    <text x="746" y="390" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#f4f7fb">Start from the first application stack frame.</text>
+    <rect x="746" y="430" width="358" height="10" rx="5" fill="#a78bfa"/>
+    <rect x="746" y="468" width="318" height="10" rx="5" fill="#303644"/>
+    <rect x="746" y="504" width="382" height="10" rx="5" fill="#303644"/>
+    <rect x="746" y="560" width="168" height="42" rx="8" fill="#a78bfa"/>
+    <text x="778" y="588" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="800" fill="#0f1115">Copy report</text>
+  </svg>

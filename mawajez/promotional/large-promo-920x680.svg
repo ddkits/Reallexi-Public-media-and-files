@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="680" viewBox="0 0 920 680">
+    <rect width="920" height="680" fill="#0f1115"/>
+    <rect x="55" y="82" width="810" height="517" rx="18" fill="#171a21" stroke="#303644" stroke-width="2"/>
+    <circle cx="166" cy="218" r="54" fill="#2dd4bf"/>
+    <circle cx="221" cy="218" r="34" fill="#60a5fa"/>
+    <text x="313" y="231" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="82" font-weight="850" fill="#f4f7fb">betterConsole</text>
+    <text x="313" y="320" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="35" fill="#98a2b3">Capture, group, explain, and export console issues</text>
+    <rect x="313" y="394" width="294" height="24" rx="8" fill="#2dd4bf"/>
+    <rect x="313" y="449" width="386" height="24" rx="8" fill="#303644"/>
+  </svg>
