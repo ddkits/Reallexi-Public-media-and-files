@@ -1,21 +1,5 @@
 [
   {
-    "id": "google-news-fr-sports-cbmizafbvv95cuxowef4nejydzvjnlllswdbazrltem5vwhxbnnouvu3adk3dw5uz1rlueq2yzreulnsmek4ngu1zktrekgx",
-    "title": "Coupe du monde 2026 : le tableau complet des seizièmes de finale et de la suite de la compétition - Touteleurope.eu",
-    "excerpt": "Coupe du monde 2026 : le tableau complet des seizièmes de finale et de la suite de la compétition Touteleurope.eu Coupe du monde. Le calendrier et le programme TV des 8es de finale Ouest-France Algérie, Maroc, Ghana... Un pays africain peut-il remporter la Coupe du monde ? parismatch.com Coupe du Monde 2026 : les premiers huitièmes sont connus Foot Mercato Tableau de la phase finale de la Coupe du monde 2026 : les affiches des 8es connues, équipes qualifiées et calendrier complet Linternaute.com",
-    "slug": "coupe-du-monde-2026-le-tableau-complet-des-seizie-mes-de-finale-et-de-la-suite-de-la-compe-titio",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWEF4NEJYdzVjNlllSWdBazRlTEM5VWhxbnNOUVU3aDk3dW5UZ1RLUEQ2YzREUlNSMEk4NGU1ZktRekgxZGUtaWxCVFNaM0RreUx6YWpLSlU1VUNDQzhad3JLay1LdndGRm1kcmJpMUNnVU1FT1lyMWFUSGhkdmV3TElxQzNkU251Z1pwcmVyVGpWMjJUNFAyVVBVWkd4SzZRS3l5QXFUcnlrdENmTVAyVGczNE1qamY3U0dyYjh4V3lLOV9nRFBVTG9LUnU?oc=5",
-    "image": null,
-    "sourceId": "google-news-fr-sports",
-    "sourceName": "Touteleurope.eu",
-    "sourceHomepage": "https://www.touteleurope.eu",
-    "sourceFeedName": "Français News Network",
-    "sourceRegion": "France",
-    "category": "Sports",
-    "publishedAt": 1782857318000,
-    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-sports/coupe-du-monde-2026-le-tableau-complet-des-seizie-mes-de-finale-et-de-la-suite-de-la-compe-titio"
-  },
-  {
     "id": "google-news-fr-sports-cbmi4afbvv95cuxnwgz4smditk1zttzozzvpexm4oepuntvjce9wtkxvemrfdnlxbnfjsunmqvkyt0tdzgv3amppzgv3xzrx",
     "title": "EN DIRECT, France-Suède : but refusé pour Kylian Mbappé sur hors-jeu, les Bleus dangereux - Le Monde.fr",
     "excerpt": "EN DIRECT, France-Suède : but refusé pour Kylian Mbappé sur hors-jeu, les Bleus dangereux Le Monde.fr France-Suède : le geste acrobatique de Michael Olise, le but libérateur de Mbappé, la communion avec Deschamps... En vidéo, les moments forts du 16e de finale Le Figaro DIRECT. France-Suède: les Bleus montent en puissance, suivez le match en live RMC Sport EN DIRECT - C’est parti pour France - Suède, Mohamed El Khatib au commentaire à «Libé» : «Je fais un essai au PSG et l’année d’après, je me fais les croisés» Libération Que retenez-vous de la première période de France-Suède en 16es de finale de la Coupe du monde ? L'Équipe",
@@ -78,6 +62,22 @@
     "category": "Entertainment",
     "publishedAt": 1782853034000,
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-entertainment/l-actrice-daveigh-chase-star-de-the-ring-est-morte-a-35-ans-des-suites-du-sida-bfm"
+  },
+  {
+    "id": "google-news-fr-tech-cbmitwfbvv95cuxnawdfynoxqux4c2g3vu84vdnormjxwmd6zjn0znbbbukzluvkoxhroelfbtjon1c1mg02x250skfsznln",
+    "title": "Fatigué d'être seul? Ce robot chinois à corps d'humain vous tend la main - tv5monde",
+    "excerpt": "Fatigué d'être seul? Ce robot chinois à corps d'humain vous tend la main tv5monde",
+    "slug": "fatigue-d-e-tre-seul-ce-robot-chinois-a-corps-d-humain-vous-tend-la-main-tv5monde",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaWdFYnoxQUx4c2g3VU84VDNoRmJXWmd6ZjN0ZnBBbUkzLUVkOXhROElfbTJON1c1MG02X250SkFSZnlnSkh2UkxNWUdCMGYzMC16SHN0TTFqbWJlUUxXaktBM1pMSTdaeElPMUo4Q1p2U0ItNnIzLUVsSVFqNkd6QnNZLXBXNWRqeWNfQXFxWkFTWm1jQTRRVHhQN2N2UVh5TmhsdU5yejRMTlRaV1hvSTVSVWJlSFU?oc=5",
+    "image": null,
+    "sourceId": "google-news-fr-tech",
+    "sourceName": "tv5monde",
+    "sourceHomepage": "https://information.tv5monde.com",
+    "sourceFeedName": "Français News Network",
+    "sourceRegion": "France",
+    "category": "Tech",
+    "publishedAt": 1782851977000,
+    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-tech/fatigue-d-e-tre-seul-ce-robot-chinois-a-corps-d-humain-vous-tend-la-main-tv5monde"
   },
   {
     "id": "google-news-fr-science-cbmi7afbvv95cuxnzhzpeugxm0mtdud2c0hlr21mulm2yvnoujhvdudnyxfrnu52ukfxd3nvuhjbsjnszvewsvl3bdvqrgct",
@@ -144,36 +144,36 @@
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-sports/max-strus-et-dennis-schro-der-sacrifie-s-par-les-cavaliers-pour-faire-revenir-lebron-james-baske"
   },
   {
-    "id": "google-news-fr-entertainment-cbmikwjbvv95cuxoywc1y2zuek5ibmvumglomw9qeddkymniuxvithnormnyyw9onfdgbuk2b251b212ykrqcmfjwghin1fn",
-    "title": "Paris : prison avec sursis requise contre le couple suspecté d’avoir accaparé l’héritage de Michael Lonsdale - Le Parisien",
-    "excerpt": "Paris : prison avec sursis requise contre le couple suspecté d’avoir accaparé l’héritage de Michael Lonsdale Le Parisien « Je ne me suis jamais servi de lui » : le couple Facérias au tribunal pour abus de faiblesse envers Michael Lonsdale La Croix Abus de faiblesse sur Michael Lonsdale à Paris : Anne l'accompagnante a-t-elle voulu dépouiller l’acteur mourant ? Actu.fr «Elle a profité de sa richesse» : derrière l’héritage de Michael Lonsdale, l’ombre d’une mystérieuse association catholique Libération Procès Lonsdale : le couple Facérias jugé pour abus de faiblesse au tribunal de Paris info.fr",
-    "slug": "paris-prison-avec-sursis-requise-contre-le-couple-suspecte-d-avoir-accapare-l-he-ritage-de-micha",
-    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOYWc1Y2Zuek5IbmVUMGlOMW9qeDdkYmNiUXViTHNoRmNyYW9ONFdGbUk2b251b212YkRQcmFJWGhiN1FNUDVDbXd4eTNsQnh6ZFBsWEtDR0xfRjNqUjRZUWxHb1BsU0VKamVhT0pKLWxSanh3SGxBUnVFdGQ4SHVaN2FqREppdHZlTE9nMkpTQzlqV0p0ZVAxbGRzMU5YdEN1eXdTOTRTcS1MLUFTZkQzSko0U1YybDBFVGlHNF9lZC1uQjVDYWJMYy1XVHduVFJ6RmpvdmtUbXpMS1RHejVPSXI1eldqTHZweVRHQVljUGF3RkRiV1VRd01MSXkxMUpfOXpNRmVDYkFMa2RXbjQyM1dQMA?oc=5",
+    "id": "google-news-fr-sports-cbmiogfbvv95cuxqbudzufayvwe3azq2t3dks2xlqk9gs0hgakp2zu5hwevjzw8ywllaahnhuwfylxk0rjzev1dxvnjhveo2",
+    "title": "Bordeaux : Rio Mavuba réagit à la décision de la DNCG - Foot Mercato",
+    "excerpt": "Bordeaux : Rio Mavuba réagit à la décision de la DNCG Foot Mercato Les Girondins de Bordeaux exclus de toutes les compétitions nationales par la DNCG L'Équipe Foot : le cauchemar se poursuit pour les Girondins de Bordeaux, exclus de toutes les compétitions nationales par la DNCG Le Figaro Duga est très remonté suite à la nouvelle rétrogradation des Girondins de Bordeaux et donne ses infos ! – 30/06 RMC Sport INFO SUD OUEST. Girondins de Bordeaux : il n’y aura pas d’apport d’argent avant la DNCG, le club risque la rétrogradation Sud Ouest",
+    "slug": "bordeaux-rio-mavuba-re-agit-a-la-de-cision-de-la-dncg-foot-mercato",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbUdzUFAyVWE3azQ2T3dkS2xLQk9GS0hGakp2ZU5hWEVjZW8yWllaaHNHUWFyLXk0RjZEV1dXVnJhVEo2UjlnV3BuYnd1VnhpcDkxMVZMRDE3WGlYZkdlRTRzOW4wdFduaVE5WmhWUHNQUl9iNXBuMW12ZFhnLWlxT1ZGWWdJZWNGbU0wR1BNc0FmT2ZtZFZwT0doYlFUbEozVUE?oc=5",
+    "image": null,
+    "sourceId": "google-news-fr-sports",
+    "sourceName": "Foot Mercato",
+    "sourceHomepage": "https://www.footmercato.net",
+    "sourceFeedName": "Français News Network",
+    "sourceRegion": "France",
+    "category": "Sports",
+    "publishedAt": 1782848471000,
+    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-sports/bordeaux-rio-mavuba-re-agit-a-la-de-cision-de-la-dncg-foot-mercato"
+  },
+  {
+    "id": "google-news-fr-entertainment-cbmi0gfbvv95cuxpcmtaauy3wdb4ymt4qwrta2tazegwtfn4v3y0umhuchrcyna1thr0ukhivlbsuflrvejba0pwr2cwt2xf",
+    "title": "Nagui (64 ans) : \"J'ai perdu mon ami et ma nana, les deux en même temps\", sa journée a viré au cauchemar - Melty",
+    "excerpt": "Nagui (64 ans) : \"J'ai perdu mon ami et ma nana, les deux en même temps\", sa journée a viré au cauchemar Melty",
+    "slug": "nagui-64-ans-j-ai-perdu-mon-ami-et-ma-nana-les-deux-en-me-me-temps-sa-journe-e-a-vire-au-cauchem",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcmtaaUY3WDB4Ymt4QWRta2taZEgwTFN4V3Y0UmhUcHRCYnA1THR0UkhIVlBsUFlrVEJBa0pWR2cwT2xfR3BUSUVZXzdNSEZYRWFUbk1xNTRvNmJOdnVlREdlVHlOUTNkWWNPRzhDaTI4NWJ5VkZkWUdTWlIzMnB1Wi1oVy1wYi1EZklQeGtGNEhuR1Blb2x5eEo2a0JUOTBzYVNWYVhTc08tcUV1OGJLZjVTUEJCS2liRTdyeURkQm9SbHBaeTZLbTZCQndKTjl4VXc?oc=5",
     "image": null,
     "sourceId": "google-news-fr-entertainment",
-    "sourceName": "Le Parisien",
-    "sourceHomepage": "https://www.leparisien.fr",
+    "sourceName": "Melty",
+    "sourceHomepage": "https://www.melty.fr",
     "sourceFeedName": "Français News Network",
     "sourceRegion": "France",
     "category": "Entertainment",
-    "publishedAt": 1782848682000,
-    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-entertainment/paris-prison-avec-sursis-requise-contre-le-couple-suspecte-d-avoir-accapare-l-he-ritage-de-micha"
-  },
-  {
-    "id": "google-news-fr-world-cbmikgfbvv95cuxnrthmlw42sm43cnrqwi1hz0e0ohrozu5mnmrtms1mbjdkcdjeoxq5zlvnvznvaedmy0rotmq3uhb3qxbt",
-    "title": "La Côte d’Ivoire réalise une prouesse sortie de nulle part au Mondial - FFL",
-    "excerpt": "La Côte d’Ivoire réalise une prouesse sortie de nulle part au Mondial FFL Coupe du monde 2026 : Haaland «apporte une certaine sérénité à l'équipe», salue le sélectionneur norvégien Le Figaro Côte d’Ivoire - Norvège : Erling Haaland, buteur en fin de match, envoie les Norvégiens en huitièmes de finale Le Monde.fr Mondial 2026: les Ivoiriens peuvent-ils battre les Norvégiens? / Immigration: un revers pour Donald Trump / Canicule en France: dispute à l'Assemblée nationale... Le français facile avec RFI Coupe du Monde 2026 : la Côte d’Ivoire l’a très mauvaise après son élimination ! Foot Mercato",
-    "slug": "la-co-te-d-ivoire-re-alise-une-prouesse-sortie-de-nulle-part-au-mondial-ffl",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRThmLW42Sm43cnRqWi1HZ0E0OHROZU5MNmRtMS1mbjdKcDJEOXQ5ZlVnVzNvaEdmY0ROTmQ3UHB3QXBtRmdzVUxvM0VIeUw2XzMtdnpGOTNRQkk3OERES2hiRFpzNVFxejVIOE5DMy1ZVEtSM0Y0cUVPU3ZINDNZTmVCWE80ZGw1SGw2cVZxeHpvdw?oc=5",
-    "image": null,
-    "sourceId": "google-news-fr-world",
-    "sourceName": "FFL",
-    "sourceHomepage": "https://fflose.com",
-    "sourceFeedName": "Français News Network",
-    "sourceRegion": "France",
-    "category": "World",
-    "publishedAt": 1782848499000,
-    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-world/la-co-te-d-ivoire-re-alise-une-prouesse-sortie-de-nulle-part-au-mondial-ffl"
+    "publishedAt": 1782847900000,
+    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-entertainment/nagui-64-ans-j-ai-perdu-mon-ami-et-ma-nana-les-deux-en-me-me-temps-sa-journe-e-a-vire-au-cauchem"
   },
   {
     "id": "google-news-fr-health-cbmisajbvv95cuxor01xehzsywjvrwh3zmmtrmzfznbjaxnra2ytvmtjddvnmuftylhlce9ubhp1dnvhlu0wmxppbm1xuljv",
@@ -208,22 +208,6 @@
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-science/ce-type-d-e-ducation-pousse-les-enfants-a-recourir-aux-mensonges-et-aux-tricheries-voici-pourquo"
   },
   {
-    "id": "google-news-fr-sports-cbmiogfbvv95cuxqrxu0v2zodvhyeuvtuxnjbfbpuxnsrdn4wvbwn044xzhwvuhnogjxwhllblpwz3rlzxbhazjcuhfpdwv6",
-    "title": "Coupe du Monde 2026 : la réaction à chaud d’Emerse Faé - Foot Mercato",
-    "excerpt": "Coupe du Monde 2026 : la réaction à chaud d’Emerse Faé Foot Mercato Coupe du monde 2026 : Haaland «apporte une certaine sérénité à l'équipe», salue le sélectionneur norvégien Le Figaro Côte d’Ivoire - Norvège : Erling Haaland, buteur en fin de match, envoie les Norvégiens en huitièmes de finale Le Monde.fr Mondial 2026: les Ivoiriens peuvent-ils battre les Norvégiens? / Immigration: un revers pour Donald Trump / Canicule en France: dispute à l'Assemblée nationale... Le français facile avec RFI Coupe du Monde 2026 : la Côte d’Ivoire l’a très mauvaise après son élimination ! Foot Mercato",
-    "slug": "coupe-du-monde-2026-la-re-action-a-chaud-d-emerse-fae-foot-mercato",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRXU0V2ZodVhyeUVTUXNJbFBpUXNSRDN4WVBWN044XzhwVUhNOGJxWHlLblpWZ3RLZXBHazJCUHFPdWV6UlF1bjVuNnhWeHUtS283RHFnY3p2bjJ4SWRqUEJaY0NfQnA4a2l1SDRTWjZvLXNfQWY2WW9hQ3pRUDhSWWg0TGxmTWE5aGtNMmx6SFBlRUczM0ZCSWxKUXA3XzhiTGc?oc=5",
-    "image": null,
-    "sourceId": "google-news-fr-sports",
-    "sourceName": "Foot Mercato",
-    "sourceHomepage": "https://www.footmercato.net",
-    "sourceFeedName": "Français News Network",
-    "sourceRegion": "France",
-    "category": "Sports",
-    "publishedAt": 1782847316000,
-    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-sports/coupe-du-monde-2026-la-re-action-a-chaud-d-emerse-fae-foot-mercato"
-  },
-  {
     "id": "google-news-fr-tech-cbmi4gfbvv95cuxowme1mzu4tnpob2fmbtg4ejawmmlpazbhmhnddfd4zkjxcenlmezprkrwtzuxaxvsakjybhu1vvfgazvi",
     "title": "« 45 °C le 6 juillet, pire que juin » : comment consulter les vrais modèles météo sur votre smartphone - Frandroid",
     "excerpt": "« 45 °C le 6 juillet, pire que juin » : comment consulter les vrais modèles météo sur votre smartphone Frandroid",
@@ -238,6 +222,22 @@
     "category": "Tech",
     "publishedAt": 1782847101000,
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-tech/45-c-le-6-juillet-pire-que-juin-comment-consulter-les-vrais-mode-les-me-te-o-sur-votre-smartphon"
+  },
+  {
+    "id": "google-news-fr-sports-cbmi_gfbvv95cuxoevz4nuo1q0fsnjc2el92menxa043m05rn1bgt01qvv9jrdncegy1celocglyytfzcel2xzvkcfzwc3df",
+    "title": "Côte d'Ivoire-Norvège: Haaland fait tomber les Éléphants, les Norvégiens défieront le Brésil - RMC Sport",
+    "excerpt": "Côte d'Ivoire-Norvège: Haaland fait tomber les Éléphants, les Norvégiens défieront le Brésil RMC Sport Coupe du monde 2026 : Haaland «apporte une certaine sérénité à l'équipe», salue le sélectionneur norvégien Le Figaro Côte d’Ivoire - Norvège : Erling Haaland, buteur en fin de match, envoie les Norvégiens en huitièmes de finale Le Monde.fr Mondial 2026: les Ivoiriens peuvent-ils battre les Norvégiens? / Immigration: un revers pour Donald Trump / Canicule en France: dispute à l'Assemblée nationale... Le français facile avec RFI Coupe du Monde 2026 : la Côte d’Ivoire l’a très mauvaise après son élimination ! Foot Mercato",
+    "slug": "co-te-d-ivoire-norve-ge-haaland-fait-tomber-les-e-le-phants-les-norve-giens-de-fieront-le-bre-si",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeVZ4NUo1Q0FSNjc2el92MENXa043M05RN1BGT01qVV9jRDNCeGY1cElOcGlyYTFZcEl2XzVKcFZWc3dfajc2Rno3MzJfcmFneERCVHFqNzJJTk1uQUx5akE5aWw4d1paUExNWXNERVd0RHNzN0xIOG9hanlYbTZHcWM1TVJ2MTVpNjQ2RmhHQVNOdDdpTnFTYTl1SExlWGRUU0dNcHloSFkyek1aRUoxYzBfOW5xSUdNcjR4YkVQNWZ5dGdzdW9yWm9TX0RXbVR0YllQaFFBcWk2b2JiSjBlYXlmbjlCOGdXU3NyYmZzTTFFcWkzbVpVbWZZZjNBdw?oc=5",
+    "image": null,
+    "sourceId": "google-news-fr-sports",
+    "sourceName": "RMC Sport",
+    "sourceHomepage": "https://rmcsport.bfmtv.com",
+    "sourceFeedName": "Français News Network",
+    "sourceRegion": "France",
+    "category": "Sports",
+    "publishedAt": 1782847081000,
+    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-sports/co-te-d-ivoire-norve-ge-haaland-fait-tomber-les-e-le-phants-les-norve-giens-de-fieront-le-bre-si"
   },
   {
     "id": "google-news-fr-world-cbmixgfbvv95cuxqzl9jrk9euthjsv9hbvdpluyxtlvvohpruhnfylu0v1dsamzlmnjmemvoyuk0t2ppde5brzjsz1hidnax",
@@ -270,6 +270,22 @@
     "category": "Business",
     "publishedAt": 1782846304000,
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-business/le-directeur-de-la-cia-compare-les-derniers-mode-les-d-ia-a-des-armes-nucle-aires-nume-riques-le"
+  },
+  {
+    "id": "google-news-fr-world-cbmi6gfbvv95cuxotxy1wdn0vufzzvd0rgz6lwzvvvh6nkxmv0qxsei1ujfmcgvgr0dtz1rwn1c0rfpdnklzevcynjvawwn0",
+    "title": "Coupe du monde - France - Suède : à quelle heure (tardive) et sur quelle chaîne suivre le 16e de finale des Bleus ? - ladepeche.fr",
+    "excerpt": "Coupe du monde - France - Suède : à quelle heure (tardive) et sur quelle chaîne suivre le 16e de finale des Bleus ? ladepeche.fr EN DIRECT, France-Suède : but refusé pour Kylian Mbappé sur hors-jeu, les Bleus dangereux Le Monde.fr France-Suède : le geste acrobatique de Michael Olise, le but libérateur de Mbappé, la communion avec Deschamps... En vidéo, les moments forts du 16e de finale Le Figaro DIRECT. France-Suède: les Bleus montent en puissance, suivez le match en live RMC Sport EN DIRECT - C’est parti pour France - Suède, Mohamed El Khatib au commentaire à «Libé» : «Je fais un essai au PSG et l’année d’après, je me fais les croisés» Libération",
+    "slug": "coupe-du-monde-france-sue-de-a-quelle-heure-tardive-et-sur-quelle-chai-ne-suivre-le-16e-de-final",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTXY1WDN0VUFZZVd0RGZ6LWZvVVh6NkxmV0QxSEI1UjFMcGVGR0dTZ1RwN1c0RFpDNklzeVcyNjVaWWN0LWVHQ3U2YzdldHhSckFQNm1ENUI3VURPYUVrNUFRdnJVT2YyS3pmcUNUeDJmTUktbFdDc2Y0amk2OUdVTjdBZHhLdjBwNHZxWXlXSUtEMTdLXzlPTkJCUE90LUJSNnVUSGVYSzJNZ1RkdnE3Z3RSNmhsTWpMVDRVMndLb3ZaMU1UU0VXMFNjV20xeTdRRXFwQ3FjUGZfd3FnNEEtUHU0T0UwR3dIOFE?oc=5",
+    "image": null,
+    "sourceId": "google-news-fr-world",
+    "sourceName": "ladepeche.fr",
+    "sourceHomepage": "https://www.ladepeche.fr",
+    "sourceFeedName": "Français News Network",
+    "sourceRegion": "France",
+    "category": "World",
+    "publishedAt": 1782846060000,
+    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-world/coupe-du-monde-france-sue-de-a-quelle-heure-tardive-et-sur-quelle-chai-ne-suivre-le-16e-de-final"
   },
   {
     "id": "google-news-fr-world-cbmi6gfbvv95cuxnbhr6d1hrcwxwqtzty0hgnkjqeddbwdzushdjvfjiyta0rghgttdrqmretwpzdvdpelcwqxryuhz5zklh",
@@ -448,22 +464,6 @@
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-business/glm-5-2-le-premier-mode-le-ia-open-source-que-je-garde-korben"
   },
   {
-    "id": "google-news-fr-sports-cbmi7gfbvv95cuxoufnpcgszlvywbuxcnkzramo0qzj5ujdwu1j1vtzxu19bagpyamkxnjvaef9sbxplauruee5byu81lufm",
-    "title": "OM: c'est fini pour Habib Beye, Bruno Genesio arrive sur le banc marseillais - RMC Sport",
-    "excerpt": "OM: c'est fini pour Habib Beye, Bruno Genesio arrive sur le banc marseillais RMC Sport Mercato : Habib Beye n'est déjà plus l'entraîneur de l'OM, quatre mois seulement après son arrivée L'Équipe OM : le club dit Bye-bye Beye et hello Genesio La Provence Mercato : Bruno Genesio va signer deux ans à l'OM avec plusieurs anciens de l'OL Olympique & Lyonnais Ligue 1 : l’OM officialise le départ de son entraîneur Habib Beye Le Figaro",
-    "slug": "om-c-est-fini-pour-habib-beye-bruno-genesio-arrive-sur-le-banc-marseillais-rmc-sport",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUFNPcGszLVYwbUxCNkZRamo0QzJ5UjdWU1J1VTZXU19BaGpyamkxNjVaeF9sbXplaURUeE5BYU81LUFMc19TUmdhQnBIWjcydlZ6ZUpOTVhuSmVpZjEzd1NseEFRMThwRTYtdG8wa25vSlIzZUNMWFRsNGxZTUFvc1JiMzVGRENRZkJxdmVoUFk3X1VMZmdiaUZfTWp3QURKQlRyelQ4RVQyVDg2RGtxSzB5bWZZbWg2c096LVFQaHNJaGdCZ1VKREd6T3dCVzZGNjQ3NWNiWlFmb0UzX3p5UmdUenFsNWpGaVRqeUVn?oc=5",
-    "image": null,
-    "sourceId": "google-news-fr-sports",
-    "sourceName": "RMC Sport",
-    "sourceHomepage": "https://rmcsport.bfmtv.com",
-    "sourceFeedName": "Français News Network",
-    "sourceRegion": "France",
-    "category": "Sports",
-    "publishedAt": 1782837593000,
-    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-sports/om-c-est-fini-pour-habib-beye-bruno-genesio-arrive-sur-le-banc-marseillais-rmc-sport"
-  },
-  {
     "id": "google-news-fr-business-cbmi2afbvv95cuxqmvbxmvjys1g2utvjm0hucnvymgzzaxp5y1rhwvlethqtykdpu1ppa2lcegdia0prmvlqmlvlnthpbuvm",
     "title": "Expérimentation du « RSA rénové » : des résultats très mitigés sur l’emploi - Le Monde.fr",
     "excerpt": "Expérimentation du « RSA rénové » : des résultats très mitigés sur l’emploi Le Monde.fr Accompagnement rénové des bénéficiaires du RSA : les gagnants et les perdants de l'expérimentation La Tribune La réforme du RSA n’a pas eu d’effet positif sur l’emploi total, selon une étude Le Télégramme Emploi : un bilan mitigé de l'accompagnement rénové des bénéficiaires du RSA Les Echos Le FSE+ contribue à financer les deux tiers des parcours en accompagnement intensif (France Travail Île-de-France) AEF info",
@@ -526,22 +526,6 @@
     "category": "Entertainment",
     "publishedAt": 1782836486000,
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-entertainment/le-me-decin-et-animateur-jimmy-mohamed-accuse-de-violences-comment-rtl-et-france-te-le-visions-r"
-  },
-  {
-    "id": "google-news-fr-sports-cbmijajbvv95cuxovxbvexddmk9ta1dxqw5aa3nhbk1knjzeru5tdv83ntk4dzhhetjyx21rugq1qk5pc0pjrghwmwtnyzns",
-    "title": "Football : les Girondins de Bordeaux exclus des compétitions nationales par la DNCG, en attendant un recours - lanouvellerepublique.fr",
-    "excerpt": "Football : les Girondins de Bordeaux exclus des compétitions nationales par la DNCG, en attendant un recours lanouvellerepublique.fr Les Girondins de Bordeaux exclus de toutes les compétitions nationales par la DNCG L'Équipe Bordeaux : Rio Mavuba réagit à la décision de la DNCG Foot Mercato Foot : le cauchemar se poursuit pour les Girondins de Bordeaux, exclus de toutes les compétitions nationales par la DNCG Le Figaro Duga est très remonté suite à la nouvelle rétrogradation des Girondins de Bordeaux et donne ses infos ! – 30/06 RMC Sport",
-    "slug": "football-les-girondins-de-bordeaux-exclus-des-compe-titions-nationales-par-la-dncg-en-attendant-",
-    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOVXBveXdDMk9ta1dXQW5aa3NHbk1kNjZERU5tdV83NTk4dzhheTJYX21rUGQ1Qk5pc0pJRGhwMWtNYzNSM1VhQng2Xy12ZEszSjk3WlJoXzNDYmgySDdpT0RtdGZEOEVKMEZTNjVrRlhNS2ZydktLQmNvTWgwbmFZbG1JOWdvVENoYXZ5TlJWVTRROVA5M3JkYS1EZGlLTVRwa3VMMU5LcnBhN181M0p1TXFKVmNtNzdneFNXOFd6UHBQZmp2Tnp4aEVPSlpYWmZCRmZEYzRGOUdHVWctUU9Sb3FfbjN5UTJjUzZHWHAyZjhEdlVMd1ZnSjdFbGRKaEc3dGptLXB5Rld6Sl9C?oc=5",
-    "image": null,
-    "sourceId": "google-news-fr-sports",
-    "sourceName": "lanouvellerepublique.fr",
-    "sourceHomepage": "https://www.lanouvellerepublique.fr",
-    "sourceFeedName": "Français News Network",
-    "sourceRegion": "France",
-    "category": "Sports",
-    "publishedAt": 1782836444000,
-    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-sports/football-les-girondins-de-bordeaux-exclus-des-compe-titions-nationales-par-la-dncg-en-attendant-"
   },
   {
     "id": "google-news-fr-sports-cbmi7afbvv95cuxozhzrakhwoghgqk9vngjkshbfqujivlbbehvgt3rtodhslwc0mdfsvk1uwtq2tm9bdenqwddks2tayjhq",
@@ -673,9 +657,9 @@
   },
   {
     "id": "google-news-fr-world-cbmi2wfbvv95cuxosec3ahzenm4trgnrqum3dvhrzl9vawj4cvfewxpqsfiwrfpwqulcde5rem9vc3q1dnfjzxzgc2zmeele",
-    "title": "Un immeuble d'habitations s'effondre à Athènes, des recherches de victimes possibles en cours - franceinfo",
-    "excerpt": "Un immeuble d'habitations s'effondre à Athènes, des recherches de victimes possibles en cours franceinfo Grèce : un immeuble s'effondre à Athènes, des recherches de victimes possibles en cours Yahoo Actualités Grèce-Quatre personnes piégées après l'effondrement d'un immeuble résidentiel à Athènes Boursorama Athènes : un immeuble s'effondre, des recherches d'habitants en cours Le Figaro Un immeuble s’effondre à Athènes, des recherches en cours et cinq personnes interpellées Ouest-France",
-    "slug": "un-immeuble-d-habitations-s-effondre-a-athe-nes-des-recherches-de-victimes-possibles-en-cours-fr",
+    "title": "Un immeuble d'habitation s'effondre à Athènes, des recherches en cours pour retrouver d'éventuelles victimes - franceinfo",
+    "excerpt": "Un immeuble d'habitation s'effondre à Athènes, des recherches en cours pour retrouver d'éventuelles victimes franceinfo Grèce : un immeuble s'effondre à Athènes, des recherches de victimes possibles en cours Yahoo Actualités Grèce-Quatre personnes piégées après l'effondrement d'un immeuble résidentiel à Athènes Boursorama Athènes : un immeuble s'effondre, des recherches d'habitants en cours Le Figaro Un immeuble s’effondre à Athènes, des recherches en cours et cinq personnes interpellées Ouest-France",
+    "slug": "un-immeuble-d-habitation-s-effondre-a-athe-nes-des-recherches-en-cours-pour-retrouver-d-e-ventue",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSEc3aHZENm4tRGNrQUM3dVhRZl9vaWJ4cVFEWXpQSFIwRFpwQUlCdE5rem9vc3Q1dnFjZXZGc2ZmeElEbUUxZTBxejRpY3hrX2I5M1BuUFMzeHRVNTJkN2JFZTBqOGQ0TmtWRmtsU1NucUc3UWhMR256czdVMUhnb0N3S3NWcmR0OE1rV3RsNEtTX1lSQUI5cHBpc2ZDVlJCRW54UlE5ZmIyZXVMcjA3SW41VVlHb3NnQmdRM1pRQmRIaTBJb2pWZVZVaDlzWlBXaTJyT3B0Yl9LNVE?oc=5",
     "image": null,
     "sourceId": "google-news-fr-world",
@@ -685,7 +669,7 @@
     "sourceRegion": "France",
     "category": "World",
     "publishedAt": 1782834563000,
-    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-world/un-immeuble-d-habitations-s-effondre-a-athe-nes-des-recherches-de-victimes-possibles-en-cours-fr"
+    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-world/un-immeuble-d-habitation-s-effondre-a-athe-nes-des-recherches-en-cours-pour-retrouver-d-e-ventue"
   },
   {
     "id": "google-news-fr-tech-cbmizgfbvv95cuxobknbn1jyx1lrtum4vgi2zgtwr1rxwxdfnwphd21ozdkzn0pylui2c3jorjl0nmxyvdlunfjvdwtzafv4",
@@ -702,38 +686,6 @@
     "category": "Tech",
     "publishedAt": 1782834540000,
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-tech/le-graceful-superyacht-de-poutine-aperc-u-au-large-du-danemark-20-minutes"
-  },
-  {
-    "id": "google-news-fr-tech-cbmiigjbvv95cuxnugvvtu5td0rsrnm1rlfzdjy2tgftvedcbw9hvxqtqln0mgpjtu9umwx6txnbuzhjwxhizl9in3dkrtbi",
-    "title": "Les services fiscaux mènent l’enquête dans le grand sud : un logiciel de caisse, permettant d’effacer des recettes, dans le collimateur - Midi Libre",
-    "excerpt": "Les services fiscaux mènent l’enquête dans le grand sud : un logiciel de caisse, permettant d’effacer des recettes, dans le collimateur Midi Libre",
-    "slug": "les-services-fiscaux-me-nent-l-enque-te-dans-le-grand-sud-un-logiciel-de-caisse-permettant-d-eff",
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNUGVVTU5td0RsRnM1RlFZdjY2TGFtVEdCbW9hVXQtQlN0MGpjTU9uMWx6TXNBUzhjWXhIZl9IN3dKRTBIUXo5N1hxTnNvaWhILWVQeGdPRGd4TU5JWF9FVklKTTdCMG9jbXVUMkNDU0FRQ29YWlR6MGVXNmZ1QVFhNnJJRVprV0U2X19GSXViRVJCRW96a050UkVqeFJpQWFGWGRaZ2d1RGQ3YkRyLUM0dEtubXAzbjdCTk8yTTZQY2xmVnIyblNPVG5JRG9VRjMzRk1JSFRtZ1prbmVVcVVPeTRJdG5FTGpHSXF0M20xVDdmQ09PODJuczhQU0t6QVAwNktza2I4aFJYUQ?oc=5",
-    "image": null,
-    "sourceId": "google-news-fr-tech",
-    "sourceName": "Midi Libre",
-    "sourceHomepage": "https://www.midilibre.fr",
-    "sourceFeedName": "Français News Network",
-    "sourceRegion": "France",
-    "category": "Tech",
-    "publishedAt": 1782834360000,
-    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-tech/les-services-fiscaux-me-nent-l-enque-te-dans-le-grand-sud-un-logiciel-de-caisse-permettant-d-eff"
-  },
-  {
-    "id": "google-news-fr-business-cbmi1wfbvv95cuxpd252svrvuzfkaglsdwx5dmparvlmbl9dodvma1oxam51ewlqsknnc3vhoupqymu4txp2chpwtljvn0tj",
-    "title": "Livret A : à quelle hausse du taux à partir du 1ᵉʳ août faut-il s’attendre ? - Le Monde.fr",
-    "excerpt": "Livret A : à quelle hausse du taux à partir du 1ᵉʳ août faut-il s’attendre ? Le Monde.fr \"Bonne nouvelle pour l'épargne des Français\" : le taux du Livret A \"va augmenter\" à la mi-juillet RTL.fr \"Une très bonne nouvelle pour le pouvoir d'achat\": le ministre de l'Économie annonce une hausse du taux du Livret A BFM Livret A : cette annonce de Roland Lescure va-t-elle changer votre épargne ? La Provence Epargne : pourquoi l'assurance-vie a détrôné le livret A Les Echos",
-    "slug": "livret-a-a-quelle-hausse-du-taux-a-partir-du-1-aou-t-faut-il-s-attendre-le-monde-fr",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd252SVRVUzFKaGlsdWx5dmpaRVlmbl9DODVMa1oxam51eWlqSkNNc3VhOUpqYmU4TXp2cHpWTlJVN0tjZkdkQlFHMTBscmJOSDdEMjM5WHZvU2VYclFiUXg4S2J2WEVaaWhCN3pua2QwazQ4RGc5TEM5U3hRaDFxZW5mejFpX0ZUaS1raDRJdWIzSzdKd0lOTHpRMXJncHcxcXJQaWh6Skw3S0x2OHdBbzdfcEVkbUNfaERlV0Iydnk4X0lQWnk2bGI1VjAwT2Q4XzZLQkZ1dw?oc=5",
-    "image": null,
-    "sourceId": "google-news-fr-business",
-    "sourceName": "Le Monde.fr",
-    "sourceHomepage": "https://www.lemonde.fr",
-    "sourceFeedName": "Français News Network",
-    "sourceRegion": "France",
-    "category": "Business",
-    "publishedAt": 1782834218000,
-    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-business/livret-a-a-quelle-hausse-du-taux-a-partir-du-1-aou-t-faut-il-s-attendre-le-monde-fr"
   },
   {
     "id": "google-news-fr-science-cbmi4gfbvv95cuxozthiyuc1elnfunb3sux4vmhnwhfpbwleeus3nxrlzll1zmh5ethhuuhwdzztatzoxzzvrerysy1szk1v",
@@ -944,6 +896,22 @@
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-business/conge-de-naissance-prix-du-gaz-huissiers-ce-qui-change-au-1er-juillet-20-minutes"
   },
   {
+    "id": "google-news-fr-business-cbmi0gfbvv95cuxpuer4snlwugttweffq1i2m1lqev9zttjmq2xvx3gwu2tkdlhxtu1httzsdw53mfzacnlqdeltumvut3ru",
+    "title": "Il ne sera bientôt plus possible de voyager en ferry entre Le Havre et Portsmouth - Actu.fr",
+    "excerpt": "Il ne sera bientôt plus possible de voyager en ferry entre Le Havre et Portsmouth Actu.fr La Brittany Ferries annonce la vente de deux navires et la fermeture d’une liaison maritime pour réduire ses coûts Ouest-France La ligne transmanche supprimée, privés d’eau froide depuis des mois, Zidani… Le point actu du mardi 30 juin Paris Normandie Tourisme. Brittany Ferries réorganise ses liaisons au départ de Cherbourg lamanchelibre.fr « Des réservations pas à la hauteur » : Brittany Ferries met en vente deux navires Le Télégramme",
+    "slug": "il-ne-sera-biento-t-plus-possible-de-voyager-en-ferry-entre-le-havre-et-portsmouth-actu-fr",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUER4SnlWUGtTWEFfQ1I2M1lQeV9ZTTJmQ2xvX3gwU2tkdlhXTU1HTTZSdW53MFZacnlqdEltUmVUT3RUMjBPUzg0dTJQVi05T1Y1WHd3enBoTUhXRmgwenpZN0ZlYVlTOWo4ekxkeWtfZndzVXRDU1NtNUs3Qkt2REVKMDhRQ0ZVdUFRclVUaUZNa0NQZnRHT3pWUGxjVkxoeGVQNWI0NFpkN3VZVFZpYmRZM3FEUWlUZHZWd28tWjVIdXhlODB1X2tiQUFuTzFPMHc?oc=5",
+    "image": null,
+    "sourceId": "google-news-fr-business",
+    "sourceName": "Actu.fr",
+    "sourceHomepage": "https://actu.fr",
+    "sourceFeedName": "Français News Network",
+    "sourceRegion": "France",
+    "category": "Business",
+    "publishedAt": 1782827101000,
+    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-business/il-ne-sera-biento-t-plus-possible-de-voyager-en-ferry-entre-le-havre-et-portsmouth-actu-fr"
+  },
+  {
     "id": "google-news-fr-tech-cbmizwfbvv95cuxnzkdcugl1c0prbdezdexytvdwdzb3c2tysxhrau9szhbszvj6bxvdq3vbuzjjvnywvhfaavhiv0uxbwvz",
     "title": "Qi 50 W : vers une charge sans-fil universelle encore plus rapide dès 2028 - Les Numériques",
     "excerpt": "Qi 50 W : vers une charge sans-fil universelle encore plus rapide dès 2028 Les Numériques",
@@ -958,22 +926,6 @@
     "category": "Tech",
     "publishedAt": 1782826260000,
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-tech/qi-50-w-vers-une-charge-sans-fil-universelle-encore-plus-rapide-de-s-2028-les-nume-riques"
-  },
-  {
-    "id": "google-news-fr-business-cbmi2wfbvv95cuxnx21hzgpsds1qt2fsqvlknxb1qze4ykltng1uogdtnm53nkoynee0bmv0eln6m2xzwur2tw5pdheyngx1",
-    "title": "Chômage : pas de revalorisation des indemnités en juillet, malgré la demande des syndicats - Orange Actualités",
-    "excerpt": "Chômage : pas de revalorisation des indemnités en juillet, malgré la demande des syndicats Orange Actualités Les allocations chômage ne seront pas revalorisées en juillet, une première en dix ans Le Monde.fr Gel des allocations chômage : « Le patronat a décidé de continuer à plonger les gens dans la pauvreté Mediapart Les syndicats proposaient une augmentation de 2,41%, le patronat a voté contre: les allocations chômage ne seront pas revalorisées au 1er juillet BFM Chômage : pas de revalorisation des allocations au 1er juillet malgré l'inflation Les Echos",
-    "slug": "cho-mage-pas-de-revalorisation-des-indemnite-s-en-juillet-malgre-la-demande-des-syndicats-orange",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX21HZGpSdS1qT2FsQVlkNXB1QzE4YklTNG1uOGdtNm53NkoyNEE0bmV0elN6M2xzWUR2TW5pdHEyNGx1Qjk1Mk9OSUVfZUgzTmJLV2poZDdwM05Rb1loZjVFSkRPVFFSazZURnhqa01nWjRRTUFkVkdONmQxOWcyTVEzTmhVWEE0bVdmYzEzZ01raTU3cmx4R2ZMNnNaUEFiaE51VVFZSHpFZVotRmlsZURpOHBhSzQydHBkcFlRUmRLS2FDZzluMmFSNGIxdm1iWXd5NHYyVzFmSDQ?oc=5",
-    "image": null,
-    "sourceId": "google-news-fr-business",
-    "sourceName": "Orange Actualités",
-    "sourceHomepage": "https://actu.orange.fr",
-    "sourceFeedName": "Français News Network",
-    "sourceRegion": "France",
-    "category": "Business",
-    "publishedAt": 1782826020000,
-    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-business/cho-mage-pas-de-revalorisation-des-indemnite-s-en-juillet-malgre-la-demande-des-syndicats-orange"
   },
   {
     "id": "google-news-fr-health-cbmihafbvv95cuxoynb0deh5oezgbvotvem4cxvmrxjcdtbaujlky0g5ajlytzbluexaofhlmwtaa2tpvk1vu05nquvgs3zo",
@@ -1024,6 +976,22 @@
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-sports/coupe-du-monde-2026-la-nouvelle-sortie-de-rafael-van-der-vaart-sur-le-maroc-foot-mercato"
   },
   {
+    "id": "google-news-fr-science-cbmilajbvv95cuxob1itsgt4mfu0y0fncdleykntc1boaum0rxvibg1na1zedkrgqxddwe9hwv9vlu9wyurmnk41lvz6b1gt",
+    "title": "Au moins 300 morts de plus que la normale recensés dans les départements en vigilance orange canicule durant l'épisode de chaleur fin mai - BFM",
+    "excerpt": "Au moins 300 morts de plus que la normale recensés dans les départements en vigilance orange canicule durant l'épisode de chaleur fin mai BFM",
+    "slug": "au-moins-300-morts-de-plus-que-la-normale-recense-s-dans-les-de-partements-en-vigilance-orange-c",
+    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOb1ItSGt4MFU0Y0FNcDlEYkNTc1BOaUM0RXVibG1na1ZEdkRGQXdDWE9hWV9VLU9WYURmNk41LVZ6b1gtMUJQYnNmREs2M1RFOTVHLTIwelV5R2c3SFZHSWhvOHhwQUJUWmphOVFaVTgwcXdHQnVKWGJheWNTdDdERlJNS3dISTdiWTZHYWZoMmhqQVc0QUVSdzA5YUlEUGxqb0lQWGMxVWpTa1B3Qm81RmFBcnI1WjdqOW9DdGFvbU1nOW52eVRmNFZqYzBZYWxBRE5Fb3lXZmdSbHpEVzZ5clJzaE1rdEoxNUZYRnRRek45OVVJRV9rX2lqVXpfTTBjM3U2S0xteGpibXBCNHF5UVpTZVQ?oc=5",
+    "image": null,
+    "sourceId": "google-news-fr-science",
+    "sourceName": "BFM",
+    "sourceHomepage": "https://www.bfmtv.com",
+    "sourceFeedName": "Français News Network",
+    "sourceRegion": "France",
+    "category": "Science",
+    "publishedAt": 1782823241000,
+    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-science/au-moins-300-morts-de-plus-que-la-normale-recense-s-dans-les-de-partements-en-vigilance-orange-c"
+  },
+  {
     "id": "google-news-fr-health-cbminafbvv95cuxqa1byttloeho3ogwycg43u3vgs1l5zfj1sdvmcwx5tljjs2tkrg01ttbfoupkzunwawfvcwy0mes5a2ix",
     "title": "C'est le symptôme typique de la démence selon les médecins : il apparaît l'après-midi - Journal des Femmes Santé",
     "excerpt": "C'est le symptôme typique de la démence selon les médecins : il apparaît l'après-midi Journal des Femmes Santé Voir plus de titres et de points de vue sur Google Actualités",
@@ -1056,6 +1024,22 @@
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-entertainment/c-est-une-dinguerie-le-youtubeur-michou-de-figure-apre-s-un-se-jour-en-afrique-du-sud-tv-magazin"
   },
   {
+    "id": "google-news-fr-business-cbmi6gfbvv95cuxos0lwzhdxwfddwmp0oudbetviqwnldlhvtwfsd1jpbmxps0jeuhlra0fun3nusfjdaetqexrhlwdxbtdz",
+    "title": "Les allocations chômage ne seront pas revalorisées en juillet, une première en dix ans - Le Monde.fr",
+    "excerpt": "Les allocations chômage ne seront pas revalorisées en juillet, une première en dix ans Le Monde.fr Gel des allocations chômage : « Le patronat a décidé de continuer à plonger les gens dans la pauvreté Mediapart Les syndicats proposaient une augmentation de 2,41%, le patronat a voté contre: les allocations chômage ne seront pas revalorisées au 1er juillet BFM Chômage : pas de revalorisation des allocations au 1er juillet malgré l'inflation Les Echos Gel des allocations chômage : une nouvelle atteinte au pouvoir d'achat des demandeurs d'emploi après plusieurs années d’inflation CGT",
+    "slug": "les-allocations-cho-mage-ne-seront-pas-revalorise-es-en-juillet-une-premie-re-en-dix-ans-le-mond",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS0lwZHdxWFdDWmp0OUdBeTViQWNldlhVTWFSd1JpbmxPS0JEUHlra0FUN3NUSFJDaEtqeXRhLWdXbTdzSDc4T3RpSUhSZTB3cmNmR3p4MDRlcjQwY0pELVUxQk5QWC1PV3pTbm5DU1VUX3ViQU9mRm5VWE9iZWNzLUJMWVRoVjBhd2JlTmNIOWJQM0ZfcVY1a2U4NktQOG9COFZJdVVJUVlwT1pvdnpIVVlzVE9SVWp6UldMcm1DWkZKMlpaMEJ6TjJ4MnNrbUlrLU9xRU5kRFozNWtNYWVCMjA0R1U1M2g5VXc?oc=5",
+    "image": null,
+    "sourceId": "google-news-fr-business",
+    "sourceName": "Le Monde.fr",
+    "sourceHomepage": "https://www.lemonde.fr",
+    "sourceFeedName": "Français News Network",
+    "sourceRegion": "France",
+    "category": "Business",
+    "publishedAt": 1782821557000,
+    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-business/les-allocations-cho-mage-ne-seront-pas-revalorise-es-en-juillet-une-premie-re-en-dix-ans-le-mond"
+  },
+  {
     "id": "google-news-fr-health-cbmi7afbvv95cuxovtbhalvyckvzawxsrg01zthvdgrsctlzqkfsyzz4vhcxwk9obnftwwrznjdmuuhmv3plthb2ekzsuhhl",
     "title": "Un nuisible de moins pendant les fortes chaleurs: la canicule a-t-elle tué les moustiques en France? - BFM",
     "excerpt": "Un nuisible de moins pendant les fortes chaleurs: la canicule a-t-elle tué les moustiques en France? BFM Pourquoi les moustiques nous piquent moins pendant les périodes de canicule ? Sud Ouest Voici l'antimoustique le plus efficace en 2026 selon 60 millions de consommateurs Journal des Femmes Santé Brigade dédiée, traitement biologique des eaux pluviales, gîtes à chauves-souris, subventions... Comment cette ville de la Côte d’Azur organise la lutte contre le moustique tigre Nice-Matin “J’ai peur que les moustiques soient trop nombreux cette année”, cette ville met en place une brigade anti-moustiques France 3 Régions",
@@ -1086,22 +1070,6 @@
     "category": "World",
     "publishedAt": 1782821107000,
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-world/en-iran-les-gardiens-de-la-re-volution-ont-les-mains-libres-depuis-la-mort-d-ali-khamenei-le-mon"
-  },
-  {
-    "id": "google-news-fr-tech-cbmiygfbvv95cuxove9kvgdlwk5gc0x3vjzoblnlztz0y180s0dhnxm2def5x1n1afqwckvhb284d1ppau1uwu41b3hpz0x6",
-    "title": "IA : les centres de données émettent bien plus de CO2 qu'estimé, conclut une étude - Le Figaro",
-    "excerpt": "IA : les centres de données émettent bien plus de CO2 qu'estimé, conclut une étude Le Figaro",
-    "slug": "ia-les-centres-de-donne-es-e-mettent-bien-plus-de-co2-qu-estime-conclut-une-e-tude-le-figaro",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVE9kVGdLWk5Gc0x3VjZOblNLZTZ0Y180S0dhNXM2dEF5X1N1aFQwckVhb284d1ppaU1UWU41b3hPZ0x6aUFjM3J6RENWbG8wM0ZXWVR5Zko4eG53LUNJankzTzdzdU1fQlhLSXFMbXBiSW1aMjVTeDJISGZfMGhQYzFKVHdDYjhrWFdNbkZLNFBuOG9McWdaYWNsV21FNEU1eng3OV9pcEhPMUhaSVA1SlQ5c2tYVHJMT1ZDR3dTdHFPNEpxQ0dPTWJn?oc=5",
-    "image": null,
-    "sourceId": "google-news-fr-tech",
-    "sourceName": "Le Figaro",
-    "sourceHomepage": "https://www.lefigaro.fr",
-    "sourceFeedName": "Français News Network",
-    "sourceRegion": "France",
-    "category": "Tech",
-    "publishedAt": 1782821007000,
-    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-tech/ia-les-centres-de-donne-es-e-mettent-bien-plus-de-co2-qu-estime-conclut-une-e-tude-le-figaro"
   },
   {
     "id": "google-news-fr-sports-cbmi9wfbvv95cuxoyjhfr2fjqk11oefalwjtu1jqu3htm0l5m2jvlurzmmtbcglfcgxcswdlv1z2a1vrd0rslxkyvxz6mmzy",
@@ -1278,22 +1246,6 @@
     "category": "Health",
     "publishedAt": 1782814742000,
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-health/perte-de-poids-c-est-le-conseil-que-les-pharmaciens-re-pe-tent-le-plus-et-il-est-plus-efficace-q"
-  },
-  {
-    "id": "google-news-fr-entertainment-cbmi-afbvv95cuxpqu9puknqq1nxsgm3x2zzqkxjlvbmef9qegrfbfpwekpgr3znzvizq1hkttlwcgllqtb3emz0alnpmy1j",
-    "title": "Le réalisateur de \"47 Ronin\" condamné à deux ans et demi de prison pour avoir escroqué Netflix de 11 millions de dollars - franceinfo",
-    "excerpt": "Le réalisateur de \"47 Ronin\" condamné à deux ans et demi de prison pour avoir escroqué Netflix de 11 millions de dollars franceinfo Case prison pour le réalisateur de « 47 Ronin » pour avoir escroqué Netflix 20 Minutes Pour avoir escroqué Netflix, un réalisateur hollywoodien condamné à 30 mois de prison Le HuffPost Il arnaque Netflix de 11 millions de dollars pour acheter des voitures de luxe : le réalisateur Carl Rinsch condamné à 2 ans et demi de prison Le Parisien Le réalisateur américain Carl Rinsch condamné à 30 mois de prison pour avoir escroqué Netflix Le Figaro",
-    "slug": "le-re-alisateur-de-47-ronin-condamne-a-deux-ans-et-demi-de-prison-pour-avoir-escroque-netflix-de",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQU9PUkNqQ1NXSGM3X2ZZQkxJLVBMeF9QeGRfbFpwekpGR3ZnZVIzQ1hkTTlwcGlLQTB3emZ0alNpMy1jN2QwSzhPa3dBXzZhOXJXT3VObUQwVXFtakJKQzNCTVNOS25SWG9sZC1ERlRqcDNsVnJxTnFpc0lucG40aXpmbGItbkFvMDdJekE4aDVycFRVclJRb0ZIWVVqaDJERzRoWEREQ0NSY2Vvckx1NVNPejUtRjJ2ZUVmUlZHbzZjRXBuLTQtWVNvQ3dxSGZpd0RaUFJnQ1ZNQ0VuMlhNSFRZR2Z4Z1hPeWZybXRKcE81ZElXSVpCLQ?oc=5",
-    "image": null,
-    "sourceId": "google-news-fr-entertainment",
-    "sourceName": "franceinfo",
-    "sourceHomepage": "https://www.franceinfo.fr",
-    "sourceFeedName": "Français News Network",
-    "sourceRegion": "France",
-    "category": "Entertainment",
-    "publishedAt": 1782814292000,
-    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-entertainment/le-re-alisateur-de-47-ronin-condamne-a-deux-ans-et-demi-de-prison-pour-avoir-escroque-netflix-de"
   },
   {
     "id": "google-news-fr-world-cbmi4wjbvv95cuxodhftwu8wshz1v3vxeudbshawuhnyt0drehptmlpszfoyu3riqlats1pkbdkyduplwdhhvnvddxzxnu9n",
@@ -1632,22 +1584,6 @@
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-entertainment/a-seulement-16-ans-athena-accorsi-sosie-de-sa-me-re-laetitia-casta-couronne-le-de-file-jacquemus"
   },
   {
-    "id": "google-news-fr-science-cbmiuafbvv95cuxox25mrmtiakf1d1jwsendtnpqoudjc042dljdqux6rwu0a25ozvfnluv6v1atze1ls2iyzxzkzi1hstzz",
-    "title": "En direct Canicule : au moins 300 décès de plus que la normale lors des fortes chaleurs de mai, selon Santé publique France - CNews",
-    "excerpt": "En direct Canicule : au moins 300 décès de plus que la normale lors des fortes chaleurs de mai, selon Santé publique France CNews",
-    "slug": "en-direct-canicule-au-moins-300-de-ce-s-de-plus-que-la-normale-lors-des-fortes-chaleurs-de-mai-s",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX25mRmtiakF1d1JwSENDTnpQOUdjc042dlJDQUx6RWU0a25OZVFnLUV6V1AtZE1LS2IyZXZKZi1HSTZZdDJkNWV6RWdBeUg3TVY4b2NJZXZJS0ctQlZ3UXJwTnRNdF9iSWUwekFlSVluZ0ZZNnlCREp4MUlveE4zMnhuaTJ6MmJ0akxNbXNTalBkdWZTMkY5ZXZpOWptbDVfRDNNazhaRnBvcWtpRWZuUGdhRngxVWZx?oc=5",
-    "image": null,
-    "sourceId": "google-news-fr-science",
-    "sourceName": "CNews",
-    "sourceHomepage": "https://www.cnews.fr",
-    "sourceFeedName": "Français News Network",
-    "sourceRegion": "France",
-    "category": "Science",
-    "publishedAt": 1782807274000,
-    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-science/en-direct-canicule-au-moins-300-de-ce-s-de-plus-que-la-normale-lors-des-fortes-chaleurs-de-mai-s"
-  },
-  {
     "id": "google-news-fr-world-cbmirafbvv95cuxpcmk5wwttnxjqsjlxd0pht2uyvezqqtlrzhptbzrjn1qztxvfv2jlduduwl9mohn4whm3mu5yazbutelb",
     "title": "Léon XIV exhorte une dernière fois la FSSPX à ne pas déchirer la tunique du Christ - Vatican News",
     "excerpt": "Léon XIV exhorte une dernière fois la FSSPX à ne pas déchirer la tunique du Christ Vatican News «Je vous supplie du fond du coeur, revenez sur votre décision» : le pape Léon XIV lance un ultime appel à la Fraternité Saint-Pie X pour éviter un schisme Le Figaro Entre Léon XIV et les lefebvristes, va-t-on vers un schisme ? Le Point « La consécration des évêques de la Fraternité Saint-Pie-X est le résultat d’incompréhensions réciproques et répétées » La Croix Religion : la Fraternité Saint-Pie X va ordonner ses propres évêques, sans l’accord du Vatican Sud Ouest",
@@ -1710,6 +1646,38 @@
     "category": "Tech",
     "publishedAt": 1782805923000,
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-tech/edf-pour-connai-tre-la-re-mune-ration-des-cadres-dirigeants-les-repre-sentants-des-salarie-s-att"
+  },
+  {
+    "id": "google-news-fr-sports-cbmisafbvv95cuxnskhpzg0yb1dydgrqznu4quhfm2x5t0dkzwn6a2jbeuu2ce9amen6ynp5dfotdi03c2gxtlg0tjlnrjfz",
+    "title": "OM : le contrat de Beye unilatéralement rompu, Genesio arrive - La Provence",
+    "excerpt": "OM : le contrat de Beye unilatéralement rompu, Genesio arrive La Provence Mercato : Habib Beye n'est déjà plus l'entraîneur de l'OM, quatre mois seulement après son arrivée L'Équipe OM : le club dit Bye-bye Beye et hello Genesio La Provence Mercato : Bruno Genesio va signer deux ans à l'OM avec plusieurs anciens de l'OL Olympique & Lyonnais Ligue 1 : l’OM officialise le départ de son entraîneur Habib Beye Le Figaro",
+    "slug": "om-le-contrat-de-beye-unilate-ralement-rompu-genesio-arrive-la-provence",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkhpZG0yb1dydGRqZnU4QUhFM2x5T0dKZWN6a2JBeUU2cE9aMEN6Ynp5dFotdi03c2gxTlg0TjlnRjFzMDJ3MHBkeVl3M1V1SlZCeWoxaGNhLUZPTTZTeHBMaW5UR21TV05jRktSNWlKSDFWNVJzVjlkNTJlWXhpT1ZfZk1CbkxuNTVnTTZaenFmMDBITno2TEh5dVo0dFdqNGhYNExDcE1vOE5Qa1Raag?oc=5",
+    "image": null,
+    "sourceId": "google-news-fr-sports",
+    "sourceName": "La Provence",
+    "sourceHomepage": "https://www.laprovence.com",
+    "sourceFeedName": "Français News Network",
+    "sourceRegion": "France",
+    "category": "Sports",
+    "publishedAt": 1782804720000,
+    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-sports/om-le-contrat-de-beye-unilate-ralement-rompu-genesio-arrive-la-provence"
+  },
+  {
+    "id": "google-news-fr-business-cbmivafbvv95cuxna3q1rmz5a09ntwvsmfuzymjhnepoczkyr1zrdhjiamxrsvgzvulvchzhunpqz1e2ywt0cxr0sxbuq3ph",
+    "title": "Livret A : le taux «va augmenter» à la mi-juillet, annonce le ministre de l'Économie Roland Lescure - CNews",
+    "excerpt": "Livret A : le taux «va augmenter» à la mi-juillet, annonce le ministre de l'Économie Roland Lescure CNews \"Bonne nouvelle pour l'épargne des Français\" : le taux du Livret A \"va augmenter\" à la mi-juillet RTL.fr \"Une très bonne nouvelle pour le pouvoir d'achat\": le ministre de l'Économie annonce une hausse du taux du Livret A BFM Livret A : cette annonce de Roland Lescure va-t-elle changer votre épargne ? La Provence Epargne : pourquoi l'assurance-vie a détrôné le livret A Les Echos",
+    "slug": "livret-a-le-taux-va-augmenter-a-la-mi-juillet-annonce-le-ministre-de-l-e-conomie-roland-lescure-",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa3Q1RmZ5a09nTWVsMFUzYmJhNEpOczkyR1ZRdHJiamxRSVgzVUlVcHZhUnpQZ1E2YWt0cXR0SXBuQ3phX1EyXzBLcHYzV2xRN0x4NVhEVHZLcmRZVERmU3BEUUpGM09qeFVFZ3I2akpTeEpRZnZ0cl9ZWDFyaHU2c0lhVEdXQ2tLYlZyV3JRVlFxSkJGM0ttTW5Sc0dTNWhEZm5EbnRPU3RVTDhYWUdudzU1T2daWXUtZnZhQdIBwgFBVV95cUxQX05wR0JHRXZmeGlGXzNudExndTVhSkdWSW0wS213bENjR2lGU0pwSGpib1BkeUZMTml0Qzg0Q01XcFItWElMTVdVTVNqRXUxWnNYR3Y5UlE4dVN0Vm5XTFZ5Rno4M3Jsa3YyRWlsMUJpOVg1dFNuOWItVG5iajlIeG8tOUFYNjB6eGRWRGJEbklRRjYxQU9rbTJqNzVqT3VBR0JDZExmMTEyUTY3S1g2Nkl6elR1NS04Q2pDQ2JLaTBuUQ?oc=5",
+    "image": null,
+    "sourceId": "google-news-fr-business",
+    "sourceName": "CNews",
+    "sourceHomepage": "https://www.cnews.fr",
+    "sourceFeedName": "Français News Network",
+    "sourceRegion": "France",
+    "category": "Business",
+    "publishedAt": 1782804678000,
+    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-business/livret-a-le-taux-va-augmenter-a-la-mi-juillet-annonce-le-ministre-de-l-e-conomie-roland-lescure-"
   },
   {
     "id": "google-news-fr-sports-cbmiwafbvv95cuxqs1rjcxn6dxg5sm9fm0v5y2vdvnaznhvfvi1iuwrpahhdy193avi1ug85nnowmzn6wnrjqmh6yzlozhll",
@@ -1824,6 +1792,22 @@
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-business/gra-ce-a-l-ia-blablacar-donne-un-coup-d-acce-le-rateur-a-l-international-le-monde-fr"
   },
   {
+    "id": "google-news-fr-sports-cbmi6afbvv95cuxoqne0azu0qurxrwrjwvzksw5nvg9ibef6sddfzunkqmjgrkpux2riyw8tsfktzg9gvmdnxzltoeu5ndbj",
+    "title": "XV de France : Mauvaka seul Toulousain réquisitionné contre les All Blacks... pour éviter un forfait - Le Figaro",
+    "excerpt": "XV de France : Mauvaka seul Toulousain réquisitionné contre les All Blacks... pour éviter un forfait Le Figaro XV de France : Dupont, le grand regret : Sports - Orange Sports - Orange Mauvaka est directement parti à Christchurch : l’hypothèse d’une présence face aux Blacks renforcée Rugbyrama Stade Toulousain : \"On était en train d’organiser l’été en famille...\" Paul Graou remplace Antoine Dupont, comment le Toulousain a appris qu’il partait pour l’Australie avec le XV de France ladepeche.fr \"Il avait fait le choix de venir\" : Servat regrette l'absence de Dupont Eurosport",
+    "slug": "xv-de-france-mauvaka-seul-toulousain-re-quisitionne-contre-les-all-blacks-pour-e-viter-un-forfai",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQnE0azU0QURxRWRjWVZkSW5NVG9ibEF6SDdFZUNkQmJGRkpuX2RiYW8tSFktZG9GVmdNXzltOEU5NDBjeTRxU2dCaHh4Q0NBZWwyWHBRYS12RF9MeGNxYVBqT2Q4QkNxdU9NZWtmdkFBSnZHN2xFZGJhWjJyTzJSX0pWSXpTRVhQaGVyS1NRSGZHdDlyNjVHU0p5dktfV0EzRGxyTDJaR00zUjBuVUxwWG1yUUlaM1Q4ODFZWWppOTRkd0lpMEpqOVVkUEdQZ0YxT3JOMjRTX0V5TmhIcHRWWE1ublVTV2Y0?oc=5",
+    "image": null,
+    "sourceId": "google-news-fr-sports",
+    "sourceName": "Le Figaro",
+    "sourceHomepage": "https://www.lefigaro.fr",
+    "sourceFeedName": "Français News Network",
+    "sourceRegion": "France",
+    "category": "Sports",
+    "publishedAt": 1782802325000,
+    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-sports/xv-de-france-mauvaka-seul-toulousain-re-quisitionne-contre-les-all-blacks-pour-e-viter-un-forfai"
+  },
+  {
     "id": "google-news-fr-world-cbmixgfbvv95cuxnee4wq24wt0pnefkzwug3mhzstlhoddh2unb5azlgskpqy0v4atv5rc1hzmnoy0dcmej2zzv0n21zy25c",
     "title": "Reconnaissance par Israël du génocide arménien: aucune réaction du gouvernement arménien - IsraJ",
     "excerpt": "Reconnaissance par Israël du génocide arménien: aucune réaction du gouvernement arménien IsraJ Israël sort la carte du génocide arménien contre la Turquie Le Point Israël reconnaît le génocide arménien : une “démarche opportuniste” selon Ankara Courrier international Israël reconnaît le génocide arménien ; une décision historique qui ravive les tensions avec la Turquie Le Monde.fr «Une décision historique» : le gouvernement israélien reconnaît le génocide arménien, au grand dam de la Turquie Le Figaro",
@@ -1886,22 +1870,6 @@
     "category": "Tech",
     "publishedAt": 1782801780000,
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-tech/il-nous-a-heurte-s-juste-au-dessus-du-cockpit-un-avion-de-ligne-percute-un-drone-a-1-000-me-tres"
-  },
-  {
-    "id": "google-news-fr-science-cbmioajbvv95cuxozkxgr1jxmwhrswvcajhfrdv4exnic0i1wllvylrou2pcuwfumhdqx1ditwniyl90uuhqnurkcfm3wm1o",
-    "title": "LE CREUSOT : Du jamais vu au concours d’écriture du Musée de la Résistance ! 3 élèves du collège Centre aux 3 premières places - Creusot Infos",
-    "excerpt": "LE CREUSOT : Du jamais vu au concours d’écriture du Musée de la Résistance ! 3 élèves du collège Centre aux 3 premières places Creusot Infos",
-    "slug": "le-creusot-du-jamais-vu-au-concours-d-e-criture-du-muse-e-de-la-re-sistance-3-e-le-ves-du-colle-",
-    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOZkxGR1JxMWhRSWVCajhFRDV4eXNIc0I1WllvYlROU2pCUWFuMHdQX1dITWNIYl90UUhqNURKcFM3Wm1OeHdVUnpJbTlTT0I0dkdCQlNDVko3cEJQd2Vpa05YRTFqREZVSzhkb1NsVVVmVmo4di1aUVk2SHhMWVd0V1kzYUZnYUdabVpVQVB6aFR6VHAyLVpRQUZ1S1VEZ3BkeVFsYy1RV0VZem5BRENELVAwbWVSN3JRckRDQ0NwbHp3elczaWVCUDdKenByYmNNcHBpVTRFRUlxSTU0Q2VrSW1sV1lnSTNPTmtnSTJBTjBVUVFEU1JYZ19zS1lXTzZObGwyTEZWNGY3dDB6QnF0QUZ4Y3pLZEE0QTdaVjFySW0?oc=5",
-    "image": null,
-    "sourceId": "google-news-fr-science",
-    "sourceName": "Creusot Infos",
-    "sourceHomepage": "https://www.creusot-infos.com",
-    "sourceFeedName": "Français News Network",
-    "sourceRegion": "France",
-    "category": "Science",
-    "publishedAt": 1782801000000,
-    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-science/le-creusot-du-jamais-vu-au-concours-d-e-criture-du-muse-e-de-la-re-sistance-3-e-le-ves-du-colle-"
   },
   {
     "id": "google-news-fr-tech-cbmirwfbvv95cuxon21gvkyxvejhtvy2c0hmvzjvt3e0ns1iy0xouusxaffjueryav9bnejjx1ldsezytxvfufzvsxhodeds",
@@ -2030,6 +1998,22 @@
     "category": "Tech",
     "publishedAt": 1782797460000,
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-tech/iphone-18-pro-les-premie-res-photos-circulent-issues-d-un-braquage-nume-rique-de-200-000-fichier"
+  },
+  {
+    "id": "google-news-fr-entertainment-cbmi-gfbvv95cuxnzhhgtvloyjbxbtzscuxvqxffmhznbg1qru5xywyzef9ltvfhuum5wu54zjy5uzllrhk4djdzbznpdxk0",
+    "title": "Abus de faiblesse sur Michael Lonsdale à Paris : Anne l'accompagnante a-t-elle voulu dépouiller l’acteur mourant ? - Actu.fr",
+    "excerpt": "Abus de faiblesse sur Michael Lonsdale à Paris : Anne l'accompagnante a-t-elle voulu dépouiller l’acteur mourant ? Actu.fr Paris : prison avec sursis requise contre le couple suspecté d’avoir accaparé l’héritage de Michael Lonsdale Le Parisien « Je ne me suis jamais servi de lui » : le couple Facérias au tribunal pour abus de faiblesse envers Michael Lonsdale La Croix «Elle a profité de sa richesse» : derrière l’héritage de Michael Lonsdale, l’ombre d’une mystérieuse association catholique Libération Procès Lonsdale : le couple Facérias jugé pour abus de faiblesse au tribunal de Paris info.fr",
+    "slug": "abus-de-faiblesse-sur-michael-lonsdale-a-paris-anne-l-accompagnante-a-t-elle-voulu-de-pouiller-l",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZHhGTVloYjBXbTZscUxVQXFFMHZNbG1qRU5XYWYzeF9LTVFHUUM5WU54ZjY5UzllRHk4djdZbzNpdXk0NTJMOUhLNzlocUtMdl9HbURnZjBJZVdNdllFNGd1aHYtdFpNOG5FcmN0U2wwaXJXZFRXUUNXc0pObkxSY3ZpQTVOU2hpM2pqVUs5Y3lzcXBIVW1hM24wd2dUQ25TaDhMbDYtZl9DQk9Lb2o2X2NSaENZUXV1ekxuWW1mamd1eUpLVUNJX3kzWFM0T3lMb0pOMThsNGNpeUZUNW5vN2toMXdCVGNUbVlWdlEwckw1NjhneC1EUXl3?oc=5",
+    "image": null,
+    "sourceId": "google-news-fr-entertainment",
+    "sourceName": "Actu.fr",
+    "sourceHomepage": "https://actu.fr",
+    "sourceFeedName": "Français News Network",
+    "sourceRegion": "France",
+    "category": "Entertainment",
+    "publishedAt": 1782797042000,
+    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-entertainment/abus-de-faiblesse-sur-michael-lonsdale-a-paris-anne-l-accompagnante-a-t-elle-voulu-de-pouiller-l"
   },
   {
     "id": "google-news-fr-health-cbmilwfbvv95cuxpr1d4mny3uzvhsfhlwnrgef82se1nblb4u0nbzzvham1nten5c2fhbwqxsmq1rxvxyudfd2nuvdctdkrs",
@@ -2272,22 +2256,6 @@
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-tech/google-va-finalement-lancer-ses-fonctionnalite-s-ia-sur-son-moteur-de-recherche-en-france-cet-e-"
   },
   {
-    "id": "google-news-fr-world-cbmiugfbvv95cuxnexvyx3z2whl5d3heqndkekktbnl6dwvvmkq3d3fus0l4yznpymsxsw9yunj0stdlvvdju20zb3jbsfpi",
-    "title": "Israël frappe la localité de Hebbariyé; Netanyahu et Katz ont visité la zone tampon au Liban-Sud | Direct - L'Orient-Le Jour",
-    "excerpt": "Israël frappe la localité de Hebbariyé; Netanyahu et Katz ont visité la zone tampon au Liban-Sud | Direct L'Orient-Le Jour EN DIRECT - Guerre au Moyen-Orient : le Liban et Israël sont «deux États souverains qui veulent vivre en paix», affirme Netanyahou Le Figaro EN DIRECT - Moyen-Orient: l'Iran, les États-Unis et le Liban vont former un comité pour superviser la fin de la guerre au Liban RFI Au Liban, l’accord-cadre signé avec Israël suscite les critiques au-delà du Hezbollah Le Monde.fr En direct : l'Iran priorise la diplomatie avec les États-Unis, mais se dit prêt pour \"la guerre\" France 24",
-    "slug": "israe-l-frappe-la-localite-de-hebbariye-netanyahu-et-katz-ont-visite-la-zone-tampon-au-liban-sud",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeXVYX3Z2WHl5d3hEQndKekktbnl6dWVVMkQ3d3FUS0l4YzNPYmsxSW9yUnJ0STdLVVdjU20zb3JBSFpiYmVhaTRTdDFBbE5YcnFEWjJlTnNmdnNSa3loREJVbjFwdW9Ycl85VENjWHUtQWxwX3gwLXl2ZkpDZGR1TUNOUTNlamY2R1lRMlh0Rl9PeEhsdnp1Mi1KVG85THJiZmo3andnVHRXNzdrY2ZlR09DOHBXN2xMS2c?oc=5",
-    "image": null,
-    "sourceId": "google-news-fr-world",
-    "sourceName": "L'Orient-Le Jour",
-    "sourceHomepage": "https://www.lorientlejour.com",
-    "sourceFeedName": "Français News Network",
-    "sourceRegion": "France",
-    "category": "World",
-    "publishedAt": 1782771180000,
-    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-world/israe-l-frappe-la-localite-de-hebbariye-netanyahu-et-katz-ont-visite-la-zone-tampon-au-liban-sud"
-  },
-  {
     "id": "google-news-fr-tech-cbmirajbvv95cuxqvnn6cxlftdfwu2vfmmtjx0tzvxvydhdzwkzrounuretucehdvgjptextotrnwu1juxffrkdor0cwoel3",
     "title": "« L’ampleur de la révolution de l’IA aux Etats-Unis conduit Donald Trump à briser le tabou des nationalisations » - Le Monde.fr",
     "excerpt": "« L’ampleur de la révolution de l’IA aux Etats-Unis conduit Donald Trump à briser le tabou des nationalisations » Le Monde.fr",
@@ -2434,7 +2402,7 @@
   {
     "id": "google-news-fr-business-cbmi9gfbvv95cuxqnk1fuc1rcudqofd0wfbqullauexhq1jjxzfpmxhuanhxr0uxcgs2z0zmcgdjtxpxnwdib1vgm2znmm1q",
     "title": "« On a été manipulés » : les salariés de Fonderie de Bretagne entre « dégoût et colère » - Ouest-France",
-    "excerpt": "« On a été manipulés » : les salariés de Fonderie de Bretagne entre « dégoût et colère » Ouest-France Voir plus de titres et de points de vue sur Google Actualités",
+    "excerpt": "« On a été manipulés » : les salariés de Fonderie de Bretagne entre « dégoût et colère » Ouest-France « On ne sait pas si on aura encore notre travail vendredi » : la Fonderie de Bretagne bientôt fixée sur son sort Ouest-France Europlasma sollicite l’ouverture d’une procédure de redressement judiciaire de sa filiale FDB Industries Boursorama « Les salariés méritent la vérité » : la descente aux enfers de la Fonderie de Bretagne Le Parisien Europlasma : du nouveau demain à la Fonderie de Bretagne ?... Fortuneo",
     "slug": "on-a-e-te-manipule-s-les-salarie-s-de-fonderie-de-bretagne-entre-de-gou-t-et-cole-re-ouest-franc",
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNk1FUC1RcUdQOFd0WFBqUllaUExhQ1JjXzFpMXhUanhXR0UxcGs2Z0ZMcGdJTXpXNWdib1VGM2ZNMm1QWFJoc25BVFJtRzhmcHZoT1RMQUoyRjY4S3V3ZXkzM29oU0pzaTFvX2Itc3lCRDFwakZBMjdoUFc4dzlNR0Z6UmIxdUx1WFplRVl0ZEtpVnFBdWx3SHBwelFVZ0NCay16NVFqamZvZi1uTlhiZE0xYWtBTVNNWnNKX3N1amJwOVVsaGFXbVVDNVpSdVcwWThQR1F1UUxIQ0I4cmFtUnpuY082U3NmZEJLek41OF9RbmdPdUE?oc=5",
     "image": null,
@@ -2446,6 +2414,22 @@
     "category": "Business",
     "publishedAt": 1782753264000,
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-business/on-a-e-te-manipule-s-les-salarie-s-de-fonderie-de-bretagne-entre-de-gou-t-et-cole-re-ouest-franc"
+  },
+  {
+    "id": "google-news-fr-business-cbmi7gfbvv95cuxnwke3vmcyuk9gowfjeut1rtdxx3mwdg9znmzlelnndgq4v05lcnjzr0fjwl9oqzm5nu5pm3hzs2lntzm3",
+    "title": "Etats-Unis : la Cour suprême donne raison à Trump et met fin à l'indépendance des agences fédérales, sauf la Fed - Les Echos",
+    "excerpt": "Etats-Unis : la Cour suprême donne raison à Trump et met fin à l'indépendance des agences fédérales, sauf la Fed Les Echos Grâce à la Cour suprême, Donald Trump va pouvoir licencier comme il l'entend L'Express Cour suprême des Etats-Unis : régulateurs sur siège éjectable Les Echos Réveil Courrier du 30 juin 2026 Courrier international Trump promet \"une action appropriée\" contre la gouverneure de la Fed dont le limogeage a été bloqué par la Cour suprême BFM",
+    "slug": "etats-unis-la-cour-supre-me-donne-raison-a-trump-et-met-fin-a-l-inde-pendance-des-agences-fe-de-",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWkE3VmcyUk9GOWFjeUt1RTdxX3MwdG9ZNmZLelNNdGQ4V05LcnJZR0FjWl9OQzM5NU5pM3hzS2lNTzM3V1I5UDF4Zk9Rc0JoZ1R5VWxId04tOUloa2swRmttTzVfeW43VkhTdlZKYjdSZlVROU80M3J6S2ZndUFud3dFRnU3dFJpdS1uMkc2eFRVd0ZHTTNnd1A5alFNNWRVZ0VhR19XMzB5d0MwRUphaEhCVHJ0Uk5MXy0zWW1wUFNRbDZaNTFHem5JZzZJMVlHcXJYZ0lBRHA5YXUyR2hnV0owdHpUeVJxbHFXdVhn?oc=5",
+    "image": null,
+    "sourceId": "google-news-fr-business",
+    "sourceName": "Les Echos",
+    "sourceHomepage": "https://www.lesechos.fr",
+    "sourceFeedName": "Français News Network",
+    "sourceRegion": "France",
+    "category": "Business",
+    "publishedAt": 1782752727000,
+    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-business/etats-unis-la-cour-supre-me-donne-raison-a-trump-et-met-fin-a-l-inde-pendance-des-agences-fe-de-"
   },
   {
     "id": "google-news-fr-business-cbmi9wfbvv95cuxpbk1rau1yqtdgrujyanetouvbcur4skfzmujiruz6ukuxvmy1svrhmwpfadrreelctvbhdl9ga2xkewpm",
@@ -2544,22 +2528,6 @@
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-science/le-coucou-un-champion-insoupc-onne-de-la-migration-le-monde-fr"
   },
   {
-    "id": "google-news-fr-business-cbmi8gfbvv95cuxpvepuoepynmriuzvweho2b1bqavbonmdlcvf2u3c0zm9inev3wglwnwd6qy1cnhruzfjyquvucezwdujh",
-    "title": "États-Unis: la Cour suprême empêche Donald Trump de révoquer la gouverneure de la Fed Lisa Cook - RFI",
-    "excerpt": "États-Unis: la Cour suprême empêche Donald Trump de révoquer la gouverneure de la Fed Lisa Cook RFI Grâce à la Cour suprême, Donald Trump va pouvoir licencier comme il l'entend L'Express Cour suprême des Etats-Unis : régulateurs sur siège éjectable Les Echos Réveil Courrier du 30 juin 2026 Courrier international Trump promet \"une action appropriée\" contre la gouverneure de la Fed dont le limogeage a été bloqué par la Cour suprême BFM",
-    "slug": "e-tats-unis-la-cour-supre-me-empe-che-donald-trump-de-re-voquer-la-gouverneure-de-la-fed-lisa-co",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVEpUOEpyNmRIUzVWeHo2b1BqaVBONmdlcVF2U3c0Zm9INEV3WGlwNWd6Qy1CNHRuZFJyQUVUcEZwdUJHSjhmV0tZbTF6cVhvQlhoeGkxbk9ZY3JNRl95WkZrUlV2dGRYYVVic010S0lXZ3Bzd20wS0s3UXZUcEN2NjlzUjV5eGxFeGJsbmF4UlQ5YmxBVzJ2c2NIdXlUVGRwellfSEN3UHhpVURrb0V5WHpXZC12OVR5czQ4OTVSNmcteU1jdGNDWW5DOTgtY2pzRjJycTU4bjJLRk9hVHFidHFDTno5NjZ4TGtnRWVBYW81dw?oc=5",
-    "image": null,
-    "sourceId": "google-news-fr-business",
-    "sourceName": "RFI",
-    "sourceHomepage": "https://www.rfi.fr",
-    "sourceFeedName": "Français News Network",
-    "sourceRegion": "France",
-    "category": "Business",
-    "publishedAt": 1782746501000,
-    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-business/e-tats-unis-la-cour-supre-me-empe-che-donald-trump-de-re-voquer-la-gouverneure-de-la-fed-lisa-co"
-  },
-  {
     "id": "google-news-fr-entertainment-cbmiuafbvv95cuxnreyyulk3zhdblurlsjjuwefnyvphuknnnnnzogzzv2tpwmfpafq5n2x6wfradfbuwhn4rddcvun5a0jo",
     "title": "La Lune des Fraises se lève ce soir au point le plus bas de l'année — voici quand et où regarder - Sciencepost",
     "excerpt": "La Lune des Fraises se lève ce soir au point le plus bas de l'année — voici quand et où regarder Sciencepost La Pleine Lune des Fraises est de retour ce 30 juin 2026 et voici ses 3 messages clés selon une astrologue Vogue France Pourquoi la pleine lune de juin est-elle appelée la « Lune des fraises » et quand a-t-elle lieu ? La République des Pyrénées Horoscope : voici ce que la Pleine Lune en Capricorne du 30 juin signifie pour votre signe astrologique ELLE La Lune des fraises illumine le ciel européen Yahoo Actualités",
@@ -2656,22 +2624,6 @@
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-science/demain-l-e-te-sera-juste-une-longue-canicule-et-le-proble-me-sera-comment-on-refroidit-pendant-l"
   },
   {
-    "id": "google-news-fr-health-cbmilafbvv95cuxnb0jtalzsyuzaumqzv0zyugc4em5qes1hwfltsnbyn0uwog9vwdzoyv9aswxrwxd2swh2u3rtd3pmcv9q",
-    "title": "Vous vous levez toutes les nuits pour aller aux toilettes ? Voici les 6 causes principales selon un médecin spécialiste du sommeil - Linternaute.com",
-    "excerpt": "Vous vous levez toutes les nuits pour aller aux toilettes ? Voici les 6 causes principales selon un médecin spécialiste du sommeil Linternaute.com",
-    "slug": "vous-vous-levez-toutes-les-nuits-pour-aller-aux-toilettes-voici-les-6-causes-principales-selon-u",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb0JTalZSYUZaUmQzV0ZYUGc4em5qeS1hWFlTSnByN0UwOG9vWDZoYV9aSWxrWXd2SWh2U3Rtd3pMcV9qanNsT0Q3bVYta3lReElzZ0M5UVQ2Y0drb0lxR3ViVW91U243N0pyanJxMDJwVjlIcS01M3A0V2ZZM2h3eEt3Nzc4UVgyWEM1NzFBT1JfdG84?oc=5",
-    "image": null,
-    "sourceId": "google-news-fr-health",
-    "sourceName": "Linternaute.com",
-    "sourceHomepage": "https://www.linternaute.com",
-    "sourceFeedName": "Français News Network",
-    "sourceRegion": "France",
-    "category": "Health",
-    "publishedAt": 1782740642000,
-    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-health/vous-vous-levez-toutes-les-nuits-pour-aller-aux-toilettes-voici-les-6-causes-principales-selon-u"
-  },
-  {
     "id": "google-news-fr-science-cbmi_afbvv95cuxprlhquhrrdi1zy01nczgwoetwrw9xzznfr2rrn0w2mvfuvnffvki3u0llzujwq0llyw9yt1hbbm82tnfu",
     "title": "La Chine vient de dévoiler le plus grand aimant au monde pour la fusion nucléaire : Iter est-il en train de se faire distancer ? - Futura, le média qui explore le monde",
     "excerpt": "La Chine vient de dévoiler le plus grand aimant au monde pour la fusion nucléaire : Iter est-il en train de se faire distancer ? Futura, le média qui explore le monde",
@@ -2702,22 +2654,6 @@
     "category": "World",
     "publishedAt": 1782739878000,
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-world/ce-serait-le-plus-grand-re-e-quilibrage-des-pouvoirs-que-le-royaume-uni-ait-jamais-connu-comment"
-  },
-  {
-    "id": "google-news-fr-business-cbmilwjbvv95cuxnwju2bvlgrg03u29xckg3aef4zzhiynnxbtnkrvm0s0t3cepqqvg2r1n1ogt6rvbbtehnaxrusulqrulw",
-    "title": "L'avertissement de la « banque centrale des banques centrales » : quand le boom de l'IA devient un risque pour l'économie mondiale - Les Echos",
-    "excerpt": "L'avertissement de la « banque centrale des banques centrales » : quand le boom de l'IA devient un risque pour l'économie mondiale Les Echos OpenAI et Anthropic valent près de 1 000 milliards, est-ce justifié ? Zonebourse IA et semi-conducteurs : Acatis alerte sur le risque d'une \"bulle de bénéfices\" boursedirect.fr « Avec les introductions en Bourse, le grand public va enfin donner un vrai prix à l’IA » Le Point Où en sommes-nous dans le cycle d’investissement dans l’IA ? Investing.com France",
-    "slug": "l-avertissement-de-la-banque-centrale-des-banques-centrales-quand-le-boom-de-l-ia-devient-un-ris",
-    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNWjU2bVlGRG03U29xckg3aEF4ZzhIYnNXbTNkRVM0S0t3cEpqQVg2R1N1OGt6RVBBTEhnaXRuSUlqRUlWMXRRQ1dFV3hlZzQ3c24yT0RsV0xjZk5yTkJ3YlYyc3QtRDJScElScEk4b2RfUnFhRGZmWkhuUU1GNmZZU3Y2MW1uZFZsWTBnOW9WTGsyY0RVM3l3VWV2TVhZVzRuak11YkMtbGMwbllyTzhTMndjZ0lNQVU4bnpTem0xUnJzUGhCNXg1cXJPdkE1S05LVk1fYVhmVHJBZEFJYmZiTjF3Slk4eDVCeEgwbm15R2M0LVhkcXI2Y08xa0ZGMkcySVJ1cDZjdkotei1OWkhNekQwR0ZnX1k?oc=5",
-    "image": null,
-    "sourceId": "google-news-fr-business",
-    "sourceName": "Les Echos",
-    "sourceHomepage": "https://www.lesechos.fr",
-    "sourceFeedName": "Français News Network",
-    "sourceRegion": "France",
-    "category": "Business",
-    "publishedAt": 1782739584000,
-    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-business/l-avertissement-de-la-banque-centrale-des-banques-centrales-quand-le-boom-de-l-ia-devient-un-ris"
   },
   {
     "id": "google-news-fr-health-cbmi_afbvv95cuxqthheuwv4ve1ty3m0ufb0rdvqzjbnug9gte50zve4vwnmsvfns1flvndbzzztvdrsb0w1yljwlvpxq2fe",
@@ -2798,22 +2734,6 @@
     "category": "Entertainment",
     "publishedAt": 1782734400000,
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-entertainment/le-me-ga-bide-supergirl-le-studio-reconnai-t-de-ja-que-c-est-un-e-chec-mais-veut-nous-rassurer-e"
-  },
-  {
-    "id": "google-news-fr-tech-cbmizgfbvv95cuxqn2e3ewxwcvnrec1jvvppzxpbr0ptt2jqbvdlsfpamlv5vzjnouhinkkwufbyujzob3k1dunor0tct3lo",
-    "title": "Panne Orange et Sosh : l'opérateur annonce un retour à la normale après un incident majeur - Les Numériques",
-    "excerpt": "Panne Orange et Sosh : l'opérateur annonce un retour à la normale après un incident majeur Les Numériques",
-    "slug": "panne-orange-et-sosh-l-ope-rateur-annonce-un-retour-a-la-normale-apre-s-un-incident-majeur-les-n",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN2E3eWxwcVNreC1jVVppZXpBR0ptT2JqbVdLSFpaMlV5VzJNOUhINkkwUFByUjZob3k1dUNoR0tCT3loak9SNXE5cS1kNmVmQXp3cDdFdC1ZbU9vWXlSc0xSRDlXUXV1aUdTV0s3TkxyUkNhTlRWNHFlWG9KRTMzZW05b2U1bHZHLU5fUl9BYkhpT2d4UTM4RXhJQ3RkdS1JQi1hVDNNWnI3aGdfMUdHaHJGUDhTblJXbXgyejVGS3RPLVFkRXBOYW1pQkNadw?oc=5",
-    "image": null,
-    "sourceId": "google-news-fr-tech",
-    "sourceName": "Les Numériques",
-    "sourceHomepage": "https://www.lesnumeriques.com",
-    "sourceFeedName": "Français News Network",
-    "sourceRegion": "France",
-    "category": "Tech",
-    "publishedAt": 1782731700000,
-    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-tech/panne-orange-et-sosh-l-ope-rateur-annonce-un-retour-a-la-normale-apre-s-un-incident-majeur-les-n"
   },
   {
     "id": "google-news-fr-entertainment-cbmi4gfbvv95cuxpcfu5u2lssjdtm28yve9vejnrm1hsqzfymwvkdfhyumt4cm9mwnvss09ttdjxqmiysuxcafhyltffzku3",
@@ -2944,6 +2864,22 @@
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-business/les-proprie-taires-de-ja-installe-s-sont-empe-che-s-la-situation-ine-dite-qui-bloque-les-jeunes-"
   },
   {
+    "id": "google-news-fr-science-cbmiqajbvv95cuxqcexvv1d3edblrzdzmedtwm5yaglquerytlhynexvcde2zgxkzljlatjyvkk1rxhvz2nwzddda0jyanvw",
+    "title": "« Le spatial ce n’était pas un domaine qui m’était prédestiné » : Pauline Hous, la Béarnaise au pied de la fusée Ariane 6 - La République des Pyrénées",
+    "excerpt": "« Le spatial ce n’était pas un domaine qui m’était prédestiné » : Pauline Hous, la Béarnaise au pied de la fusée Ariane 6 La République des Pyrénées",
+    "slug": "le-spatial-ce-n-e-tait-pas-un-domaine-qui-m-e-tait-pre-destine-pauline-hous-la-be-arnaise-au-pie",
+    "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQcExvV1d3eDBLRzdZMEdTWm5YaGlqUERYTlhYNExVcDE2ZGxKZlJLaTJYVkk1RXhvZ2NwZDdDa0JyanVWR1dMWHM4SkpJVU1KN0hLcUpLMy13MWRnQUVYMEFsaGZNdlZOOFRpSkpWQ2J0WUJwUmpaVlNzbUdVZjBBVUhBbDdHY3lEcFFvWVJXQ244OE1fNnJsU2N4LXM3R0hId0RVa25rbHk1OU5iQTlhbTdlSmtIeWRiQjlnVHlsRmliT2xqbE5yUnVTNmdRQnV4dk53M3BCZU9wTmFSelpiVGpEZG8zUnZzcEV5Y21TVW4tOU5XOWJZMS1uc2ZrYmdaNlBFM0xzY3h0bWNxMi1VSDVGaUlUVGpPMl8xR0ZTdjBJWXhEX3FLOQ?oc=5",
+    "image": null,
+    "sourceId": "google-news-fr-science",
+    "sourceName": "La République des Pyrénées",
+    "sourceHomepage": "https://www.larepubliquedespyrenees.fr",
+    "sourceFeedName": "Français News Network",
+    "sourceRegion": "France",
+    "category": "Science",
+    "publishedAt": 1782723536000,
+    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-science/le-spatial-ce-n-e-tait-pas-un-domaine-qui-m-e-tait-pre-destine-pauline-hous-la-be-arnaise-au-pie"
+  },
+  {
     "id": "google-news-fr-science-cbmi2wfbvv95cuxpakm3sgpfughxdtrtnfzcrhpkvtdmag1vyxcwejcyajfod3nktu1ibu13z0vung9aouxare5syv8yaxrk",
     "title": "Après la canicule, voici comment faire baisser rapidement la température chez vous - Le HuffPost",
     "excerpt": "Après la canicule, voici comment faire baisser rapidement la température chez vous Le HuffPost",
@@ -2976,6 +2912,38 @@
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-entertainment/robe-fendue-et-plateformes-monica-bellucci-star-du-festival-de-biarritz-face-a-kristen-stewart-e"
   },
   {
+    "id": "google-news-fr-tech-cbmi8wfbvv95cuxqevlxmel3x1kxnkt0amvsyvn4r1lobupoztncnxnom0v3wxpsqm1etnpazew4eu1motnhwmewx0plqu03",
+    "title": "Panne chez Orange et Sosh : le réseau mobile « momentanément » indisponible ce lundi, des milliers d’abonnés concernés - Sud Ouest",
+    "excerpt": "Panne chez Orange et Sosh : le réseau mobile « momentanément » indisponible ce lundi, des milliers d’abonnés concernés Sud Ouest",
+    "slug": "panne-chez-orange-et-sosh-le-re-seau-mobile-momentane-ment-indisponible-ce-lundi-des-milliers-d-",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeVlXMEl3X1kxNkt0amVsYVN4R1lobUpOZTNCNXNoM0V3WXpsQm1ETnpaZEw4eU1MOTNHWmEwX0plQU03SWhxeG11VTVTM0RUT2t4b2c2NUNJVDIxd3dGVG1ReW5WYmJkTGE2eHRkWUxBZ2dCbnlDMzhILWJGa0wyRzFsRVNLSTlmbUFsTGFrYXBYQ2RyX0s1QjBIN0FXRG5lX0xDSFE4aEt2Y0NZZVJqTFhwVVpQcExGWWdVcEhOd0JoNEdNZmNPQUJYNTVSbWNSYjlHNVRmYlJLVm4tTGNtcnBKXzlhTm1ROHJ1NFZBVjVVR28?oc=5",
+    "image": null,
+    "sourceId": "google-news-fr-tech",
+    "sourceName": "Sud Ouest",
+    "sourceHomepage": "https://www.sudouest.fr",
+    "sourceFeedName": "Français News Network",
+    "sourceRegion": "France",
+    "category": "Tech",
+    "publishedAt": 1782717828000,
+    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-tech/panne-chez-orange-et-sosh-le-re-seau-mobile-momentane-ment-indisponible-ce-lundi-des-milliers-d-"
+  },
+  {
+    "id": "google-news-fr-tech-cbmi3gfbvv95cuxqu05qb0tzewxbshu4cjdtwuxsatzxb29kcnrbm3rzlvrrtfoxuetxn0tqqvfmzdjzujzwvfu3aujjy0xi",
+    "title": "Google Maps a un concurrent français : cartes.gouv.fr est gratuit, souverain, sans pub, et redoutablement précis - Les Numériques",
+    "excerpt": "Google Maps a un concurrent français : cartes.gouv.fr est gratuit, souverain, sans pub, et redoutablement précis Les Numériques",
+    "slug": "google-maps-a-un-concurrent-franc-ais-cartes-gouv-fr-est-gratuit-souverain-sans-pub-et-redoutabl",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQU05Qb0tzeWxBSHU4cjdTWUxsaTZxb29KcnRBM3RzLVRRTFoxUEtxN0tQQVFmZDJZUjZWVFU3aUJJY0xidnMzMnFSNnFWcWhVNDd0S1NLZHV3N0xSeFQzOE1VWXFGbUh5WlRKaUtyQVpGdHBqeXFzNG5ma3pUYmswVE1XZlZNVEF2VW1IbkxMOVhUanQwVmIweUFLYTJxUzRoZlliT2dQR2RLT1dvd1FjTDhkMWhwLVNZbG0zeEhRTDY1VWg4SUhCRDM1UUtqZ19JZHRJY2ZGY08tZVFHd3c?oc=5",
+    "image": null,
+    "sourceId": "google-news-fr-tech",
+    "sourceName": "Les Numériques",
+    "sourceHomepage": "https://www.lesnumeriques.com",
+    "sourceFeedName": "Français News Network",
+    "sourceRegion": "France",
+    "category": "Tech",
+    "publishedAt": 1782712860000,
+    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-tech/google-maps-a-un-concurrent-franc-ais-cartes-gouv-fr-est-gratuit-souverain-sans-pub-et-redoutabl"
+  },
+  {
     "id": "google-news-fr-science-cbmizafbvv95cuxneghbahzuv1phakwyr1vrreznag0wm044z1jozxnxt25ytmhzn2y1n1z6oeu3r09naghbne9zdvbqnzf0",
     "title": "La Chine franchit un cap historique avec un embryon humain artificiel faisant pousser ses propres organes - Slate.fr",
     "excerpt": "La Chine franchit un cap historique avec un embryon humain artificiel faisant pousser ses propres organes Slate.fr",
@@ -2990,5 +2958,37 @@
     "category": "Science",
     "publishedAt": 1782712504000,
     "mawajezUrl": "https://mawajez.com/fr/google-news-fr-science/la-chine-franchit-un-cap-historique-avec-un-embryon-humain-artificiel-faisant-pousser-ses-propre"
+  },
+  {
+    "id": "google-news-fr-world-cbminafbvv95cuxnnjdta00yz3zjbkhrqkkxwtfoltfydk82tlozunz4btlxauk3tl9udgrqtmpuvxzinlfpn1nzrep0qktm",
+    "title": "Liban: nouvelles frappes israéliennes alors que le chef du Parlement enterre l'accord-cadre - TVA Nouvelles",
+    "excerpt": "Liban: nouvelles frappes israéliennes alors que le chef du Parlement enterre l'accord-cadre TVA Nouvelles EN DIRECT - Guerre au Moyen-Orient : le Liban et Israël sont «deux États souverains qui veulent vivre en paix», affirme Netanyahou Le Figaro EN DIRECT - Moyen-Orient: l'Iran, les États-Unis et le Liban vont former un comité pour superviser la fin de la guerre au Liban RFI Au Liban, l’accord-cadre signé avec Israël suscite les critiques au-delà du Hezbollah Le Monde.fr En direct : l'Iran priorise la diplomatie avec les États-Unis, mais se dit prêt pour \"la guerre\" France 24",
+    "slug": "liban-nouvelles-frappes-israe-liennes-alors-que-le-chef-du-parlement-enterre-l-accord-cadre-tva-",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjdTa00yZ3ZjbkhRQkkxWTFoLTFydk82TlozUnZ4bTlxaUk3Tl9udGRqTmpuVXZINlFPN1NzREp0QktMNzMxdGx5d19kZVVVTUhsZWF4YXI1bG1xcVRqMmp4bkQwam9FMDN6V0dNS2lGRGdCbE9yem5PbHFYV0w4SXZfNkVFWnBuRWxLMkxtaWY1dTRDeElFX1prZTc?oc=5",
+    "image": null,
+    "sourceId": "google-news-fr-world",
+    "sourceName": "TVA Nouvelles",
+    "sourceHomepage": "https://www.tvanouvelles.ca",
+    "sourceFeedName": "Français News Network",
+    "sourceRegion": "France",
+    "category": "World",
+    "publishedAt": 1782686886000,
+    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-world/liban-nouvelles-frappes-israe-liennes-alors-que-le-chef-du-parlement-enterre-l-accord-cadre-tva-"
+  },
+  {
+    "id": "google-news-fr-health-cbmiywfbvv95cuxpde9wq05imm9zv3ngawflau1jsi1hn2e5tjeynwpiqs0xzhnqml9sa2f1udbsn2rnsmvndmnmr2lfduqz",
+    "title": "Ces boissons très aimées des enfants augmenteraient le risque d'hypertension à l'âge adulte - Yahoo Life France",
+    "excerpt": "Ces boissons très aimées des enfants augmenteraient le risque d'hypertension à l'âge adulte Yahoo Life France Hypertension : si vous avez pris cette boisson étant enfant, vous avez plus de risques Top Santé Les enfants qui boivent un soda par jour s'exposeraient davantage à de l'hypertension à l'âge adulte, révèle une étude canadienne sur 25 000 jeunes Science et vie À 30 ans, on se croit à l’abri… même les « pré-stades » de tension, glycémie et cholestérol augmentent le risque 코메디닷컴 Santé des enfants : ces boissons pourraient peser sur le risque d’hypertension Linfo.re",
+    "slug": "ces-boissons-tre-s-aime-es-des-enfants-augmenteraient-le-risque-d-hypertension-a-l-a-ge-adulte-y",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdE9WQ05iMm9ZV3NGaWFLaU1JSi1HN2E5TjEyNWpiQS0xZHNqMl9sa2F1UDBSN2RnSmVNdmNmR2lFdUQzWWItMGhyc3dCX2lLVnB5OExENFQ4U1ZicEVUZ01KNXlKWW82b0puTkE2T1VRUnhteld5MXl0ZUVwUjVwYWdya3ZBcFZ6eEVISDc0SDJGcjlxYXVKSWtncEFXUTJHN3hkT3R3YTBDUEhVWU96aS1HN3ZubjFnMDdITE9BSDljcHN0YXVGOUpFdw?oc=5",
+    "image": null,
+    "sourceId": "google-news-fr-health",
+    "sourceName": "Yahoo Life France",
+    "sourceHomepage": "https://fr.style.yahoo.com",
+    "sourceFeedName": "Français News Network",
+    "sourceRegion": "France",
+    "category": "Health",
+    "publishedAt": 1782684780000,
+    "mawajezUrl": "https://mawajez.com/fr/google-news-fr-health/ces-boissons-tre-s-aime-es-des-enfants-augmenteraient-le-risque-d-hypertension-a-l-a-ge-adulte-y"
   }
 ]

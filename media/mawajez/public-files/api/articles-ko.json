@@ -2,7 +2,7 @@
   {
     "id": "google-news-ko-world-cbmiz0fvx3lxte5hlxq2dkrfz3kwyzj1t0jjr2pkterqtennnek4sxrpmi05zwmtsfbatwd1wndqnhk3sezswxlxym9oa3nt",
     "title": "이란 협상단장 \"호르무즈 60일만 무료 통과\"…기존 입장 재확인 - 연합뉴스TV",
-    "excerpt": "이란 협상단장 \"호르무즈 60일만 무료 통과\"…기존 입장 재확인 연합뉴스TV 이란 협상단장 \"호르무즈 무료 통과 60일간만…권리 포기못해\" v.daum.net [국제]호르무즈 '사실상 유료화' 수순...글로벌 물류 비상 YTN 국제해사기구 \"호르무즈 통행료는 불법\"…자발적 기금 대안 제시 뉴시스 이란 협상 대표 \"현재 미국과 어떤 협상도 진행하고 있지 않아\"(종합) 연합인포맥스",
+    "excerpt": "이란 협상단장 \"호르무즈 60일만 무료 통과\"…기존 입장 재확인 연합뉴스TV 이란 협상단장 \"호르무즈 무료 통과 60일간만…권리 포기못해\" v.daum.net \"오만, 호르무즈서 통행료 대신 '서비스 수수료' 부과 검토\" 뉴스1 [국제]호르무즈 '사실상 유료화' 수순...글로벌 물류 비상 YTN 이란 협상 대표 \"현재 미국과 어떤 협상도 진행하고 있지 않아\"(종합) 연합인포맥스",
     "slug": "60-tv",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HLXQ2dkRFZ3kwYzJ1T0JjR2pKTERqTENNNEk4SXRpMi05ZWMtSFBaTWd1WndQNHk3SEZSWXlxYm9Oa3NtR0xTbGoyaWhPLWM5bFoxaG9NbEEwV0xGVHhudWV1RUhnMjA?oc=5",
     "image": null,
@@ -14,22 +14,6 @@
     "category": "World",
     "publishedAt": 1782854524000,
     "mawajezUrl": "https://mawajez.com/ko/google-news-ko-world/60-tv"
-  },
-  {
-    "id": "google-news-ko-entertainment-cbmijwfbvv95cuxqnm9ir2swbgcywufzy3puverqrmzfvdbuuuxfynnwmdlydjrhcgm3sehfathfctfndxnxzmppr0zonnbo",
-    "title": "'깜짝 고백' 던 무슨 일? \"연예계 은퇴 생각..이름 빨리 잊히는 게 좋다\" ('살롱드립2') - 조선일보",
-    "excerpt": "'깜짝 고백' 던 무슨 일? \"연예계 은퇴 생각..이름 빨리 잊히는 게 좋다\" ('살롱드립2') 조선일보 Google 뉴스에서 헤드라인 및 의견 더보기",
-    "slug": "2",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNm9IR2swbGcyWUFZY3puVERQRmZfVDBUUUxFYnNWMDlYdjRHcGM3SEhfaThFcTFndXNxZmpPR0ZoNnBONUZfSV9KM2Q4Nmg1XzlMVEF3eUlaTzQ2OG4zNkMyOEgyazNrcXJfTHR0OUtob0xVTDNUUU1JSXZ2OXdhWk5XNHFzVjA4RllOQVFWaw?oc=5",
-    "image": null,
-    "sourceId": "google-news-ko-entertainment",
-    "sourceName": "조선일보",
-    "sourceHomepage": "https://www.chosun.com",
-    "sourceFeedName": "한국어 News Network",
-    "sourceRegion": "South Korea",
-    "category": "Entertainment",
-    "publishedAt": 1782854460000,
-    "mawajezUrl": "https://mawajez.com/ko/google-news-ko-entertainment/2"
   },
   {
     "id": "google-news-ko-tech-cbmibefvx3lxtfbyt0o2vkjwqlbyrk8xzknjmkzzmtjjq2nqovbhzkfasnb6bfnrrefttxj2mfg0rhd3cjhwc1vgrjcyedzt",
@@ -64,9 +48,25 @@
     "mawajezUrl": "https://mawajez.com/ko/google-news-ko-tech/20-s-p500-14-6"
   },
   {
+    "id": "google-news-ko-tech-cbmiwefvx3lxte9fzxjnahlnbxl5b3fgdfrtetrockrkahbfmmxxrfdumuxnzgjinzjwmwhndw9qaxzjr2p5wghjterndi1j",
+    "title": "[모닝 시세브리핑] 암호화폐 시장 하락세… 비트코인 58,703달러, 이더리움 1,578달러 - tokenpost.kr",
+    "excerpt": "[모닝 시세브리핑] 암호화폐 시장 하락세… 비트코인 58,703달러, 이더리움 1,578달러 tokenpost.kr",
+    "slug": "58-703-1-578-tokenpost-kr",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fZXJnaHlNbXl5b3FGdFRteTROckRkaHBfMmxxRFdUMUxNZGJINzJWMWhNdW9QaXZJR2p5WGhJTERNdi1JZWJtaVNJSVNkXzFVZk41ZXBrOVfSAV5BVV95cUxONjdVZWhVMkJBd2NZWlJaRWtJdy1iWkY1U0RxeUZJOVNhRDZISkI2UnFfRVkwTjUzaUIwSENha3ZyOFpWTGNrV2otN0dSb3o3Y1M0RU41d194VGpMNjdn?oc=5",
+    "image": null,
+    "sourceId": "google-news-ko-tech",
+    "sourceName": "tokenpost.kr",
+    "sourceHomepage": "https://www.tokenpost.kr",
+    "sourceFeedName": "한국어 News Network",
+    "sourceRegion": "South Korea",
+    "category": "Tech",
+    "publishedAt": 1782849678000,
+    "mawajezUrl": "https://mawajez.com/ko/google-news-ko-tech/58-703-1-578-tokenpost-kr"
+  },
+  {
     "id": "google-news-ko-world-cbmixefvx3lxte5fvv9jujbwymjoohuwundqz05rwe11akxowlpmyupfumuxyzlwodbcwvzlwghxewxtretgqlzvnev1ctvs",
     "title": "미·이란, 카타르서 간접 협상 재개…'대면 회담 부재' 속 양측 불신 여전 - 뉴스핌",
-    "excerpt": "미·이란, 카타르서 간접 협상 재개…'대면 회담 부재' 속 양측 불신 여전 뉴스핌 \"해협 무상 통항은 오직 60일\"…호르무즈에 갇힌 비핵화 논의 v.daum.net 이란 외무부 “향후 며칠간 ‘MOU 이행’ 평가 후 최종 회담 결정” KBS 뉴스 이란 \"실무 대표단 카타르 도하로 파견…美와 협상은 안해\" 연합인포맥스 트럼프 “이란 요청으로 30일 도하 회담”…이란은 “예정 없다” 국제신문",
+    "excerpt": "미·이란, 카타르서 간접 협상 재개…'대면 회담 부재' 속 양측 불신 여전 뉴스핌 \"해협 무상 통항은 오직 60일\"…호르무즈에 갇힌 비핵화 논의 v.daum.net 이란 외무부 “향후 며칠간 ‘MOU 이행’ 평가 후 최종 회담 결정” KBS 뉴스 이란 \"실무 대표단 카타르 도하로 파견…美와 협상은 안해\" 연합인포맥스 美·이란, 카타르 고위급 회담 없을듯…“실무협의 예정” 마켓인",
     "slug": "cbmixefvx3lxte5fvv9jujbwymjoohuwundqz05rwe11akxowlpmyupfumuxyzlwodbcwvzlwghxewxtretgqlzvnev1ctvssetvbxlhzwytbgzmmfcwsfdnahjdvjji",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FVV9jUjBWYmJoOHUwUndQZ05RWE11akxOWlpmYUpfUmUxYzlWODBCWVZlWGhxeWxTREtGQlZvNEV1cTVSSEtVbXlhZWYtbGZmMFcwSFdnaHJDVjJi?oc=5",
     "image": null,
@@ -144,6 +144,22 @@
     "mawajezUrl": "https://mawajez.com/ko/google-news-ko-entertainment/u1"
   },
   {
+    "id": "google-news-ko-entertainment-cbmiu0fvx3lxte9eavyxte52yklvtmnire9mwec3rwvryth2rdvprzbzn2vtemdjm3zkzeljvk8xmxhoadf3dl9valbsauna",
+    "title": "여사님 누구야? 던, '무형문화재' 부채있어도 \"비밀번호 알려줘\" 눈길 ('살롱드립2') - osen.co.kr",
+    "excerpt": "여사님 누구야? 던, '무형문화재' 부채있어도 \"비밀번호 알려줘\" 눈길 ('살롱드립2') osen.co.kr \"빨리 잊히고 싶다\"…던, 뜻밖의 은퇴 계획 고백 \"5년 안에\"('살롱드립2') v.daum.net 여사님 누구야? 던, '무형문화재' 부채있어도 \"비밀번호 알려줘\" 눈길 ('살롱드립2') - 조선비즈 Chosunbiz '깜짝 고백' 던 무슨 일? \"연예계 은퇴 생각..이름 빨리 잊히는 게 좋다\" ('살롱드립2') osen.co.kr 던, 무형문화재 부채 어마어마한 가치..\"판매자는 몰라, 연락 안 와 다행\" ('살롱드립2') 미주중앙일보",
+    "slug": "2-osen-co-kr",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EaVYxTE52YklVTmNIRE9MWEc3RWVrYTh2RDVPRzBzN2VTemdJM3ZkZEljVk8xMXhoaDF3dl9ValBSaUNaWDc5UHVJUUxtUVVqa1hv?oc=5",
+    "image": null,
+    "sourceId": "google-news-ko-entertainment",
+    "sourceName": "osen.co.kr",
+    "sourceHomepage": "http://www.osen.co.kr",
+    "sourceFeedName": "한국어 News Network",
+    "sourceRegion": "South Korea",
+    "category": "Entertainment",
+    "publishedAt": 1782836100000,
+    "mawajezUrl": "https://mawajez.com/ko/google-news-ko-entertainment/2-osen-co-kr"
+  },
+  {
     "id": "google-news-ko-business-cbmiwkfvx3lxte0xzkrvdza1defsylfsttbblufzyuxhbxjkylqyngk4tefmovd2u1rrrg85xzn5zm51n255z2rlwwrwwjn6",
     "title": "强달러·중동 원유 의존·서학개미…쌍둥이처럼 닮아가는 원·엔화 - 한국경제",
     "excerpt": "强달러·중동 원유 의존·서학개미…쌍둥이처럼 닮아가는 원·엔화 한국경제 엔/달러 162엔도 넘어…엔화 가치 40년 만에 최저(종합) 연합뉴스 700억달러 넘게 엔화 방어했지만…1달러=162엔, 日정부 또 개입 경고 뉴시스 금리 인상·환율 방어도 안 통했다…엔화 40년 만에 최저 v.daum.net 미 달러화 강세…日당국 구두 개입에도 달러-엔 고공행진 연합인포맥스",
@@ -194,7 +210,7 @@
   {
     "id": "google-news-ko-world-cbmingfbvv95cuxpcu40tnzpxznfz0vamuxkm1pgnmhna1lyt1hoqvzsx0rddna5tvvhwvlduhq4bmoxwvzzvhzjczfnr2df",
     "title": "美 대법 \"트랜스젠더 선수의 여성 스포츠 참여 금지 합법\" - 조선일보",
-    "excerpt": "美 대법 \"트랜스젠더 선수의 여성 스포츠 참여 금지 합법\" 조선일보 “여성 스포츠는 생물학적 여성만”… 美대법원, 트랜스젠더 출전 금지 ‘합헌’ 판결 v.daum.net 美대법 \"성전환자 女스포츠 출전 금지 합헌\"…트럼프 \"승리\" 뉴시스 미국 대법 “트랜스젠더의 여학생 스포츠팀 참여 금지 합당” 판결 KBS 뉴스 美대법 \"트랜스젠더의 여학생 스포츠팀 참여 금지 합당\" 판결(종합) 연합뉴스",
+    "excerpt": "美 대법 \"트랜스젠더 선수의 여성 스포츠 참여 금지 합법\" 조선일보 “여성 스포츠는 생물학적 여성만”… 美대법원, 트랜스젠더 출전 금지 ‘합헌’ 판결 v.daum.net 美 대법 “트랜스젠더 학생 여성 스포츠팀 출전 제한 합당” 판결 경기일보 美대법 \"성전환자 女스포츠 출전 금지 합헌\"…트럼프 \"승리\" 뉴시스 미 대법 “주정부, 트랜스젠더 여성의 여성 스포츠팀 출전 제한 가능” 한겨레",
     "slug": "cbmingfbvv95cuxpcu40tnzpxznfz0vamuxkm1pgnmhna1lyt1hoqvzsx0rddna5tvvhwvlduhq4bmoxwvzzvhzjczfnr2dfywd6m2vru2xlruhswwt3nmvwv0z5mnozmw9jnjhkwlhjruhyc3pmmmpjrwdyuw9xc0ixv04tcm9lufngcklldtfvowixdejymvvmmgfxanp3zmnmmgtts2hkuq",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcU40TnZpXzNfZ0VaMUxKM1pGNmhNa1lyT1hOQVZSX0RDdnA5TVVHWVlDUHQ4bmoxWVZZVHZjczFNR2dfYWd6M2VrU2xlRUhSWWt3NmVwV0Z5MnozMW9JNjhKWlhJRUhYc3pMMmpjRWdYUW9xc0IxV04tcm9LUFNGcklldTFVOWIxdEJYMVVmMGFxanp3ZmNMMGttS2hKUQ?oc=5",
     "image": null,
@@ -210,7 +226,7 @@
   {
     "id": "google-news-ko-world-cbmihafbvv95cuxoy2hhthjizjnxuhlrdwj2tjc0azjub1zuvedzvm9dwll0rmtkrvizrjlqnvrpvfy5ef9kcu8tnhe0unpi",
     "title": "美대법원, ‘출생 시민권 금지’ 트럼프 이민정책에 제동 - 조선일보",
-    "excerpt": "美대법원, ‘출생 시민권 금지’ 트럼프 이민정책에 제동 조선일보 헌법에 막힌 트럼프의 ‘반이민 상징’…보수 대법원, 출생 시민권 지켜내 한겨레 미국 출생 시민권 유지…법원, 트럼프 연쇄 제동 KBS 뉴스 \"대법 제동 판결은 다행…트럼프의 출생시민권 공격 계속될 것\" v.daum.net [국제]미 '출생시민권' 유지...대법원, 트럼프 이민 정책에 제동 YTN",
+    "excerpt": "美대법원, ‘출생 시민권 금지’ 트럼프 이민정책에 제동 조선일보 \"대법 제동 판결은 다행…트럼프의 출생시민권 공격 계속될 것\" v.daum.net 美 '출생시민권' 유지된다‥대법원, 트럼프 이민정책에 제동 MBC 뉴스 미국 출생 시민권 유지…법원, 트럼프 연쇄 제동 KBS 뉴스 [국제]미 '출생시민권' 유지...대법원, 트럼프 이민 정책에 제동 YTN",
     "slug": "cbmihafbvv95cuxoy2hhthjizjnxuhlrdwj2tjc0azjub1zuvedzvm9dwll0rmtkrvizrjlqnvrpvfy5ef9kcu8tnhe0unpiblpkzgfbcxhod3pnndg3q01imnhkamzmadrxaww4q3j2nwvmahjfcgvbstfmwmrfczdungxochjfamn3q3ncrxi",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY2hHTHJIZjNXUHlRdWJ2Tjc0azJub1ZuVEdZVm9DWll0RmtkRVIzRjlqNVRPVFY5eF9KcU8tNHE0UnpiblpKZGFBcXhod3pNNDg3Q01iMnhKamZmaDRXaWw4Q3J2NWVMaHJfcGVBSTFmWmRfczdUNGxOcHJFamN3Q3NCRXI?oc=5",
     "image": null,
@@ -242,7 +258,7 @@
   {
     "id": "google-news-ko-world-cbmiw0fvx3lxte1rsg9nwjbhendyzhjirmt6y0xnbujmr0zwotdfegltedbvrvphrg0wtggwtxpicglqns1vmwpkbho3mvlr",
     "title": "[베네수 강진] 노벨상 야권리더 마차도 귀국 불발…\"정부가 방해\" - 연합뉴스",
-    "excerpt": "[베네수 강진] 노벨상 야권리더 마차도 귀국 불발…\"정부가 방해\" 연합뉴스 베네수 강진 사망자 1천900명 넘어…부상자도 1만명대 v.daum.net “아이가 숨쉬는 한 나도…” 기적 부른 모성애 동아일보 베네수 야권 지도자 마차도 귀국 불발…\"정부가 방해\" 뉴시스 대참사의 현장 라과이라를 가다…“폐허 속 시신이라도” KBS 뉴스",
+    "excerpt": "[베네수 강진] 노벨상 야권리더 마차도 귀국 불발…\"정부가 방해\" 연합뉴스 베네수 강진 사망자 1천900명 넘어…부상자도 1만명대 v.daum.net 대참사의 현장 라과이라를 가다…“폐허 속 시신이라도” KBS 뉴스 “아이가 숨쉬는 한 나도…” 기적 부른 모성애 동아일보 베네수 야권 지도자 마차도 귀국 불발…\"정부가 방해\" 뉴시스",
     "slug": "cbmiw0fvx3lxte1rsg9nwjbhendyzhjirmt6y0xnbujmr0zwotdfegltedbvrvphrg0wtggwtxpicglqns1vmwpkbho3mvlrawxflutxmmm0sv81de1ovkxymdz2sjjsawbbvv95cuxosmftufhlqkrobfrlrkvdohg1quldte56rjvyyxjxcy1xuy1jvvbmlvnta0v3uxr6nhhtcnhkanrteexetmdlstvsluzibhu1b25obdfozw1jekpsbs1myme",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rSG9NWjBhendYZHJIRmt6Y0xnbUJMR0ZWOTdFeGlteDBvRVpHRG0wTGgwTXpicGlQNS1VMWpkbHo3MVlRaWxFLUtXMmM0SV81dE1OVkxYMDZ2SjjSAWBBVV95cUxOSmFtUFhlQkRObFRlRkVDOHg1QUlDTE56RjVyYXJxcy1XUy1JVVBmLVNta0V3UXR6NHhTcnhKanRteExETmdLSTVsLUZibHU1b25obDFOZW1jekpsbS1MYmE?oc=5",
     "image": null,
@@ -336,6 +352,22 @@
     "mawajezUrl": "https://mawajez.com/ko/google-news-ko-sports/bbc"
   },
   {
+    "id": "google-news-ko-business-cbmiukfvx3lxte5qnf9xa1m1edvqowdlm2f5y2i1oettbxmxtzlrnhzprtnwutgyylhbvxhxemfyy1jqb3daejrcwgfgzunl",
+    "title": "“한국 증시를 보라” 월가 경고나섰다…미국서 빚투 2100조 ‘사상 최대’ - 매일경제",
+    "excerpt": "“한국 증시를 보라” 월가 경고나섰다…미국서 빚투 2100조 ‘사상 최대’ 매일경제 증권가 '삼전닉스' 레버리지 ETF 상폐 촉구…\"시장 충격, 걷잡을 수 없어\" MTN 머니투데이방송 [우보세]도박판된 증시, 이게 생산적금융인가 - 머니투데이 머니투데이 올해 상반기 ETF 수익률 키워드는 '반도체+레버리지' 연합뉴스 ‘롤러코스피’에 더 크게 깨진 삼전ㆍSK하닉 레버리지 ETF…반등에도 두 자릿수 손실 v.daum.net",
+    "slug": "2100",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qNF9xa1M1eDVQOWdLM2F5Y2I1OEttbXMxTzlRNHZpRTNWUTgyYlhBVXhXemFyY1Jqb3daejRCWGFGZUNLckIweFI1anZqR0NfWGc?oc=5",
+    "image": null,
+    "sourceId": "google-news-ko-business",
+    "sourceName": "매일경제",
+    "sourceHomepage": "https://www.mk.co.kr",
+    "sourceFeedName": "한국어 News Network",
+    "sourceRegion": "South Korea",
+    "category": "Business",
+    "publishedAt": 1782823661000,
+    "mawajezUrl": "https://mawajez.com/ko/google-news-ko-business/2100"
+  },
+  {
     "id": "google-news-ko-entertainment-cbmit0fvx3lxtfa5bc1wchk2buvpev9awvlnzuzlampocm9htlg5bktjdzm5stuxohetwvvysgn6y3riqnfqv01sazkyytu1",
     "title": "최재성, 폭발물 제조 혐의로 긴급 체포… 천희주→김희정에 공조 제안 ('붉은 진주') - v.daum.net",
     "excerpt": "최재성, 폭발물 제조 혐의로 긴급 체포… 천희주→김희정에 공조 제안 ('붉은 진주') v.daum.net Google 뉴스에서 헤드라인 및 의견 더보기",
@@ -402,7 +434,7 @@
   {
     "id": "google-news-ko-business-cbmiaefvx3lxte8wbm1pvkxolujkeklvbwjsuhl3bw9rtjvlbk5llxlbyvzux01frmfis1d6rgxpbwjynglqnuyzlu03zhfk",
     "title": "동탄·기흥·구리 토허제 포함 ‘3중 규제’ 지정…집값 상승세 꺾일까 - 한겨레",
-    "excerpt": "동탄·기흥·구리 토허제 포함 ‘3중 규제’ 지정…집값 상승세 꺾일까 한겨레 10·15대책후 규제지역옆 비규제지 주택 매입액 158.65%↑ v.daum.net ‘집값 급등’ 동탄-기흥-구리 토허제로 묶는다 동아일보 [지지대] 규제지역 추가, 무주택자에겐 남의 일 경기일보 연이은 '초강력' 규제카드… 몇달 못가, 추가 또 추가 - 머니투데이 머니투데이",
+    "excerpt": "동탄·기흥·구리 토허제 포함 ‘3중 규제’ 지정…집값 상승세 꺾일까 한겨레 10·15대책후 규제지역옆 비규제지 주택 매입액 158.65%↑ v.daum.net ‘집값 급등’ 동탄-기흥-구리 토허제로 묶는다 동아일보 [사설] ‘반도체 벨트’ 부동산 규제하되 풍선효과 차단해야 국민일보 [지지대] 규제지역 추가, 무주택자에겐 남의 일 경기일보",
     "slug": "3",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wbm1PVkxoLUJkeklVbWJSUHl3bW9rTjVLbk5LLXlBYVZuX01FRmFiS1d6RGxpbWJyNGlQNUYzLU03ZHFkYnJyOTdacWg3dUdUdV9lRXRCLURpRHNfUm50ak5NQnpWNzE3?oc=5",
     "image": null,
@@ -480,22 +512,6 @@
     "mawajezUrl": "https://mawajez.com/ko/google-news-ko-health/cbmivefvx3lxte1ycg5jthd2znljunayctf1exfsr3p4vdvzcznwdlpzedbyquutu1jjynzlwvlrq1biykxxtfjwbevybtd4whzdtghuov81rnhsblq4sq"
   },
   {
-    "id": "google-news-ko-entertainment-cbmiu0fvx3lxtfbhv2frbmy2mdb3tgt5emtrmzywrjd6ahfpzgdqbwn2nhrxtvh1ynv3yvzqt2lov3lpouhiv0n4rdr6cwld",
-    "title": "고소영, ♥장동건과 부부 싸움..명상으로 막았다 “착하고 차분해져”(고소영) - osen.co.kr",
-    "excerpt": "고소영, ♥장동건과 부부 싸움..명상으로 막았다 “착하고 차분해져”(고소영) osen.co.kr \"빛도 보고 블랙홀도 통과\" 고소영, 명상 중 신비 체험·치유의 눈물 고백('고소영') v.daum.net 고소영 \"명상하면 착하고 차분해져…장동건도 좋다고\" 뉴시스 고소영, 50대에도 늘씬 몸매 비결은 절체조 “신기하고 무서운 경험해”(고소영)[순간포착] osen.co.kr 고소영, ♥장동건과 부부 싸움..명상으로 막았다 “착하고 차분해져”(고소영) - 조선비즈 Chosunbiz",
-    "slug": "osen-co-kr",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHV2FrbmY2MDB3TGt5emtRMzYwRjd6aHFpZGdqbWN2NHRxTVh1YnV3YVZQT2loV3lPOUhIV0N4RDR6cWlDQjZHQTRicnNYQldMaU8w?oc=5",
-    "image": null,
-    "sourceId": "google-news-ko-entertainment",
-    "sourceName": "osen.co.kr",
-    "sourceHomepage": "http://www.osen.co.kr",
-    "sourceFeedName": "한국어 News Network",
-    "sourceRegion": "South Korea",
-    "category": "Entertainment",
-    "publishedAt": 1782816300000,
-    "mawajezUrl": "https://mawajez.com/ko/google-news-ko-entertainment/osen-co-kr"
-  },
-  {
     "id": "google-news-ko-health-cbmiz0fvx3lxte9nduvkcuvlnlvqqxpulvbfevlic0pbww51vudwtdl5ohrqr2npck1nsetza1rudnbld19eew9kcjhpovgw",
     "title": "고려대 의대 이지원 교수팀, mRNA 인플루엔자 백신의 광범위 면역 효과 확인 - 의약뉴스",
     "excerpt": "고려대 의대 이지원 교수팀, mRNA 인플루엔자 백신의 광범위 면역 효과 확인 의약뉴스 mRNA 인플루엔자 백신, 기존 백신보다 면역효과 오래 지속된다 이데일리 변이 거듭하는 독감 잡는다…mRNA 백신 광범위 면역효과 입증 쿠키뉴스 인플루엔자 mRNA 백신, 림프절 면역반응 장기 유지 확인 e-의료정보 mRNA 백신, 기존 인플루엔자 백신 한계 넘을까 현대건강신문",
@@ -510,6 +526,22 @@
     "category": "Health",
     "publishedAt": 1782816180000,
     "mawajezUrl": "https://mawajez.com/ko/google-news-ko-health/mrna"
+  },
+  {
+    "id": "google-news-ko-entertainment-cbmic0fvx3lxte90telxtfe4rug5wwhhqu9pdwvamfzld1rvzertrhpivhhuc2z2dza0tnfpanlwtc1otzh6yzbxtgu1rxrx",
+    "title": "'55세' 고소영, 몸매 비결은 절체조..\"명상하며 블랙홀도 통과\" - starnewskorea.com",
+    "excerpt": "'55세' 고소영, 몸매 비결은 절체조..\"명상하며 블랙홀도 통과\" starnewskorea.com \"빛도 보고 블랙홀도 통과\" 고소영, 명상 중 신비 체험·치유의 눈물 고백('고소영') v.daum.net 고소영 \"명상하면 착하고 차분해져…장동건도 좋다고\" 뉴시스 고소영, 50대에도 늘씬 몸매 비결은 절체조 “신기하고 무서운 경험해”(고소영)[순간포착] osen.co.kr 고소영, ♥장동건과 부부 싸움..명상으로 막았다 “착하고 차분해져”(고소영) - 조선비즈 Chosunbiz",
+    "slug": "55-starnewskorea-com",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90TElxTFE4RUg5WWhHQU9PdWVaMFZld1RvZERTRHpIVHhuc2Z2dzA0TnFPanlWTC1oTzh6YzBxTGU1RXRxWUJUbGlwdG05ZldWMy1nUlBGUjN5VHo5VkR0OFdFdi1iT2JQR2VwakJRTUV6NU0?oc=5",
+    "image": null,
+    "sourceId": "google-news-ko-entertainment",
+    "sourceName": "starnewskorea.com",
+    "sourceHomepage": "https://www.starnewskorea.com",
+    "sourceFeedName": "한국어 News Network",
+    "sourceRegion": "South Korea",
+    "category": "Entertainment",
+    "publishedAt": 1782813762000,
+    "mawajezUrl": "https://mawajez.com/ko/google-news-ko-entertainment/55-starnewskorea-com"
   },
   {
     "id": "google-news-ko-entertainment-cbmihafbvv95cuxnqjn3t05rswrmuw5nbwvqquftrw5ecljccxzwzf9vwtnhtdhmzdbpnuoysjztr251btludny4vel3odfr",
@@ -576,9 +608,25 @@
     "mawajezUrl": "https://mawajez.com/ko/google-news-ko-entertainment/2-11-tvn-tv"
   },
   {
+    "id": "google-news-ko-business-cbmiukfvx3lxte5oeu5wt2plui1kuf9bwet6lukzq1nyz1dwm3bztkq5qwk5n2tbvc0wclvndupvbxrlsu1bdlv4ukdnytq2",
+    "title": "메가프로젝트 수혜 소부장·로봇·통신 뜬다 - 매일경제",
+    "excerpt": "메가프로젝트 수혜 소부장·로봇·통신 뜬다 매일경제 “테마주 말고 진짜 수혜주” 반도체가 다가 아냐…주목해야 할 업종들[투자360] v.daum.net 삼성·SK 투자에 AI 장비주 '불기둥'…ASML 사상 최고가 뉴스1 증시 뒤흔든 '3대 메가 프로젝트'…장비·전력기기 주가 한국경제 반도체 800조 베팅에 韓美 주식시장 양극화 시작…지금 저렴한 AI 관련주는 [이슈플러스] 매일경제 마켓",
+    "slug": "cbmiukfvx3lxte5oeu5wt2plui1kuf9bwet6lukzq1nyz1dwm3bztkq5qwk5n2tbvc0wclvndupvbxrlsu1bdlv4ukdnytq2m2ptb0jxywjem2dnz1e",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oeU5WT2pLUi1kUF9BWEt6LUkzQ1NYZ1dwM3BZTkQ5QWk5N2tBVC0wclVNdUpVbXRlSU1BdlV4UkdnYTQ2M2ptb0JXYWJEM2dNZ1E?oc=5",
+    "image": null,
+    "sourceId": "google-news-ko-business",
+    "sourceName": "매일경제",
+    "sourceHomepage": "https://www.mk.co.kr",
+    "sourceFeedName": "한국어 News Network",
+    "sourceRegion": "South Korea",
+    "category": "Business",
+    "publishedAt": 1782810550000,
+    "mawajezUrl": "https://mawajez.com/ko/google-news-ko-business/cbmiukfvx3lxte5oeu5wt2plui1kuf9bwet6lukzq1nyz1dwm3bztkq5qwk5n2tbvc0wclvndupvbxrlsu1bdlv4ukdnytq2m2ptb0jxywjem2dnz1e"
+  },
+  {
     "id": "google-news-ko-business-cbmibefvx3lxte9xvfffbxptywjzwl9dvedic0nlodrowg9wzlhiqlvgc3nxdjroufvjodryzjdvn0y5mde0nxutdzytv3vx",
     "title": "원전 18기 더 필요한 ‘AI 메가프로젝트’…“전력·기후 대책 없어” - 한겨레",
-    "excerpt": "원전 18기 더 필요한 ‘AI 메가프로젝트’…“전력·기후 대책 없어” 한겨레 지역이 선도하고 세계로 뻗어나갈 '한국형 AI산업혁명'이 시작됩니다. | SNS | 대통령 대한민국 청와대 [점선면]‘1500조’ 큰 거 왔는데…메가프로젝트, 녹슬지 않으려면? 경향신문 '3대 메가프로젝트' 수혜 기대…'배전·초고압' 전력주 빅사이클 가속 연합인포맥스 외신이 본 '3대 메가'...기대와 우려 '반반' v.daum.net",
+    "excerpt": "원전 18기 더 필요한 ‘AI 메가프로젝트’…“전력·기후 대책 없어” 한겨레 [점선면]‘1500조’ 큰 거 왔는데…메가프로젝트, 녹슬지 않으려면? 경향신문 \"AI 데이터센터 550兆 투자…건설 수주 사이클 온다\"[클릭e종목] 아시아경제 '3대 메가프로젝트' 수혜 기대…'배전·초고압' 전력주 빅사이클 가속 연합인포맥스 외신이 본 '3대 메가'...기대와 우려 '반반' v.daum.net",
     "slug": "18-ai",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xVFFFbXptYWJzWl9DVEdIc0NlODROWG9wZlhiQlVGc3NXdjROUFVJODRYZjdVN0Y5MDE0NXUtdzYtV3VxVkZWNEhtZF9oRTl6bi1fSHV3cFNOV2V3WGtvaEUzR2pIb2x2Z1UwcQ?oc=5",
     "image": null,
@@ -704,36 +752,20 @@
     "mawajezUrl": "https://mawajez.com/ko/google-news-ko-world/cbmibkfvx3lxte1wz2jsb25ocupmsjhzagzqtwvka0xwceowu0vruzhjufdhytnwz1izuxu5cemxthiwr1hcyzfyzkhuvlrmsnfyujnybdy1dzatclnrmwlttxo3mmjyrjvvqzvvemliagpnd01hnnpn"
   },
   {
-    "id": "google-news-ko-business-cbmivefvx3lxte1fbnrys1qzszzfm1zhovfkbjzlv2y0q2ljcdndugdnmvnwu1c1rnnwbf91vfjmqm1er3fdru1mrhrqwgxw",
-    "title": "노동계 30원·경영계 20원 양보…노사 최저임금 인색한 조정안 - JTBC",
-    "excerpt": "노동계 30원·경영계 20원 양보…노사 최저임금 인색한 조정안 JTBC 최저임금 1차 수정안, 노동계 1만 1천970원 vs 경영계 1만 340원 MBC 뉴스 [속보] 노동계 1만1천900원·경영계 1만360원…최저임금 2차수정안 연합뉴스 인천 소상공인들 “벼랑 끝 생존 위기…내년 최저임금 동결하라” 중부일보 1만1900원 vs 1만360원…최저임금 2차 수정안도 1540원 차이 v.daum.net",
-    "slug": "30-20-jtbc",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FbnRyS1QzSzZfM1ZhOVFkbjZLV2Y0Q2lJcDNDUGdNMVNWU1c1RnNWbF91VFJMQm1ER3FDRU1MRHRQWGxwWEo3bFgwNldGMVhtWlRZWg?oc=5",
+    "id": "google-news-ko-entertainment-cbmijwfbvv95cuxoukxysmzsdxm3bww4se12ywt6mwfqqmtmqtlpx041dmh3eeruzfzmww8ya3fqvuhievjuqunpdvqxogix",
+    "title": "코르티스 측, 항공편 지연 사과…환복 의혹은 ‘사실무근’ - 조선일보",
+    "excerpt": "코르티스 측, 항공편 지연 사과…환복 의혹은 ‘사실무근’ 조선일보 차량에 GPS 부착해 미행까지…코르티스, 사생활 침해에 형사 고소 진행 YTN '데뷔 11개월' 코르티스, 공항 지각 민폐 논란…\"승객들께 죄송\" 네이트 기다려준 비행기보다 모자가 더 특혜?…코르티스가 소환한 장원영 데일리안 코르티스 측, 비행기 지연 탑승 논란에 사과…브릿지 환복 의혹은 부인 파이낸셜뉴스",
+    "slug": "cbmijwfbvv95cuxoukxysmzsdxm3bww4se12ywt6mwfqqmtmqtlpx041dmh3eeruzfzmww8ya3fqvuhievjuqunpdvqxogixbeg5nkjurkdazklqqvhwb2xtwwjwmhllywprehl3thfms2g0mu9yeg5jlwdjeljawxnlm01fds1nohvxnu1voxnlu3rmeejzwnrfcw",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUkxySmZsdXM3bWw4SE12YWt6MWFQQmtMQTlPX041dmh3eERuZFZMWW8ya3FQVUhIeVJuQUNpdVQxOGIxbEg5NkJuRkdaZklQQVhwb2xtWWJWMHllYWpreHl3THFmS2g0MU9YeG5JLWdJelJaWXNLM01fdS1NOHVXNU1VOXNLU3RmeEJzWnRFcw?oc=5",
     "image": null,
-    "sourceId": "google-news-ko-business",
-    "sourceName": "JTBC",
-    "sourceHomepage": "https://news.jtbc.co.kr",
+    "sourceId": "google-news-ko-entertainment",
+    "sourceName": "조선일보",
+    "sourceHomepage": "https://www.chosun.com",
     "sourceFeedName": "한국어 News Network",
     "sourceRegion": "South Korea",
-    "category": "Business",
-    "publishedAt": 1782805080000,
-    "mawajezUrl": "https://mawajez.com/ko/google-news-ko-business/30-20-jtbc"
-  },
-  {
-    "id": "google-news-ko-business-cbmihgfbvv95cuxpbfgyzhbqcup2cuv1lxj1b0t4vjfzvja2emlfsi1anmp1mghhsdlnqlvndmv4avvrdxn4neczzgq2rxrs",
-    "title": "몽골·동남아 넘어 일본·미국까지… 해외로 승부수 던진 K저가커피 - 조선비즈 - Chosunbiz",
-    "excerpt": "몽골·동남아 넘어 일본·미국까지… 해외로 승부수 던진 K저가커피 - 조선비즈 Chosunbiz 저가 커피 다음 격전지는 해외…중국 프랜차이즈는 ‘역상륙’, 카페 프랜차이즈 지각 변동 v.daum.net 더벤티, 필리핀 진출 본격화…\"동남아 시장 확장 거점\" 뉴시스 더벤티, 필리핀 마스터 프랜차이즈 계약…3분기 1호점 오픈 목표 뉴스1 더벤티 필리핀 기업간 프랜차이즈 계약·팀홀튼 '캐나다데이위크' 싱글리스트",
-    "slug": "k-chosunbiz",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbFgyZHBQcUp2cUV1LXJ1b0t4VjFzVjA2emlfSi1aNmp1MGhhSDlNQlVNdmV4aVVrdXN4NEczZGQ2RXRSb1g3S2xvRk5GeXZSTm4wVDBoU0g3ZjcxMmhYcTRUaXZyUVNjaEZ4b0o0c1BwaHlOZDhDSkhqT1NpejdHTi16M0c2d9IBmgFBVV95cUxNMjZwVURNRzJiaVlZWUJLcERBWnhtcTZHTG5YczhaenVCYXh2RkR2WXRnYlZ1Mnl1ZlJkeU1BUEJpakRsSzczWV96aERLYUVybEhuY3paQVNCQmZBMWhONnNfdzY4VjB6eVVLNVFXbnM0LVVLT2hselNJRlQ2Q2ZSS3pqeS01R1l2Y2VNU0tjWTNQNUVIc3Z4ZENR?oc=5",
-    "image": null,
-    "sourceId": "google-news-ko-business",
-    "sourceName": "Chosunbiz",
-    "sourceHomepage": "https://biz.chosun.com",
-    "sourceFeedName": "한국어 News Network",
-    "sourceRegion": "South Korea",
-    "category": "Business",
-    "publishedAt": 1782804660000,
-    "mawajezUrl": "https://mawajez.com/ko/google-news-ko-business/k-chosunbiz"
+    "category": "Entertainment",
+    "publishedAt": 1782805404000,
+    "mawajezUrl": "https://mawajez.com/ko/google-news-ko-entertainment/cbmijwfbvv95cuxoukxysmzsdxm3bww4se12ywt6mwfqqmtmqtlpx041dmh3eeruzfzmww8ya3fqvuhievjuqunpdvqxogixbeg5nkjurkdazklqqvhwb2xtwwjwmhllywprehl3thfms2g0mu9yeg5jlwdjeljawxnlm01fds1nohvxnu1voxnlu3rmeejzwnrfcw"
   },
   {
     "id": "google-news-ko-tech-cbmixkfvx3lxte1vc0rglwtirtzyz0rcvgjvejbprmhmvutrqmvqsuktnljtculnt2hcndjvlvbpznyxc3qtmnndcjfaefrm",
@@ -848,9 +880,25 @@
     "mawajezUrl": "https://mawajez.com/ko/google-news-ko-health/2"
   },
   {
+    "id": "google-news-ko-entertainment-cbmijwfbvv95cuxpztn2c3g4rmk1wvrkcunlc0x4b3g5zhlrvxh3aevhcktrx1nhouzswdf0tkjrmlbwotlkzc0zdeh6rmzq",
+    "title": "최진혁 \"이국주와 첫만남에 먼저 번호 물어봐..호감으로 오해 당황\"(라스) - 조선일보",
+    "excerpt": "최진혁 \"이국주와 첫만남에 먼저 번호 물어봐..호감으로 오해 당황\"(라스) 조선일보 최진혁, 이국주와 생각보다 깊은 사이였다..\"母 직접 만든 참기름 선물해\" [라스] v.daum.net 최진혁, 이국주와 첫 만남에 번호 교환? \"친구 되고 싶어서\" (라스) iMBC 연예 이국주, 최진혁 어머니에게 선물까지 받은 사이…\"공연에도 찾아와\" (라스) 네이트 최진혁 \"이국주랑 친해지고 싶어 먼저 번호 물어\" 뉴시스",
+    "slug": "cbmijwfbvv95cuxpztn2c3g4rmk1wvrkcunlc0x4b3g5zhlrvxh3aevhcktrx1nhouzswdf0tkjrmlbwotlkzc0zdeh6rmzqm3lfbxztn29vsmd6egplouxwem4ymudoanzud3u5v2jglvgyv0hlunbknmtldk1fteywmkxqngxobmtqr0vgt3rns2niudrtsezcma",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZTN2c3g4Rmk1WVRKcUNlc0x4b3g5ZHlRVXh3aEVhcktrX1NhOUZSWDF0TkJRMlBwOTlkZC0zdEh6RmZqM3lfbXZtN29VSmd6eGplOUxwem4yMUdoanZUd3U5V2JGLVgyV0hLUnBkNmtldk1FTEYwMkxqNGxobmtqR0VGT3RnS2NIUDRtSEZCMA?oc=5",
+    "image": null,
+    "sourceId": "google-news-ko-entertainment",
+    "sourceName": "조선일보",
+    "sourceHomepage": "https://www.chosun.com",
+    "sourceFeedName": "한국어 News Network",
+    "sourceRegion": "South Korea",
+    "category": "Entertainment",
+    "publishedAt": 1782801360000,
+    "mawajezUrl": "https://mawajez.com/ko/google-news-ko-entertainment/cbmijwfbvv95cuxpztn2c3g4rmk1wvrkcunlc0x4b3g5zhlrvxh3aevhcktrx1nhouzswdf0tkjrmlbwotlkzc0zdeh6rmzqm3lfbxztn29vsmd6egplouxwem4ymudoanzud3u5v2jglvgyv0hlunbknmtldk1fteywmkxqngxobmtqr0vgt3rns2niudrtsezcma"
+  },
+  {
     "id": "google-news-ko-world-cbmicefvx3lxte5gyuhptw14renqnjztylmzznbgdu1qa2t3qwdybnjoznviyjruzldemmxns1h6tdnvn1pwn1dnwvvpwull",
     "title": "푸틴이 북한 떠받드는 진짜 이유…“러 파병 북한군 7000여명 사상” [핫이슈] - 나우뉴스",
-    "excerpt": "푸틴이 북한 떠받드는 진짜 이유…“러 파병 북한군 7000여명 사상” [핫이슈] 나우뉴스 우크라 \"북한군 쿠르스크 사상자 7000명 넘어\"…지난달 보고 확인 v.daum.net 우크라 \"러 파병됐던 북한군 사상자 7000명 넘어\"…절반 가까이 피해 아시아경제 우크라 \"북한군 쿠르스크 사상자 7000여 명\"...기존 예측 상회 한국일보 우크라 '쿠르스크 北 사상자 7000명' MSN",
+    "excerpt": "푸틴이 북한 떠받드는 진짜 이유…“러 파병 북한군 7000여명 사상” [핫이슈] 나우뉴스 우크라 \"북한군 쿠르스크 사상자 7000명 넘어\"…지난달 보고 확인 v.daum.net 우크라 \"러 파병됐던 북한군 사상자 7000명 넘어\"…절반 가까이 피해 아시아경제 우크라 \"북한군 쿠르스크 사상자 7000여 명\"...기존 예측 상회 한국일보",
     "slug": "7000",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GYUhpTW14RENQNjZTYlMzZnBGdU1Qa2t3QWdybnJOZnViYjRUZldEMmxNS1h6TDNVN1pwN1dnWVVpWUlLRVRMUy00ckluRm1pbExhaXZqMkFYX1BJSHlncEU5M19udC1zbjNHekRfblE?oc=5",
     "image": null,
@@ -1088,22 +1136,6 @@
     "mawajezUrl": "https://mawajez.com/ko/google-news-ko-tech/hd-3500"
   },
   {
-    "id": "google-news-ko-entertainment-cbmidkfvx3lxtfb5m1u5tehsrfpoy2naekrputhwnvhidufadfb0z2dqbjzmwmzbshpob2vioffncvvtv0otdknkbkrannlo",
-    "title": "코르티스, 공항 지각해 비행기 출발 지연…“승객들 불편 사과” - 동아일보",
-    "excerpt": "코르티스, 공항 지각해 비행기 출발 지연…“승객들 불편 사과” 동아일보 코르티스 측, 항공편 지연 사과…환복 의혹은 ‘사실무근’ 조선일보 차량에 GPS 부착해 미행까지…코르티스, 사생활 침해에 형사 고소 진행 YTN '데뷔 11개월' 코르티스, 공항 지각 민폐 논란…\"승객들께 죄송\" 네이트 기다려준 비행기보다 모자가 더 특혜?…코르티스가 소환한 장원영 데일리안",
-    "slug": "cbmidkfvx3lxtfb5m1u5tehsrfpoy2naekrputhwnvhidufadfb0z2dqbjzmwmzbshpob2vioffncvvtv0otdknkbkrannlotufass1rrfjrdhzjwkhdvk82b1luqklnynffcfp6etz4v21bszmtvvpysge2ngl1m0hsawzbvv95cuxpalbnsldkynfmcmxivehtcvngwvnortg0em1moe9nykz2yw1ceurvcnfbruqwzem5yuh5ujlkeuxgeepzznvrqk1wr0ruumtiseuybfb0zhmtdes4ngtsdzdlzxdja1e",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5M1U5TEhSRFpOY2NaekRpUThwNVhidUFadFB0Z2dqbjZmWmZBSHpOb2VIOFFncVVTV0otdkNkbkRaNnloTUFaSS1RRFJRdHZJWkhDVk82b1luQklNYnFFcFp6eTZ4V21BSzMtVVpySGE2NGl1M0HSAWZBVV95cUxPalBNSldKYnFMcmxIVEhtcVNGWVNORTg0em1mOE9nYkZ2YW1CeURvcnFBRUQwZEM5YUh5UjlKeUxGeEpZZnVRQk1wR0RuUmtiSEUybFB0ZHMtdEs4NGtsdzdlZXdja1E?oc=5",
-    "image": null,
-    "sourceId": "google-news-ko-entertainment",
-    "sourceName": "동아일보",
-    "sourceHomepage": "https://www.donga.com",
-    "sourceFeedName": "한국어 News Network",
-    "sourceRegion": "South Korea",
-    "category": "Entertainment",
-    "publishedAt": 1782795780000,
-    "mawajezUrl": "https://mawajez.com/ko/google-news-ko-entertainment/cbmidkfvx3lxtfb5m1u5tehsrfpoy2naekrputhwnvhidufadfb0z2dqbjzmwmzbshpob2vioffncvvtv0otdknkbkrannlotufass1rrfjrdhzjwkhdvk82b1luqklnynffcfp6etz4v21bszmtvvpysge2ngl1m0hsawzbvv95cuxpalbnsldkynfmcmxivehtcvngwvnortg0em1moe9nykz2yw1ceurvcnfbruqwzem5yuh5ujlkeuxgeepzznvrqk1wr0ruumtiseuybfb0zhmtdes4ngtsdzdlzxdja1e"
-  },
-  {
     "id": "google-news-ko-entertainment-cbmiwefvx3lxte9qztq2njblsgruog5prvlob0pmtdrnbk5jdlplnzlrbfnot1joywtqnffzsm1qb2i4twr2ttq3swrudkfc",
     "title": "“항상 내년으로 미뤘다”…코드 쿤스트, 8년 장기 연애 결별설 - sportsseoul.com",
     "excerpt": "“항상 내년으로 미뤘다”…코드 쿤스트, 8년 장기 연애 결별설 sportsseoul.com 코드 쿤스트, 8년 교제 여성과 결별설 뉴시스 “코드 쿤스트, 8년 사귄 연인과 결별” 보도…소속사 “사생활 확인 어려워” 헤럴드경제 결별설 속 첫 근황?..코쿤, '나혼산' 단체샷 포착 \"무지개 하계수련회 출격\" v.daum.net “8년 열애 끝” 코드 쿤스트, ♥동갑내기 에디터 여친과 결별설…“확인 불가” sportsseoul.com",
@@ -1296,6 +1328,22 @@
     "mawajezUrl": "https://mawajez.com/ko/google-news-ko-health/cbmis0fvx3lxtfbkujreqnf4ee0tnc1qqmzasuvqnnlrbuhkx2vyv2zvathmnwj5vxh0m2g1r290vtziwjvmb082qlf5skfynxk2zfvyzw"
   },
   {
+    "id": "google-news-ko-sports-cbmiyefvx3lxte5wn1e0sm9iyvnszgzim0d2rgpnml9tse9vdnpklxhts0xtlwpwbxhra2fiyxdszwjqnux1ymtvsmvjwegz",
+    "title": "\"손흥민 대표팀 은퇴 결심?\"...홍명보호 탈락 후 내부 균열설 확산 - 메트로신문",
+    "excerpt": "\"손흥민 대표팀 은퇴 결심?\"...홍명보호 탈락 후 내부 균열설 확산 메트로신문 '월드컵 32강 불발' 축구대표팀 손흥민·이재성·김승규 등 귀국(종합) 연합뉴스 손흥민 등 환호 속 귀국…홍명보와는 다른 풍경 KBS 뉴스 손흥민 \"좋은 결과 못 내서 죄송해\"…곽윤기 \"잘 견뎌달라\" 뉴시스 \"캡틴 손흥민 돌아왔다\" 김승규, 엄지성과 오늘 새벽 귀국...경호진에 둘러싸인채 말없이 빠져나가[북중미월드컵] 조선일보",
+    "slug": "cbmiyefvx3lxte5wn1e0sm9iyvnszgzim0d2rgpnml9tse9vdnpklxhts0xtlwpwbxhra2fiyxdszwjqnux1ymtvsmvjwegzlxdzuwfredrsatjadm4xwwzpem4yx1nau2qyxw",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WN1E0Sm9IYVNSZGZiM0d2RGpnMl9TSE9vdnpkLXhtS0xtLWpwbXhra2FiYXdsZWJQNUx1YmtvSmVJWEgzLXdZUWFReDRSaTJadm4xWWZpem4yX1NaU2QyXw?oc=5",
+    "image": null,
+    "sourceId": "google-news-ko-sports",
+    "sourceName": "메트로신문",
+    "sourceHomepage": "https://www.metroseoul.co.kr",
+    "sourceFeedName": "한국어 News Network",
+    "sourceRegion": "South Korea",
+    "category": "Sports",
+    "publishedAt": 1782784910000,
+    "mawajezUrl": "https://mawajez.com/ko/google-news-ko-sports/cbmiyefvx3lxte5wn1e0sm9iyvnszgzim0d2rgpnml9tse9vdnpklxhts0xtlwpwbxhra2fiyxdszwjqnux1ymtvsmvjwegzlxdzuwfredrsatjadm4xwwzpem4yx1nau2qyxw"
+  },
+  {
     "id": "google-news-ko-tech-cbmitkfvx3lxte41stz4ltlisnzdynbrymfla3pdbzbtamlru2zadmd6bxu1b1hxnnzws1cwuwn0zi1kvkvaaulwv3jau280",
     "title": "과기정통부, 6일부터 휴대폰 안면인증 단계적 시행…신분증·초본 등 대체인증 허용 - 전자신문",
     "excerpt": "과기정통부, 6일부터 휴대폰 안면인증 단계적 시행…신분증·초본 등 대체인증 허용 전자신문",
@@ -1328,25 +1376,9 @@
     "mawajezUrl": "https://mawajez.com/ko/google-news-ko-entertainment/spotv-news"
   },
   {
-    "id": "google-news-ko-business-cbmizefvx3lxte9xskfybs1vewzpulpaohrbuxnoudfvweqwyw44wxnmb0faunnpakhfshnunffezvvymwrpskdbbnq2vtlu",
-    "title": "증권가 '삼전닉스' 레버리지 ETF 상폐 촉구…\"시장 충격, 걷잡을 수 없어\" - MTN 머니투데이방송",
-    "excerpt": "증권가 '삼전닉스' 레버리지 ETF 상폐 촉구…\"시장 충격, 걷잡을 수 없어\" MTN 머니투데이방송 [데스크 시각] 레버리지 ETF가 ‘원흉’이라는 시각 v.daum.net “한국 증시를 보라” 월가 경고나섰다…미국서 빚투 2100조 ‘사상 최대’ 매일경제 [우보세]도박판된 증시, 이게 생산적금융인가 - 머니투데이 머니투데이 삼전·SK하닉 레버리지 회전율, 전체 ETF 12배…단타 쏠림에 변동성 '극심' 뉴스1",
-    "slug": "etf-mtn",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xSkFYbS1VeWZPUlpaOHRBUXNoUDFVWEQwYW44WXNmb0FaUnNpakhFSHNuNFFEZVVYMWRpSkdBbnQ2VTlUU3dLcUl5XzlzZlV3dC1DT0hrcmpuRGlJX1c1OFhPXzY?oc=5",
-    "image": null,
-    "sourceId": "google-news-ko-business",
-    "sourceName": "MTN 머니투데이방송",
-    "sourceHomepage": "https://news.mtn.co.kr",
-    "sourceFeedName": "한국어 News Network",
-    "sourceRegion": "South Korea",
-    "category": "Business",
-    "publishedAt": 1782782527000,
-    "mawajezUrl": "https://mawajez.com/ko/google-news-ko-business/etf-mtn"
-  },
-  {
     "id": "google-news-ko-entertainment-cbmiuefvx3lxtfbkbetemxdpceuwbmtfq3bednzzsg1qtzrzaloyogzja2joogjor3kwymk0wupzmfexy1vnadjsbxzuc2vu",
     "title": "홍혜걸 “아내 여에스더 사이코 같다” 여에스더도 인정 - 문화일보",
-    "excerpt": "홍혜걸 “아내 여에스더 사이코 같다” 여에스더도 인정 문화일보 \"혹시 변태인가?\" 홍혜결·여에스더 부부, 92일 만에 초고속 결혼한 사연 [동상이몽2] v.daum.net 동상이몽2_너는 내 운명 : 여에스더, 홍혜걸과 합가 이후 10년 만에 되찾은 마음의 안정 sbs.co.kr 여에스더 \"연 매출 3000억, 82억 기부\"…남편은 우울증 걱정 - 머니투데이 머니투데이 “이상순·도경완? 내가 올킬” 홍혜걸, ♥여에스더에 매달 1억 넘게 지원받는다(동상이몽2)[순간포착] osen.co.kr",
+    "excerpt": "홍혜걸 “아내 여에스더 사이코 같다” 여에스더도 인정 문화일보 동상이몽2_너는 내 운명 : 여에스더, 홍혜걸과 합가 이후 10년 만에 되찾은 마음의 안정 sbs.co.kr 여에스더 \"연 매출 3000억, 82억 기부\"…남편은 우울증 걱정 - 머니투데이 머니투데이 ‘연 매출 3천억’ 여에스더, 역대급 재력 자랑 “누적 기부금은 82억”(동상이몽2) 조선일보 \"혹시 변태인가?\" 홍혜걸·여에스더 부부, 92일 만에 초고속 결혼한 사연 [동상이몽2] v.daum.net",
     "slug": "cbmiuefvx3lxtfbkbetemxdpceuwbmtfq3bednzzsg1qtzrzaloyogzja2joogjor3kwymk0wupzmfexy1vnadjsbxzuc2vueerqmutwu1q0twxq",
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkbEtEMXdPcEUwbmtFQ3BEdnZzSG1QTzRZaloyOGZja2JOOGJoR3kwYmk0WUpZMFExY1VnaDJsbXZuc2VueERQMUtwU1Q0TWxq?oc=5",
     "image": null,
@@ -1600,22 +1632,6 @@
     "mawajezUrl": "https://mawajez.com/ko/google-news-ko-sports/cbmiyefvx3lxte55d292sepalwd3tgfiukhrdu9ramdmz2dmuxnym2fobtzytgjitnjim1j0m1hvtje2tv8zx0pqng5im3vyzudfd3jyyvvrnm1sdne5edlmstnoru85yvnbcq"
   },
   {
-    "id": "google-news-ko-entertainment-cbmiwkfvx3lxte5fnepmvedmslfpexbjce00nmv2vndvd2riedrpbxdqwfzcqjblv2dcbzhix0ludxluu3oxbe1vumfjudmx",
-    "title": "'아근진' 윤은혜 \"이상형은 같은 기독교, 십일조 안 내면 내가 내줄 것\" - 파이낸셜뉴스",
-    "excerpt": "'아근진' 윤은혜 \"이상형은 같은 기독교, 십일조 안 내면 내가 내줄 것\" 파이낸셜뉴스 \"불교는 안 된다\" 윤은혜, 이상형 발언에…\"특정 종교 배제\" vs \"솔직한 가치관\" 분분 [엑's 이슈] v.daum.net 윤은혜, 13년째 솔로 고백…“완벽해도 불교면 안돼”(‘아근진’) 매일경제 윤은혜 “완벽해도 불교는 안 된다”…솔직한 결혼관 공개 동아일보 '13년째 솔로' 윤은혜 \"완벽한 남자라도 불교면 안 만나\" 뉴시스",
-    "slug": "cbmiwkfvx3lxte5fnepmvedmslfpexbjce00nmv2vndvd2riedrpbxdqwfzcqjblv2dcbzhix0ludxluu3oxbe1vumfjudmxa19lzkdwwkkxzgvjbvlnm3zfzkfmqq",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FNEpMVEdmSlFPeXBJcE00NmV2Vndvd2RieDRpbXdQWFZCQjBLV2dCbzhIX0ludXluU3oxbE1VUmFjUDMxa19lZkdwWkkxZGVJbVlNM3ZFZkFmQQ?oc=5",
-    "image": null,
-    "sourceId": "google-news-ko-entertainment",
-    "sourceName": "파이낸셜뉴스",
-    "sourceHomepage": "https://www.fnnews.com",
-    "sourceFeedName": "한국어 News Network",
-    "sourceRegion": "South Korea",
-    "category": "Entertainment",
-    "publishedAt": 1782773912000,
-    "mawajezUrl": "https://mawajez.com/ko/google-news-ko-entertainment/cbmiwkfvx3lxte5fnepmvedmslfpexbjce00nmv2vndvd2riedrpbxdqwfzcqjblv2dcbzhix0ludxluu3oxbe1vumfjudmxa19lzkdwwkkxzgvjbvlnm3zfzkfmqq"
-  },
-  {
     "id": "google-news-ko-business-cbmia0fvx3lxte8yzzbxnfr3cdrwuu9nwxr0tkp1aduzeetswlpuuvbklwffdlewahvlwuzsb1hqylbldgndse4zxzz5exnp",
     "title": "캐나다 잠수함 사업 막판 승부…CTV \"한화오션·TKMS 초접전, 발표 수일 연기\" - 해사신문",
     "excerpt": "캐나다 잠수함 사업 막판 승부…CTV \"한화오션·TKMS 초접전, 발표 수일 연기\" 해사신문 캐나다 잠수함 분할발주?…加국방장관 \"가능성 작다, 비용가중\"(종합) v.daum.net 국방부 \"캐나다 잠수함 수주, 진인사대천명의 자세로 결과 기다려\" 뉴스1 1일이냐 7일이냐...캐나다 잠수함 수주전 우협 곧 나온다 이투데이 [특징주] 조선주, 캐나다 잠수함 '분리 발주' 기대감 후퇴에 약세 뉴스핌",
@@ -1840,22 +1856,6 @@
     "mawajezUrl": "https://mawajez.com/ko/google-news-ko-world/tv"
   },
   {
-    "id": "google-news-ko-sports-cbmiyefvx3lxte5pmgpnbu1ddwfja25qbjjxn1v1wfnaeelewuw4ylpkbuv1owxkugfamxfqafrtcvazogdbbddlcfpqz0he",
-    "title": "손흥민 \"진심으로 죄송…다시 죽기 살기로 뛰겠다\"[2026월드컵] - 아시아경제",
-    "excerpt": "손흥민 \"진심으로 죄송…다시 죽기 살기로 뛰겠다\"[2026월드컵] 아시아경제 '월드컵 32강 불발' 축구대표팀 손흥민·이재성·김승규 등 귀국(종합) 연합뉴스 손흥민 등 환호 속 귀국…홍명보와는 다른 풍경 KBS 뉴스 손흥민 \"좋은 결과 못 내서 죄송해\"…곽윤기 \"잘 견뎌달라\" 뉴시스 \"캡틴 손흥민 돌아왔다\" 김승규, 엄지성과 오늘 새벽 귀국...경호진에 둘러싸인채 말없이 빠져나가[북중미월드컵] 조선일보",
-    "slug": "2026",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pMGpNbU1DdWFJa25QbjJxN1V1WFNaeElEWUw4YlpKbUV1OWxkUGFaMXFQaFRTcVAzOGdBbDdlcFpQZ0hEdF9HZXZTS2ZyT0ZqbEtGejNnTkxQTmdMcWdWVg?oc=5",
-    "image": null,
-    "sourceId": "google-news-ko-sports",
-    "sourceName": "아시아경제",
-    "sourceHomepage": "https://www.asiae.co.kr",
-    "sourceFeedName": "한국어 News Network",
-    "sourceRegion": "South Korea",
-    "category": "Sports",
-    "publishedAt": 1782767700000,
-    "mawajezUrl": "https://mawajez.com/ko/google-news-ko-sports/2026"
-  },
-  {
     "id": "google-news-ko-entertainment-cbmizkfvx3lxte52q283qjcysm1vcetrawlun1lnd2tueg9cbk5yy1notwhmwm4zmwvvvgf6v3r3tnlznmtvtfg2nmc2euk3",
     "title": "장원영, 와인잔 들고 윙크했는데…시선은 `뼈말라` 몸매에 쏠렸다 - 마이데일리",
     "excerpt": "장원영, 와인잔 들고 윙크했는데…시선은 `뼈말라` 몸매에 쏠렸다 마이데일리 [사진]아이브 장원영,'꽃보다 아름다운 미모' 조선일보 [포토] '내가 장원영' 뉴데일리 장원영, 모델과 같은 옷 다른 느낌…'11자 각선미' 뽐낸 청순 패션 네이트 [포토] 장원영, 꽃보다 원영 iMBC 연예",
@@ -1982,22 +1982,6 @@
     "category": "Business",
     "publishedAt": 1782764045000,
     "mawajezUrl": "https://mawajez.com/ko/google-news-ko-business/3"
-  },
-  {
-    "id": "google-news-ko-health-cbmivefvx3lxte9jrkfrrhq2amr0ykkwafjzml9tddg4uk4xawi0ngncv19lr2hqewhoqmpwttn0qjbbbjrodut0vfvjngjq",
-    "title": "[화제의 책] 암은 운명이 아니다, ‘생명의 암호’를 읽는 시간 - 트래블아이",
-    "excerpt": "[화제의 책] 암은 운명이 아니다, ‘생명의 암호’를 읽는 시간 트래블아이",
-    "slug": "cbmivefvx3lxte9jrkfrrhq2amr0ykkwafjzml9tddg4uk4xawi0ngncv19lr2hqewhoqmpwttn0qjbbbjrodut0vfvjngjqwu12nm1new1oz3rmmgdlag",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jRkFrRHQ2amR0YkkwaFJzMl9TdDg4Uk4xaWI0NGNCV19LR2hQeWhOQmpwTTN0QjBBbjROdUt0VFVJNGJQWU12Nm1NeW1oZ3RmMGdLag?oc=5",
-    "image": null,
-    "sourceId": "google-news-ko-health",
-    "sourceName": "트래블아이",
-    "sourceHomepage": "https://traveli.net",
-    "sourceFeedName": "한국어 News Network",
-    "sourceRegion": "South Korea",
-    "category": "Health",
-    "publishedAt": 1782763740000,
-    "mawajezUrl": "https://mawajez.com/ko/google-news-ko-health/cbmivefvx3lxte9jrkfrrhq2amr0ykkwafjzml9tddg4uk4xawi0ngncv19lr2hqewhoqmpwttn0qjbbbjrodut0vfvjngjqwu12nm1new1oz3rmmgdlag"
   },
   {
     "id": "google-news-ko-tech-cbmidkfvx3lxte9mmefxwfhhcfh3ou9pd1bmues4rkfsb2hsnez0wtfkujfizgtfn0z0rxvrcfg0ou9wy1znzljld2q0cfjl",
@@ -2208,6 +2192,22 @@
     "mawajezUrl": "https://mawajez.com/ko/google-news-ko-health/cbmijgfbvv95cuxpnfbxmi1lbu1dwkn6ddnsywq4wmq0rwfoodjzy0m0r1ytuxu4sgjmcluwrjjvuw1wvhdwn2syyjzioevwrnv2mkh6bjraywu5njfsuevzu2w1mlfjme13ymq4uus3bl9pznq1rjbot3n6dnpsegnfoutwumpnevb5nhpnm3zzdg1zwfjhn2xr"
   },
   {
+    "id": "google-news-ko-health-cbmif0fvx3lxte50em40vlfzrhzpndrpagrdyzlrr2m2v0v6rgnwd0k1ynjhvvu4aghsx3i2wgq2quviqkn6cuo3ny1tbjdj",
+    "title": "노년층 근육 지키는 데 ‘짧고 강한’ 운동이 답 - 헬스조선",
+    "excerpt": "노년층 근육 지키는 데 ‘짧고 강한’ 운동이 답 헬스조선 “1주에 90분만 해도”…치매·심장질환 사망 위험 낮추는 근력운동 동아일보 노년 근감소증, 막을 수 있다 캐나다 한국일보 고기도 두부도 싫다면… 단백질 많이 든 의외의 식품 4가지 헬스조선 뛰는 것보다 더 센 운동…50대 건강까지 챙기는 '이 동작' 5가지 조선일보",
+    "slug": "cbmif0fvx3lxte50em40vlfzrhzpndrpagrdyzlrr2m2v0v6rgnwd0k1ynjhvvu4aghsx3i2wgq2quviqkn6cuo3ny1tbjdjs1j5qxnxt1n0ag5jmlnmbjrca2mzquhqy2llnnnrrhnlevhonzcznzvncmfiyy1ytgtpd1ffy0g4ruk",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50em40VlFZRHZPNDRPaGRDYzlrR2M2V0V6RGNwd0k1YnJHVVU4aGhsX3I2WGQ2QUVIQkN6cUo3Ny1TbjdjS1J5QXNXT1N0aG5jMlNMbjRCa2MzQUhQY2llNnNrRHNleVhoNzczNzVNcmFIYy1yTGtpd1FfY0g4RUk?oc=5",
+    "image": null,
+    "sourceId": "google-news-ko-health",
+    "sourceName": "헬스조선",
+    "sourceHomepage": "https://health.chosun.com",
+    "sourceFeedName": "한국어 News Network",
+    "sourceRegion": "South Korea",
+    "category": "Health",
+    "publishedAt": 1782724800000,
+    "mawajezUrl": "https://mawajez.com/ko/google-news-ko-health/cbmif0fvx3lxte50em40vlfzrhzpndrpagrdyzlrr2m2v0v6rgnwd0k1ynjhvvu4aghsx3i2wgq2quviqkn6cuo3ny1tbjdjs1j5qxnxt1n0ag5jmlnmbjrca2mzquhqy2llnnnrrhnlevhonzcznzvncmfiyy1ytgtpd1ffy0g4ruk"
+  },
+  {
     "id": "google-news-ko-science-cbmigwfbvv95cuxoyldnvwxcmllha1p6zg4yefbxu1zwb2dpc05nakwyvgjgv1rhvkpar2dvc2pdcdbpcvzttgd4wtixrnpz",
     "title": "로봇·에너지·SMR·정밀의료 ‘국가연구소’ 4곳 선정 - 조선일보",
     "excerpt": "로봇·에너지·SMR·정밀의료 ‘국가연구소’ 4곳 선정 조선일보",
@@ -2222,22 +2222,6 @@
     "category": "Science",
     "publishedAt": 1782724800000,
     "mawajezUrl": "https://mawajez.com/ko/google-news-ko-science/smr-4"
-  },
-  {
-    "id": "google-news-ko-tech-cbmickfvx3lxte1foeo1bdvcdwx4lxh1vejfuglhbu5rrgp1akzayjjjbknnvli3s1pfq2t4qjlhx0znrvljdfncewptug9u",
-    "title": "[단독] 넥슨 '메이플키우기', 5개월간 인게임 수치 오류 몰랐다... 이용자들, 유료재화 5% 보상에 '분노' - 인더스트리뉴스",
-    "excerpt": "[단독] 넥슨 '메이플키우기', 5개월간 인게임 수치 오류 몰랐다... 이용자들, 유료재화 5% 보상에 '분노' 인더스트리뉴스",
-    "slug": "5-5",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fOEo1bDVCdWx4LXh1VEJfUGlHbU5RRGp1akZaYjJjbkNNVlI3S1pfQ2t4QjlHX0ZNRVlJdFNCeWpTUG9UVjRuN3VodzU2eDFUNzhXSENKZTNJYzk2V09VMWdTYnA3ci1QQWJKRUwtMUQxdw?oc=5",
-    "image": null,
-    "sourceId": "google-news-ko-tech",
-    "sourceName": "인더스트리뉴스",
-    "sourceHomepage": "https://www.industrynews.co.kr",
-    "sourceFeedName": "한국어 News Network",
-    "sourceRegion": "South Korea",
-    "category": "Tech",
-    "publishedAt": 1782723394000,
-    "mawajezUrl": "https://mawajez.com/ko/google-news-ko-tech/5-5"
   },
   {
     "id": "google-news-ko-world-cbmiw0fvx3lxte9is1zwd2jkvefgtvk5rniydznwwgxtsk52umtknkp3dek3ntrnn3prstatm3z3og9bzwrib2fwvhexbupw",
@@ -2638,6 +2622,22 @@
     "category": "Science",
     "publishedAt": 1782636359000,
     "mawajezUrl": "https://mawajez.com/ko/google-news-ko-science/cbmiwkfvx3lxte00v1hwq2vmeungec1yauzusdlltw9usjqtskzzehyxc0jsewdktlr4nmrmymfztzzqcmexrgmtzkpuzs1vunc5twxynkjzdl94rf9wqmpyndnkd9ibvefvx3lxtfbqnjfrvtbyafbqnwtou2wtwgtsddrvofrvwk9isfuxahqwy2julufpvjnunnnwzjnqsdbndzrvquo5uuhcr2xcwvbwag1um196t1bqzw"
+  },
+  {
+    "id": "google-news-ko-science-cbmiakfvx3lxte1mzwjsnvncbfphbwthm1bhzjdunk5zwkzidwnjc21kmvo1uhplseptrgd1vvlbn3vtdwlmv2l5utzvdhjf",
+    "title": "\"전략기술 확대조정, 지역R&D 자율기획\" 혁신본부, 체계 전면 개편 - 헬로디디",
+    "excerpt": "\"전략기술 확대조정, 지역R&D 자율기획\" 혁신본부, 체계 전면 개편 헬로디디",
+    "slug": "r-d",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MZWJsNVNCbFphbWthM1BhZjduNk5ZWkZIdWNJc21KMVo1UHpLSEptRGd1VVlBN3VTdWlMV2l5UTZvdHJFZmYxVEZJTWc4QnJXZjNFWWQzQm1QdHZFdFR4eFJSRTRzaG83S1E?oc=5",
+    "image": null,
+    "sourceId": "google-news-ko-science",
+    "sourceName": "헬로디디",
+    "sourceHomepage": "https://www.hellodd.com",
+    "sourceFeedName": "한국어 News Network",
+    "sourceRegion": "South Korea",
+    "category": "Science",
+    "publishedAt": 1782634200000,
+    "mawajezUrl": "https://mawajez.com/ko/google-news-ko-science/r-d"
   },
   {
     "id": "google-news-ko-science-cbmivkfvx3lxte5tmvdfsnnhckm2ogpwt1zqtjhptwxmtwtlr21vm09vmhdtyk15r3zlvegyn2m2ovdtu29gtezaa2jdoenn",

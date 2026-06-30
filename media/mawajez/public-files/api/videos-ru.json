@@ -272,6 +272,22 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN1hvOWhySkJZTTFBRXJkYzF0VWdOem1UVjgyV3BIbk9tXzJvSlBmckV5S1dQb29kREdmcjdGdzB5UWNQNmNUYjRGaFh2UWQ2cmdnRWJRY1JqTExjX2JHY2VaY0E2MERlTTlvWlpmWG13YnQ5dk9BQXV2T3dsNEQ3MjNXendFWlFFckxhWUJYNzFNQmxvOTZGWFZvTVdWeVNTdUlRVXl6eFNoN0NCQzh3OS1tcjROdnM2bF9raHE5WjlWUG4wdGpkMEJ5SQ?oc=5"
   },
   {
+    "id": "google-news-video-ru-entertainment-cbmiyefvx3lxte5dehjiyw4ywkf4ufrtqjrstxdcwwdnvzc1qzhcsmttq2xmdjvctkgyd1vssjiwcdhztfnhckdnckq2uzjz",
+    "type": "video-link",
+    "title": "Amorim - \"Rain\" | Deep House (Original Mix) Muttertag (I6pt7TZG1f) - Mshale",
+    "excerpt": "Amorim - \"Rain\" | Deep House (Original Mix) Muttertag (I6pt7TZG1f) Mshale",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DeHJiYW4yWkF4UFRtQjRSTXdCWWdNVzc1QzhCSmttQ2xMdjVCTkgyd1VSSjIwcDhzTFNHckdnckQ2UzJZa2lrOV80UXJMVThYcnN3YmdLakxDbDkyb3gtag?oc=5",
+    "image": null,
+    "channelId": "google-news-video-ru-entertainment",
+    "channelName": "Mshale",
+    "sourceId": "google-news-video-ru-entertainment",
+    "sourceName": "Mshale",
+    "sourceHomepage": "https://mshale.com",
+    "category": "Entertainment",
+    "publishedAt": 1782781244000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DeHJiYW4yWkF4UFRtQjRSTXdCWWdNVzc1QzhCSmttQ2xMdjVCTkgyd1VSSjIwcDhzTFNHckdnckQ2UzJZa2lrOV80UXJMVThYcnN3YmdLakxDbDkyb3gtag?oc=5"
+  },
+  {
     "id": "google-news-video-ru-sports-cbmickfvx3lxte0zqtliskldafg2q1dqrnpytfd2zu5urkr2ywvxzkfyzlrnskvmwdvpt29ure9hauxsc285rs1zmefzevll",
     "type": "video-link",
     "title": "Нуралы Алипа охладили в «Зените». Видео - Sports.kz",
@@ -366,6 +382,22 @@
     "category": "Tech",
     "publishedAt": 1782730332000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV1gtTXdfZWhKek9nOU1vNThFankzbVpTVWdQNkJfSzdET1ZvYkZJQy0zMHRFOFZkeWkxaXMzWTJ3NHRmU0lkUFVnUXc4TFZvdEV5THFOSHZMRkZlcXduTHBJNmltb3pkMGdCTHhZVDEwekpFaGhwZXJkX05GV25WQTI3MEhOR3lvOHIwNmtRVDBPb25LNmdlYkE0R2FlY190MFZyRFVsdE55eXBLVmtpWDFGc25XMmc?oc=5"
+  },
+  {
+    "id": "google-news-video-ru-business-cbmiwafbvv95cuxnz1l2vulqoegtava1dljjbjrxvfjrqnrya0tyr3e5luf0zzz3c0x2vnlydehpafdmthywekxcx3hctelj",
+    "type": "video-link",
+    "title": "В Абайской области пресекли незаконную добычу золота: опубликовано видео спецоперации - SmartNews.kz",
+    "excerpt": "В Абайской области пресекли незаконную добычу золота: опубликовано видео спецоперации SmartNews.kz",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ1l2VUlqOEgtaVA1dlJJbjRxVFJRQnRYa0tYR3E5LUF0ZzZ3c0x2VnlYdEhPaFdmTHYwekxCX3hCTEljd2k3OG5FUUczVFVFNG4zblg5eFhqUjA1cnA2UEJQYm1LY3o0b0RqMTlIUkc5ZFNZUmVYc3VjMEJ6OXRoSDFoR00yRmxteG82ZHpfdnYwTzF3b1U3bFViNmdVQTlHMWVnNkJ4REJFRG5ZUUJlbW5XVVhZMy1UcHFLTkpjOVU?oc=5",
+    "image": null,
+    "channelId": "google-news-video-ru-business",
+    "channelName": "SmartNews.kz",
+    "sourceId": "google-news-video-ru-business",
+    "sourceName": "SmartNews.kz",
+    "sourceHomepage": "https://smartnews.kz",
+    "category": "Business",
+    "publishedAt": 1782729931000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ1l2VUlqOEgtaVA1dlJJbjRxVFJRQnRYa0tYR3E5LUF0ZzZ3c0x2VnlYdEhPaFdmTHYwekxCX3hCTEljd2k3OG5FUUczVFVFNG4zblg5eFhqUjA1cnA2UEJQYm1LY3o0b0RqMTlIUkc5ZFNZUmVYc3VjMEJ6OXRoSDFoR00yRmxteG82ZHpfdnYwTzF3b1U3bFViNmdVQTlHMWVnNkJ4REJFRG5ZUUJlbW5XVVhZMy1UcHFLTkpjOVU?oc=5"
   },
   {
     "id": "google-news-video-ru-sports-cbmiu0fvx3lxtfbuqvnhsvpqd3zpx3hnuuz3ejvyukddr0zyeldjsevwmu5mohf2x3ddytqysfuwwkzrmlnzvfbcvwv5mgxr",
@@ -704,22 +736,6 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNTNPVC1KZ0dOeUNRcGt0SVZPNkZmRkpoeVVCeWc3TVhKeUhWMW40Yldka0pjTkxwMXRGaWQ5Y3d0Ry0yc0t1b0dGaHBScG4xU1ZjV05DYUVTODlzRmtiSGhFYnQ2MUNwYTI3Ui04OWNNM1UzaDFjQ3NabHBFZzBpRlU3a1gtSElLa09jd3lVZFhXajRMUGRGaVU5NFpjNmpMV3BTTFdWR1pjMTlyZGoyR2JTclY2Y0YxZmFyUXlqTTdYWkN2bWNzedIBzgFBVV95cUxNTE14dkFtZ2x5Y0F0dm84SFh5YXlvUWRWTzRBLW9sa3pxRk1WU2F2UU9hQ241b3RUbUl5c00xMzRnM1dvZlQ5djZHSVhOU3Z6dVpqWnJpODQxVnQtUDM4Q3JGQXZ5VTE5anczLWx2Qk9ianNVekJVZ25wbEdsSjZranZ1VEYtcTVZeFVaS2t5ak0tMlBSVnk1UDIwT3RCbG1DQ0hWbDFPWk44OFFPT2gyZkNmcVM2NE9MaWk2dnBsa0p3M0s2alFybFNNSjd4dw?oc=5"
   },
   {
-    "id": "google-news-video-ru-entertainment-cbmihafbvv95cuxnutzhxzu5tmj6vxv2undbdvkwujnsdji2dnl4merkanjpyw9jluvocy1lvmdjd0jnnty1qxjgownyreph",
-    "type": "video-link",
-    "title": "Focal Chorus V 726 vs AllB Music Tower10.2 Valentina - Stereo.ru",
-    "excerpt": "Focal Chorus V 726 vs AllB Music Tower10.2 Valentina Stereo.ru",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUTZHXzU5TmJ6VXV2UndBdVkwUjNsdjI2dnl4MERkanJPYW9jLUVOcy1LVmdJd0JnNTY1QXJGOWNyREpHY0lnU00yVGlReWhmV0VIWk9zd2RUWmpBalUxUHo4V0xLTHZoMDlVaFdLSEZ4ZjFmdGdiTHFORWVDbnVaZnotelY?oc=5",
-    "image": null,
-    "channelId": "google-news-video-ru-entertainment",
-    "channelName": "Stereo.ru",
-    "sourceId": "google-news-video-ru-entertainment",
-    "sourceName": "Stereo.ru",
-    "sourceHomepage": "https://stereo.ru",
-    "category": "Entertainment",
-    "publishedAt": 1782633100000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUTZHXzU5TmJ6VXV2UndBdVkwUjNsdjI2dnl4MERkanJPYW9jLUVOcy1LVmdJd0JnNTY1QXJGOWNyREpHY0lnU00yVGlReWhmV0VIWk9zd2RUWmpBalUxUHo4V0xLTHZoMDlVaFdLSEZ4ZjFmdGdiTHFORWVDbnVaZnotelY?oc=5"
-  },
-  {
     "id": "google-news-video-ru-world-cbmiz0fvx3lxte81r2e1lwdtnkx5vmdnskgzzdlsuxf4bg1fqmetvelcz0tmcwtlewzjnvjpx1uxzvrdevnkvem0vhizmvkt",
     "type": "video-link",
     "title": "Видео: Авария Макса Ферстаппена в финале квалификации - Мир Формулы-1",
@@ -848,6 +864,22 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQX3R0QW9UcURraHY1cnEwa1BEcThWWU1xakItajZqYmVnV3FhcDJ3RHRtem5uTmlNODM0ZFhCNlhjcGJYNFFpWldjSnVPaVFxYXUyY0F6eTU2N3MzX3BrakF0b0NxU2dqSU5xaFVpS05FUWdvNzYyZDVOU1lzaklmVzI2aDRvUWVCcmdKdTFHZEJfMHBBOHNjdGpQSFVlZDZtNGZVWDZiemVIYXd5NlY3RVNpcS0zTmxLUm44UUxfaFhXNmZSTng3VmVJUTdfcUVtNE5JamdzX25udmxsSHJZZDAxeHBmcUFMajl6eU5heXJTUENEV1BhN0VxOGdYUTZHeUV3TlNn?oc=5"
   },
   {
+    "id": "google-news-video-ru-science-cbmioafbvv95cuxqbnlxu1raqi1iqtd6dxc0m1dswgdrqnfrefblcwpnnenpr1ftylflbm1nykzuzkvzbuxuqk5snna1nwdv",
+    "type": "video-link",
+    "title": "Эксперт рассказала о влиянии коротких видео на речь подростков - Наука Mail",
+    "excerpt": "Эксперт рассказала о влиянии коротких видео на речь подростков Наука Mail",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbnlXU1RaQi1iQTd6dXc0M1dSWGdRQnFreFBlcWpNNENPR1FTYlFLbm1NYkZUZkVzbUxuQk5sNnA1NWdVM25YQzdndjFTbDRkNmFWVklIOUF0blR1U3d4Y0gybVFCWFlzaTZsN3JSTm9UdjNjSW1XbmJSRzBWZU52VUJpbVBmTzNfdVRKalF1dTJSWjBNWmlOZ3Y5NW5KQkVi?oc=5",
+    "image": null,
+    "channelId": "google-news-video-ru-science",
+    "channelName": "Наука Mail",
+    "sourceId": "google-news-video-ru-science",
+    "sourceName": "Наука Mail",
+    "sourceHomepage": "https://science.mail.ru",
+    "category": "Science",
+    "publishedAt": 1782473321000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbnlXU1RaQi1iQTd6dXc0M1dSWGdRQnFreFBlcWpNNENPR1FTYlFLbm1NYkZUZkVzbUxuQk5sNnA1NWdVM25YQzdndjFTbDRkNmFWVklIOUF0blR1U3d4Y0gybVFCWFlzaTZsN3JSTm9UdjNjSW1XbmJSRzBWZU52VUJpbVBmTzNfdVRKalF1dTJSWjBNWmlOZ3Y5NW5KQkVi?oc=5"
+  },
+  {
     "id": "google-news-video-ru-sports-cbmi8afbvv95cuxnskyxwjk3etr0sfg5cxzzenngmmq1b2rvzxbxuvkyrjvadvjiq1vite1kyjc1zhzgqvvyvwd3mnatsxh3",
     "type": "video-link",
     "title": "Энберт — о видео тренировки Костомарова: «Радуюсь каждой позитивной новости о его жизни» - sport-express.net",
@@ -926,22 +958,6 @@
     "category": "World",
     "publishedAt": 1782407700000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUV82OWc4bUZlU1R6WDJRaVdMNllyRnN1Z0E1NGc2Qnh3YWdFODhaanB6WnhBb2gyNWU5cFEzbVZNOHlNc0dKbDJBaGtQamV3c19tNF9ualpuQU1LQWNZRE5KaFkwdHFlZkRQVnNUQVlWeWgyNWhGSkRQUEdiQXktOXh6eDU3TWVxRlg3SlBGOW1vTmJVWndfN0xRVlJNeUtUZlYtWFNzcWFvbUtWM0Mzb202UDZOb0phekVlbENEeFNuMVlTaE5PSkNlaXY5bzktS1RaS1JBODF0NlFnekpkV2VSemhxdmcwVkhKX1dJZw?oc=5"
-  },
-  {
-    "id": "google-news-video-ru-entertainment-cbmihwjbvv95cuxotmvrzzvbaevxnfngnndrmzj3rli1lwn3skjvyuhimf9mrm12vwrhnxhvvkh5mznwtk1ielbzb09lampv",
-    "type": "video-link",
-    "title": "Жители Парижа делятся в соцсетях необычными методами, с помощью которых они справляются с 40-градусной жарой - PravilaMag",
-    "excerpt": "Жители Парижа делятся в соцсетях необычными методами, с помощью которых они справляются с 40-градусной жарой PravilaMag",
-    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTmVRZzVBaEVXNFNGNndrMzJ3RlI1LWN3SkJvYUhIMF9mRm12VWRhNXhVVkh5MzNwTk1IelBZb09lampvTmdQWDlzdW1lcFJYQ2s4RU1oT3FPY0NWY1I1YWx2RDZ4aC1XMldUaW9TVVRGSU51NFM0VWZTLWFnckQtWFZzRWlkWHlyMDRmaGF2N2llV1dlNFpKLUpEVG1kMm5vc19DYmZ5RGR2eDdGSjJkS0pmTHNSbV9Ga1VqbENvX2dDcEpVbnVidXZuREZaTE5zTHRjZGNuLUluUVlLTk9GUS05Y1dfaVI1ak1hUkRqNHVUTmFSSnB5eTlzdm1ZMXFzb1hZUEdNaw?oc=5",
-    "image": null,
-    "channelId": "google-news-video-ru-entertainment",
-    "channelName": "PravilaMag",
-    "sourceId": "google-news-video-ru-entertainment",
-    "sourceName": "PravilaMag",
-    "sourceHomepage": "https://www.pravilamag.ru",
-    "category": "Entertainment",
-    "publishedAt": 1782406800000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTmVRZzVBaEVXNFNGNndrMzJ3RlI1LWN3SkJvYUhIMF9mRm12VWRhNXhVVkh5MzNwTk1IelBZb09lampvTmdQWDlzdW1lcFJYQ2s4RU1oT3FPY0NWY1I1YWx2RDZ4aC1XMldUaW9TVVRGSU51NFM0VWZTLWFnckQtWFZzRWlkWHlyMDRmaGF2N2llV1dlNFpKLUpEVG1kMm5vc19DYmZ5RGR2eDdGSjJkS0pmTHNSbV9Ga1VqbENvX2dDcEpVbnVidXZuREZaTE5zTHRjZGNuLUluUVlLTk9GUS05Y1dfaVI1ak1hUkRqNHVUTmFSSnB5eTlzdm1ZMXFzb1hZUEdNaw?oc=5"
   },
   {
     "id": "google-news-video-ru-sports-cbmickfvx3lxte9qeu9pbmtdsdlkx2lorll2wg5hum1owwfxnfbzazfilu5lawlqbhribmo2cww2v09slwpxufp6nthcdgqz",
@@ -1040,6 +1056,22 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWTVIxLXBfSjVRMzJSc1dnUS1iNjN2Y2RoMnd4N1dhWDRLMVFCV2M2N3NvUlJzOFIzdGVDc3lfelMtdV91N2doVnBIWk5EbHlpTk9NNVFILXhmMHV2UnBCZDhR?oc=5"
   },
   {
+    "id": "google-news-video-ru-entertainment-cbminafbvv95cuxpmmhrrtc4awlhdlrtodbxtld5mnzkyuvvnhhhckljdxzln2tmmdbvs2frry1sdmj4adbktur0us15a3ax",
+    "type": "video-link",
+    "title": "Магазины начали отказываться от «физических» изданий GTA VI - ixbt.games",
+    "excerpt": "Магазины начали отказываться от «физических» изданий GTA VI ixbt.games",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMmhRRTc4aWlHdlRTODBXTld5MnZkYUVvNHhhckljdXZLN2tMMDBvS2FRRy1SdmJ4aDBkTUR0US15a3AxdlpYQ3RyVF9Mb2EzRXROQ194aWUtYTEzNDQ1czZ5aXllTVM0RlgzeklISVlURW02V0s4TWZTQmk2eWJlTVI1d3R1SnBkVVhmMzllY0ZmdEZ4OHhoUkQxOFo?oc=5",
+    "image": null,
+    "channelId": "google-news-video-ru-entertainment",
+    "channelName": "ixbt.games",
+    "sourceId": "google-news-video-ru-entertainment",
+    "sourceName": "ixbt.games",
+    "sourceHomepage": "https://ixbt.games",
+    "category": "Entertainment",
+    "publishedAt": 1782324507000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMmhRRTc4aWlHdlRTODBXTld5MnZkYUVvNHhhckljdXZLN2tMMDBvS2FRRy1SdmJ4aDBkTUR0US15a3AxdlpYQ3RyVF9Mb2EzRXROQ194aWUtYTEzNDQ1czZ5aXllTVM0RlgzeklISVlURW02V0s4TWZTQmk2eWJlTVI1d3R1SnBkVVhmMzllY0ZmdEZ4OHhoUkQxOFo?oc=5"
+  },
+  {
     "id": "google-news-video-ru-tech-cbmiwgfbvv95cuxodtjisxzesnpzns1pa1ppww5xc2pkr2v4z2lta3joegzcnuyzslkwz2i2tvb3ylqtnnjzdgzkshnlewfw",
     "type": "video-link",
     "title": "Маловероятно, что новые скриншоты GTA VI сделали на консолях — анализ Digital Foundry - ixbt.games",
@@ -1118,22 +1150,6 @@
     "category": "Business",
     "publishedAt": 1782291900000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnOHh6QnBiNFp0cXo2NWpydE5feHVpUVNNQjFOZy16TEwyRzlEX0JvVnhESnRBMnQ1SU56bFBHVERibWRfdE1mbC0wZGN4eUk1bUtn?oc=5"
-  },
-  {
-    "id": "google-news-video-ru-business-cbmikafbvv95cuxnmgtmc0reqzbwunr5uunocmzwti1en21pavvubejlstbhtxhtnelrwhjhtvo3axazv2g1a18yannunv90",
-    "type": "video-link",
-    "title": "В СКО сын избил пожилого отца и снял всё на видео - SmartNews.kz",
-    "excerpt": "В СКО сын избил пожилого отца и снял всё на видео SmartNews.kz",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMGtMc0REQzBwUnR5UUNOcmZWTi1EN21PaVVubEJlSTBHTXhTNElrWHJHTVo3aXAzV2g1a18yanNUNV90NVdRM3FZT044bFBSRXE4QlNqQjVqZ2Zoc2k1a2dpdjhOXzRKOGhWX0J0TzFDQmI4SVdFOW1JU2laRHNJazctVktrcXlfR0JMSjFxa1Q?oc=5",
-    "image": null,
-    "channelId": "google-news-video-ru-business",
-    "channelName": "SmartNews.kz",
-    "sourceId": "google-news-video-ru-business",
-    "sourceName": "SmartNews.kz",
-    "sourceHomepage": "https://smartnews.kz",
-    "category": "Business",
-    "publishedAt": 1782285840000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMGtMc0REQzBwUnR5UUNOcmZWTi1EN21PaVVubEJlSTBHTXhTNElrWHJHTVo3aXAzV2g1a18yanNUNV90NVdRM3FZT044bFBSRXE4QlNqQjVqZ2Zoc2k1a2dpdjhOXzRKOGhWX0J0TzFDQmI4SVdFOW1JU2laRHNJazctVktrcXlfR0JMSjFxa1Q?oc=5"
   },
   {
     "id": "google-news-video-ru-health-cbmiaefvx3lxte0ytw44d250eejadzftntvgr1rddzy3cfvotgdvnxdkme13rgjqq2vjdwhwagqwczm4r1fmwtdqa2psa3vn",

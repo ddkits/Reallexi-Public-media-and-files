@@ -112,6 +112,22 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90ek5GZkE5WVJ6OGJRa0NnN1B3aHhxRUVvRVJXM2FMMWtTN2h1UHJLS0pncWJpMDVDcERWSlpub0lLdkdoM3FteTI2VzVzdDh0alpwblJNb2JSUXNfWmxjdHFUc1owTXVHeWc?oc=5"
   },
   {
+    "id": "google-news-video-ja-sports-cbmixefvx3lxte1pqm1za0punm1bzetyeu5hwmfzcu81c19ounrzwdk4adl4wkltq3frvvlznkxix3nfa1hiazr5eejxdtdw",
+    "type": "video-link",
+    "title": "テレビ神奈川 News Link「横浜創学館 春季県大会準優勝！ 球速140キロ越えのカルテットに迫る」 - スポーツナビ",
+    "excerpt": "テレビ神奈川 News Link「横浜創学館 春季県大会準優勝！ 球速140キロ越えのカルテットに迫る」 スポーツナビ",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PQm1za0pUNm1BZEtYeU5HWmFZcU81c19OUnRzWDk4aDl4WkltQ3FRVVlZNkxIX3NFa1hIazR5eEJxdTdwTTU0MFh3OXVNWmFoSTNlVm0yVGZsdWF0?oc=5",
+    "image": null,
+    "channelId": "google-news-video-ja-sports",
+    "channelName": "スポーツナビ",
+    "sourceId": "google-news-video-ja-sports",
+    "sourceName": "スポーツナビ",
+    "sourceHomepage": "https://sports.yahoo.co.jp",
+    "category": "Sports",
+    "publishedAt": 1782808650000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PQm1za0pUNm1BZEtYeU5HWmFZcU81c19OUnRzWDk4aDl4WkltQ3FRVVlZNkxIX3NFa1hIazR5eEJxdTdwTTU0MFh3OXVNWmFoSTNlVm0yVGZsdWF0?oc=5"
+  },
+  {
     "id": "google-news-video-ja-sports-cbmixefvx3lxtfblqzrqulpbn0xnykg1r185uwddzxjxdhpsv3v1mdu4znltutrkaffky2dcml9jcflivnjheeoya1cwn3do",
     "type": "video-link",
     "title": "【動画】テレビ神奈川 News Link「相洋 初優勝目指す集大成の夏」 - スポーツナビ「バーチャル高校野球」 - スポーツナビ",
@@ -176,36 +192,20 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhQnJQZWZJZ1o3ZlNpNFJ4Y0pxX0pGLUdpMkpjTmlENzBRc0ZOV182Vm56OWdsWnZrX3VaRGtvREhzbi1FaWxDV2pFaE9MaS1jLVFINA?oc=5"
   },
   {
-    "id": "google-news-video-ja-tech-cbmixefvx3lxte9imhe4oew0nna2bnddu2rrehhfnldttmnkntnusjg2avpua09fzxr5ugzpawvqcgvyluzsz09fvzhrnkne",
+    "id": "google-news-video-ja-science-cbmixefvx3lxte9imhe4oew0nna2bnddu2rrehhfnldttmnkntnusjg2avpua09fzxr5ugzpawvqcgvyluzsz09fvzhrnkne",
     "type": "video-link",
     "title": "松本文部科学大臣記者会見（令和8年6月30日）：文部科学省 - YouTube",
     "excerpt": "松本文部科学大臣記者会見（令和8年6月30日）：文部科学省 YouTube",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iMHE4OEw0NnA2bndDU2RreHhfNldTTmNkNTNUSjg2aVpua09fZXR5UGZpaWVqcGVYLUZSZ09FVzhrNkNEWVFrSDcxOXg5bFlkUGhjeS1TcHFzazdW?oc=5",
     "image": null,
-    "channelId": "google-news-video-ja-tech",
+    "channelId": "google-news-video-ja-science",
     "channelName": "YouTube",
-    "sourceId": "google-news-video-ja-tech",
+    "sourceId": "google-news-video-ja-science",
     "sourceName": "YouTube",
     "sourceHomepage": "https://youtu.be",
-    "category": "Tech",
+    "category": "Science",
     "publishedAt": 1782786756000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iMHE4OEw0NnA2bndDU2RreHhfNldTTmNkNTNUSjg2aVpua09fZXR5UGZpaWVqcGVYLUZSZ09FVzhrNkNEWVFrSDcxOXg5bFlkUGhjeS1TcHFzazdW?oc=5"
-  },
-  {
-    "id": "google-news-video-ja-tech-cbmizkfvx3lxte9vqmxivwfgskv6azn1nnf2rdlfyvc2dw43wdltanfimnvrn0c4wl9pvjy2nlrjaehwb0x5dfdqvgtybxzt",
-    "type": "video-link",
-    "title": "Wall Street ends higher as major tech-related shares jump - Reuters",
-    "excerpt": "Wall Street ends higher as major tech-related shares jump Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vQmxIVWFGSkV6azN1NnF2RDlfYVc2dW43WDlTanFiMnVRN0c4Wl9PVjY2NlRjaEhWb0x5dFdqVGtybXZtX3M2cHJkYmZXMkhjU2g5czdnQVlXOGY1MlJUajdsdGtnZw?oc=5",
-    "image": null,
-    "channelId": "google-news-video-ja-tech",
-    "channelName": "Reuters",
-    "sourceId": "google-news-video-ja-tech",
-    "sourceName": "Reuters",
-    "sourceHomepage": "https://jp.reuters.com",
-    "category": "Tech",
-    "publishedAt": 1782775157000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vQmxIVWFGSkV6azN1NnF2RDlfYVc2dW43WDlTanFiMnVRN0c4Wl9PVjY2NlRjaEhWb0x5dFdqVGtybXZtX3M2cHJkYmZXMkhjU2g5czdnQVlXOGY1MlJUajdsdGtnZw?oc=5"
   },
   {
     "id": "google-news-video-ja-world-cbmicefvx3lxte56wg5hbmt3ymhmq3nnohqtqnbwyxjvwupiqzf4cwtvvxvfbxvswtfsb2ncmhj0dmpqvwxatmrfn2nzwxhi",
@@ -304,6 +304,22 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rTXdfU1ZpOFJnNGVKUkFlTWl2Sm1VZjJWQ1ZtU2V5WGdVSU83OFJUNXNtNWIydzd5SUVQQkVIRWllSHlaWUZXU09WN2dkZHE2TnctaGdrODlTalNjaklCcmhlRUJnQ0hH?oc=5"
   },
   {
+    "id": "google-news-video-ja-tech-cbmie0fvx3lxte1vouthzkpdsmnprututhvvedfazkjhdy1qz0t0mu4zcex6udhfuldgrnduege3wwrmutjiug82mwtotnpp",
+    "type": "video-link",
+    "title": "静岡発、事業共創の2日間。1万人来場「TECH BEAT Shizuoka」と同会場でSTART CAMP 2026が7月開催 - ニコニコニュース",
+    "excerpt": "静岡発、事業共創の2日間。1万人来場「TECH BEAT Shizuoka」と同会場でSTART CAMP 2026が7月開催 ニコニコニュース",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VOUthZkpDSmNpRUtuTHVVeDFaZkJhdy1qZ0t0MU4zcEx6UDhfUldGRndUeGE3WWRMUTJiUG82MWtoTnpPNnluVkNSWUVubE5ZczNmUm5WMGxTZWMzUWZta0tkbU9aZjY2cWc2eWgyREVLdVBfSkRYUXA3bw?oc=5",
+    "image": null,
+    "channelId": "google-news-video-ja-tech",
+    "channelName": "ニコニコニュース",
+    "sourceId": "google-news-video-ja-tech",
+    "sourceName": "ニコニコニュース",
+    "sourceHomepage": "https://news.nicovideo.jp",
+    "category": "Tech",
+    "publishedAt": 1782732623000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VOUthZkpDSmNpRUtuTHVVeDFaZkJhdy1qZ0t0MU4zcEx6UDhfUldGRndUeGE3WWRMUTJiUG82MWtoTnpPNnluVkNSWUVubE5ZczNmUm5WMGxTZWMzUWZta0tkbU9aZjY2cWc2eWgyREVLdVBfSkRYUXA3bw?oc=5"
+  },
+  {
     "id": "google-news-video-ja-entertainment-cbmiv0fvx3lxte5hdzjboufcqvf6retld0jkbunluljyejqxaenkohuzddbkdg1srnjzwepyzkhcnthhsfnnsdhnulq0sy1u",
     "type": "video-link",
     "title": "Amazon Prime Videoで『麒麟がくる』全話見放題配信開始 - x.com",
@@ -400,22 +416,6 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xUHJTVzJIWTZwUDNZUi14UndWNG5nWWt6TzhSVUU5cy15cllWckp3U0NYdGREV2pkNzRRY2VqNkFJU3hDT1hZOTAyTENrMlhObjlmcWRLZkZ6Y0JzcU9FV2FvOU1ucDVvVEJvdXRrQ2tCSjF3dGJmYndYcw?oc=5"
   },
   {
-    "id": "google-news-video-ja-sports-cbmivkfvx3lxte5hd1dore1dogtvsustz0xucenzmk1vmvltqtvlvi1mb1htsmhvblytvunpa21vb0lqsgdvow5jcjvzcunz",
-    "type": "video-link",
-    "title": "【W杯2026】日本vsブラジル スポーツくじWINNERが投票状況を公表 日本の勝利予想%・一番人気など - オリコンニュース",
-    "excerpt": "【W杯2026】日本vsブラジル スポーツくじWINNERが投票状況を公表 日本の勝利予想%・一番人気など オリコンニュース",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hd1dORE1DOGtvSUstZ0xUcENzMk1VMVlTQTVlVi1mb1htSmhvblYtVUNpa21vb0lQSGdvOW5jcjVzcUNzeWFuMV9jRGJlLXNVd0FhbU1R?oc=5",
-    "image": null,
-    "channelId": "google-news-video-ja-sports",
-    "channelName": "オリコンニュース",
-    "sourceId": "google-news-video-ja-sports",
-    "sourceName": "オリコンニュース",
-    "sourceHomepage": "https://www.oricon.co.jp",
-    "category": "Sports",
-    "publishedAt": 1782719640000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hd1dORE1DOGtvSUstZ0xUcENzMk1VMVlTQTVlVi1mb1htSmhvblYtVUNpa21vb0lQSGdvOW5jcjVzcUNzeWFuMV9jRGJlLXNVd0FhbU1R?oc=5"
-  },
-  {
     "id": "google-news-video-ja-science-cbmie0fvx3lxtfbgb0cttenrz3vqmwjvznktmkc3djdqee0tbex5d0g4qzhyv1hwrefsz2h0y3jyz2tpbxjmqnn5xy1wuuv4",
     "type": "video-link",
     "title": "大学研究室に求められる情報発信を支援 共同研究・学生募集につながる「研究室LP」制作サービスを提供 - ニコニコニュース",
@@ -496,11 +496,11 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zc05FWEtfYUluUE00LTFva2t6THI5RFptalRERVYxaXJFcTVsVFFuc3dLSHR5MVpzZnFYMk1FZE5ScDVUMUs1dF9nUzd0YVJNY1VFTTlOM1ROZVU5TUxCbVZRZ1I5RlhIdkVpWlE1clQ0bmVEVXc?oc=5"
   },
   {
-    "id": "google-news-video-ja-tech-cbmivefvx3lxte9tbmpfzl9rn3pldjhybfbmy2rbsjawwdlxmgu3x05lunjrvlmtx3djswp0zzvdcjrunumydvzxoezzntvb",
+    "id": "google-news-video-ja-tech-cbmie0fvx3lxte8xugx2vfrkvvncu0tnntvazjewbnzrd0jmoufpndhuzduzdvitcup6mw5xvew3txppswhtovm3uwdtqzbb",
     "type": "video-link",
     "title": "世界的ヒット映画『CUBE』の監督ヴィンチェンゾ・ナタリが描くSFグラフィック・ノベル『TECH』日本語版の出版が決定 - ニコニコニュース",
     "excerpt": "世界的ヒット映画『CUBE』の監督ヴィンチェンゾ・ナタリが描くSFグラフィック・ノベル『TECH』日本語版の出版が決定 ニコニコニュース",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TbmpFZl9rN3pldjhybFBmY2RBSjAwWDlXMGU3X05LUnJRVlMtX3djSWp0ZzVDcjRUNUMydVZXOEZZNTVBS1NfeWo3TEJEWTlTeHc2ZA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xUGx2VFRKVVNCU0tNNTVaZjEwbnZrd0JmOUFpNDhUZDUzdVItcUp6MW5XVEw3TXppSWhtOVM3UWdTQzBBZGZqX3lhUUU5cHdJQUNjd1dJZmcyWU5jVG9xaDNQbnlJdEhMOWgwTnZxT0dKbzdNNWtvM1hwcw?oc=5",
     "image": null,
     "channelId": "google-news-video-ja-tech",
     "channelName": "ニコニコニュース",
@@ -509,7 +509,7 @@
     "sourceHomepage": "https://news.nicovideo.jp",
     "category": "Tech",
     "publishedAt": 1782700233000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TbmpFZl9rN3pldjhybFBmY2RBSjAwWDlXMGU3X05LUnJRVlMtX3djSWp0ZzVDcjRUNUMydVZXOEZZNTVBS1NfeWo3TEJEWTlTeHc2ZA?oc=5"
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xUGx2VFRKVVNCU0tNNTVaZjEwbnZrd0JmOUFpNDhUZDUzdVItcUp6MW5XVEw3TXppSWhtOVM3UWdTQzBBZGZqX3lhUUU5cHdJQUNjd1dJZmcyWU5jVG9xaDNQbnlJdEhMOWgwTnZxT0dKbzdNNWtvM1hwcw?oc=5"
   },
   {
     "id": "google-news-video-ja-world-cbmivkfvx3lxte9jmgvwakpglvjdsgj3rjyzvgw3a3luujzxqvhacenuefvplwjpsdhtq3zndu1umfluegrwzdlormm2wdlm",
@@ -768,20 +768,20 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11R1E5TDNSRlVWNUZqZFp4YXdabDlZSFI4eGlLZnRRdkRFS1FhQmpzV0dwUGRuR3VPVUk5Ym56Umh6dUVlR0lQaUxpS1Z4bi1oTGRKZV80Y2x3elU?oc=5"
   },
   {
-    "id": "google-news-video-ja-tech-cbmivefvx3lxte9lq3ppbi1koxu2yuxmuez2vkzqyxdfvmdfnjy2a3owsk0tbkxxrdfsnfj0bwoxumnvcxhcx2zfunlaqzrp",
+    "id": "google-news-video-ja-entertainment-cbmivefvx3lxte9qdxrqdtfzmjzsww1oy2hozi1vwhbwt3dmzwtam2u4bhh6uzhxvtd6qs0zszaxwdmzc21eowrbewtqdtq1",
     "type": "video-link",
-    "title": "【なぜ「11人の会社」が巨大テックに勝てるのか】IDEATECH、AI時代の競争戦略ガイド「AI時代の『下剋上』」を無料公開！ - ニコニコニュース",
-    "excerpt": "【なぜ「11人の会社」が巨大テックに勝てるのか】IDEATECH、AI時代の競争戦略ガイド「AI時代の『下剋上』」を無料公開！ ニコニコニュース",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LQ3ppbi1kOXU2YUxmUEZ2VkZQYXdFVmdfNjY2a3owSk0tbkxXRDFsNFJ0bWoxUmNVcXhCX2ZfUnlaQzRPMHRHQlRVS2F1RW9qaElCMQ?oc=5",
+    "title": "世界最大級の造形エンターテインメント番組『NEXT LEVEL SHOWCASE XVIII』公開 - ニコニコニュース",
+    "excerpt": "世界最大級の造形エンターテインメント番組『NEXT LEVEL SHOWCASE XVIII』公開 ニコニコニュース",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qdXRQdTFZMjZSWW1OY2hoZi1VWHBWT3dmZWtaM2U4bHh6UzhxVTd6QS0zSzAxWDMzc21EOWRBeWtqdTQ1RW5ZSDRibkltaEZqX0JmSQ?oc=5",
     "image": null,
-    "channelId": "google-news-video-ja-tech",
+    "channelId": "google-news-video-ja-entertainment",
     "channelName": "ニコニコニュース",
-    "sourceId": "google-news-video-ja-tech",
+    "sourceId": "google-news-video-ja-entertainment",
     "sourceName": "ニコニコニュース",
     "sourceHomepage": "https://news.nicovideo.jp",
-    "category": "Tech",
-    "publishedAt": 1782472697000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LQ3ppbi1kOXU2YUxmUEZ2VkZQYXdFVmdfNjY2a3owSk0tbkxXRDFsNFJ0bWoxUmNVcXhCX2ZfUnlaQzRPMHRHQlRVS2F1RW9qaElCMQ?oc=5"
+    "category": "Entertainment",
+    "publishedAt": 1782472706000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qdXRQdTFZMjZSWW1OY2hoZi1VWHBWT3dmZWtaM2U4bHh6UzhxVTd6QS0zSzAxWDMzc21EOWRBeWtqdTQ1RW5ZSDRibkltaEZqX0JmSQ?oc=5"
   },
   {
     "id": "google-news-video-ja-world-cbmiggfbvv95cuxnmxhfn1bqa3e3ek1nqvb2ymq2s1lmszljzhz0mgtecfjou0uxrxjhvg1nywu5skdtm3vbsm1lytqzyk1k",
@@ -944,6 +944,22 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PT1hCRzRPNVByakU2MWZuZGhxT1M0SDdNV242Tk1LRV83NHZFUWQ3RnJveEJxYmJtMXdpbEtaRDJzcXg4RF9SMktUS3hVN0IyVG9RVnQzVW9EY0FxeWpLNTZVZFFUOHo4X0tZS2ZiZ2FlaU9pM3hPRlVQVQ?oc=5"
   },
   {
+    "id": "google-news-video-ja-entertainment-cbmie0fvx3lxte5tuge1ndzuyjhxdkf4smfuqmp4vlheohbyzzd0txu5v2pxoffindbcmhryns1hdtuyr2ljtwxvzvlxqvvn",
+    "type": "video-link",
+    "title": "Prime Video、7月の配信ラインナップ発表「ドールハウス」「TOKYO MER」「GOOD LUCK！！」など - ｄメニューニュース",
+    "excerpt": "Prime Video、7月の配信ラインナップ発表「ドールハウス」「TOKYO MER」「GOOD LUCK！！」など ｄメニューニュース",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tUGE1NDZuYjhxdkF4SmFUQmp4VlhEOHByZzd0TXU5V2pXOFFiNDBCMHRyNS1HdTUyR2lJTWxVZVlXQVVnd21yZXBFRnJySjZLVGR6OWhuXzVCeFNMak5iRUNQWTFJVzFpYTZYSFJjN0lscHdVU24wTXczd9IBgAFBVV95cUxNMVZYelE5TXJ6S3RFdVhUbnlIdExsYlJXaERJNHVab3RTb3p3RFRLREFRVXF5NmpYWkJFUE9NdXA4azg5ZHlPWDY0VWdfeGFvWmROdHBheU9fTXBCaEpCS2Flb0xETnRxNm4xaDZkaEtmRzEzN2J6dUpURkZrSVpqbw?oc=5",
+    "image": null,
+    "channelId": "google-news-video-ja-entertainment",
+    "channelName": "ｄメニューニュース",
+    "sourceId": "google-news-video-ja-entertainment",
+    "sourceName": "ｄメニューニュース",
+    "sourceHomepage": "https://topics.smt.docomo.ne.jp",
+    "category": "Entertainment",
+    "publishedAt": 1782438206000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tUGE1NDZuYjhxdkF4SmFUQmp4VlhEOHByZzd0TXU5V2pXOFFiNDBCMHRyNS1HdTUyR2lJTWxVZVlXQVVnd21yZXBFRnJySjZLVGR6OWhuXzVCeFNMak5iRUNQWTFJVzFpYTZYSFJjN0lscHdVU24wTXczd9IBgAFBVV95cUxNMVZYelE5TXJ6S3RFdVhUbnlIdExsYlJXaERJNHVab3RTb3p3RFRLREFRVXF5NmpYWkJFUE9NdXA4azg5ZHlPWDY0VWdfeGFvWmROdHBheU9fTXBCaEpCS2Flb0xETnRxNm4xaDZkaEtmRzEzN2J6dUpURkZrSVpqbw?oc=5"
+  },
+  {
     "id": "google-news-video-ja-world-cbmiz0fvx3lxte1mr28zr0t2c19kwhpjx0i4bdlzww5ux1fjszk4vv9jeeg0cwhwq0dhzmp0s2hzaunmz2y2r3kynw1mae43",
     "type": "video-link",
     "title": "アマゾン「Prime Video」、7月の新着作品は「攻殻機動隊」新作や「僕の心のヤバイやつ」「劇場版ポケモン」など - ケータイ Watch",
@@ -958,22 +974,6 @@
     "category": "World",
     "publishedAt": 1782435600000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mR28zR0t2c19KWHpjX0I4bDlzWW5uX1FjSzk4VV9JeEg0cWhWQ0dhZmp0S2hzaUNmZ2Y2R3kyNW1MaE43YjFEa1BMdzh0ZGtLaHhJNm55eDUyWm5ZNTAzb3o5aGF6OFU?oc=5"
-  },
-  {
-    "id": "google-news-video-ja-entertainment-cbmigafbvv95cuxpsvjzrxfwu3zxwc1fnudlngtyumpcq3g3aln6ntrdq2xqbxd3tenhnm9eofhqcuvnwuhyekvjdet4vdhn",
-    "type": "video-link",
-    "title": "柄本佑主演映画『木挽町のあだ討ち』Prime Videoで見放題最速配信 渡辺謙、長尾謙杜らが出演 - ｄメニューニュース",
-    "excerpt": "柄本佑主演映画『木挽町のあだ討ち』Prime Videoで見放題最速配信 渡辺謙、長尾謙杜らが出演 ｄメニューニュース",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSVJzRXFWU3ZxWC1FNUdLNGtYUmpCQ3g3alN6NTRDQ2xqbXd3TENHNm9EOFhqcUVnWUhyekVjdEt4VDhNMVpLVjZmZjdTelBOVDJ1UFpPbnJDWHVuTWFMOHBEczNxNGkxVngtVlhxbUdrR1BJck9FVGktbmNhQkttOdIBhgFBVV95cUxQOW91dnotelpPNVptTmdRbmp0UGctQ3RGaWY5T1NWMzNVVjJNOG44RFFVaFhPY3NWOGN1Z1NRVWRLS1F0MzNubWE0ZkhCNFJ5dWMyRFdnQXZCSy1nSnJRWTNkR2hmVm9ENGI1X1AyU0xDUUpIaUNjSFM1Wk1jTXhBckxfOWRFQQ?oc=5",
-    "image": null,
-    "channelId": "google-news-video-ja-entertainment",
-    "channelName": "ｄメニューニュース",
-    "sourceId": "google-news-video-ja-entertainment",
-    "sourceName": "ｄメニューニュース",
-    "sourceHomepage": "https://topics.smt.docomo.ne.jp",
-    "category": "Entertainment",
-    "publishedAt": 1782435600000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSVJzRXFWU3ZxWC1FNUdLNGtYUmpCQ3g3alN6NTRDQ2xqbXd3TENHNm9EOFhqcUVnWUhyekVjdEt4VDhNMVpLVjZmZjdTelBOVDJ1UFpPbnJDWHVuTWFMOHBEczNxNGkxVngtVlhxbUdrR1BJck9FVGktbmNhQkttOdIBhgFBVV95cUxQOW91dnotelpPNVptTmdRbmp0UGctQ3RGaWY5T1NWMzNVVjJNOG44RFFVaFhPY3NWOGN1Z1NRVWRLS1F0MzNubWE0ZkhCNFJ5dWMyRFdnQXZCSy1nSnJRWTNkR2hmVm9ENGI1X1AyU0xDUUpIaUNjSFM1Wk1jTXhBckxfOWRFQQ?oc=5"
   },
   {
     "id": "google-news-video-ja-tech-cbmiw0fvx3lxte4zv3k3nxlqrfk2agh0wdz3cfoxduriou5tn0pwtna1y05ankhuvfbyrvqzbthonwlusxzuvmpgu01ob3bg",
@@ -1088,22 +1088,6 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40cndsYXZHX19fYU90NmZhTzlmVVFCTVYzYlpzUnJVWWF2dGY4ZDlwcHVMcERnNjNpcmxRd054M1VlcVJpWVBSWW9CR0N3NlRaOVZ2UHJuM2ZhS1U2ejI3UTZBSHFzNkVCRUpnTUFKdXBhOEtGV0QzSkR0MlU?oc=5"
   },
   {
-    "id": "google-news-video-ja-entertainment-cbmic0fvx3lxte1frk53elnzvw1baum5btjyslpvuutya080chl6ng1senfxtkpuvlzym1plae5vdzbhtmj3zfjrbvbszdbo",
-    "type": "video-link",
-    "title": "『ラタタン』発売延期のお詫びとお知らせ - ニコニコニュース",
-    "excerpt": "『ラタタン』発売延期のお詫びとお知らせ ニコニコニュース",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fRk53elNzVW1BaUM5bTJySlpVUUtYa080cHl6NG1senFxTkpuVlZyM1pLaE5vdzBHTmJ3ZFJRbVBSZDBOOGhDbmdYVkFkV0I0QXB1QXQ1TnlRVUdxUGhrdDJoTFJDM3dET05Qd3lERmtubjA?oc=5",
-    "image": null,
-    "channelId": "google-news-video-ja-entertainment",
-    "channelName": "ニコニコニュース",
-    "sourceId": "google-news-video-ja-entertainment",
-    "sourceName": "ニコニコニュース",
-    "sourceHomepage": "https://news.nicovideo.jp",
-    "category": "Entertainment",
-    "publishedAt": 1782388828000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fRk53elNzVW1BaUM5bTJySlpVUUtYa080cHl6NG1senFxTkpuVlZyM1pLaE5vdzBHTmJ3ZFJRbVBSZDBOOGhDbmdYVkFkV0I0QXB1QXQ1TnlRVUdxUGhrdDJoTFJDM3dET05Qd3lERmtubjA?oc=5"
-  },
-  {
     "id": "google-news-video-ja-business-cbmie0fvx3lxte0tuwsws0jfyufsr1jyvk1hn1jqmdbkweo1a18tou5szdb0v1rsujm1bzf6qljayjdmuncxx1m0ewpxrf9z",
     "type": "video-link",
     "title": "生成AIからエージェンティックAIにシフトが進むビジネス現場のAI活用。ローカルAIをデルPrecisionが後押し - ニコニコニュース",
@@ -1152,6 +1136,22 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yX1lyV2RMR1Zyd2hLWDJYREs1VGs5cHJkWTI3NFZWbXZQUUFxUzJHcWtIVGRFSnRiUzNUR0U5WVhHem9yQzZyVzN4VGpFenNIVFI0NEtWWndpNGs?oc=5"
   },
   {
+    "id": "google-news-video-ja-tech-cbmidkfvx3lxte5gdgowt1hiyuvxrmp2evpodgptyjjjcne3ujfozxrcbnvnm24wqm5omxpfq3rubghpbxg5custcjr1smhj",
+    "type": "video-link",
+    "title": "ピクセラ、香港Selepu Technology社と ブレインテック領域で戦略的協業 - ニコニコニュース",
+    "excerpt": "ピクセラ、香港Selepu Technology社と ブレインテック領域で戦略的協業 ニコニコニュース",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GdGowT1hiYUVxRmp2eVpodGptYjJjcnE3UjFOZXRCbnVnM24wQm5OMXpFQ3RUbGhPbXg5cUstcjR1SmhJb2Z2b2E5YnhyREIydU9SUkp1LXMwWldTZXlLWm5jaDA1MF9MbkJKbmN2RmRvUHdSOVE?oc=5",
+    "image": null,
+    "channelId": "google-news-video-ja-tech",
+    "channelName": "ニコニコニュース",
+    "sourceId": "google-news-video-ja-tech",
+    "sourceName": "ニコニコニュース",
+    "sourceHomepage": "https://news.nicovideo.jp",
+    "category": "Tech",
+    "publishedAt": 1782353014000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GdGowT1hiYUVxRmp2eVpodGptYjJjcnE3UjFOZXRCbnVnM24wQm5OMXpFQ3RUbGhPbXg5cUstcjR1SmhJb2Z2b2E5YnhyREIydU9SUkp1LXMwWldTZXlLWm5jaDA1MF9MbkJKbmN2RmRvUHdSOVE?oc=5"
+  },
+  {
     "id": "google-news-video-ja-tech-cbmidkfvx3lxte5nbfhaatf4zuntvfoxshl4slfvvlz2yvhzchhwrzvavdzmdlfkvmhsnellutj4vhl4qnhwbhnybtjyytq5",
     "type": "video-link",
     "title": "GVA TECH株式会社が、AIカスタマーサポートシステム「ヘルプドッグ」を導入 - ニコニコニュース",
@@ -1198,6 +1198,22 @@
     "category": "World",
     "publishedAt": 1782345951000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeU4zMGRSUWNVQS1UWGZoeUxIM3NqV0tfTkFNcEZ6N2Y1M2lNWFRhQzk1YlNDRGJRWmhDZ3RyQzdUTUhzVDZNNW5tcFJjeWFiMFdtY1ljTGN0VzdNeVJRN0JOVGYyMm4wVk54UnpUZXZxX0F4ZG03VTBRbWpwT05SM0dFSVBCOU1iWnpUY05vM0lkWDEwbEdqZFI1ZzFEQXJ3Vm40dTkteXB2SlNIZWx5OG8wZnBNV2tNS1ZaYjJOdGp0a1IwbV8yX0FuMnZ0OGRxZkYwM3lpVU4?oc=5"
+  },
+  {
+    "id": "google-news-video-ja-tech-cbmivefvx3lxte96nnyxrnj0nu4zmgz4tdzesg03rdfjszbldhg0uenrrmt5vghcoe8yweezem01ctfrt1nzwvpdcdrtuxbj",
+    "type": "video-link",
+    "title": "AI検索時代の情報発信を支援、中原 卓馬が「Ahrefs」日本公式アンバサダーに就任 - ニコニコニュース",
+    "excerpt": "AI検索時代の情報発信を支援、中原 卓馬が「Ahrefs」日本公式アンバサダーに就任 ニコニコニュース",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96NnYxRnJ0NU4zMGZ4TDZESG03RDFjSzBLdHg0UENRRmt5VGhCOE8yWEEzem01cTFrT1NZWVpDcDRTUXBjMGR6dEpHUjlnVnFhTnhRMA?oc=5",
+    "image": null,
+    "channelId": "google-news-video-ja-tech",
+    "channelName": "ニコニコニュース",
+    "sourceId": "google-news-video-ja-tech",
+    "sourceName": "ニコニコニュース",
+    "sourceHomepage": "https://news.nicovideo.jp",
+    "category": "Tech",
+    "publishedAt": 1782298840000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96NnYxRnJ0NU4zMGZ4TDZESG03RDFjSzBLdHg0UENRRmt5VGhCOE8yWEEzem01cTFrT1NZWVpDcDRTUXBjMGR6dEpHUjlnVnFhTnhRMA?oc=5"
   },
   {
     "id": "google-news-video-ja-health-cbmivefvx3lxte5nagv5nnd0ohjrtvfvoeo1vghiuddis0ntvk9ntjzvexribhn4b2ndewrzbuzuru9qmtgtevzregz3a0ny",

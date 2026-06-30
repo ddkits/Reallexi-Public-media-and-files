@@ -16,22 +16,6 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUEQtZEYweTJ5QWpuNFh6QU1PbEEtZlBjNWtDOTRTb1JhZWNxMWFLM1lsY29zdjVaYTVLN1pJQUtKTmVVa3BwMjlQalViS2x4Vm4zWUdabFZJc3JiX1pnaFdMTW1tTTgzWXBZdTltSTNUMm82X0tBQ0FzbE5aWTBURHNRT2JScEY4bnAwaDlIa2piWDFBbDdrdzZ2S3FjZFpBRTgtNFpWWkFvWDRDSUtIUXJlT09hUDBB?oc=5"
   },
   {
-    "id": "google-news-video-fr-tech-cbmiwafbvv95cuxpvw41qwpxc1prshzwzvcwz3lxzdlnnjbvvxfqogvumm9xemvpvwphnmmzcwvfuen0ovh4slvietlramn2",
-    "type": "video-link",
-    "title": "Tech & Co, la quotidienne - Mardi 30 juin - BFM",
-    "excerpt": "Tech & Co, la quotidienne - Mardi 30 juin BFM",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVW41QWpXc1prSHZwZVcwZ3lXZDlNNjBvVXFqOGVuMm9XemVpVWpHNmMzcWVFUEN0OVh4SlVieTlramN2aXNnLUtyYy1QQUt5T0dCLUFrdWF6bVpsRVZ2T081UnJuM0xhOTZXdlFXUkVFR2dzZGVGbkFYWUJCR2QyR24yT1lSMVZBWVA2ekFCYVVxdEhZdmRhRmV6LXV0SXZJb0gzZVdORmdsWEZJVXNMeTBPWEd0RlJYdlRnTThwMW0?oc=5",
-    "image": null,
-    "channelId": "google-news-video-fr-tech",
-    "channelName": "BFM",
-    "sourceId": "google-news-video-fr-tech",
-    "sourceName": "BFM",
-    "sourceHomepage": "https://www.bfmtv.com",
-    "category": "Tech",
-    "publishedAt": 1782851841000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVW41QWpXc1prSHZwZVcwZ3lXZDlNNjBvVXFqOGVuMm9XemVpVWpHNmMzcWVFUEN0OVh4SlVieTlramN2aXNnLUtyYy1QQUt5T0dCLUFrdWF6bVpsRVZ2T081UnJuM0xhOTZXdlFXUkVFR2dzZGVGbkFYWUJCR2QyR24yT1lSMVZBWVA2ekFCYVVxdEhZdmRhRmV6LXV0SXZJb0gzZVdORmdsWEZJVXNMeTBPWEd0RlJYdlRnTThwMW0?oc=5"
-  },
-  {
     "id": "google-news-video-fr-sports-cbmisafbvv95cuxqdmriltq3rhkxwhpduxk5rthpz1m4mlg3bulytwnta1l4t2ppwljvrjbzwwtlb2e5ss05x0jydv9cdzvv",
     "type": "video-link",
     "title": "Suède - Potter : ''Il faudra jouer le match de notre vie'' - Sports - Orange",
@@ -142,6 +126,22 @@
     "category": "World",
     "publishedAt": 1782831420000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQWgwbHl3UFc4bnRkbk5zcGVFMm12Zm1ydHpfSlVLaTRnd2RCODRLZkI3ak0tS0o2SWUtdVBpV01OV1l6ZU1vbm1HTXYzR3BRMW9OM01hV1RoZEZ6OFdoaHFrN1VpNWpYXzdfM3NEVUZSVlU1d1RsU2xXQXp5RXFjZE5zM2VITnNmOHZGS0E0N1FTdF8tTVk0OWhoeGVzUQ?oc=5"
+  },
+  {
+    "id": "google-news-video-fr-entertainment-cbmifkfvx3lxte5cr2hpsjhjykxiazytvnlovmhscjnzrnrmnny2bne0vldrrvrkn3c3zc1luvp3zu9xbljunuzjm0znrwzx",
+    "type": "video-link",
+    "title": "\"Un classique du genre sportif, sans hésitation\" : noté 3,8 sur 5, c'est le meilleur film Prime Video de l'année 2026 et on le doit à une immense star hollywoodienne ! - AlloCiné",
+    "excerpt": "\"Un classique du genre sportif, sans hésitation\" : noté 3,8 sur 5, c'est le meilleur film Prime Video de l'année 2026 et on le doit à une immense star hollywoodienne ! AlloCiné",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CR2hPSjhjYkxIazYtVnloVmhscjNZRnRmNnY2bnE0VldrRVRKN3c3ZC1lUVp3ZU9XblJuNUZjM0ZnRWZxV3JMTnV6Y2xfVlBjQjl0dG0wYVV6ZEFKWDE3TEcxaWpIZmVyWFJpTkZUWkVZYldlS1FObExTU08wZw?oc=5",
+    "image": null,
+    "channelId": "google-news-video-fr-entertainment",
+    "channelName": "AlloCiné",
+    "sourceId": "google-news-video-fr-entertainment",
+    "sourceName": "AlloCiné",
+    "sourceHomepage": "https://www.allocine.fr",
+    "category": "Entertainment",
+    "publishedAt": 1782829800000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CR2hPSjhjYkxIazYtVnloVmhscjNZRnRmNnY2bnE0VldrRVRKN3c3ZC1lUVp3ZU9XblJuNUZjM0ZnRWZxV3JMTnV6Y2xfVlBjQjl0dG0wYVV6ZEFKWDE3TEcxaWpIZmVyWFJpTkZUWkVZYldlS1FObExTU08wZw?oc=5"
   },
   {
     "id": "google-news-video-fr-science-cbmixkfvx3lxte9uvelrmxoyc0pezdlueew4lulmykrqeenedzdjyu1jutzmwxpbcdbfbk92b3y2nmc1vmjrbzjtctvlx1dr",
@@ -624,22 +624,6 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOakFNS19HaXlRUW51MjJwSXEwSXZSRlkxZVFqYkFqQkhxbG43RlVxVl9XbmFIUXBaSVE5Z3lKY1BSWDg3a1FheGktZG1MM3ZkUVlfWDMyX3VBdkE0eDFrMXU5QzVYXzctZDZOanZVRndUenB6eHAtdHlCMTdHanB0Szk1T25QYmxsTWlNMmtMTU93LWtGVTZvaUZDa1lGQjRfVVBQbVIzSQ?oc=5"
   },
   {
-    "id": "google-news-video-fr-entertainment-cbmibkfvx3lxte85mtryzzzvtllzrwjvrwhdevk0r3i1yzvvzwdwrgdqrkrhdzdnttruudv3mum2qvb4eev0murruk5fcujb",
-    "type": "video-link",
-    "title": "[Critique] Supergirl : une héroïne forte dans un film trop formaté - Culturellement Vôtre",
-    "excerpt": "[Critique] Supergirl : une héroïne forte dans un film trop formaté Culturellement Vôtre",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85MTRYZzZvTllzRWJvRWhDeVk0R3I1YzVVZWdwRGdqRkRHdzdnTTRuUDV3MUM2QVB4eEV0MURrUk5fcUJBUTVaaHVLUC1XOEJNSTVSTnhVTnVCenFPRmJxRUFITUhzTVJ5UjF4NndR?oc=5",
-    "image": null,
-    "channelId": "google-news-video-fr-entertainment",
-    "channelName": "Culturellement Vôtre",
-    "sourceId": "google-news-video-fr-entertainment",
-    "sourceName": "Culturellement Vôtre",
-    "sourceHomepage": "https://culturellementvotre.fr",
-    "category": "Entertainment",
-    "publishedAt": 1782670286000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85MTRYZzZvTllzRWJvRWhDeVk0R3I1YzVVZWdwRGdqRkRHdzdnTTRuUDV3MUM2QVB4eEV0MURrUk5fcUJBUTVaaHVLUC1XOEJNSTVSTnhVTnVCenFPRmJxRUFITUhzTVJ5UjF4NndR?oc=5"
-  },
-  {
     "id": "google-news-video-fr-entertainment-cbmifkfvx3lxte13ukdmoe8ws3jxd3d0nnrjuhl6zwnvedrcy3lmb2jlc1zlyzc4uug0ce1hvxb4cedxuk5sq1n1v2cxtjnj",
     "type": "video-link",
     "title": "\"Ce film était voué à l'échec\" : il y a 57 ans, Michael Caine a refusé de faire la promotion de ce thriller d'action - AlloCiné",
@@ -832,22 +816,6 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRWZoellrVHVqMjQzNmY1YmhaYzJpTF9EaWNrYTlEdUFBWElHX1E2MU1FVHYzTDJVampmTUR2ODNIaDVybjI3SEhyNlhranNkMXEtOWxnZmM1TUFHSHpXbHFobkFEb2ZGNldGaGZKaDMybURVbWM5c3pSMXotZXpPVGlCbVR6bHcyQ0Rwbw?oc=5"
   },
   {
-    "id": "google-news-video-fr-business-cbmi9afbvv95cuxpnjj3u0t2sk95r0jmuup3qtn0cnbvzen5wndprkhkbxdlu3b4zndptw80sxzzdhy0rlnpzuxom2fueuxk",
-    "type": "video-link",
-    "title": "Hors-Série Les Dossiers BFM Business : Accélérer et créer de la valeur avec l'IA agentique - Samedi 27 juin - Orange Actualités",
-    "excerpt": "Hors-Série Les Dossiers BFM Business : Accélérer et créer de la valeur avec l'IA agentique - Samedi 27 juin Orange Actualités",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNjJ3U0t2Sk95R0JmUUp3QTN0cnBVZEN5WndPRkhkbXdLU3B4ZndPTW80SXZZdHY0RlNpZUxoM2FUeUxkWG43cl82YVBsTGFGLVRHUWcyUHRiOWFxRDdfZGtFTzlLcnpqQmZSZTY2b2VJSlNqTlNwX2M5SmFBaGttMEdJODlHcDc5YnlVVWl3SWRDUnZaWWM0VmIzQmhybHFMUkhSTHpGdDkzdVdZM0xBbGExdDVQbndfY0RRN09tWVVxQzk1Vm5vanRqZjZsV1QwaFFGbEFuWjd5cW43UjlRYnV6YlNrcE03QXlkUUVyUmR1Njhf?oc=5",
-    "image": null,
-    "channelId": "google-news-video-fr-business",
-    "channelName": "Orange Actualités",
-    "sourceId": "google-news-video-fr-business",
-    "sourceName": "Orange Actualités",
-    "sourceHomepage": "https://actu.orange.fr",
-    "category": "Business",
-    "publishedAt": 1782581758000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNjJ3U0t2Sk95R0JmUUp3QTN0cnBVZEN5WndPRkhkbXdLU3B4ZndPTW80SXZZdHY0RlNpZUxoM2FUeUxkWG43cl82YVBsTGFGLVRHUWcyUHRiOWFxRDdfZGtFTzlLcnpqQmZSZTY2b2VJSlNqTlNwX2M5SmFBaGttMEdJODlHcDc5YnlVVWl3SWRDUnZaWWM0VmIzQmhybHFMUkhSTHpGdDkzdVdZM0xBbGExdDVQbndfY0RRN09tWVVxQzk1Vm5vanRqZjZsV1QwaFFGbEFuWjd5cW43UjlRYnV6YlNrcE03QXlkUUVyUmR1Njhf?oc=5"
-  },
-  {
     "id": "google-news-video-fr-world-cbmitwfbvv95cuxqckjjm1jxwnn1mtjwre4tae14whczmet6r0nbbtvnmec0nuc1nhzpcdd0cghzyl9xmgu0uzrxnelfcum3",
     "type": "video-link",
     "title": "Harley-Davidson Bagger World Cup : la première course aux Pays-Bas - motogp.com",
@@ -862,6 +830,22 @@
     "category": "World",
     "publishedAt": 1782573540000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckJjM1JxWnN1MTJWRE4taE14WHczMEt6R0NBbTVnMEc0NUc1NHZpcDd0cGhzYl9XMGU0UzRXNElfcUM3NkdBcW0wbDRGWFhvSmdETWpncDM2aUc1Zm83VzhSMmo0T2ZqTjNKS2d2eWNncTNxdVZPVmVDVi1ndG84ejd2dVp4ZHNNTV9tdmtfME9CSXNaTktrdFhUR1VUVFM3SXFyTHo2eHZ1T2JESTJtXzNaWW9GUTA?oc=5"
+  },
+  {
+    "id": "google-news-video-fr-business-cbmi5afbvv95cuxqtehhuxu4ndvln21vm3rmwfpxz2l0vui2cge2qjfpvww5ttnrdkjyczz2tdr3svhtvel4lwfuckrtawz5",
+    "type": "video-link",
+    "title": "L'une des plus grosses entreprises pétrolières du monde est formelle : il faut passer à la voiture électrique - jeuxvideo.com",
+    "excerpt": "L'une des plus grosses entreprises pétrolières du monde est formelle : il faut passer à la voiture électrique jeuxvideo.com",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTEhHUXU4NDVlN21VM3RMWFpXZ2l0VUI2cGE2QjFPVWw5TTNrdkJyczZ2TDR3SVhtVEl4LWFuckRTaWZ5dEx1c016TUdRUDVGOTFoN2NfUkY5WWFaTE9CQmc3WlNVRWlFYzVXY3dfeDZjY0tjb2FlaExLVlFGeXFBRXhmVEV5ZDNXSTNMeXNvYXN5WVJrbkh6WmpNNEoxX0RTd1ZKZFNQbmxRTWJQZlRqTE1Gb3dPRFlyOGVSY3hOcEhtMGcwR3hZWXA3Sjc0QUhBYUVUZmpkRVZmVWtJZi1JZmlYQVg?oc=5",
+    "image": null,
+    "channelId": "google-news-video-fr-business",
+    "channelName": "jeuxvideo.com",
+    "sourceId": "google-news-video-fr-business",
+    "sourceName": "jeuxvideo.com",
+    "sourceHomepage": "https://www.jeuxvideo.com",
+    "category": "Business",
+    "publishedAt": 1782566109000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTEhHUXU4NDVlN21VM3RMWFpXZ2l0VUI2cGE2QjFPVWw5TTNrdkJyczZ2TDR3SVhtVEl4LWFuckRTaWZ5dEx1c016TUdRUDVGOTFoN2NfUkY5WWFaTE9CQmc3WlNVRWlFYzVXY3dfeDZjY0tjb2FlaExLVlFGeXFBRXhmVEV5ZDNXSTNMeXNvYXN5WVJrbkh6WmpNNEoxX0RTd1ZKZFNQbmxRTWJQZlRqTE1Gb3dPRFlyOGVSY3hOcEhtMGcwR3hZWXA3Sjc0QUhBYUVUZmpkRVZmVWtJZi1JZmlYQVg?oc=5"
   },
   {
     "id": "google-news-video-fr-world-cbmisafbvv95cuxnetfawflox3lxyw9hefrrekmtrhbgm0jsvljwvucyx1nvwmrvvu5lmkjpted0ejjhxzbncjbsyunmbe4y",
