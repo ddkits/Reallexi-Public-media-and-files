@@ -112,22 +112,6 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90ek5GZkE5WVJ6OGJRa0NnN1B3aHhxRUVvRVJXM2FMMWtTN2h1UHJLS0pncWJpMDVDcERWSlpub0lLdkdoM3FteTI2VzVzdDh0alpwblJNb2JSUXNfWmxjdHFUc1owTXVHeWc?oc=5"
   },
   {
-    "id": "google-news-video-ja-sports-cbmixefvx3lxte1pqm1za0punm1bzetyeu5hwmfzcu81c19ounrzwdk4adl4wkltq3frvvlznkxix3nfa1hiazr5eejxdtdw",
-    "type": "video-link",
-    "title": "テレビ神奈川 News Link「横浜創学館 春季県大会準優勝！ 球速140キロ越えのカルテットに迫る」 - スポーツナビ",
-    "excerpt": "テレビ神奈川 News Link「横浜創学館 春季県大会準優勝！ 球速140キロ越えのカルテットに迫る」 スポーツナビ",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PQm1za0pUNm1BZEtYeU5HWmFZcU81c19OUnRzWDk4aDl4WkltQ3FRVVlZNkxIX3NFa1hIazR5eEJxdTdwTTU0MFh3OXVNWmFoSTNlVm0yVGZsdWF0?oc=5",
-    "image": null,
-    "channelId": "google-news-video-ja-sports",
-    "channelName": "スポーツナビ",
-    "sourceId": "google-news-video-ja-sports",
-    "sourceName": "スポーツナビ",
-    "sourceHomepage": "https://sports.yahoo.co.jp",
-    "category": "Sports",
-    "publishedAt": 1782808650000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PQm1za0pUNm1BZEtYeU5HWmFZcU81c19OUnRzWDk4aDl4WkltQ3FRVVlZNkxIX3NFa1hIazR5eEJxdTdwTTU0MFh3OXVNWmFoSTNlVm0yVGZsdWF0?oc=5"
-  },
-  {
     "id": "google-news-video-ja-sports-cbmixefvx3lxtfblqzrqulpbn0xnykg1r185uwddzxjxdhpsv3v1mdu4znltutrkaffky2dcml9jcflivnjheeoya1cwn3do",
     "type": "video-link",
     "title": "【動画】テレビ神奈川 News Link「相洋 初優勝目指す集大成の夏」 - スポーツナビ「バーチャル高校野球」 - スポーツナビ",
@@ -174,22 +158,6 @@
     "category": "Sports",
     "publishedAt": 1782788505000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuMmRITnN6Z1JRYV9HSUJaUXc1djFxX0ZqM3N3Y1JsM3RIYTl4VTNTYmdpRE5Vamh0Qm5HR3lRYWJ1YVVueXZMUGMyY09FWWd0NU1MbUdBN2QybU8zdkJ3?oc=5"
-  },
-  {
-    "id": "google-news-video-ja-health-cbmivefvx3lxtfbhqnjqzwzjz1o3zlnpnfj4y0pxx0pgludpmkpjtmlenzbrc0zov182vm56owdswnzrx3vargtvrehzbi1f",
-    "type": "video-link",
-    "title": "日本の先端医療技術とサービスを世界に発信する国際展示会・カンファレンス「WHX - ニコニコニュース",
-    "excerpt": "日本の先端医療技術とサービスを世界に発信する国際展示会・カンファレンス「WHX ニコニコニュース",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhQnJQZWZJZ1o3ZlNpNFJ4Y0pxX0pGLUdpMkpjTmlENzBRc0ZOV182Vm56OWdsWnZrX3VaRGtvREhzbi1FaWxDV2pFaE9MaS1jLVFINA?oc=5",
-    "image": null,
-    "channelId": "google-news-video-ja-health",
-    "channelName": "ニコニコニュース",
-    "sourceId": "google-news-video-ja-health",
-    "sourceName": "ニコニコニュース",
-    "sourceHomepage": "https://news.nicovideo.jp",
-    "category": "Health",
-    "publishedAt": 1782787523000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhQnJQZWZJZ1o3ZlNpNFJ4Y0pxX0pGLUdpMkpjTmlENzBRc0ZOV182Vm56OWdsWnZrX3VaRGtvREhzbi1FaWxDV2pFaE9MaS1jLVFINA?oc=5"
   },
   {
     "id": "google-news-video-ja-science-cbmixefvx3lxte9imhe4oew0nna2bnddu2rrehhfnldttmnkntnusjg2avpua09fzxr5ugzpawvqcgvyluzsz09fvzhrnkne",
@@ -414,6 +382,22 @@
     "category": "Tech",
     "publishedAt": 1782721828000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xUHJTVzJIWTZwUDNZUi14UndWNG5nWWt6TzhSVUU5cy15cllWckp3U0NYdGREV2pkNzRRY2VqNkFJU3hDT1hZOTAyTENrMlhObjlmcWRLZkZ6Y0JzcU9FV2FvOU1ucDVvVEJvdXRrQ2tCSjF3dGJmYndYcw?oc=5"
+  },
+  {
+    "id": "google-news-video-ja-sports-cbmivkfvx3lxte5hd1dore1dogtvsustz0xucenzmk1vmvltqtvlvi1mb1htsmhvblytvunpa21vb0lqsgdvow5jcjvzcunz",
+    "type": "video-link",
+    "title": "【W杯2026】日本vsブラジル スポーツくじWINNERが投票状況を公表 日本の勝利予想%・一番人気など - オリコンニュース",
+    "excerpt": "【W杯2026】日本vsブラジル スポーツくじWINNERが投票状況を公表 日本の勝利予想%・一番人気など オリコンニュース",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hd1dORE1DOGtvSUstZ0xUcENzMk1VMVlTQTVlVi1mb1htSmhvblYtVUNpa21vb0lQSGdvOW5jcjVzcUNzeWFuMV9jRGJlLXNVd0FhbU1R?oc=5",
+    "image": null,
+    "channelId": "google-news-video-ja-sports",
+    "channelName": "オリコンニュース",
+    "sourceId": "google-news-video-ja-sports",
+    "sourceName": "オリコンニュース",
+    "sourceHomepage": "https://www.oricon.co.jp",
+    "category": "Sports",
+    "publishedAt": 1782719640000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hd1dORE1DOGtvSUstZ0xUcENzMk1VMVlTQTVlVi1mb1htSmhvblYtVUNpa21vb0lQSGdvOW5jcjVzcUNzeWFuMV9jRGJlLXNVd0FhbU1R?oc=5"
   },
   {
     "id": "google-news-video-ja-science-cbmie0fvx3lxtfbgb0cttenrz3vqmwjvznktmkc3djdqee0tbex5d0g4qzhyv1hwrefsz2h0y3jyz2tpbxjmqnn5xy1wuuv4",
@@ -832,20 +816,20 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tMXhFWnc5R1IwcHBvNk9rRzVwWWxMTDFRMldMS1BOQTFneVZaUXhSOU5LSDR5VTVqUEdFT3A5QllubTFDRXRuODBUdG9oOVFYUkYzNW4tSEQxUVc4R19RZ2JB?oc=5"
   },
   {
-    "id": "google-news-video-ja-entertainment-cbmivefvx3lxte1rbvu3bdrrtdhncviyveu1y09omncxbjrrummyazlqd3b5ujf5qwdgdkowrhf5sw50skvqvu9fbdrmz2nc",
+    "id": "google-news-video-ja-health-cbmivefvx3lxte5stenecenux0rpvlryswnovnjkslbob3kzytbimzbwqnctaug3n2lurujavkjstm1ewnrvmwzhvzdonl9y",
     "type": "video-link",
-    "title": "睡眠計量 e-SPORTS CUP『SLEEP FIGHTER II』がYouTube Works Awards - ニコニコニュース",
-    "excerpt": "睡眠計量 e-SPORTS CUP『SLEEP FIGHTER II』がYouTube Works Awards ニコニコニュース",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RbVU3bDRrTDhNcVIyVEU1Y09OMncxbjRRUmMyazlqd3B5UjF5QWdGdkowRHF5SW50SkVqVU9FbDRmZ2NCMW85c3loQ09DanJIS2pkNg?oc=5",
+    "title": "【日本医療政策機構、家畜感染症学会・獣医疫学会・日本獣医学会と共に政策提言】「ワンヘルス時代を支える獣医学分野の疫学教育の在り方」を公表 - ニコニコニュース",
+    "excerpt": "【日本医療政策機構、家畜感染症学会・獣医疫学会・日本獣医学会と共に政策提言】「ワンヘルス時代を支える獣医学分野の疫学教育の在り方」を公表 ニコニコニュース",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5STENEcENuX0RpVlRYSWNOVnJKSlBOb3kzYTBIMzBWQnctaUg3N2luRUJaVkJsTm1EWnRVMWZhVzdoNl9YUnoyLTNJMUYtck4zVG9BSQ?oc=5",
     "image": null,
-    "channelId": "google-news-video-ja-entertainment",
+    "channelId": "google-news-video-ja-health",
     "channelName": "ニコニコニュース",
-    "sourceId": "google-news-video-ja-entertainment",
+    "sourceId": "google-news-video-ja-health",
     "sourceName": "ニコニコニュース",
     "sourceHomepage": "https://news.nicovideo.jp",
-    "category": "Entertainment",
-    "publishedAt": 1782463705000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RbVU3bDRrTDhNcVIyVEU1Y09OMncxbjRRUmMyazlqd3B5UjF5QWdGdkowRHF5SW50SkVqVU9FbDRmZ2NCMW85c3loQ09DanJIS2pkNg?oc=5"
+    "category": "Health",
+    "publishedAt": 1782463700000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5STENEcENuX0RpVlRYSWNOVnJKSlBOb3kzYTBIMzBWQnctaUg3N2luRUJaVkJsTm1EWnRVMWZhVzdoNl9YUnoyLTNJMUYtck4zVG9BSQ?oc=5"
   },
   {
     "id": "google-news-video-ja-business-cbmiekfvx3lxte11c0pysgngtmzkzxfawvbndlhrzws3sjz1lwzkdlm1u0vksk1teenot3pwrtnvwhpsstbyltzwvlbvm1pi",
@@ -974,6 +958,22 @@
     "category": "World",
     "publishedAt": 1782435600000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mR28zR0t2c19KWHpjX0I4bDlzWW5uX1FjSzk4VV9JeEg0cWhWQ0dhZmp0S2hzaUNmZ2Y2R3kyNW1MaE43YjFEa1BMdzh0ZGtLaHhJNm55eDUyWm5ZNTAzb3o5aGF6OFU?oc=5"
+  },
+  {
+    "id": "google-news-video-ja-entertainment-cbmigafbvv95cuxpsvjzrxfwu3zxwc1fnudlngtyumpcq3g3aln6ntrdq2xqbxd3tenhnm9eofhqcuvnwuhyekvjdet4vdhn",
+    "type": "video-link",
+    "title": "柄本佑主演映画『木挽町のあだ討ち』Prime Videoで見放題最速配信 渡辺謙、長尾謙杜らが出演 - ｄメニューニュース",
+    "excerpt": "柄本佑主演映画『木挽町のあだ討ち』Prime Videoで見放題最速配信 渡辺謙、長尾謙杜らが出演 ｄメニューニュース",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSVJzRXFWU3ZxWC1FNUdLNGtYUmpCQ3g3alN6NTRDQ2xqbXd3TENHNm9EOFhqcUVnWUhyekVjdEt4VDhNMVpLVjZmZjdTelBOVDJ1UFpPbnJDWHVuTWFMOHBEczNxNGkxVngtVlhxbUdrR1BJck9FVGktbmNhQkttOdIBhgFBVV95cUxQOW91dnotelpPNVptTmdRbmp0UGctQ3RGaWY5T1NWMzNVVjJNOG44RFFVaFhPY3NWOGN1Z1NRVWRLS1F0MzNubWE0ZkhCNFJ5dWMyRFdnQXZCSy1nSnJRWTNkR2hmVm9ENGI1X1AyU0xDUUpIaUNjSFM1Wk1jTXhBckxfOWRFQQ?oc=5",
+    "image": null,
+    "channelId": "google-news-video-ja-entertainment",
+    "channelName": "ｄメニューニュース",
+    "sourceId": "google-news-video-ja-entertainment",
+    "sourceName": "ｄメニューニュース",
+    "sourceHomepage": "https://topics.smt.docomo.ne.jp",
+    "category": "Entertainment",
+    "publishedAt": 1782435600000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSVJzRXFWU3ZxWC1FNUdLNGtYUmpCQ3g3alN6NTRDQ2xqbXd3TENHNm9EOFhqcUVnWUhyekVjdEt4VDhNMVpLVjZmZjdTelBOVDJ1UFpPbnJDWHVuTWFMOHBEczNxNGkxVngtVlhxbUdrR1BJck9FVGktbmNhQkttOdIBhgFBVV95cUxQOW91dnotelpPNVptTmdRbmp0UGctQ3RGaWY5T1NWMzNVVjJNOG44RFFVaFhPY3NWOGN1Z1NRVWRLS1F0MzNubWE0ZkhCNFJ5dWMyRFdnQXZCSy1nSnJRWTNkR2hmVm9ENGI1X1AyU0xDUUpIaUNjSFM1Wk1jTXhBckxfOWRFQQ?oc=5"
   },
   {
     "id": "google-news-video-ja-tech-cbmiw0fvx3lxte4zv3k3nxlqrfk2agh0wdz3cfoxduriou5tn0pwtna1y05ankhuvfbyrvqzbthonwlusxzuvmpgu01ob3bg",

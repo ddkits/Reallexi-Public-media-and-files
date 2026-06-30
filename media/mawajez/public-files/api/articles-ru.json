@@ -16,6 +16,22 @@
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-science/starhit"
   },
   {
+    "id": "google-news-ru-sports-cbmixgfbvv95cuxprzayovlhaglorkzby1pdblc3vkraq0oty1r1buu0svfbzdvzqw40c08ym3y1y0rpaecybdltaxm0dvjy",
+    "title": "Главный конкурент Месси на ЧМ найден! Холанд уже обошел Лео по одному показателю - Sport24.ru",
+    "excerpt": "Главный конкурент Месси на ЧМ найден! Холанд уже обошел Лео по одному показателю Sport24.ru Кот-д'Ивуар - Норвегия, 30 июня: где смотреть матч ЧМ-2026, прогноз, составы Ведомости Холанд — о победе над Кот‑д’Ивуаром в 1/16 финала ЧМ‑2026: «Этот момент норвежцы будут помнить очень долго» Матч ТВ Тренер Кот-д’Ивуара Фаэ об 1:2 с Норвегией: «Таков футбол, надо реализовывать моменты. К сожалению, в концовке пропустили. Мы сделали все возможное, этого оказалось недостаточно» Спорт Mail Гол Холанда вывел Норвегию в 1/8 финала ЧМ BFM.ru",
+    "slug": "sport24-ru",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRzAyOVlHaGlORkZBY1pDblc3VkRaQ0otY1R1bUU0SVFBZDVzQW40c08yM3Y1Y0RPaEcybDlTaXM0dVJYNDA3eEFzN2l1MUxLMElTWG9oUkRwdXhnbHRvamRrbXNhdzBLYTQxRGttdWFxdlF1ZGRnYy12WWgtNENZb2tnQ3NQVWdkUU5CRFBfZjYtZWFYYTZteEZGTjBlTkJ5c01Vc1JMWDZzVkJWd1V4cDA2V1ZqRFI0bWpLR3hseTdTZlpuUnfSAcsBQVVfeXFMTWp4eWdGV1NLa2piXzhid1pPSnktcEhNSlVfeEhQTDZ6N1Nmb3liZ21ZbGItaVVUNTF4SHpDOXJOak5CMUZzMmlCZEc3S1NmdFU5SnljTkJxS05fOURZczdfTnEyNGc1QlhpUENGanF4U0c4N0YyMkpyc0dWRFQ5MjlHT3RLcHUweW5idmZRRlRQMnNTV00zVUpsMUNXbGxkTExnbGFsVUVaMzRiSW5vbnMtZ0duc25CSFZxRE5RQS1NX2trTWd1R05JNVk?oc=5",
+    "image": null,
+    "sourceId": "google-news-ru-sports",
+    "sourceName": "Sport24.ru",
+    "sourceHomepage": "https://sport24.ru",
+    "sourceFeedName": "Русский News Network",
+    "sourceRegion": "Russia",
+    "category": "Sports",
+    "publishedAt": 1782852341000,
+    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-sports/sport24-ru"
+  },
+  {
     "id": "google-news-ru-science-cbmisefvx3lxte01wlpiuurmzhdjx2jhx2jldgnrweq0bgn4vjnpstdqdhnwsgl6z3b3ovmxb3nkbfqtwgppddj5rmfhsurf",
     "title": "Anthropic изучила психологию Claude Sonnet 5: вот что не устраивает модель в ее же правилах - Хабр",
     "excerpt": "Anthropic изучила психологию Claude Sonnet 5: вот что не устраивает модель в ее же правилах Хабр",
@@ -30,6 +46,22 @@
     "category": "Science",
     "publishedAt": 1782851558000,
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-science/anthropic-claude-sonnet-5"
+  },
+  {
+    "id": "google-news-ru-entertainment-cbmicefvx3lxte50cxdbmjhfbndltw5wuvj4smthzvdnbkxvoweyqva1mvvqxzdyaxbwdjh1yvg3cy1dzkjdr2vldelvcvpy",
+    "title": "Умер звезда «Гарри Поттера» - gazeta.press",
+    "excerpt": "Умер звезда «Гарри Поттера» gazeta.press Ещё заголовки и мнения в приложении \"Google Новости\"",
+    "slug": "gazeta-press",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50cXdBMjhFbndlTW5wUVJ4SmtHZVdNbkxVOWEyQVA1MVVQXzdyaXBWdjh1YVg3cy1DZkJDR2VldElvcVpyaXQ5aTRENUtfZHdHSWMyRVVESG96b0E2Z1JqVU5aMFVUcGc3S05YX29kcXbSAXZBVV95cUxPbld1V3V3bzR5WE9Yd0FILWp5Q3dTY1VTTWJpTHIxaUE1UmVoYmtQWk9CLTRvaWZHcXljakZqV3E0SmtEcUt4RVd1VEdRQXFwZndVbEN0Tk1VUVNZR2FySU9UUjI4N21pRlNBQllaemF3enk4Ukp3?oc=5",
+    "image": null,
+    "sourceId": "google-news-ru-entertainment",
+    "sourceName": "gazeta.press",
+    "sourceHomepage": "https://www.gazeta.press",
+    "sourceFeedName": "Русский News Network",
+    "sourceRegion": "Russia",
+    "category": "Entertainment",
+    "publishedAt": 1782850566000,
+    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-entertainment/gazeta-press"
   },
   {
     "id": "google-news-ru-sports-cbmiswfbvv95cuxoluetyxhitvfjcglknfnpalm0a2pjlunzqm1kwkhkr1d3egl5mmficdvhvnpnn1dra1rvtjv1vzlirmew",
@@ -48,20 +80,20 @@
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-sports/eadaily"
   },
   {
-    "id": "google-news-ru-sports-cbmixgfbvv95cuxprzayovlhaglorkzby1pdblc3vkraq0oty1r1buu0svfbzdvzqw40c08ym3y1y0rpaecybdltaxm0dvjy",
-    "title": "Главный конкурент Месси на ЧМ найден! Холанд уже обошел Лео по одному показателю - Sport24.ru",
-    "excerpt": "Главный конкурент Месси на ЧМ найден! Холанд уже обошел Лео по одному показателю Sport24.ru Кот-д'Ивуар - Норвегия, 30 июня: где смотреть матч ЧМ-2026, прогноз, составы Ведомости Холанд — о победе над Кот‑д’Ивуаром в 1/16 финала ЧМ‑2026: «Этот момент норвежцы будут помнить очень долго» Матч ТВ Тренер Кот-д’Ивуара Фаэ об 1:2 с Норвегией: «Таков футбол, надо реализовывать моменты. К сожалению, в концовке пропустили. Мы сделали все возможное, этого оказалось недостаточно» Спорт Mail Матч 1/16 финала ЧМ по футболу-2026 завершился победой Норвегии Национальная Служба Новостей - НСН",
-    "slug": "sport24-ru",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRzAyOVlHaGlORkZBY1pDblc3VkRaQ0otY1R1bUU0SVFBZDVzQW40c08yM3Y1Y0RPaEcybDlTaXM0dVJYNDA3eEFzN2l1MUxLMElTWG9oUkRwdXhnbHRvamRrbXNhdzBLYTQxRGttdWFxdlF1ZGRnYy12WWgtNENZb2tnQ3NQVWdkUU5CRFBfZjYtZWFYYTZteEZGTjBlTkJ5c01Vc1JMWDZzVkJWd1V4cDA2V1ZqRFI0bWpLR3hseTdTZlpuUnc?oc=5",
+    "id": "google-news-ru-entertainment-cbmickfvx3lxte03b25pnhvqu1jyr1g0dxbwafztotnetvlxnjl4dxjrrdbzclrtbxhtbxpjrlzfowhlng53vlzdz0njvk50",
+    "title": "Deadline: Том Харди урегулировал конфликт с авторами «Гангстерленда» и вернётся в третьем - DTF",
+    "excerpt": "Deadline: Том Харди урегулировал конфликт с авторами «Гангстерленда» и вернётся в третьем DTF Возвращение дня. Том Харди уладил конфликт с продюсерами «Гангстерленда» и появится в 3 сезоне сериала Kinomania.ru Определена судьба Тома Харди в 3 сезоне «Гангстерленда» Plugged In Ru Гай Ричи помог уладить конфликт на съёмках сериала «Гангстерленд»: Том Харди осаётся на третий сезон КГ-Портал Том Харди всё же сыграет в третьем сезоне «Гангстерленда» — актёр помирился с авторами шоу Рамблер/новости",
+    "slug": "deadline-dtf",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE03b25PNHVQU1JyR1g0dXBWaFZTOTNETVlXNjl4dXJRRDBZclRTbXhtbXpjRlZFOWhLNG53VlZDZ0NjVk50Tm5oMkpiM0JNX3ZiOFpVcVJhdVZPWFFadmNXUnBNQ2NvUmM5QnhpcXI0ek9Pdw?oc=5",
     "image": null,
-    "sourceId": "google-news-ru-sports",
-    "sourceName": "Sport24.ru",
-    "sourceHomepage": "https://sport24.ru",
+    "sourceId": "google-news-ru-entertainment",
+    "sourceName": "DTF",
+    "sourceHomepage": "https://dtf.ru",
     "sourceFeedName": "Русский News Network",
     "sourceRegion": "Russia",
-    "category": "Sports",
-    "publishedAt": 1782847301000,
-    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-sports/sport24-ru"
+    "category": "Entertainment",
+    "publishedAt": 1782847421000,
+    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-entertainment/deadline-dtf"
   },
   {
     "id": "google-news-ru-world-cbmipwfbvv95cuxpwjhos2g5neh5a2y5mutlt0nlyxvxvddtb21wvkvwau5isld2x2xiuxhxnmrmv1dpc0fjd3hfbnnhynbc",
@@ -160,20 +192,20 @@
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-world/eadaily"
   },
   {
-    "id": "google-news-ru-entertainment-cbminwfbvv95cuxnafhuc0pkclvkzui4u3zssldkwenrs3lkedhlogqtau43bdbhnfdebdn5u21tmhfdqzbjmffdbmiyugn5",
-    "title": "Провокации ради энергии: Алла Довлатова рассказала об отношении к негативу в сети - ТВ Mail",
-    "excerpt": "Провокации ради энергии: Алла Довлатова рассказала об отношении к негативу в сети ТВ Mail Смена амплуа на дерзкого провокатора: радиоведущая объяснила радость от массовых оскорблений в Сети Правда.Ру Алла Довлатова рассказала, что специально провоцирует хейтеров muz-tv.ru Радиоведущая Алла Довлатова призналась, что сама провоцирует своих хейтеров Life.ru Алла Довлатова рассказала о своем отношении к хейтерам NEWS.ru",
-    "slug": "mail",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaFhUc0pKclVkZUI4U3ZsSldkWENRS3lkeDhlOGQtaU43bDBhNFdEbDN5U21tMHFDQzBjMFFDbmIyUGN5aFVZQlBzVFNLX0lGMU9uQmFsUTV5R0FmSUxFZG5XNnFjalJCTnBVbXRud3lKcjhxLUxTdDJTdGlyeVFsZjE3WG5KUS1oWnVNWEs0elY0YVVtNzFYVEE2UVJWY00?oc=5",
+    "id": "google-news-ru-world-cbmitkfvx3lxtfbroelxahi5ntfhv0tmbzdqcdvewudtchphvjnxsufqv1pyde45evpbbjhbymxeanzbuzbbu0r4qjfxd2no",
+    "title": "Число жертв землетрясений в Венесуэле превысило 1,9 тыс. человек - Интерфакс",
+    "excerpt": "Число жертв землетрясений в Венесуэле превысило 1,9 тыс. человек Интерфакс «Мы ждем ответов». Венесуэльцы своими руками раскапывают завалы после землетрясений и критикуют власти BBC Удар по власти из-под земли. Венесуэла не справляется с трагедией Радио Свобода «Это очень печально»: в Венесуэле обновили число жертв мощнейших землетрясений RTVI Ирак рассматривает возможность выхода из ОПЕК. Землетрясение в Венесуэле Серебряный Дождь",
+    "slug": "1-9",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrOElxaHI5NTFhV0tmbzdQcDVEWUdTcHpHVjNxSUFqV1pydE45eVpBbjhBYmxEanZBUzBBU0R4QjFxd2NOcUdsLWV4MmZEd9IBS0FVX3lxTFBSOElOVkp0RW1VZzFIZWhFOV9US1c1NE1wZnNnTWprVGhNTHZDYVRsTUJZN2ZMZTB6Z2VFQkRwaEpkWG5ySjgtN1BJaw?oc=5",
     "image": null,
-    "sourceId": "google-news-ru-entertainment",
-    "sourceName": "ТВ Mail",
-    "sourceHomepage": "https://tv.mail.ru",
+    "sourceId": "google-news-ru-world",
+    "sourceName": "Интерфакс",
+    "sourceHomepage": "https://www.interfax.ru",
     "sourceFeedName": "Русский News Network",
     "sourceRegion": "Russia",
-    "category": "Entertainment",
-    "publishedAt": 1782843300000,
-    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-entertainment/mail"
+    "category": "World",
+    "publishedAt": 1782843720000,
+    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-world/1-9"
   },
   {
     "id": "google-news-ru-entertainment-cbmirafbvv95cuxqbuh4z1v5emi4oe4wcjn0mwplvfnpvmn2tuftc2f4uk9ylu9mcxv0mllpvel0sg9qmjvowdzorepbrhrz",
@@ -189,6 +221,22 @@
     "sourceRegion": "Russia",
     "category": "Entertainment",
     "publishedAt": 1782841501000,
+    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-entertainment/mail"
+  },
+  {
+    "id": "google-news-ru-entertainment-cbmipwfbvv95cuxnqmxvdfdumudxvjlsckm1tmjisfdnsfm3xzfuehh6swxdb053nuo1evfbyxo2rw5xawy3cldfrnrsewdx",
+    "title": "Виктория Толстоганова показала лицо без фильтров: реакция подписчиков, фото, ирония актрисы - Кино Mail",
+    "excerpt": "Виктория Толстоганова показала лицо без фильтров: реакция подписчиков, фото, ирония актрисы Кино Mail «У меня выросли усы»: Виктория Толстоганова показала лицо вблизи со всеми несовершенствами StarHit Виктория Толстоганова в 54 года выложила селфи без фильтров: «Не люблю краситься, люблю не краситься» Пульсфид",
+    "slug": "mail",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQmxvdFdUMUdXVjlSckM1TmJISFdNSFM3XzFUeHh6SWxDb053NUo1eVFBYXo2RW5xaWY3cldFRnRseWdxLWFUQXdiaUZlOTQwTjFqaDJ1SFl3UFFpS3BpMXZKZXBpY2xYSlJ4TUVHQUlaN25YWmdNY2pRUnF6TzQxY0llX2piRVREUUNHZjVoakJSOWJKcjJqSnZSY0JKYndJUUlsNEVWaw?oc=5",
+    "image": null,
+    "sourceId": "google-news-ru-entertainment",
+    "sourceName": "Кино Mail",
+    "sourceHomepage": "https://kino.mail.ru",
+    "sourceFeedName": "Русский News Network",
+    "sourceRegion": "Russia",
+    "category": "Entertainment",
+    "publishedAt": 1782840600000,
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-entertainment/mail"
   },
   {
@@ -240,6 +288,22 @@
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-entertainment/18"
   },
   {
+    "id": "google-news-ru-entertainment-cbmipgfbvv95cuxnu3lrbzd3cgdtufrrt1rdx1gtdk1msklvy0fcqnpld2k4qjrmagduzuhhbvj2z3nzstdnwthlqnnnzdf4",
+    "title": "Отдых Веры Брежневой на Кипре: прогулки, пляж и рестораны, подробности поездки - ТВ Mail",
+    "excerpt": "Отдых Веры Брежневой на Кипре: прогулки, пляж и рестораны, подробности поездки ТВ Mail",
+    "slug": "mail",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU3lrbzd3cGdtUFRrT1RDX1gtdk1MSklVY0FCQnpLd2k4QjRMaGdUZUhHbVJ2Z3NZSTdnWThlQnNnZDF4OGRnUjNETDZ2R3BQdVlubFdHM2VXS3RRSHhKWEdvSzY1NjlaQWJIVjluVjJCM0R5cTVKSHAtbWVBYVhDbGJ1UUZrZmRHa2JaUExURnQ5NmM2X3g1b2t3MWF6U2xQVU1OSjlB?oc=5",
+    "image": null,
+    "sourceId": "google-news-ru-entertainment",
+    "sourceName": "ТВ Mail",
+    "sourceHomepage": "https://tv.mail.ru",
+    "sourceFeedName": "Русский News Network",
+    "sourceRegion": "Russia",
+    "category": "Entertainment",
+    "publishedAt": 1782838320000,
+    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-entertainment/mail"
+  },
+  {
     "id": "google-news-ru-entertainment-cbmipgfbvv95cuxoutbhd2tpd0voazkxnvf3mfbwwxntmmtlukfhohy2mullbvo2a3z1n25ybdr4zws5tzj1svdaegruwgox",
     "title": "Шеф-повар Ивлев вышел в свет с бывшей женой и подросшей дочерью - ТВ Mail",
     "excerpt": "Шеф-повар Ивлев вышел в свет с бывшей женой и подросшей дочерью ТВ Mail",
@@ -256,22 +320,6 @@
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-entertainment/mail"
   },
   {
-    "id": "google-news-ru-entertainment-cbmiowfbvv95cuxoshp3amlpynfzm2gxbg1rtndkrepivuk0bkf1ylp2zdbyzxvucxdnwgjpc01ucep4s2jtynnkrujpmxjx",
-    "title": "Волочкова жестко ответила на отказ SHAMAN записать песню - Рамблер/новости",
-    "excerpt": "Волочкова жестко ответила на отказ SHAMAN записать песню Рамблер/новости Волочкова объяснила, почему ей не нужен дуэт с Shaman: отказ, творческие планы, элита ТВ Mail Волочкова дерзко ответила Shaman на отказ в записи дуэта URA.RU Волочкова изъявила желание спеть дуэтом с Shamanом Общественная служба новостей Публичное фиаско балерины: певец Шаман отказал Анастасии Волочковой в сомнительном дуэте Правда.Ру",
-    "slug": "shaman",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSHp3amlPYnFZM2gxbG1RTndKREpIVUk0bkF1Ylp2ZDByZXVUcXdnWGJpc01UcEp4S2JtYnNKRUJpMXJxS0otTXl6VVdqLV9JYjJMZFBnbVdxdDBFMVRIX1hMNFlZWGhOZWptb2FaSnRabVJma1NCa29BbnBka0JfYU04emJweEEzTUhuR2R0QmRwdlA0d1ZWRlF3SjB2WW5nOHdn0gGoAUFVX3lxTFBlR2dQUnY2MXhreU5hSmIxOGtianMwczNnQUZrX05QTkZGbmI1b1VMU2tjSzY5Y2xfRUJjY0gxUnY0MXQ0a01abzV1aHBxOVl0eHVFYTgzYXdSZ254QWdZRzhvWUVKa2xYLW1nYkhsUFQ5Y3F1ejIzOTNyT29BRG9NM05tTkFVZGstZVlWVGptbkJzWjNvcWV3QVo2S3dYNjJUamhIcEwwWA?oc=5",
-    "image": null,
-    "sourceId": "google-news-ru-entertainment",
-    "sourceName": "Рамблер/новости",
-    "sourceHomepage": "https://news.rambler.ua",
-    "sourceFeedName": "Русский News Network",
-    "sourceRegion": "Russia",
-    "category": "Entertainment",
-    "publishedAt": 1782837488000,
-    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-entertainment/shaman"
-  },
-  {
     "id": "google-news-ru-business-cbmiuefvx3lxte9mrgm5afngahplztdknthgc05hegzqoevfbfdhu1rjt3k1t2zwcldtbgtfrvg4z0nna2v1a3hnzkxlqjfr",
     "title": "АГР представил еще одну модель своей марки Jeland - Дром Новости",
     "excerpt": "АГР представил еще одну модель своей марки Jeland Дром Новости Бренд Jeland расшифровал значение своего названия ВФокусе Mail Представлен новый городской кроссовер, который будут полностью выпускать в России. Что это за автомобиль Автоновости дня Кроссовер Omoda C5 перевоплотился в Jeland C5 Авторевю Новый кроссовер Jeland J5 показали официально. Это «близнец» Om... Китайские автомобили",
@@ -284,8 +332,24 @@
     "sourceFeedName": "Русский News Network",
     "sourceRegion": "Russia",
     "category": "Business",
-    "publishedAt": 1782836698000,
+    "publishedAt": 1782836888000,
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-business/jeland"
+  },
+  {
+    "id": "google-news-ru-world-cbmiswfbvv95cuxnzwretlq2v21tzfrwd1vreui2ofrydwnpuzvuwexpsfjgu2zymfbebkvysvjnuwdjcfrkcu95stvaqvm2",
+    "title": "Литовский парламент денонсировал соглашение о движении с Белоруссией - EADaily",
+    "excerpt": "Литовский парламент денонсировал соглашение о движении с Белоруссией EADaily Осажденная глупость, или Как белорусский безвиз превратил Литву в картонный павильон страха СБ. Беларусь сегодня Литва ужесточила ограничения для белорусов Рамблер/новости В Литве денонсировали соглашение с Беларусью о приграничном движении, которое и так никогда не работало Наша Ніва «Больше не актуален». Литва расторгла договор с Беларусью о приграничном движении belsat.ru",
+    "slug": "eadaily",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZWRETlQ2V21TZFRwd1VReUI2OFRYdWNPUzVuWExPSFJGU2ZYMFBEbkVYSVJNUWdJcFRKcU95STVaQVM2TmdzMi1KeE9EWURKS25uSVVIZEtSN3F0NzF2b0pkM3dNUFJhUFhNSjJsWk9zNkFHM0huOVRLTWw5eTRnZUVKTkljZFNCalBTel9oeEtuMjNQV19Pc1duOGhvYzg1djlBc3dxcDFVNEJrdVM1M3FHWdIBtwFBVV95cUxPdHhud2QydWZ4VkNRbDk4dmlaRkJlRi1ldjhYWnZ0RjVxa05Bd2xqMjlhZ1FScGtBNmFZSGhDNnJLUXpjY3V4Wk9sd3hndjVSSktYaXg0SFgwOUZRSWFGXzJuWTZwOG1DNVNVUnp2d2I4RXAxOERKcXgxcFJvaG5VMy1zRHpnUE1CTGhXTzdNZFlmZFc5NUZEWWRpZzRCY01SRGhnb3RnWUE0UGUycFR2c18zT2t5ODQ?oc=5",
+    "image": null,
+    "sourceId": "google-news-ru-world",
+    "sourceName": "EADaily",
+    "sourceHomepage": "https://www.eadaily.com",
+    "sourceFeedName": "Русский News Network",
+    "sourceRegion": "Russia",
+    "category": "World",
+    "publishedAt": 1782836820000,
+    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-world/eadaily"
   },
   {
     "id": "google-news-ru-business-cbmidefvx3lxte5fdetmcw4twel1uej2wuxyvgy0thu2odhedxm0zkzutdzcqwfbrlb4y1u3q1pvvdvwsgdfnutyswlkbtk4",
@@ -318,6 +382,22 @@
     "category": "Tech",
     "publishedAt": 1782835485000,
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-tech/it"
+  },
+  {
+    "id": "google-news-ru-entertainment-cbmimwfbvv95cuxqb3dlbk5yqnlga0ixvfplaey2zfj2u2gws0lta2hxltz1nev2ndvrrwu3a29ewdnwughnbkxgrunqrfph",
+    "title": "Волочкова объяснила, почему ей не нужен дуэт с Shaman: отказ, творческие планы, элита - ТВ Mail",
+    "excerpt": "Волочкова объяснила, почему ей не нужен дуэт с Shaman: отказ, творческие планы, элита ТВ Mail Волочкова дерзко ответила Shaman на отказ в записи дуэта URA.RU Волочкова изъявила желание спеть дуэтом с Shamanом Общественная служба новостей Публичное фиаско балерины: певец Шаман отказал Анастасии Волочковой в сомнительном дуэте Правда.Ру Анастасия Волочкова прокомментировала отказ Shaman спеть дуэтом spbdnevnik.ru",
+    "slug": "shaman-mail",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb3dLbk5YQnlGa0IxVFpLaEY2ZFJ2U2gwS0lTa2hXLTZ1NEV2NDVrRWU3a29EWDNwUGhNbkxGRUNqRFpHb2V2Q29uWDBZMk5mZ21yUjNVM1J4QTJFYjVwUG9JTXRuUEt0X0RPakZ4WXY1TVVINzhDbGZRMmc2TXdnNnBuSnE0amZxM2RGNTg5WXFISkl4VkI4cUIybw?oc=5",
+    "image": null,
+    "sourceId": "google-news-ru-entertainment",
+    "sourceName": "ТВ Mail",
+    "sourceHomepage": "https://tv.mail.ru",
+    "sourceFeedName": "Русский News Network",
+    "sourceRegion": "Russia",
+    "category": "Entertainment",
+    "publishedAt": 1782835440000,
+    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-entertainment/shaman-mail"
   },
   {
     "id": "google-news-ru-sports-cbmi6gfbvv95cuxoa0wyae1kv1b0u081v3c0x08znduteeuxqtzpdvzztzm0ytzkrkdgrwpka20tvgrxswrjtlfcs3dqzdyw",
@@ -368,6 +448,22 @@
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-tech/realme-c100x-rozetked-me"
   },
   {
+    "id": "google-news-ru-world-cbmiywfbvv95cuxqduvgmxbanme3duetr3benlfhmzy2dkrwvjrbb1jitnvonexrcmu3nklxq21hu0ntufqtmhuxt1hhblzq",
+    "title": "История повторяется дважды: Поляки сдают украинские награды в музей Волынской резни - EADaily",
+    "excerpt": "История повторяется дважды: Поляки сдают украинские награды в музей Волынской резни EADaily Польский экс-министр вернул украинскую награду и напомнил Киеву о геноциде Рамблер/новости Еще два польских политика отказались от наград Украины. Их передадут не в Киев, а в Музей памяти жертв Волынской резни Мировое обозрение Моравецкий публично отказался от украинской госнаграды 360.ru Лидер польской оппозиции Качиньский вернет на Украину орден Ярослава Мудрого / Новости Независимая газета",
+    "slug": "eadaily",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUVGMXBaNmE3dUEtR3BENlFHMzY2dkRWVjRBb1JiTnVoNExrcmU3NklXQ21hU0NTUFQtMHUxT1hHblZqOHAyUHJ5OWRheDNreGdZQTR1aVItcGhyTzMweGl3RTZ0UFFjTjBDWnQ4aXdRN1BfekxYUkg4MzVsQ2JBc2VqNzZ5UG1yUENBQm5jOUQ1djRqZU1Yb0E4eDBZRFNoMTVZeGtCYUhOYWFwVVVDVzZfWkFCQXhBT1NfYWdUY04xdTlzRWRwZldfMNIBzwFBVV95cUxQVFJIR18zdlM5NTI3bmEzQmJXaWZFRDlOYWJFbnNUMnd2MWhXbE02ellrMS1kdGN1M2tXSk04a3FhaWlsSHNVZWl6OWN2UFAxTXpORG9xaG5IU2lBZjd0cEZ1dnNEYTJYc09yZ1ZQamRXTlJpTHVIcmwwbV9iRDRrMTNaU2dUN1pKSTVuNlZ6dDNIU216XzFFcU15M2dEaExlVTU1bk11Rkdya0NCcGpDMk1xT1Ntd0oxa2F4TFpxX1c1RjNWYWxGZmxOak5RdkE?oc=5",
+    "image": null,
+    "sourceId": "google-news-ru-world",
+    "sourceName": "EADaily",
+    "sourceHomepage": "https://www.eadaily.com",
+    "sourceFeedName": "Русский News Network",
+    "sourceRegion": "Russia",
+    "category": "World",
+    "publishedAt": 1782833940000,
+    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-world/eadaily"
+  },
+  {
     "id": "google-news-ru-entertainment-cbmir0fvx3lxte9raux3rwd2q3fxc0rbwunxmnz6dellbwhdatixz0lwywu1alpwtmnsx2fwb3nlmufoeliwtfjud1ppcg5x",
     "title": "Экс-жена звезды «Счастливы вместе» назвала свой брак с Логиновым «страшным сном» - URA.RU",
     "excerpt": "Экс-жена звезды «Счастливы вместе» назвала свой брак с Логиновым «страшным сном» URA.RU Экс-жена звезды «Счастливы вместе» разорвала с ним все связи после развода Кино Mail Виктор Логинов развелся с молодой женой после обвинений в изменах и рукоприкладстве StarHit Мария Гуськова прокомментировала слухи о примирении с Виктором Логиновым muz-tv.ru Актер «Гена Букин» развелся с красоткой, которая младше его на 24 года. Она обвиняла его в насилии и изменах Е1.ру",
@@ -416,22 +512,6 @@
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-world/cbmitkfvx3lxte82wnnuvlhumkvmltzny2vys0nonxyxufd3nwhwdthpvgzfyth5t1dyemttvnhoa2j6vja2vejzefbpv3j5zvzrz3vsnlh3z9ibs0fvx3lxte1wmi1lr3riu0tpsunwwjl6yniylvznnnbbsxnrx1lfcgdiuzcxx1j1vgrnbmozotfzltvpywfmtl8ym0l0dgtod3bqyw"
   },
   {
-    "id": "google-news-ru-entertainment-cbmipwfbvv95cuxnr2ltb3juz29csmtvtthtbjnfuxh5nkpcruneoxn3bne2avnncvu2zudjsmzjqkzazgrbmzlungjnq2zo",
-    "title": "Shaman опроверг слухи о расставании с Мизулиной: реакция артиста, подробности - ТВ Mail",
-    "excerpt": "Shaman опроверг слухи о расставании с Мизулиной: реакция артиста, подробности ТВ Mail СМИ: SHAMAN и Екатерина Мизулина сыграли тайную свадьбу в кругу семьи muz-tv.ru SHAMAN и Екатерина Мизулина скромно отметили свадьбу на Патриках: гостями стали Лепс, теща Дронова и ближний круг StarHit Shaman объяснил развод в Год семьи Сибнет \"Зачем идти на сделку с совестью?\": Shaman объяснил, почему развелся с Екатериной Мизулиной TOPNews.RU",
-    "slug": "shaman-mail",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR2lTb3JuZ29CSmtVTThtbjNFUXh5NkpCRUNEOXN3bnE2aVNNcVU2ZUdJSmZjQkZaZGRBMzlUNGJnQ2ZOMlJzR2k1X2lCOHpQbmNiSTlvaktoX3RweFBtSWxjekVxcWdyaXhfWUFMMl9faW5QRnVhSWFNSkM4dkdKMVNtMGVCdEg1LXVVNzFENmEtdURoaGlzMlpiN0FxbWpMOWkxaGVydw?oc=5",
-    "image": null,
-    "sourceId": "google-news-ru-entertainment",
-    "sourceName": "ТВ Mail",
-    "sourceHomepage": "https://tv.mail.ru",
-    "sourceFeedName": "Русский News Network",
-    "sourceRegion": "Russia",
-    "category": "Entertainment",
-    "publishedAt": 1782832500000,
-    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-entertainment/shaman-mail"
-  },
-  {
     "id": "google-news-ru-tech-cbmitafbvv95cuxqaxmxq2huu3dyvvf5cnhpcfdwwjbxlxpmc2fhztizmvvhr0vkwhjqx21grllpzhq1zmrsd1jfdgjnyxpm",
     "title": "Криптобиржи переключились на акции и золото. Каковы масштабы рынка - Финансы Mail",
     "excerpt": "Криптобиржи переключились на акции и золото. Каковы масштабы рынка Финансы Mail",
@@ -478,6 +558,22 @@
     "category": "Entertainment",
     "publishedAt": 1782832200000,
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-entertainment/mail"
+  },
+  {
+    "id": "google-news-ru-science-cbmipgfbvv95cuxnoudwnzzzvu9hsxrzoe13texpdmnmsm9daevus2kwsfl3q0nhdmfvylk2m3jdmlm3dfozr3rrrwvtewzt",
+    "title": "Артем Кошманов не помог Лиане Евсюкаевой избавиться от воспоминаний о детдоме - Новости дом 2 на 6 дней раньше эфира",
+    "excerpt": "Артем Кошманов не помог Лиане Евсюкаевой избавиться от воспоминаний о детдоме Новости дом 2 на 6 дней раньше эфира",
+    "slug": "2-6",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUdwNzZzVU9HSXRzOE13TExPdmNMSm9DaEVUS2kwSFl3Q0NHdmFvYlk2M3JDMlM3dFozR3RrRWVteWZtSDNvRFBpZGQwbDJiS0xaWjFSdUp1bjkzOUkzOVR5MUN2c2NUT1Uxd2dTb1p0ekcyZ0l1QkxZckY1WFpYYkxNQ0Rnb3JHSTJ3SUpCdUswT1NGSDIySFVsVUZqTGo1eGpxdUxn?oc=5",
+    "image": null,
+    "sourceId": "google-news-ru-science",
+    "sourceName": "Новости дом 2 на 6 дней раньше эфира",
+    "sourceHomepage": "https://schlock.ru",
+    "sourceFeedName": "Русский News Network",
+    "sourceRegion": "Russia",
+    "category": "Science",
+    "publishedAt": 1782831733000,
+    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-science/2-6"
   },
   {
     "id": "google-news-ru-entertainment-cbminafbvv95cuxqrhm1sxrft2xvedfub3dcr01pannnbg4ttgxhcuv1r0g1dfbzejrrdkdsznlywxjvlvayc1ryyws2bxf0",
@@ -544,20 +640,20 @@
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-entertainment/9mice-mail"
   },
   {
-    "id": "google-news-ru-entertainment-cbmiaefvx3lxte9aalj6ognrtvrlbxrws3leq2k3wwmxyzd6wtdztxvbdlvmn1b2nzfqzmdsynjjt216c3fbzdbfvgxbnzjn",
-    "title": "10 главных сериалов июля: «Эль», «Лаки» и «Стюарт не смог спасти Вселенную» - Film.ru",
-    "excerpt": "10 главных сериалов июля: «Эль», «Лаки» и «Стюарт не смог спасти Вселенную» Film.ru Какие сериалы смотреть в июле 2026? Космос, супергерои и конец света Мир фантастики и фэнтези «Элль», «Лаки» и «Савант»: какие сериалы смотреть в июле buro247.ru Лучшие сериалы июля 2026-го: драмеди «Паша», «Лаки» с Аней Тейлор-Джой и приквел «Блондинки в законе» «Эль» Собака.ru — Журнал о людях в Петербурге 6 самых ожидаемых сериалов июля. Спин-офф «Теории Большого взрыва» и приквел «Блондинки в законе» click-or-die.ru",
-    "slug": "10-film-ru",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aalJ6OGNRTVRlbXRwS3lEQ2k3WWMxYzd6WTdzTXVBdlVmN1B2NzFqZmdsYnJjT216c3FBZDBFVGxBNzJNQ0Q5dmYtamUyWnBaRUtoSS1wNGthZFRpU1RsZ1lCTWk2ejhF?oc=5",
+    "id": "google-news-ru-business-cbmizefvx3lxtfbmodzbb3lirwqxsk5cqtfpzencamfmtevhq1dpankymmpfywvtqvr0owiywe1umv82y01mquv1s2h6uu8w",
+    "title": "В России начали продавать новый дешевый кроссовер Honda. Он стоит дешевле популярных LADA и Tenet - Автоновости дня",
+    "excerpt": "В России начали продавать новый дешевый кроссовер Honda. Он стоит дешевле популярных LADA и Tenet Автоновости дня Honda XR-V II, 2023 Авто.ру В России появился недорогой японский кроссовер. Стоит меньше 2 млн рублей click-or-die.ru Honda XR-V I Рестайлинг, 2020 Авто.ру",
+    "slug": "honda-lada-tenet",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmODZBb3liRWQxSk5CQTFPZENCamFMTEVHQ1dPankyMmpfYWVTQVR0OWIyWE1uMV82Y01mQUV1S2h6UU8wYktrc1MzWlFWei1aYWRURnZ1dTlRVmI0WXlkS3NEN0nSAWpBVV95cUxPQjNMeDR6RTdVeEdsNTdoTW9FZHpDVTQtSE5GaVRWN1ZnSzhNMTNQQnhGdGdqcVpkdTk4amEzWWpwdTg5Y0pnOTMtWm9rV2lGSGtKcExZVUI5TVJtYTBKMjhjQU50enQwSWln?oc=5",
     "image": null,
-    "sourceId": "google-news-ru-entertainment",
-    "sourceName": "Film.ru",
-    "sourceHomepage": "https://www.film.ru",
+    "sourceId": "google-news-ru-business",
+    "sourceName": "Автоновости дня",
+    "sourceHomepage": "https://avtonovostidnya.ru",
     "sourceFeedName": "Русский News Network",
     "sourceRegion": "Russia",
-    "category": "Entertainment",
-    "publishedAt": 1782830164000,
-    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-entertainment/10-film-ru"
+    "category": "Business",
+    "publishedAt": 1782830011000,
+    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-business/honda-lada-tenet"
   },
   {
     "id": "google-news-ru-business-cbmitgfbvv95cuxqrujiujhbcegxchlza2xymtlyywd4egfstm51bl9jm0hxq2yzvle3r2hxnkdzdlq4te8ztlpnrk9xyzlq",
@@ -622,6 +718,22 @@
     "category": "Sports",
     "publishedAt": 1782828005000,
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-sports/mail"
+  },
+  {
+    "id": "google-news-ru-entertainment-cbmiqafbvv95cuxot3zyehlmww5iejbumzvjnjdnoda5rwxflxrkehi2wgtmdgt1dfdawmfys3hcv2v5bm5lbuvpsxh1nmk4",
+    "title": "Гороскоп на 1 июля: Тельца захватит лень, а Весов - нерешительность - АСТВ",
+    "excerpt": "Гороскоп на 1 июля: Тельца захватит лень, а Весов - нерешительность АСТВ Гороскоп на 1 июля (среда) Леди Mail Гороскоп на 1 июля: Тельцы будут во власти эмоций Хабаровский край сегодня Авторский прогноз от профессионального астролога на среду, 1 июля Новости Хабаровска 1 июля — одна встреча поменяет все и раскроет Денежный поток: кому поможет Вселенная Хибины.ру",
+    "slug": "1",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3ZYeHlmWW5IejBUMzVjNjdNODA5RWxfLXRKeHI2WGtmdGt1dFdaWmFyS3hCV2V5bm5LbUVPSXh1Nmk4dWQ4OEtsR2hvNGN6cDhDOVNKdVFlTDNpM1dJWlluWHFKajlrSGJVSWtnLWFBVTBfeF9ZeTFoYlFWXzgzVExYMzFwTjhPaWE0Q2xpYWJGWlMzUm1iMmJ0OWowZU9USGVXbnRHcks?oc=5",
+    "image": null,
+    "sourceId": "google-news-ru-entertainment",
+    "sourceName": "АСТВ",
+    "sourceHomepage": "https://astv.ru",
+    "sourceFeedName": "Русский News Network",
+    "sourceRegion": "Russia",
+    "category": "Entertainment",
+    "publishedAt": 1782828000000,
+    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-entertainment/1"
   },
   {
     "id": "google-news-ru-business-cbmib0fvx3lxte9ubkzosfjvd2xqaha4z1vqv01tnnd3twxfbw80b2jkazhodklytjvzrerzmvrnshblzuxcbnvwejbfbhez",
@@ -704,22 +816,6 @@
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-world/30-2026-mail"
   },
   {
-    "id": "google-news-ru-entertainment-cbmitwfbvv95cuxnt3fybwfgze5dmnfvznfrqvfkahlor2xmeuvzmurnugh3nfjavtlwa1rdcljxtffgsnk5df9eclfhmlph",
-    "title": "Лионель Месси встретил Питера Паркера в рекламе фильма «Человек-паук: Новый день - championat.ru",
-    "excerpt": "Лионель Месси встретил Питера Паркера в рекламе фильма «Человек-паук: Новый день championat.ru Лионель Месси и Человек-паук встретились в нью-йоркском кафе: подробности, видео Кино Mail Второй трейлер нового «Человека-паука» стал одним из самых просматриваемых в истории Kursiv Media Дружелюбный сосед тети Мэй по кладбищу? Почему Человека-паука вычеркнули из «Мстители: Доктор Дум» Kinoafisha.info В отрывоке «Человека-паука 4» упоминается герой Тоби Магуайра Plugged In Ru",
-    "slug": "championat-ru",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT3FYbWFGZE5DMnFvZnFrQVFKaHloR2xmeUVZMURNUGh3NFJaVTlwa1RDclJxTFFGSnk5dF9EclFHMlpHalVlSU9mMnAySEM5WGdJaF9wRWVoZDFvUzdEWHg0TUo4NDA0emtmUG9qOUtoanBaVnJLeDVtNWJpSldva2ZWSzR3Q1lKV1lUbFNodHBDeExhZ1VOT2lmYnU3S21ZclRUVDI2MVdleDA0b04wNTc1Q3o4M1k?oc=5",
-    "image": null,
-    "sourceId": "google-news-ru-entertainment",
-    "sourceName": "championat.ru",
-    "sourceHomepage": "https://www.championat.ru",
-    "sourceFeedName": "Русский News Network",
-    "sourceRegion": "Russia",
-    "category": "Entertainment",
-    "publishedAt": 1782825613000,
-    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-entertainment/championat-ru"
-  },
-  {
     "id": "google-news-ru-business-cbmiu0fvx3lxte4wyzhtmku2n2k0ykv4nhdrzdlvmxbpwk5tzmnzmexerxvoew5vb3nlb3djtmtultvkeuexq3i4n0fksxji",
     "title": "Гасли принял участие в презентации электромобиля Alpine - F1News",
     "excerpt": "Гасли принял участие в презентации электромобиля Alpine F1News Представлен мощный спорткар Alpine Lacoste A290 Rally Авто Mail Lacoste и Alpine показали концепцию автомобиля с характером крокодила | Дизайн | Новости AdIndex.ru Alpine Lacoste A290 Rallye: гламурный раллийный электрокар Авторевю С сотнями крокодилов: представлен самый оригинальный электромобиль от Renault (видео) focus.ua",
@@ -786,7 +882,7 @@
   {
     "id": "google-news-ru-world-cbmitkfvx3lxte9dsdhnag5nyxzgblewnwv4c0tnmu5qodrueud3ymr4ofrhrmzyb1lyq05zdtzlyzvjbzezrhpqd013rnbu",
     "title": "Младший сын Лукашенко получил диплом Пекинского университета - Интерфакс",
-    "excerpt": "Младший сын Лукашенко получил диплом Пекинского университета Интерфакс «Исторический пик» отношений и сигнал Путину. Зачем Лукашенко встречался с Си Цзиньпином в Пекине BBC \"Не втягивайте нас\" Радио Свобода Зачем Александру Лукашенко и Си Цзиньпину тишина https://expert.ru Си Цзиньпин заявил о «железной» дружбе Китая и Белоруссии Новые Известия",
+    "excerpt": "Младший сын Лукашенко получил диплом Пекинского университета Интерфакс «Исторический пик» отношений и сигнал Путину. Зачем Лукашенко встречался с Си Цзиньпином в Пекине BBC \"Не втягивайте нас\" Радио Свобода Зачем Александру Лукашенко и Си Цзиньпину тишина https://expert.ru Переговоры Лукашенко и Си Цзиньпина в Пекине продлились более трех часов Ведомости",
     "slug": "cbmitkfvx3lxte9dsdhnag5nyxzgblewnwv4c0tnmu5qodrueud3ymr4ofrhrmzyb1lyq05zdtzlyzvjbzezrhpqd013rnbuywhiuexwyktiudibs0fvx3lxtfb4z0jsd0fquth0smdsotnly3vxwg0ybjdid2thc3hhzffzqxf2uvzoy29rde93b3dxvklxoxhrv0q2ymfmzdvbudjztq",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DSDhnaG5NYXZGblEwNWV4c0tNMU5QODRUeUd3YmR4OFRhRmZyb1lYQ05zdTZlYzVjbzEzRHpqd013RnBUYWhIUExwYktIUdIBS0FVX3lxTFB4Z0JSd0FQUTh0SmdsOTNlY3VXWG0ybjdid2thc3hhZFFzQXF2UVZOY29rdE93b3dXVklxOXhrV0Q2YmFmZDVBUDJZTQ?oc=5",
     "image": null,
@@ -864,22 +960,6 @@
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-science/150-1"
   },
   {
-    "id": "google-news-ru-business-cbmisafbvv95cuxocg1zmg9xakpkvzjxwnrjuhpqt3vvazhrc043qu9mufzlq0jdcejiy1zudmtuuulfqvv1ytfvsmrjy05w",
-    "title": "Большой кроссовер Stelato G9 от BAIC не удивит водителей своим оснащением - Авто Mail",
-    "excerpt": "Большой кроссовер Stelato G9 от BAIC не удивит водителей своим оснащением Авто Mail Утекли фото салона Stelato G9: SUV выйдет в III квартале с EV и EREV NaAvtotrasse.ru Stelato G9 без камуфляжа сняли на видео с лидаром Huawei Qiankun 896 NaAvtotrasse.ru",
-    "slug": "stelato-g9-baic-mail",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcG1zMG9XakpkVzJxWnRJUHpQT3VVazhRc043QU9mUFZlQ0JDcEJIY1ZudmtuUUlfQVV1YTFvSmRjY05WVnBUVVh1eVU4aW9ma1VBOEl6SzhxandwU1JVb0RYeS01WDlrci1CbHhXOGJHc1ZvbTV5VFpmOVBkMmRVTEFrWXN3dEVBZnZwNmt2bGRxYmZqME5pamVseVBEeUU4VmZzb1V5MUFha0pqYWpiSA?oc=5",
-    "image": null,
-    "sourceId": "google-news-ru-business",
-    "sourceName": "Авто Mail",
-    "sourceHomepage": "https://auto.mail.ru",
-    "sourceFeedName": "Русский News Network",
-    "sourceRegion": "Russia",
-    "category": "Business",
-    "publishedAt": 1782822300000,
-    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-business/stelato-g9-baic-mail"
-  },
-  {
     "id": "google-news-ru-science-cbmisafbvv95cuxou0hwd01dqmhqellfrw94lwxplvndatvsvvzja1dob25rq3k2svz5utldtlrzwhhuwjncvdn0vmhuvfzm",
     "title": "Расстройство пищевого поведения и ОКР оказались биологическими «близнецами» - Наука Mail",
     "excerpt": "Расстройство пищевого поведения и ОКР оказались биологическими «близнецами» Наука Mail",
@@ -930,7 +1010,7 @@
   {
     "id": "google-news-ru-entertainment-cbmiyefvx3lxte1nnjvnx0rbx0dncesxtvlqcfriskzsws1wuwjynfrcnde5tfhln2lnlwxltzdluy1jde83ywiznf9nm0r1",
     "title": "В цифре вышел «Дьявол носит Prada 2» — сиквел фильма 2006 года с теми же героями - Т—Ж",
-    "excerpt": "В цифре вышел «Дьявол носит Prada 2» — сиквел фильма 2006 года с теми же героями Т—Ж В цифре вышла «Обсессия» — хоррор о созависимых отношениях Т—Ж Дьявол носит Prada 2» вышел на цифровых площадках Igromania.ru «Обсессия» стала самым кассовым оригинальным фильмом десятилетия Film.ru Хоррор «Обсессия» собрал $370 млн при бюджете в $750 тыс. и вышел в «цифре» Kursiv Media",
+    "excerpt": "В цифре вышел «Дьявол носит Prada 2» — сиквел фильма 2006 года с теми же героями Т—Ж В цифре вышла «Обсессия» — хоррор о созависимых отношениях Т—Ж Дьявол носит Prada 2» вышел на цифровых площадках Igromania.ru «Обсессия» стала самым кассовым оригинальным фильмом десятилетия Film.ru Хоррор «Обсессия» теперь доступен для просмотра в цифровом формате — феномен кинопроката GoHa.Ru",
     "slug": "prada-2-2006",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NNjVNX0RBX0dNcEsxTVlqcFRiSkZsWS1wUWJYNFRCNDE5TFhLN2lnLWxLTzdlUy1jdE83YWIzNF9nM0R1WjhMaG4wUFpzZUk1R3ZoaVZCYXBVQTNJWHhOMg?oc=5",
     "image": null,
@@ -1010,7 +1090,7 @@
   {
     "id": "google-news-ru-world-cbmisgfbvv95cuxnqs1nac1xvzneu0pnoxm0exm0zy1gcjlizfe2thlqm3oxmvb1cdhqcxlmnfhxb2zxcfr5venpyvvfx2rq",
     "title": "Стармер анонсировал принятие жестких мер в интересах обороны страны - EADaily",
-    "excerpt": "Стармер анонсировал принятие жестких мер в интересах обороны страны EADaily Британия вложит более £5 млрд во внедрение дронов в вооруженных силах. Критики считают, что этого недостаточно BBC Британия перестроит армию по образцу Украины и потратит треть нового военного бюджета на дроны Русская служба The Moscow Times Великобритания выделит на оборону еще 15 млрд фунтов стерлингов Интерфакс Великобритания выделит на нужды обороны дополнительные $20 млрд theins.ru",
+    "excerpt": "Стармер анонсировал принятие жестких мер в интересах обороны страны EADaily Британия вложит более £5 млрд во внедрение дронов в вооруженных силах. Критики считают, что этого недостаточно BBC Великобритания выделит на оборону еще 15 млрд фунтов стерлингов Интерфакс Британия перестроит армию по образцу Украины и потратит треть нового военного бюджета на дроны Русская служба The Moscow Times Великобритания выделит на нужды обороны дополнительные $20 млрд theins.ru",
     "slug": "eadaily",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQS1naC1xVzNEU0pNOXM0eXM0Zy1GcjliZFE2THlQM3oxMVB1cDhqcXlMNFhXb2ZXcFR5VENPYVVfX2RqV0preXdDY2VNeGdFbmNJVXVENEo2dE5qX2hvblZFZ0ptYndSbDB6QkhrNXcxbjNxTFIyLVY0dGZPU2x0ZGhNb29oamExSHhBYWtnWHJ2NWc5c0h3VnBSRXFwQURPM3MtSm1sak01WlBETlg5NkdB0gG2AUFVX3lxTE9CMFBLVmQwQkZtSDRCNXl3SkF5Rk82c3JmQ3VBcmQzaGhEZ29CcjdTS01VVDVfU190QndhSzM4U1RhYmlLdTJKQ0RaLVNyRUp2ZHRKanJGNzBsbk82NlVFbkJqQXNfS240ZFBDTXFUR1UzTzJ0VUkyWWFXclRLV0ZZdnUzU05rZG13b05WYkRXd3BFVDN2TGdxelVWWFpqUUFacGNxb2ZKSExKR0hwcnpoVzJOMlF3?oc=5",
     "image": null,
@@ -1022,22 +1102,6 @@
     "category": "World",
     "publishedAt": 1782817860000,
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-world/eadaily"
-  },
-  {
-    "id": "google-news-ru-entertainment-cbmi1wfbvv95cuxon0fzzkhnbe1lnth3zjzlsndysg44zgpzz2dywm90zxncwvb5cldgulpndze3t3zvy1nxemszrtzhc25y",
-    "title": "«Новый стандарт фантастики»: третий сезон «Укрытия» получил высочайшие оценки критиков - championat.ru",
-    "excerpt": "«Новый стандарт фантастики»: третий сезон «Укрытия» получил высочайшие оценки критиков championat.ru Ещё заголовки и мнения в приложении \"Google Новости\"",
-    "slug": "championat-ru",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxON0FZZkhNbE1lNTh3ZjZLSndYSG44ZGpzZ2dyWm90ZXNCWVB5cldGUlpNdzE3T3ZVY1NXemszRTZhc25YT0lJQ2JFMkczc21wclc1SkM0bm9YcGUwYWRZeDNDb2pOZUlTOVd5dFNWWVdlbWV2bFhhbzh2dmw0WnRjOFM4dFJJTVQwLWo1QVBZUVZFeGgzYnF6RjVzclhQd1l2eDNxZkp6YW5QdHlQTTNOblBTVWk5TWthY2tPWWVZUjJtUk42dXVxQVViQVdlR1Jab0xOdldKWQ?oc=5",
-    "image": null,
-    "sourceId": "google-news-ru-entertainment",
-    "sourceName": "championat.ru",
-    "sourceHomepage": "https://www.championat.ru",
-    "sourceFeedName": "Русский News Network",
-    "sourceRegion": "Russia",
-    "category": "Entertainment",
-    "publishedAt": 1782817808000,
-    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-entertainment/championat-ru"
   },
   {
     "id": "google-news-ru-tech-cbmit0fvx3lxte5vnfdrvg11t2gxqmrwmmtazm50wtfqr1cytm1nelp6r2j3muvwcghwdlvmnurqoffhdth6d3nrsxawv0w5",
@@ -1072,22 +1136,6 @@
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-business/volkswagen"
   },
   {
-    "id": "google-news-ru-world-cbmirwfbvv95cuxnt1vpxzjux0njswjrwfpvcxpnmvq1yjr2s0lczjjqcvvxcxp0qtv6sjzsahh5odnubvfsd0dwtlpccuxk",
-    "title": "ЕС выделит Украине деньги на закупку дронов, но меньше, чем ожидалось - EADaily",
-    "excerpt": "ЕС выделит Украине деньги на закупку дронов, но меньше, чем ожидалось EADaily ЕС выделил Киеву первый транш помощи на закупку дронов Радио Свобода ЕК выделит Украине 3,9 млрд евро на беспилотники в рамках кредита в 90 млрд евро Интерфакс Киев получил первый \"оборонный\" транш кредита ЕС на 90 млрд DW.com Еврокомиссия направит Украине €3,9 млрд на беспилотники BFM.ru",
-    "slug": "eadaily",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT1VPXzJUX0NjSWJrWFpvcXpNMVQ1YjR2S0lCZjJQcVVXcXp0QTV6SjZsaHh5ODNubVFSd0dwTlpCcUxKdUd6YTM4MEs2S1VkX0xra19QZkJLQ1BDbEVVZTZmMlR3OU9YTmM4RS1OdV9uRXFfVXFPeWp1UWtzYXQzcE5CNlFmSXZ4WFhBZVJ6RTZSWDE2VjRSX2ppR2xqMWFZaXBaSzZHZjVLNjNlSnBn0gGzAUFVX3lxTE9IU3NVbGc3VW5DR0VHdmVNdHZPZHBsNE1HVVQ4TXprWlVqbFJyaktzT01Gd3BNRWJCclcydHJtZWZzQ0tmYkNhNEFmVWZjazkxZmpNYTBvR19KZUpFc3diUUhVcm45ak5KUTVkeVNQTGhfcjkwdmpDZ3ZmaFJhb2k1OFdiTjJlYlQwVGt0cUtVZ3ppTE12ZWk1dnZWWV9QeDlfRzRoZFlnc1F2WWhQQ3pmYUpr?oc=5",
-    "image": null,
-    "sourceId": "google-news-ru-world",
-    "sourceName": "EADaily",
-    "sourceHomepage": "https://www.eadaily.com",
-    "sourceFeedName": "Русский News Network",
-    "sourceRegion": "Russia",
-    "category": "World",
-    "publishedAt": 1782817260000,
-    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-world/eadaily"
-  },
-  {
     "id": "google-news-ru-entertainment-cbmilajbvv95cuxpsxdwtfhtzmh4um05oejzzewydthlquk4cgx4mlbimxmzvwzdnmv3cuj1zxlmsvnldmj5b292snjrourl",
     "title": "Джеймс Бонд должен оставаться мужчиной, считает многолетний кастинг-директор фильмов об агенте 007 - PravilaMag",
     "excerpt": "Джеймс Бонд должен оставаться мужчиной, считает многолетний кастинг-директор фильмов об агенте 007 PravilaMag 29-летнего Джейкоба Элорди назвали слишком известным для роли Джеймса Бонда Кино Mail Экраны требуют полной неизвестности: главные претенденты на роль Бонда потерпели фиаско Правда.Ру Луи Патридж возглавил гонку претендентов на роль Бонда попкорнnews Звезда «Энолы Холмс» прокомментировал свою кандидатуру на роль нового Бонда versii.com",
@@ -1106,7 +1154,7 @@
   {
     "id": "google-news-ru-sports-cbmixgfbvv95cuxpsw1ybwhtoflqdvi0djnpzu5mr1qycwfwc2jerevwltmyme5laxeznkhrmjztylz0rmphuednrc1zxzbu",
     "title": "Серия пенальти в матче Нидерланды — Марокко на ЧМ-2026 стала исторической - championat.ru",
-    "excerpt": "Серия пенальти в матче Нидерланды — Марокко на ЧМ-2026 стала исторической championat.ru Филиал ада на улицах Европы. Арабы устроили кровавый беспредел после победы на ЧМ Sportbox СМИ: Роналд Куман покинет сборную Нидерландов после вылета с ЧМ Спорт Mail Малафеев о сейве Буну в серии пенальти с Нидерландами: «Необычный стиль. Похоже на любительский формат, когда пытаешься просто угадать» Матч ТВ СМИ: Главный тренер футбольной сборной Нидерландов уйдет в отставку Национальная Служба Новостей - НСН",
+    "excerpt": "Серия пенальти в матче Нидерланды — Марокко на ЧМ-2026 стала исторической championat.ru Рональд Куман сообщил в социальной сети, что освободил должность главного тренера сборной Нидерландов по футболу. Sportbox Впервые на ЧМ игроки 4 раза не попали в створ в серии пенальти Спорт Mail Малафеев о сейве Буну в серии пенальти с Нидерландами: «Необычный стиль. Похоже на любительский формат, когда пытаешься просто угадать» Матч ТВ СМИ: Главный тренер футбольной сборной Нидерландов уйдет в отставку Национальная Служба Новостей - НСН",
     "slug": "2026-championat-ru",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSW1ybWhTOFlqdVI0djNpZU5MR1QycWFWc2JEREVwLTMyME5LaXEzNkhRMjZTYlZ0RmphUEdnRC1ZXzBuXy1NcDhnZm9JNGV1Y0NZSDJsNlZwRzNVa2U3cWkyRGM3eWJhSHJUa3ZUYnNHblYtblZxRHd5QWhPc1lqSmU0UXBLOGxIUEppaHVWY0xPc0ZqenZxajAxWDJudVZfV2paN0V0blJMUFVrUlRXSHBuNEQ0TXpwMkZFSFVrbmVCQnFWa1E?oc=5",
     "image": null,
@@ -1202,7 +1250,7 @@
   {
     "id": "google-news-ru-world-cbmivafbvv95cuxnuehlczbpqjjmakfvbvpiywdzus0zum5tx0fhzjqxcvzfefvwnfdautuwmeptzxlrtkpldhnry1o3ajfv",
     "title": "Bloomberg: Совместный контроль… Они там, в Тегеране, уже издеваются над Трампом - EADaily",
-    "excerpt": "Bloomberg: Совместный контроль… Они там, в Тегеране, уже издеваются над Трампом EADaily США и страны Персидского залива против любых санкций и сборов в Ормузском проливе TKS.RU Международная морская организация считает сборы в Ормузском проливе незаконными Интерфакс NYT: Оман передал США предложения о взимании платы за проход через Ормуз BFM.ru Иран и Оман провели первое заседание комитета по Ормузскому проливу Национальная Служба Новостей - НСН",
+    "excerpt": "Bloomberg: Совместный контроль… Они там, в Тегеране, уже издеваются над Трампом EADaily США и страны Персидского залива против любых санкций и сборов в Ормузском проливе TKS.RU Иран и Оман работают над планом по взиманию пошлин с проходящих Ормузский пролив судов Интерфакс NYT: Оман передал США предложения о взимании платы за проход через Ормуз BFM.ru Иран и Оман провели первое заседание комитета по Ормузскому проливу Национальная Служба Новостей - НСН",
     "slug": "bloomberg-eadaily",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUEhlczBpQjJMakFvbVpIYWdZUS0zUm5TX0FHZjQxcVZFeFVWNFdaUTUwMEptZXlRTkpLdHNrY1o3ajFVUUZWUkFoMVZCVWZvdV9JN1lRSmRfeGprTlRPcFlFZmdDdzJZSmV5TDM4Z1h3Tno1eTVmMUNaOW9TWUgxSHhrTTcwS1BXd1lxekRnbjFuRy1XYmFTU01fN2tZeHdERXlSSmlOZmt3OXBBSThtbUh2R20yMlRWXzFuM9IBwAFBVV95cUxQWkpmaG1wYy1rblVxV01UMnBHQzl1Q1hJUGR1MFdxY3pUQm5NUF9HQTAxQlZpdVhwWXQ0a1d2S0V3OEpWUU14ZS1rQUJyQ2szZTY4SV92N0hEWUZUMWtqc1NTSFF2aEZfUUxDOFIxSVNaTUZxTDFHVDBvNG5JYUZWajJad2ZNRmJJUFk1aXVoUVNXQlh2VHBpbXdwYy1RWS14a0JuU2NJUUhjTGY2dnMxVDdXTUZYbkp2WDRXMUFXRTU?oc=5",
     "image": null,
@@ -1234,7 +1282,7 @@
   {
     "id": "google-news-ru-world-cbmingfbvv95cuxpqm5uamtzuge5emx5qnn3mefvdtdhtnvinjnqekxlugndn2vjyvnrbfoxcjvsvi1guk5ksnfudlbnzlbh",
     "title": "Японская иена упала до 40-летнего минимума - ProFinance.Ru",
-    "excerpt": "Японская иена упала до 40-летнего минимума ProFinance.Ru Курс иены опустился до минимума за 40 лет Meduza На валютном рынке сегодня произошло эпохальное событие Финам Иена обновила минимум с 1986 года Интерфакс Сильный доллар толкнул иену на минимум 40 лет, рынок проверяет решительность Токио Русская служба The Moscow Times",
+    "excerpt": "Японская иена упала до 40-летнего минимума ProFinance.Ru Курс иены опустился до минимума за 40 лет Meduza На валютном рынке сегодня произошло эпохальное событие Финам Иена обновила минимум с 1986 года Интерфакс Японская иена упала до минимального за 40 лет курса к доллару США Euronews.com",
     "slug": "40-profinance-ru",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQm5uamtzUGE5emx5QnN3MEFvdTdHTnVINjNqekxLUGNDN2VJYVNrbFoxcjVsVi1GUk5kSnFUdlBNZlBheDhramV4NzNvSDVLOFFLTmFzNk1ZdTZVVjVTUmFzXzM3YzlVQUFtay04TmdUUnpXcmwtMkl3RzVuTW1fZGhONG5VUnNQNFdVU2RsZFF2RXh3SDhnT084RjZxQQ?oc=5",
     "image": null,
@@ -1378,7 +1426,7 @@
   {
     "id": "google-news-ru-sports-cbmi0afbvv95cuxncmfqehj6umg5tm9hb2hfmlzgwtrsmejwyjjzykdlq0fnvgljdvbmamrxuvvrzmnqmedlmmvusmo2x2p6",
     "title": "Франция — Швеция: где смотреть прямую трансляцию матча 1/16 финала ЧМ‑2026 1 июля - Матч ТВ",
-    "excerpt": "Франция — Швеция: где смотреть прямую трансляцию матча 1/16 финала ЧМ‑2026 1 июля Матч ТВ Сборные Франции и Швеции объявили стартовые составы на матч 1/16 финала ЧМ‑2026 Sportbox Франция - Швеция, 30 июня: прогноз на матч ЧМ-2026, где смотреть, составы и коэффициенты Ведомости Где смотреть Франция - Швеция: почему матч 1/16 финала ЧМ-2026 не показывают на Матч ТВ Gogov.ru. Франция — Швеция: прогноз Константина Генича на матч чемпионата мира по футболу — 2026 championat.ru",
+    "excerpt": "Франция — Швеция: где смотреть прямую трансляцию матча 1/16 финала ЧМ‑2026 1 июля Матч ТВ Франция - Швеция, 30 июня: прогноз на матч ЧМ-2026, где смотреть, составы и коэффициенты Ведомости Где смотреть Франция - Швеция: почему матч 1/16 финала ЧМ-2026 не показывают на Матч ТВ Gogov.ru. Сборные Франции и Швеции объявили стартовые составы на матч 1/16 финала ЧМ‑2026 Sportbox Франция – Швеция, ЧМ-2026: кто победит, прогноз, проблемы французов, в чём шансы шведов Советский спорт",
     "slug": "1-16-2026-1",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcmFqeHJ6Umg5Tm9hb2hFMlZGWTRSMEJWYjJzYkdlQ0FnVGlJdVBmamRXUVVrZmNQMEdLMmVuSmo2X2p6V0hnajM0NlJlRVBJd24wcnZmVk11UXMtcE5jenlmZUR3bXNFRUM4YVdrLU1TelhHT041V3dWZjNyR2xUVkU0cEwzY2xSVE9Nc2FOYnNCc1E3MW94OXpubWhha3hsa2taTVpyX1ZKaGpYa24yNGFmQ19SVVpQWE40Y2d6SmZjSTc3d0x2OHg5RXJreHBN?oc=5",
     "image": null,
@@ -1408,9 +1456,25 @@
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-world/29"
   },
   {
+    "id": "google-news-ru-world-cbmitkfvx3lxte9pzy1ktu91ofpctel2rvflcxdjv25sa3nnzzrjtlmwswpyr2jpaflmbzhdvmzem0freetpykllofjuuvvv",
+    "title": "Аномальная жара увеличила Эйфелеву башню во Франции на 10 см - Погода Mail",
+    "excerpt": "Аномальная жара увеличила Эйфелеву башню во Франции на 10 см Погода Mail Ещё заголовки и мнения в приложении \"Google Новости\"",
+    "slug": "10-mail",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pZy1kTU91OFpCTEl2RVFlcXdJV25Sa3NnZzRJTlMwSWpyR2JPaFlMbzhDVmZEM0FreEtPYkllOFJuUVVvbmFxb1JRbTJlZw?oc=5",
+    "image": null,
+    "sourceId": "google-news-ru-world",
+    "sourceName": "Погода Mail",
+    "sourceHomepage": "https://pogoda.mail.ru",
+    "sourceFeedName": "Русский News Network",
+    "sourceRegion": "Russia",
+    "category": "World",
+    "publishedAt": 1782808812000,
+    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-world/10-mail"
+  },
+  {
     "id": "google-news-ru-sports-cbmiukfvx3lxte56melultr3ahlaef9mwhfouknqy3hgqjlfbm5wtv9iqtjtduvjy1zsuuezb0h2u3bwyzcyowu4atzny0du",
     "title": "Российских фигуристов и конькобежцев допустили до международных турниров - БИЗНЕС Online — Новости Казани",
-    "excerpt": "Российских фигуристов и конькобежцев допустили до международных турниров БИЗНЕС Online — Новости Казани Российских фигуристов допустили к соревнованиям в нейтральном статусе Радио Свобода «Надеемся на восстановление нормальных отношений». Глава Союза конькобежцев России — о допуске россиян на турниры ISU Матч ТВ Россию вернули на чемпионат мира по фигурному катанию. Страна ждала этого дня четыре года! Sportbox Тарасова резко высказалась о решении ISU по допуску россиян Спорт Mail",
+    "excerpt": "Российских фигуристов и конькобежцев допустили до международных турниров БИЗНЕС Online — Новости Казани Российских фигуристов допустили к соревнованиям в нейтральном статусе Радио Свобода «Надеемся на восстановление нормальных отношений». Глава Союза конькобежцев России — о допуске россиян на турниры ISU Матч ТВ Россию вернули на чемпионат мира по фигурному катанию. Страна ждала этого дня четыре года! Sportbox На лед вызываются: ISU допустил российских спортсменов к международным стартам Forbes.ru",
     "slug": "online",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56MElULTR3aHlaeF9MWHFOUkNQY3hGQjlFbm5wTV9iQTJtdUVjY1ZSUUEzb0h2U3BwYzcyOWU4aTZNY0duNFplNExWejlBcW5kVXc?oc=5",
     "image": null,
@@ -1440,6 +1504,22 @@
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-science/mail"
   },
   {
+    "id": "google-news-ru-tech-cbmizkfvx3lxte1rdw1rzv9zuzvwbutfvljdbm9qrvy3udm1adlyak9zsxpqexjnykvtu2x1vtm1cxq5ws1jeum5dxnfngnr",
+    "title": "12 000 мА·ч, 100 Вт и 25% кремния. Новая батарея для смартфонов на подходе - ixbt.com",
+    "excerpt": "12 000 мА·ч, 100 Вт и 25% кремния. Новая батарея для смартфонов на подходе ixbt.com",
+    "slug": "12-000-100-25-ixbt-com",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rdW1rZV9ZUzVWbUtFVlJDbm9qRVY3UDM1aDlYak9ZSXpqeXJnYkVTU2x1VTM1cXQ5WS1jeUM5dXNFNGNrR0tiQXJTTlBabHZKTzlsRjBEVHRhNVU1SDBRMjFZQmFxZ9IBa0FVX3lxTE9KdlkwYndjdXAzQWg0VlJEQjZJRFZXeXFBckJRam10Nkd4TVY2M05SY3hnT2h0UjFYbXVzRDd4LV9BV2J0alk3SGFUTElTRks4VlFWWUxJM0tlZHFmbWxSN2Npa0VWVEZJRDJV?oc=5",
+    "image": null,
+    "sourceId": "google-news-ru-tech",
+    "sourceName": "ixbt.com",
+    "sourceHomepage": "https://www.ixbt.com",
+    "sourceFeedName": "Русский News Network",
+    "sourceRegion": "Russia",
+    "category": "Tech",
+    "publishedAt": 1782808020000,
+    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-tech/12-000-100-25-ixbt-com"
+  },
+  {
     "id": "google-news-ru-sports-cbmimwfbvv95cuxpzghuc1bpcznjuxnoy2tzaxpqvw0ytvpzagrpdl8trgrrcgxmbelvn01pegxoc08ymgnhuktkvzrsmult",
     "title": "Легендарный игрок обошёл Мбаппе с Дембеле и стал фаворитом на \"Золотой мяч\"-2026 - Vesti.kz",
     "excerpt": "Легендарный игрок обошёл Мбаппе с Дембеле и стал фаворитом на \"Золотой мяч\"-2026 Vesti.kz Назван главный фаворит на «Золотой мяч» ЧМ-2026 Спорт Mail Гонка бомбардиров на ЧМ по футболу — 2026 на 29 июня 2026: кто лидер, сколько мячей championat.ru Слово о полку бомбардиров. На ЧМ-2026 главные голеадоры современности регулярно бьют рекорды, вызывая и восторг, и недовольство — Новая Газета Новая газета Гонка за «Золотой бутсой»: кто победит в исторической битве бомбардиров на ЧМ-2026? BBC",
@@ -1458,7 +1538,7 @@
   {
     "id": "google-news-ru-business-cbmisgfbvv95cuxna21tchj6bmi2rktenxr4n0nivmhzwgldtw9lmmvxq2fvm240vtbru0puz2tjbf9pm2loulcyvtjux0xl",
     "title": "BAIC установил рекорд по падению цен на автомобили - Авто Mail",
-    "excerpt": "BAIC установил рекорд по падению цен на автомобили Авто Mail В России резко снизились цены на автомобили BAIC. Сколько стоят седан U5 Plus, кроссовер X55 и внедорожник BJ60 Автоновости дня Цены на локализованные автомобили китайского бренда в России резко упали INFOX.ru Теперь BAIC снизил цены на три модели калининградской сборки «Автотор» NaAvtotrasse.ru Седан дешевле 2 млн рублей: конкурент Solaris и Москвич резко сбросил цену SpeedMe.ru",
+    "excerpt": "BAIC установил рекорд по падению цен на автомобили Авто Mail В России резко снизились цены на автомобили BAIC. Сколько стоят седан U5 Plus, кроссовер X55 и внедорожник BJ60 Автоновости дня Цены на локализованные автомобили китайского бренда в России резко упали INFOX.ru Седан дешевле 2 млн рублей: конкурент Solaris и Москвич резко сбросил цену SpeedMe.ru Теперь BAIC снизил цены на три модели калининградской сборки «Автотор» NaAvtotrasse.ru",
     "slug": "baic-mail",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa21TcHJ6bmI2RktENXR4N0NIVmhzWGlDTW9LMmVXQ2FvM240VTBRU0puZ2tJbF9pM2loUlcyVTJUX0xlbzZQTk1lZzVsV0hvVS0wR0w2b09LdUM5VXlOUVlwbWxtajdldlB6QXE0MXdSNy1HZlF4d1g0aFBnVlRjMENlNWhqb2tWZkdJTlV0THRSSTVRM2pFNndoMElVTjdHX20wRlVSRHp3YjlPMUNlbDJ3?oc=5",
     "image": null,
@@ -1632,22 +1712,6 @@
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-sports/cbmiwkfvx3lxte5gmujqagzrwti0uktua25idg9rbzbmazhdtjhzqzffbkq5m1pxwlqywtn0v09xdvpbylm0u1ywaxzgagcwsnlinxdywxlnamhfytvdx1hrwndfqq"
   },
   {
-    "id": "google-news-ru-entertainment-cbmiqgfbvv95cuxovluzaunylwzvzmjqc09mc2lyrnvhyknnrkt3ejm2s0yznzm2x1y2vzn2mf9orzk4cu1inejerfnqbgff",
-    "title": "Весы, Водолеи, Овны и Львы в гороскопе Анжелы Перл на среду 1 июля - Mixnews",
-    "excerpt": "Весы, Водолеи, Овны и Львы в гороскопе Анжелы Перл на среду 1 июля Mixnews Гороскоп на 1 июля: Тельцы будут во власти эмоций Хабаровский край сегодня 1 июля — одна встреча поменяет все и раскроет Денежный поток: кому поможет Вселенная Хибины.ру Таро-прогноз с 1 по 10 июля: кому — коридор удачи, а кому — тупик в делах 7Дней.ру Гороскоп на 1 июля 2026 года для всех знаков зодиака ЯСИА",
-    "slug": "1-mixnews",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVlUzaUNYLWZvZmJqc09Mc2lYRnVhYkNNRkt3ejM2S0YzNzM2X1Y2VzN2MF9oRzk4cU1iNEJERFNQbGFfYWJaMmU4dWtOenJEcHF3TEYzZW9VWTNHN0t5T0N4QndlQ3pEcUhzaDBIbWlDNENkX1pJMkxIaVBURGpnRWlBS2tubWQ0bUlpYzF4RW05Qkd5X2VtTXpsUFFtbzZsRjNfV3RZY0FkZw?oc=5",
-    "image": null,
-    "sourceId": "google-news-ru-entertainment",
-    "sourceName": "Mixnews",
-    "sourceHomepage": "https://mixnews.lv",
-    "sourceFeedName": "Русский News Network",
-    "sourceRegion": "Russia",
-    "category": "Entertainment",
-    "publishedAt": 1782799735000,
-    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-entertainment/1-mixnews"
-  },
-  {
     "id": "google-news-ru-sports-cbmihwjbvv95cuxnekh6nnnadfhfzjgxatfurkzosgd5yzdezm5nsll6ympotldxyzjkujcydktpotbbs1o3bw9lbwe4mwgz",
     "title": "ЦСКА и «Спартак» борются за вратаря, «Барселона» связалась с Кейном. Трансферы и слухи дня - Sport24.ru",
     "excerpt": "ЦСКА и «Спартак» борются за вратаря, «Барселона» связалась с Кейном. Трансферы и слухи дня Sport24.ru «Краснодар» теряет не только Сперцяна, защитник Франции — в «Челси». Трансферы и слухи дня championat.ru Россия. Хроники межсезонья. 29 июня. Футбол на Куличках Все трансферы РПЛ в летнее окно. Что вы пропустили из-за чемпионата мира? Спорт день за днем Трансферные слухи Европы: трансфер за 100 млн в АПЛ, Клопп определился с будущим Football24.ru",
@@ -1776,6 +1840,22 @@
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-tech/cbmitkfvx3lxte5nvvi3efrnsllutu96z0kywhkxrjfvqxe2mdayd0itszrnqviyzvfwwmduekptd1hkyzlaqy1zcgzkrg5uvvhtvglfngyxd9ibs0fvx3lxte9jodbnvffcrenvn1pwtm9wtld1ztrpb1hjdhlyxzldd0tzazjuwtjqmnj0s3dmzvnaotd4bw1jqmvtty1pqmdtbtzpma"
   },
   {
+    "id": "google-news-ru-sports-cbmilafbvv95cuxqrglgqzrptfhfzehzovuwded3rm5iyxj1zunzd0l1umq0t19iq2tqstboudayemoyv3jzwxi1vez1z3p3",
+    "title": "УЕФА объявил решение по России перед новым сезоном - Vesti.kz",
+    "excerpt": "УЕФА объявил решение по России перед новым сезоном Vesti.kz РФС получит от УЕФА почти €2,7 млн за сезон‑2025/26 Матч ТВ УЕФА выплатит РФС почти 2,7 млн евро за сезон-2025/26 Спорт Mail РФС получит деньги от УЕФА за сезон 2025/26 Вестник Кавказа КФФ получит три миллиона евро от УЕФА: на что пойдут деньги? Sports24.kz",
+    "slug": "vesti-kz",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRGlGQzRpTFhfZEhZOVUwdEd3Rm5IYXJ1ZUNzd0l1UmQ0T19iQ2tQSTBOUDAyemoyV3JZWXI1VEZ1Z3p3WGR2T0NXTXF1bVVpTmxaNUEyTkUxSnVsV2ZaU2w0RktSM2w1dGtLUTNWcFhBeWF5U3h0azdfTkg0Zkw3SHhkT0hOSnhHSW9NckU4bEVxb1pK0gGaAUFVX3lxTFB3MzdRRnlTLVhZYm1lbjhsSmNEcHAtLVpCMDl1NF9HMlNKN2ZIOGtZTzdrY25nUGVQVlJ2TGdJN1VHNVM5VFVsWnBHaEx5Q1h4bnJNWTNFb0pUQUJESU5Jbk1YWUtOS0thYkhzZFd2QTdQSF9uTmpIaHZDQ01aME9QUFNFMUpaM3ZnbkM1MTZ5N2M1cS1BNW51Nmc?oc=5",
+    "image": null,
+    "sourceId": "google-news-ru-sports",
+    "sourceName": "Vesti.kz",
+    "sourceHomepage": "https://vesti.kz",
+    "sourceFeedName": "Русский News Network",
+    "sourceRegion": "Russia",
+    "category": "Sports",
+    "publishedAt": 1782790508000,
+    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-sports/vesti-kz"
+  },
+  {
     "id": "google-news-ru-science-cbmiy0fvx3lxte5hbwrmvujolxlgn2k0ei1ybe5cekpwlwq5wlowufbxwvlrv3rwsdzfrznoaglrd3lvt1n5zwxemfzmbu91",
     "title": "«Мне до сих пор тяжело в это поверить». Первая в истории 500-балльница в России рассказала, как она готовилась к ЕГЭ - Е1.ру",
     "excerpt": "«Мне до сих пор тяжело в это поверить». Первая в истории 500-балльница в России рассказала, как она готовилась к ЕГЭ Е1.ру",
@@ -1794,7 +1874,7 @@
   {
     "id": "google-news-ru-business-cbmib0fvx3lxtfbkq0dbtmp4btnsvdfkzufqqzfqlucxtxixee5pm2pmwwplvznbzfzsz3f3dkv4qk42zvzhd2fjslu3nk4z",
     "title": "Золото упало до минимума за 8 месяцев на фоне роста ставок - Investing.com",
-    "excerpt": "Золото упало до минимума за 8 месяцев на фоне роста ставок Investing.com Золото и серебро утратили блеск в глазах инвесторов Финам Золото на пути к худшему кварталу с 2013г из-за силы доллара, ожиданий повышения ставки ФРС Русская служба The Moscow Times Золото теряет блеск: почему конфликт на Ближнем Востоке снизил цены на драгметалл RTVI Фьючерсы на золото подорожали в ходе американских торгов Investing.com",
+    "excerpt": "Золото упало до минимума за 8 месяцев на фоне роста ставок Investing.com Золото теряет блеск: почему конфликт на Ближнем Востоке снизил цены на драгметалл RTVI Золото и серебро утратили блеск в глазах инвесторов Финам Золото на пути к худшему кварталу с 2013г из-за силы доллара, ожиданий повышения ставки ФРС Русская служба The Moscow Times Фьючерсы на золото подорожали в ходе американских торгов Investing.com",
     "slug": "8-investing-com",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKQ0dBTmp4bTNSVDFkZUFQQzFqLUcxTXIxeE5PM2pmWWplVzNBZFZSZ3F3dkV4Qk42ZVZHd2FJSlU3Nk4zLUV0VDN2Q0N2NmxibUFZRi1KcEZIYnlpdTlMX1o2SEczd2t4aHptMHFVTQ?oc=5",
     "image": null,
@@ -1824,9 +1904,25 @@
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-world/10-eadaily"
   },
   {
+    "id": "google-news-ru-entertainment-cbmiqwfbvv95cuxntldjy0tkwehcbmhonkx1n2rtvwxlehjvmv8tdw5vcnj6cs1fc1fjvxllmnpvml81xzlct2s3bvlbvwdq",
+    "title": "SHAMAN разоблачил Дробыша, отказал Волочковой и заговорил о разводе — подробности - 7Дней.ру",
+    "excerpt": "SHAMAN разоблачил Дробыша, отказал Волочковой и заговорил о разводе — подробности 7Дней.ру Shaman опроверг слухи о расставании с Мизулиной: реакция артиста, подробности ТВ Mail СМИ: SHAMAN и Екатерина Мизулина сыграли тайную свадьбу в кругу семьи muz-tv.ru SHAMAN и Екатерина Мизулина скромно отметили свадьбу на Патриках: гостями стали Лепс, теща Дронова и ближний круг StarHit Shaman объяснил развод в Год семьи Сибнет",
+    "slug": "shaman-7",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTldJY0tKWEhCbmhoNkx1N2RtVWxLeHJVMV8tdW5VcnJ6cS1fc1FjVXllMnpVMl81XzlCT2s3bVlBVWdQNzZIT1dHT2VkQ1U4XzRrcGx5VXJRVGUtb2xUZm43aUstcWRRaEpsWXdIeEI2YkhGZnRybE9oVjd3dUxlYXdPTjlScWkzdTByckVpVHppdUpkZkFOcDc2cHhERnlFbTJGbmpMb2lqZ0U?oc=5",
+    "image": null,
+    "sourceId": "google-news-ru-entertainment",
+    "sourceName": "7Дней.ру",
+    "sourceHomepage": "https://7days.ru",
+    "sourceFeedName": "Русский News Network",
+    "sourceRegion": "Russia",
+    "category": "Entertainment",
+    "publishedAt": 1782785386000,
+    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-entertainment/shaman-7"
+  },
+  {
     "id": "google-news-ru-sports-cbmilafbvv95cuxqzvdwzxhvtehcoum5zeu3owpwvlpldehiazbccjq0rg9brzhyevvlcuzcdxe4q1a3amplyuh3av91murz",
     "title": "Бразилия - Япония. Обзор матча чемпионата мира-2026 29.06.2026 - RUTUBE.Sport",
-    "excerpt": "Бразилия - Япония. Обзор матча чемпионата мира-2026 29.06.2026 RUTUBE.Sport Вратарь сборной Японии Судзуки: «В матче с Бразилией я пропустил необязательные голы» Sportbox Сборная Бразилии с трудом победила Японию и вышла в 1/8 финала ЧМ sport-interfax.ru Анчелотти заявил, что берег Неймара для дополнительного времени матча ЧМ с японцами Матч ТВ «Месси — гений. Но Марадону я ставлю выше. А еще чуть выше — Пеле и Кройфа». Разговор с Елагиным о ЧМ sport-express.net",
+    "excerpt": "Бразилия - Япония. Обзор матча чемпионата мира-2026 29.06.2026 RUTUBE.Sport Вратарь сборной Японии Судзуки: «В матче с Бразилией я пропустил необязательные голы» Sportbox Сборная Бразилии с трудом победила Японию и вышла в 1/8 финала ЧМ sport-interfax.ru Анчелотти заявил, что берег Неймара для дополнительного времени матча ЧМ с японцами Матч ТВ Анчелотти после 2:1 с Японией: «После пропущенного гола Бразилия не выглядела растерянной, как в 1-м тайме с Марокко, я был спокоен. Когда у нас возникали проблемы, мы искали решения» Спорт Mail",
     "slug": "2026-29-06-2026-rutube-sport",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZVdwZXhvTEhCOUM5ZEU3OWpWVlpLdEhIazBCcjQ0RG9BRzhyeVVlcUZCdXE4Q1A3ampLYUh3aV91MURZRC1NRUpDZE5vUFAzbXVWYkd2bkVLS0pvemRvTFcyaERDei05MkRiREpmbXpLWFdvTHFxMHpJakk4WThMMXcwX184cUFlN2Jqc1U0YkpGdFN2?oc=5",
     "image": null,
@@ -1952,22 +2048,6 @@
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-sports/fc-zenit-ru"
   },
   {
-    "id": "google-news-ru-world-cbmitkfvx3lxte1ssdnuzghey3iycgdiy1nulxjxdunnsuzqdjb3ylffa2puddrumjkwuldkwehnbw5wbjfdcetzwgfergju",
-    "title": "Эйфелева башня увеличилась на десять сантиметров из-за жары - Погода Mail",
-    "excerpt": "Эйфелева башня увеличилась на десять сантиметров из-за жары Погода Mail Ещё заголовки и мнения в приложении \"Google Новости\"",
-    "slug": "mail",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sSDNUZGhEY3IycGdiY1NULXJXdUNNSUZQdjB3YlFfa2pudDRUMjkwUldkWEhNbW5wbjFDcEtzWGFERGJUbXdkNWZwRTVGdw?oc=5",
-    "image": null,
-    "sourceId": "google-news-ru-world",
-    "sourceName": "Погода Mail",
-    "sourceHomepage": "https://pogoda.mail.ru",
-    "sourceFeedName": "Русский News Network",
-    "sourceRegion": "Russia",
-    "category": "World",
-    "publishedAt": 1782764837000,
-    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-world/mail"
-  },
-  {
     "id": "google-news-ru-world-cbmitkfvx3lxte9rt2xtwddxls1omfdrx29peg1judddy1bpcjbqml9rnw9pdvdssgvrsc1segrhwgf1vnk5rzvpnf8ydvnh",
     "title": "Трамп вновь заявил, что переговоры США и Ирана пройдут во вторник - Интерфакс",
     "excerpt": "Трамп вновь заявил, что переговоры США и Ирана пройдут во вторник Интерфакс МИД Катара: встречи США и Ирана на высоком уровне пока не будет Радио Свобода Иран не собирается обсуждать свою ракетную программу с США Интерфакс В Катаре назвали темы непрямых переговоров между США и Ираном BFM.ru Трамп: Иран запросил встречу с США в Дохе Ведомости",
@@ -2018,7 +2098,7 @@
   {
     "id": "google-news-ru-world-cbmiq0fvx3lxte9pmfriwwzlzdzjaw5mthdmzi14akvrwku1t2ruc1pxafd0aulhmec1nmdfqldeavhtwldxn1zxeg9sswm",
     "title": "В результате взрыва в Монако ранены украинский миллиардер Вадим Ермолаев, его жена и сын. Неизвестный оставил в доме рюкзак со взрывчаткой - theins.ru",
-    "excerpt": "В результате взрыва в Монако ранены украинский миллиардер Вадим Ермолаев, его жена и сын. Неизвестный оставил в доме рюкзак со взрывчаткой theins.ru В Монако совершено покушение на украинского бизнесмена Вадима Ермолаева. Что известно BBC Le Figaro: следствие допустило, что покушение на бизнесмена Вадима Ермолаева в Монако организовала СБУ Meduza При взрыве в Монако тяжело ранили бизнесмена из Украины Ермолаева Forbes.ru Подозреваемый исполнитель взрыва в Монако мог выехать во Францию Интерфакс",
+    "excerpt": "В результате взрыва в Монако ранены украинский миллиардер Вадим Ермолаев, его жена и сын. Неизвестный оставил в доме рюкзак со взрывчаткой theins.ru В Монако совершено покушение на украинского бизнесмена Вадима Ермолаева. Что известно BBC Монако ужесточило контроль на границах после покушения на украинского бизнесмена URA.RU Le Figaro: следствие допустило, что покушение на бизнесмена Вадима Ермолаева в Монако организовала СБУ Meduza При взрыве в Монако тяжело ранили бизнесмена из Украины Ермолаева Forbes.ru",
     "slug": "theins-ru",
     "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9PMFRIWWZlZDZjaW5mTHdmZi14akVrWkU1T2Ruc1pXaFd0aUlHMEc1NmdfQldEaVhTWldxN1ZXeG9sSWM?oc=5",
     "image": null,
@@ -2226,7 +2306,7 @@
   {
     "id": "google-news-ru-sports-cbmihgfbvv95cuxprkxrwdnpdmvguwv0vglosmflqjz3ce1cwgxmq3rzlv9abe1rdejuowg1sgnxatnjcwpav3lqafzocux4",
     "title": "Фелипе Аугусто — игрок сине-бело-голубых! - fc-zenit.ru",
-    "excerpt": "Фелипе Аугусто — игрок сине-бело-голубых! fc-zenit.ru Фелипе Аугусто провел первую тренировку с «Зенитом» Sportbox Новичок «Зенита» Фелипе Аугусто смотрит матч сборной Бразилии на ЧМ‑2026 в фан‑зоне в Санкт‑Петербурге Матч ТВ Фелипе Аугусто высказался о переходе в «Зенит» Спорт Mail В 17 лет боялся, что закончит карьеру, а теперь подорожал за год в четыре раза. Кто такой новичок «Зенита» Фелипе Аугусто ФОНТАНКА.ру",
+    "excerpt": "Фелипе Аугусто — игрок сине-бело-голубых! fc-zenit.ru Константин Зырянов: «Фелипе Аугусто убедил нас своей универсальностью» fc-zenit.ru Фелипе Аугусто провел первую тренировку с «Зенитом» Матч ТВ Фелипе Аугусто высказался о переходе в «Зенит» Спорт Mail Новичок «Зенита» Фелипе Аугусто смотрит матч сборной Бразилии на ЧМ‑2026 в фан‑зоне в Санкт‑Петербурге Sportbox",
     "slug": "fc-zenit-ru",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRkxRWDNpdmVGUWV0VGloSmFLQjZ3cE1CWGxmQ3RZLV9abE1RdEJUOWg1SGNxaTNJcWpaV3lQaFZocUx4VjNGYUlfUFBlVVRjRXlVdnVfWnFlWjJJd0FUOTVBQjJXaWV6TGc5SG5rcnpuUVVZamtUcVR1cktoX2VvdjhpV09wUQ?oc=5",
     "image": null,
@@ -2320,20 +2400,20 @@
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-sports/2026-sport-ru"
   },
   {
-    "id": "google-news-ru-world-cbmitefvx3lxtfb2umd6ntg1ewttzkxvnfhhckpkt3jodfvjzvcwdtroennarutjalheturounbrbhh1ak9awdbwcen2cmxq",
-    "title": "Украину ждет многомиллиардный крах из-за США - URA.RU",
-    "excerpt": "Украину ждет многомиллиардный крах из-за США URA.RU СМИ: Италия заблокировала военную помощь НАТО для Киева на 2027 год БИЗНЕС Online — Новости Казани Türkiye: На саммите в Анкаре могут обсудить стратегию НАТО против России Новые Известия Украину ждет крах из-за США: Киев получит в четыре раза меньше, чем ему обещали ВФокусе Mail Генсек НАТО считает Россию текущей и долгосрочной угрозой для альянса Интерфакс",
-    "slug": "ura-ru",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2Umd6NTg1eWttZkxVNFhHckpkT3JOdFVjZVcwdTROenNaRUtJalhETURoUnBRbHh1ak9aWDBwcEN2cmxqcHlDY2hIbEw?oc=5",
+    "id": "google-news-ru-business-cbmitkfvx3lxte52twfus0f2vwtha1plz2frznrdanbuwufqnw9vrg4ycgnxsvvkmu5zehzznjbnv3p4smpdqwf4ujvfekhr",
+    "title": "Яндекс представил платформу для интеграции ИИ-агентов на базе Алисы AI - Код Дурова",
+    "excerpt": "Яндекс представил платформу для интеграции ИИ-агентов на базе Алисы AI Код Дурова «Яндекс» представил платформу для создания ИИ-агентов в «Алисе AI» Ведомости «Алиса AI» получила платформу для создания ИИ-агентов CNews.ru Яндекс представил платформу для создания ИИ-агентов внутри Алисы AI. 🚗 + 🍴 Sostav.ru «Яндекс» запустил платформу для создания ИИ-агентов для «Алисы AI» 3DNews",
+    "slug": "ai",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52TWFuS0F2VWtHa1pLZ2FRZnRDanBUWUFQNW9VRG4ycGNXSVVKMU5zeHZZNjBNV3p4SmpDQWF4UjVFekhRUHo4Wk9Hcm5FQdIBU0FVX3lxTE5Jbi15VWlIQllTYm55S2I3YkprNjRna2VEUFFnMWp2SVlCakVLeG5YaFVYMnB4TDFieklZMDlha3Q0U2paSG1FS2h6c2NRLUNIbEUw?oc=5",
     "image": null,
-    "sourceId": "google-news-ru-world",
-    "sourceName": "URA.RU",
-    "sourceHomepage": "https://ura.news",
+    "sourceId": "google-news-ru-business",
+    "sourceName": "Код Дурова",
+    "sourceHomepage": "https://kod.ru",
     "sourceFeedName": "Русский News Network",
     "sourceRegion": "Russia",
-    "category": "World",
-    "publishedAt": 1782745020000,
-    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-world/ura-ru"
+    "category": "Business",
+    "publishedAt": 1782744854000,
+    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-business/ai"
   },
   {
     "id": "google-news-ru-health-cbmimwfbvv95cuxnsuxrvnk3eku1nwjvr1y4mm1klw9rylvhvvdjqkl2u3hlx3bjm3llywrjajhbtxzkzty5zy16skz0oujy",
@@ -2350,22 +2430,6 @@
     "category": "Health",
     "publishedAt": 1782743935000,
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-health/mail"
-  },
-  {
-    "id": "google-news-ru-science-cbmiv0fvx3lxtfbqrjlmv2xnu24wyzy5vnv0ug5ivlhmbulbshdnofdpodnfs2q2yuz6ynhcay05cfr6rhrlndfcdm1zwe9h",
-    "title": "Впервые в истории девять петербургских выпускников набрали 300 баллов за ЕГЭ - ФОНТАНКА.ру",
-    "excerpt": "Впервые в истории девять петербургских выпускников набрали 300 баллов за ЕГЭ ФОНТАНКА.ру",
-    "slug": "300",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqRjlMV2xnU24wYzY5VnV0UG5iVlhMbUlBSHdNOFdPODNfS2Q2YUZ6YnhCay05cFR6RHRlNDFCdm1ZWE9HZXlCNS1memMzbWoxemhudWE1WQ?oc=5",
-    "image": null,
-    "sourceId": "google-news-ru-science",
-    "sourceName": "ФОНТАНКА.ру",
-    "sourceHomepage": "https://www.fontanka.ru",
-    "sourceFeedName": "Русский News Network",
-    "sourceRegion": "Russia",
-    "category": "Science",
-    "publishedAt": 1782742080000,
-    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-science/300"
   },
   {
     "id": "google-news-ru-science-cbmivwfbvv95cuxntuvfm3lrc0vvzhhbbudjnhvlq3rqovjvuta0etr4nhntu1mwx2vvbmrhukjavtjutk81uxpaedb5d1j0",
@@ -2414,22 +2478,6 @@
     "category": "Business",
     "publishedAt": 1782740796000,
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-business/microsoft-570-2000-profinance-ru"
-  },
-  {
-    "id": "google-news-ru-sports-cbmi4gfbvv95cuxqwjfyqvvvtty3cnpumuxitkcytuzht3p2n1c3b0jpvulxne1srhjzr2wyemewmuk2am1wm0hjclhymjmx",
-    "title": "«Уехать в Европу — не ошибка. У меня была мечта». Кокорин вернулся в Россию — мы с ним поговорили - Sport24.ru",
-    "excerpt": "«Уехать в Европу — не ошибка. У меня была мечта». Кокорин вернулся в Россию — мы с ним поговорили Sport24.ru «Спартаку» бы отказал\". Кокорин — о возвращении в РПЛ Спорт Mail Зырянов не слышал, что Кокорин может перейти в «Зенит» Спорт день за днем Александр Кокорин: Не рассматриваю РПЛ для продолжения карьеры Рейтинг Букмекеров Кокорин вернулся в Россию, в которой не был 5 лет: «Все изменилось только в лучшую сторону. Мне очень нравится» Sport24.ru",
-    "slug": "sport24-ru",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWjFYQVVVTTY3cnpuMUxiTkcyTUZHT3p2N1c3b0JPVUlXNE1SRHJzR2wyemEwMUk2am1WM0hJclhYMjMxZmRCUHFDa3dYQUw1NTdjUHNsTl9ieHI5UTBXdmZtaHpMS0xtbWxBWW9PYVVFdkFvbDZaY0JqUHc2NHdteTZfRWJKZnlrSXRUMTZJXzFEdkhIZE9rdmQ2S1NER09pTjZORXVKYVllX1l5NktHZVYtaENQVXNoLWo4V2IwSHhBekVSeEJtdk15bzQxOW1YYmxXdHRLMi0xS3AwbnJ5dV9B0gHnAUFVX3lxTE9LSE1XcUEyMUxreFpyMW1QdU5HTWdVYmtoRW5QRU8zZG94NWdRRWNvamJNd1FINExaU1N0R0FUODBOdGE4Y3JPQy1uZ3RZYUEwc0NFa0Fsbk53VG9MM2dnNUhzNHlsRERyVEU0V0dHNExiSlp4LU0wN082THZZV0V4cXZQbEFhVV9SR1Nhd0JWZHNHaWVUR1dQR3llTUx1NlhuV242cnhPSEptRGgwS3BqMXd2MGh5aEZuSmFhSlg5SWZaQ2NqenJra05aeHRBczJsWDh5TFhBQzhPQTdvM0FPb2ppODVJSQ?oc=5",
-    "image": null,
-    "sourceId": "google-news-ru-sports",
-    "sourceName": "Sport24.ru",
-    "sourceHomepage": "https://sport24.ru",
-    "sourceFeedName": "Русский News Network",
-    "sourceRegion": "Russia",
-    "category": "Sports",
-    "publishedAt": 1782739800000,
-    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-sports/sport24-ru"
   },
   {
     "id": "google-news-ru-sports-cbminwfbvv95cuxon3ytntfdohnzdjvuww1ru2d0wgxfeufhcc0yttn1r3dbvldkn0lvznjyenjjnmtzrmm0cffuwmd2m0nv",
@@ -2512,38 +2560,6 @@
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-entertainment/eadaily"
   },
   {
-    "id": "google-news-ru-business-cbmilgfbvv95cuxqwei3cmtidlctovmwaehymfpftzhpwgl6vujoyut4whrodkptynzlzjh6vhzmsdm2odltdk1mmxzjz1i0",
-    "title": "«Яндекс» запустил платформу для создания ИИ-агентов для «Алисы AI» - 3DNews",
-    "excerpt": "«Яндекс» запустил платформу для создания ИИ-агентов для «Алисы AI» 3DNews «Яндекс» представил платформу для создания ИИ-агентов в «Алисе AI» Ведомости «Алиса AI» получила платформу для создания ИИ-агентов CNews.ru Яндекс представил платформу для создания ИИ-агентов внутри Алисы AI. 🚗 + 🍴 Sostav.ru В Алисе AI появилась платформа для интеграции ИИ-агентов — идея в Профите по YDEX БКС Экспресс",
-    "slug": "ai-3dnews",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWEI3cmtidlctOVMwaEhYMFpfTzhPWGl6VUJOYUt4WHRodkpTYnZlZjh6VHZmSDM2ODltdk1MMXZjZ1I0RTFHYlE5ZmZVWHc5aDZQcndtcFhhZWt6SWFDeHVUN1cxM1NNVFdVYmpCSVVRNkRVeHVhaTItLXdPemJXNnhrQUI3V05pOFd0eU00NURqelRxLVHSAZsBQVVfeXFMUFpzenNFb3JpWG1HY2tkTDlpNjk0SFJYLW5lcU0xZWlGQjZFVFpXMzlNY0ZveE5vaDhFR2tjWTZndzFSVE1xa01OOU94TEtfbUdUb0p1aVhKbjdaZjdrWFZFcVhPamhJS2c0N0x4Qy1SVFZYbXZENDZGV05yWUtibHpESjY4cWJhdG5HajRlMEFfME1rODBtc0ZtbDA?oc=5",
-    "image": null,
-    "sourceId": "google-news-ru-business",
-    "sourceName": "3DNews",
-    "sourceHomepage": "https://3dnews.ru",
-    "sourceFeedName": "Русский News Network",
-    "sourceRegion": "Russia",
-    "category": "Business",
-    "publishedAt": 1782737520000,
-    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-business/ai-3dnews"
-  },
-  {
-    "id": "google-news-ru-sports-cbmiekfvx3lxte1gylyyekdlbf91t1rqlvhrsxrpx2rtag9wbhi0y0fsuglamzj5v0hywexjdktnn2hcym4zog1mx2pulwlj",
-    "title": "Лучшие голы третьего тура чемпионата мира-2026 - RUTUBE.Sport",
-    "excerpt": "Лучшие голы третьего тура чемпионата мира-2026 RUTUBE.Sport Гол Шомуродова в ворота ДР Конго признан лучшим на групповом этапе ЧМ-2026 Спорт Mail Гол Шомуродова признан лучшим на групповом этапе ЧМ‑2026, экс‑зенитовец Изидор занял второе место Sportbox Гол Эльдора Шомуродова признан лучшим на групповом этапе ЧМ-2026, Изидор на втором месте championat.ru Гол Элдора Шомуродова признан лучшим на групповом этапе чемпионата мира Газета.uz",
-    "slug": "2026-rutube-sport",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GYlYyekdLbF91T1RqLVhRSXRPX2RTaG9wbHI0Y0FSUGlaMzJ5V0hYWExjdktnN2hCYm4zOG1mX2pULWlJMVNITlFDdGNMV2UzcG9Qd3U5eG5sMEM2TllvODQ4c18wX0pRM0t3RGhlMmNONnJkSWVXaXB3?oc=5",
-    "image": null,
-    "sourceId": "google-news-ru-sports",
-    "sourceName": "RUTUBE.Sport",
-    "sourceHomepage": "https://rutube.sport",
-    "sourceFeedName": "Русский News Network",
-    "sourceRegion": "Russia",
-    "category": "Sports",
-    "publishedAt": 1782736534000,
-    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-sports/2026-rutube-sport"
-  },
-  {
     "id": "google-news-ru-entertainment-cbmitafbvv95cuxpvud1eki0utnfttvxdmpfem5qulnkme0tchlex3dwvzzdr2cwtdzpt2nlr0lfoc1bwjy1ogtmzf8wx0mx",
     "title": "Известный артист окончательно отменил дважды перенесенный концерт в Москве - EADaily",
     "excerpt": "Известный артист окончательно отменил дважды перенесенный концерт в Москве EADaily Ещё заголовки и мнения в приложении \"Google Новости\"",
@@ -2594,7 +2610,7 @@
   {
     "id": "google-news-ru-health-cbmikgfbvv95cuxpmm1bvwrxtdi5rexpuhu3u0pynf9lewz2rf9rd0rhv01xmxzfcurgzuptu0nfyly1sdktaetondz4amhg",
     "title": "Популярные препараты связали с нарушением вкуса и обоняния - Наука Mail",
-    "excerpt": "Популярные препараты связали с нарушением вкуса и обоняния Наука Mail Ученые выявили связь между приемом препаратов ГПП-1 и нарушениями вкуса и обоняния Новости GxP Американские ученые сообщили о вреде препаратов для снижения веса theblueprint.ru Ученые выявили новый побочный эффект приема «Оземпика» gazeta.press Ученые сообщили о новых рисках приема \"Оземпика\" prospect.com.ru",
+    "excerpt": "Популярные препараты связали с нарушением вкуса и обоняния Наука Mail Ученые выявили связь между приемом препаратов ГПП-1 и нарушениями вкуса и обоняния Новости GxP Американские ученые сообщили о вреде препаратов для снижения веса theblueprint.ru Ученые выявили новый побочный эффект приема «Оземпика» gazeta.press О новой опасности «Оземпика» предупредили ученые Mail.KZ",
     "slug": "mail",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMm1BVWRXTDI5RExpUHU3U0pyNF9LeWZ2RF9rd0RhV01xMXZfcURGZUpTU0NFYlY1SDktaEtONDZ4amhGU2xCNkk5SFBhbm1tcGw5ZG9VZWhEUXVjMXo4UzBzUXZFcWV6RUM0enhYcFhRS3lwVUtobDNQRXpDMXl0bnlremVrd3dHYWlSazRPcGZpdw?oc=5",
     "image": null,
@@ -2610,7 +2626,7 @@
   {
     "id": "google-news-ru-sports-cbmiw0fvx3lxtfb6udbgcdfjne5ynwfgnewwmwf1dgy0z19qrgztrgtpdevqdxdcmk1htetqmgr3wuiws0piuhltvjvvekj6",
     "title": "Все пары плей-офф чемпионата мира. Как же Месси повезло с сеткой! - БО Спорт",
-    "excerpt": "Все пары плей-офф чемпионата мира. Как же Месси повезло с сеткой! БО Спорт Сетка плей-офф ЧМ-2026. Ждём топовый матч в 1/8 финала после победы Норвегии! LIVE championat.ru Определилась первая пара ⅛ финала ЧМ-2026 Спорт Mail Легкая сетка для Месси и европейская классика: каким будет плей-офф ЧМ-2026 Forbes.ru Результаты матчей чемпионата мира по футболу‑2026 за 29 июня, сетка плей‑офф Sportbox",
+    "excerpt": "Все пары плей-офф чемпионата мира. Как же Месси повезло с сеткой! БО Спорт Сетка плей-офф ЧМ после вылета Нидерландов и Германии. Есть первая пара 1/8 финала! LIVE championat.ru Определилась первая пара ⅛ финала ЧМ-2026 Спорт Mail Легкая сетка для Месси и европейская классика: каким будет плей-офф ЧМ-2026 Forbes.ru Результаты матчей чемпионата мира по футболу‑2026 за 29 июня, сетка плей‑офф Sportbox",
     "slug": "cbmiw0fvx3lxtfb6udbgcdfjne5ynwfgnewwmwf1dgy0z19qrgztrgtpdevqdxdcmk1htetqmgr3wuiws0piuhltvjvvekj6wnjhwtdcr2xix2twu3lunjjobzq2tnc",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6UDBGcDFjNE5YNWFGNEwwMWF1dGY0Z19QRGZTRGtpdEVqdXdCMk1HTEtQMGR3WUIwS0pIUHlTVjVVekJ6WnJhWTdCR2xiX2tWU3luNjJObzQ2Tnc?oc=5",
     "image": null,
@@ -2642,7 +2658,7 @@
   {
     "id": "google-news-ru-world-cbminwfbvv95cuxqmf9wohrhm1pvmmrsyxhiluhdckveejzasgr1luzkc1r5ludkrwfcbzltmwzhbm5zs20wnhi4u2redk5c",
     "title": "Парижские морги переполнены после рекордной жары во Франции - gismeteo.ru",
-    "excerpt": "Парижские морги переполнены после рекордной жары во Франции gismeteo.ru Аномальная жара переместилась в центральную и восточную части Европы Интерфакс Глава ВОЗ: более 1300 человек погибли в Европе за неделю из-за экстремальной жары Настоящее Время Температурные рекорды и сотни погибших: как Европа переживает аномальную жару Forbes.ru Жара в Европе обрушилась на восток, в Словакии побит рекорд Наука Mail",
+    "excerpt": "Парижские морги переполнены после рекордной жары во Франции gismeteo.ru Жара в Европе обрушилась на восток, в Словакии побит рекорд Наука Mail Рекордная жара в Европе: что происходит в Германии, Франции, Польше, Чехии и других странах Сноб Глава ВОЗ: более 1300 человек погибли в Европе за неделю из-за экстремальной жары Настоящее Время Аномальная жара переместилась в центральную и восточную части Европы Интерфакс",
     "slug": "gismeteo-ru",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMF9wOHRHM1pVMmRSYXhiLUhDckVEejZaSGR1LUZkc1R5LUdkRWFCbzltMWZHbm5zS20wNHI4U2REdk5CakEzdjg5UW91dERGZGozU2gyWmswZTl1OFFMcDc2ei1Ja3NfWG9ZdHNRdzBMVW1GTzJhMURiX0hublRmdEdfMlhaVmpLTm5uS2c3STlDVUlYcko2QmhYTEt4SGs?oc=5",
     "image": null,
@@ -2670,22 +2686,6 @@
     "category": "Tech",
     "publishedAt": 1782725011000,
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-tech/vpn-happ-app-store-anti-malware-ru"
-  },
-  {
-    "id": "google-news-ru-world-cbmib0fvx3lxte0xmghpqtq5bhjmnc1uculbu050evj3bhb0czhfwkdiuuc1uxzsbeffngprzjjovfjxttfot2czzw5wzhdx",
-    "title": "Землетрясение в Венесуэле: шансы на спасение живых уменьшаются - Euronews.com",
-    "excerpt": "Землетрясение в Венесуэле: шансы на спасение живых уменьшаются Euronews.com Число жертв землетрясений в Венесуэле превысило 1,9 тыс. человек Интерфакс «Мы ждем ответов». Венесуэльцы своими руками раскапывают завалы после землетрясений и критикуют власти BBC Число жертв землетрясений в Венесуэле превысило 1700 Радио Свобода «Это очень печально»: в Венесуэле обновили число жертв мощнейших землетрясений RTVI",
-    "slug": "euronews-com",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xMGhPQTQ5bHJmNC1UcUlBU050eVJ3bHB0czhFWkdIUUc1UXZSbEFFNGpRZjJoVFJxTTFoT2czZW5wZHdxcHlnWXdWN1FMa204c0F4dDBDdHdRQ2YwWV9QSFNmZTFfMkxhWmVRQUM2cw?oc=5",
-    "image": null,
-    "sourceId": "google-news-ru-world",
-    "sourceName": "Euronews.com",
-    "sourceHomepage": "https://ru.euronews.com",
-    "sourceFeedName": "Русский News Network",
-    "sourceRegion": "Russia",
-    "category": "World",
-    "publishedAt": 1782714980000,
-    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-world/euronews-com"
   },
   {
     "id": "google-news-ru-health-cbmib0fvx3lxte44thlhshbhn1plbkzdcfywsm5woww5lxlvwhpwz3c0tji5r3eyzxvvnehxbmjvc05qx0hrewpfluzcrzvb",
@@ -2784,9 +2784,25 @@
     "mawajezUrl": "https://mawajez.com/ru/google-news-ru-health/nextool-mini-sailor-pliers-lite-dns"
   },
   {
+    "id": "google-news-ru-sports-cbmimafbvv95cuxqvepfsejjmklrq0vkvgu5sk02tutszhvnuwr6znrkv2nuruhecumzzkxmqlvzog04bza0c1i0x2tdohbd",
+    "title": "Винисиус сотворил историю на ЧМ-2026 и сравнялся с Месси и Роналду - Vesti.kz",
+    "excerpt": "Винисиус сотворил историю на ЧМ-2026 и сравнялся с Месси и Роналду Vesti.kz Лапочкин — об отмененном голе Винисиуса в матче с шотландцами: «Старый добрый футбол ушел, это видеомомент» Матч ТВ Капитан Бразилии: «Сейчас начинается новый турнир» Soccer.ru Ромарио объяснил, почему считает Винисиуса Жуниора главным героем сборной Бразилии legalbet.ru Винисиус повторил достижение Роналдо и Ривалдо на ЧМ Спорт Mail",
+    "slug": "2026-vesti-kz",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVEpFSEJjMklRQ0VKVGU5Sk02TUtSZHVnUWR6ZnRKV2NURUhEcUMzZkxMQlVzOG04bzA0c1I0X2tDOHBDbXBxY2IyQjUtaERfbjlLOS1kR3hTVExMVU9Rd3dFZFkzVEJXWi1XR2drWWlUVTJGZTMyZGFEMFdNRDdrdUd1Zl9QOGRkMFJ1Nk9aRG5JRGQ1ejRWS9IBngFBVV95cUxPaXpDdzF5b21iTHFUVG9RZWU4TnNLZmVhRzJnN3Joa2x4QUcwS2ltVExmeldKTjZpQWE4cGIyLXZmX0pWQjdfMWVYLWVGV25uWGVWSWJfY2hKNk80TmhCbHhIWEh1ZWp6eldJeFU0LW82RnI3Z3Z1bWtoXzNpenlnYlI1YkQydkpWY0pBeDQzSDZ1VVJNd243WjVwUkJ6UQ?oc=5",
+    "image": null,
+    "sourceId": "google-news-ru-sports",
+    "sourceName": "Vesti.kz",
+    "sourceHomepage": "https://vesti.kz",
+    "sourceFeedName": "Русский News Network",
+    "sourceRegion": "Russia",
+    "category": "Sports",
+    "publishedAt": 1782702840000,
+    "mawajezUrl": "https://mawajez.com/ru/google-news-ru-sports/2026-vesti-kz"
+  },
+  {
     "id": "google-news-ru-sports-cbmiiwfbvv95cuxqemswoxdnq1rduutxnjbmdm9mdgrzwww3nlfbempcamd3wdrori1fr0jfdg5crxzhdxa2dxuxvkd3deto",
     "title": "ЮАР - Канада. Обзор матча чемпионата мира-2026 28.06.2026 - RUTUBE.Sport",
-    "excerpt": "ЮАР - Канада. Обзор матча чемпионата мира-2026 28.06.2026 RUTUBE.Sport Канада разрушает «проклятие Дрейка» и первой выходит в 1/8 финала. Президент Южной Кореи требует реформ в стране из-за раннего вылета сборной Meduza ЮАР – Канада, 28 июня: прогноз на матч ЧМ-2026, где смотреть, составы и коэффициенты Ведомости Сборная Канады обыграла ЮАР и стала первым участником 1/8 финала ЧМ-2026 Forbes.ru Канада обыграла ЮАР в первом матче плей-офф ЧМ. Африканцы пропустили на 92-й минуте БИЗНЕС Online — Новости Казани",
+    "excerpt": "ЮАР - Канада. Обзор матча чемпионата мира-2026 28.06.2026 RUTUBE.Sport Канада разрушает «проклятие Дрейка» и первой выходит в 1/8 финала. Президент Южной Кореи требует реформ в стране из-за раннего вылета сборной Meduza ЮАР – Канада, 28 июня: прогноз на матч ЧМ-2026, где смотреть, составы и коэффициенты Ведомости Сборная Канады обыграла ЮАР и стала первым участником 1/8 финала ЧМ-2026 Forbes.ru Тренер сборной ЮАР прокомментировал поражение в 1/16 финала ЧМ Спорт Mail",
     "slug": "2026-28-06-2026-rutube-sport",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQemswOXdnQ1RDUUtXNjBMdm9mdGRZWWw3NlFBempCamd3WDRORi1FR0JFdG5CRXZHdXA2dXUxVkd3dEtOR0dfVl9MVElXWF9ZU1BOc2hkSWEtd214YXhGR1NxeWdhN1ZhVGxyeE42VEdDVmoyX3lkTFhvVERxTmEtV2p2M25XS0tOZHlZ?oc=5",
     "image": null,
