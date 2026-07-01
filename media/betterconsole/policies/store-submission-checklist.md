@@ -5,9 +5,9 @@ Run from the repository root:
 ```bash
 npm install
 npm run package
-npm test
-npm run lint
 ```
+
+`npm run package` regenerates store media, runs lint, tests, TypeScript checking, a moderate security audit, builds the extension, validates required store files, and creates the Chrome and Edge packages.
 
 ## Chrome
 
