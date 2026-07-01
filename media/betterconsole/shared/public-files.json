@@ -1,7 +1,7 @@
 {
   "product": "betterConsole",
   "mediaFolder": "media/betterconsole",
-  "generatedAt": "2026-07-01T16:13:50.390Z",
+  "generatedAt": "2026-07-01T16:47:23.481Z",
   "icons": [
     "icons/betterconsole-icon-128.png",
     "icons/betterconsole-icon-16.png",
@@ -37,6 +37,7 @@
     "policies/chrome-web-store-listing.md",
     "policies/edge-addons-compliance.md",
     "policies/privacy-policy.md",
-    "policies/store-submission-checklist.md"
+    "policies/store-submission-checklist.md",
+    "policies/vscode-marketplace-listing.md"
   ]
 }
