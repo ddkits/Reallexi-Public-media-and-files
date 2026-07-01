@@ -19,6 +19,9 @@
   "hostPermissions": [
     "https://mawajez.com/*"
   ],
+  "logos": [
+    "media/logos/mawajez-logo.svg"
+  ],
   "screenshots": [
     "media/screenshots/mawajez-onboarding-1280x800.png",
     "media/screenshots/mawajez-home-1280x800.png",

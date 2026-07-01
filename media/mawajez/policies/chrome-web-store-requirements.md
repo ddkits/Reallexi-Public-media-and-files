@@ -28,6 +28,10 @@ Edge package: `dist/extensions/mawajez-news-hub-edge.zip`
 
 Public store media bundle: `dist/store-assets/mawajez`
 
+Public media repo target: `ddkits/Reallexi-Public-media-and-files`, folder `media/mawajez`
+
+`npm run package` regenerates the store bundle and syncs it to the local public media repo clone. Use `npm run publish:public-media` when the synced public media files should also be committed, rebased, and pushed to GitHub.
+
 ## Permission Review
 
 `storage`: stores language, favorites, cached public feeds, and popup filter/session state locally.
@@ -77,6 +81,10 @@ Icons:
 - `media/icons/icon32.png`
 - `media/icons/icon48.png`
 - `media/icons/icon128.png`
+
+Logos:
+
+- `media/logos/mawajez-logo.svg`
 
 ## Review Notes
 

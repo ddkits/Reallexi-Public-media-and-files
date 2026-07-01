@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T23:14:23.888Z",
+  "generatedAt": "2026-07-01T13:58:24.955Z",
   "project": "mawajez",
   "owner": "RealLexi LLC",
   "publicRepoTargets": [
@@ -25,6 +25,9 @@
     ],
     "hostPermissions": [
       "https://mawajez.com/*"
+    ],
+    "logos": [
+      "media/logos/mawajez-logo.svg"
     ],
     "screenshots": [
       "media/screenshots/mawajez-onboarding-1280x800.png",
@@ -64,6 +67,9 @@
     ],
     "hostPermissions": [
       "https://mawajez.com/*"
+    ],
+    "logos": [
+      "media/logos/mawajez-logo.svg"
     ],
     "screenshots": [
       "media/screenshots/mawajez-onboarding-1280x800.png",
