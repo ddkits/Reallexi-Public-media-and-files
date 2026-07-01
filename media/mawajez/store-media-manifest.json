@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T13:58:24.955Z",
+  "generatedAt": "2026-07-01T15:31:22.764Z",
   "project": "mawajez",
   "owner": "RealLexi LLC",
   "publicRepoTargets": [
@@ -15,13 +15,15 @@
     "githubSponsors": "https://github.com/sponsors/ddkits",
     "buyMeACoffee": "https://buymeacoffee.com/ddkits",
     "privacyPolicyUrl": "https://github.com/ddkits/Reallexi-Public-media-and-files/blob/main/media/mawajez/policies/PRIVACY.md",
-    "singlePurpose": "Quick browser access to Mawajez public news feeds with local favorites and Mawajez session continuity.",
+    "singlePurpose": "Quick browser and side-panel access to Mawajez public news feeds with local favorites, optional matching-story notifications, and Mawajez session continuity.",
     "remoteCode": false,
     "permissions": [
       "storage",
       "alarms",
       "contextMenus",
-      "sessions"
+      "sessions",
+      "sidePanel",
+      "notifications"
     ],
     "hostPermissions": [
       "https://mawajez.com/*"
@@ -40,7 +42,7 @@
     ],
     "store": "Chrome Web Store",
     "category": "News and Weather",
-    "shortDescription": "Search multilingual public news feeds, save favorites locally, and reopen Mawajez sessions.",
+    "shortDescription": "Search public news feeds, save favorites, open a side panel, and get optional alerts.",
     "package": "extensions/mawajez-news-hub-chrome.zip",
     "promotionalImages": [
       "media/promotional/chrome-small-promo-tile-440x280.png",
@@ -57,13 +59,15 @@
     "githubSponsors": "https://github.com/sponsors/ddkits",
     "buyMeACoffee": "https://buymeacoffee.com/ddkits",
     "privacyPolicyUrl": "https://github.com/ddkits/Reallexi-Public-media-and-files/blob/main/media/mawajez/policies/PRIVACY.md",
-    "singlePurpose": "Quick browser access to Mawajez public news feeds with local favorites and Mawajez session continuity.",
+    "singlePurpose": "Quick browser and side-panel access to Mawajez public news feeds with local favorites, optional matching-story notifications, and Mawajez session continuity.",
     "remoteCode": false,
     "permissions": [
       "storage",
       "alarms",
       "contextMenus",
-      "sessions"
+      "sessions",
+      "sidePanel",
+      "notifications"
     ],
     "hostPermissions": [
       "https://mawajez.com/*"
@@ -82,7 +86,7 @@
     ],
     "store": "Microsoft Edge Add-ons",
     "category": "News and Weather",
-    "shortDescription": "Search public Mawajez news feeds, save local favorites, and reopen Mawajez sessions.",
+    "shortDescription": "Search public Mawajez feeds, save favorites, open a side panel, and get optional alerts.",
     "package": "extensions/mawajez-news-hub-edge.zip",
     "promotionalImages": [
       "media/promotional/edge-promo-tile-440x280.png",

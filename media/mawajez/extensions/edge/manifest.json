@@ -24,17 +24,22 @@
     "service_worker": "background.js",
     "type": "module"
   },
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  },
   "permissions": [
     "storage",
     "alarms",
     "contextMenus",
-    "sessions"
+    "sessions",
+    "sidePanel",
+    "notifications"
   ],
   "host_permissions": [
     "https://mawajez.com/*"
   ],
   "homepage_url": "https://mawajez.com",
-  "minimum_chrome_version": "109",
+  "minimum_chrome_version": "114",
   "incognito": "spanning",
   "content_security_policy": {
     "extension_pages": "script-src 'self'; object-src 'self'; base-uri 'self'; form-action 'self'"

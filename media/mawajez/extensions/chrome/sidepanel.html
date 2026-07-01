@@ -3,29 +3,29 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Mawajez</title>
+    <title>Mawajez Side Panel</title>
     <link rel="stylesheet" href="popup.css" />
   </head>
-  <body data-view="popup">
+  <body data-view="sidepanel">
     <main class="extension-shell">
       <header class="topbar">
         <div class="brand-mark" aria-label="Mawajez">
           <span class="brand-dot"></span>
           <span>
             <strong>Mawajez</strong>
-            <small>News Hub</small>
+            <small>Side Panel</small>
           </span>
         </div>
         <div class="toolbar" aria-label="Extension actions">
           <button id="syncNow" class="icon-button" type="button" title="Refresh feeds" aria-label="Refresh feeds">Sync</button>
-          <button id="openPanel" class="icon-button" type="button" title="Open side panel" aria-label="Open side panel">Panel</button>
+          <button id="openPanel" class="icon-button" type="button" title="Side panel is open" aria-label="Side panel is open">Panel</button>
           <button id="openSite" class="icon-button primary" type="button" title="Open Mawajez" aria-label="Open Mawajez">Open</button>
         </div>
       </header>
 
       <section class="summary-strip" aria-label="Feed status">
         <div>
-          <span class="eyebrow">Live public feeds</span>
+          <span class="eyebrow">Preference-matched news</span>
           <strong id="headlineCount">Loading</strong>
         </div>
         <span id="lastRefresh" class="timestamp">Preparing sync</span>

@@ -82,8 +82,8 @@
   {
     "id": "google-news-video-ko-tech-cbmigafbvv95cuxpaxpqcvvutmvelwtvbjlydmtdsvnfz3buaghcrhgxznhuwl9rsxnwz3f3ouhobdzxx0jyslhsb1rmzmfz",
     "type": "video-link",
-    "title": "빚까지 내 투자 vs 적금 부어 목돈…軍테크 두 얼굴 - 이데일리",
-    "excerpt": "빚까지 내 투자 vs 적금 부어 목돈…軍테크 두 얼굴 이데일리",
+    "title": "따박따박 적금 부은 군인, 빚내 코인 산 군인…軍테크 두 얼굴 - 이데일리",
+    "excerpt": "따박따박 적금 부은 군인, 빚내 코인 산 군인…軍테크 두 얼굴 이데일리",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaXpqcVVuTmVELWtVbjlydmtDSVNfZ3BUaGhCRHgxZnhUWl9RSXNwZ3F3OUhObDZXX0JySlhsb1RmZmFza1dScExiSElhRHB2MTRscExudmtScmhkQ0hHZUZZOUVQbUNZX3YwQzdjOFlfSVR3TGh5VEU0SWtfNFFMMQ?oc=5",
     "image": null,
     "channelId": "google-news-video-ko-tech",
@@ -336,22 +336,6 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kVGVydUJmSUoyV3NYclBZSjFNaEtIdnVRS20xeVVTeW9DVFc3M2tsTGRFcy0wV1IyM3d6aWpYa2M4MmpfUmhpS0k2R1pfZ0pZczBoY2d0S3V4aGxucDUtQ1Z3?oc=5"
   },
   {
-    "id": "google-news-video-ko-sports-cbmiu0fvx3lxte92cljnq2hyzwx5vmlgshlmsuxlzvdpvtc1elbdvdj4uevomtjveejddlrhwmvvmznnr3hbdw8ztmd1tko3",
-    "type": "video-link",
-    "title": "'아프리카 최강' 모로코, 네덜란드 잡고 16강행 - 네이트",
-    "excerpt": "'아프리카 최강' 모로코, 네덜란드 잡고 16강행 네이트",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92clJnQ2hyZWx5VmlGSHlmSUxlZVdpVTc1elBDVDJ4UEVOMTJVeEJDdlRHWmVvMzNnR3hBdW8zTmd1Tko3SWdvYjc2bVpXOFdXODZB?oc=5",
-    "image": null,
-    "channelId": "google-news-video-ko-sports",
-    "channelName": "네이트",
-    "sourceId": "google-news-video-ko-sports",
-    "sourceName": "네이트",
-    "sourceHomepage": "https://news.nate.com",
-    "category": "Sports",
-    "publishedAt": 1782852360000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92clJnQ2hyZWx5VmlGSHlmSUxlZVdpVTc1elBDVDJ4UEVOMTJVeEJDdlRHWmVvMzNnR3hBdW8zTmd1Tko3SWdvYjc2bVpXOFdXODZB?oc=5"
-  },
-  {
     "id": "google-news-video-ko-entertainment-cbmiakfvx3lxtfbzuw5rdwpcdzjjwmdbtlr3c19zmw5ptnfnymdxrehlttzumgxoutryqnf5zmpiq01lr01mou9um2trmv9f",
     "type": "video-link",
     "title": "월드 오브 워크래프트: 한밤, 신규 콘텐츠 '계시' 업데이트 - 인벤",
@@ -480,6 +464,22 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzWWliQ0VxOTRsN0pfRjhQSnUxamhJSTFLMjlRMmZWZFlibWRydWlNUTJmbERIcmduWEF1bHJZZTFzTGhxMDQzR2xIOXdwRlZ0eGc?oc=5"
   },
   {
+    "id": "google-news-video-ko-sports-cbmi0gfbvv95cuxnww1xm2jsdnbgwkvgazriaenravfvmuy5s1vswkv4d09zzkvettnnexzta3lkn2pvcjbnvhb5nml0qzjl",
+    "type": "video-link",
+    "title": "익스플레이너: 호주도 운동하는 아이 줄어… 어린이, 가장 많이 하는 스포츠는? - SBS Australia",
+    "excerpt": "익스플레이너: 호주도 운동하는 아이 줄어… 어린이, 가장 많이 하는 스포츠는? SBS Australia",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWW1XM2JsdnBGWkVGazRIaENRaVFvMUY5S1VSWkV4d09zZkVETTNneXZTa3lKN2pvcjBnVHB5Nml0QzJLd1V5dmtPMDlVRzE5TG1mc1hCVDV5TThna1JZZHYwMEY0SWN6Rlk5MTNubEZPVFJIaHdqN2VqbjVMYi10S2h2Y3E3OUFzQWotNGpSTzBGY2ZXelVOLXVlMUlNWkFsV01jNzRWM2dPMVV5TFVwRXNqSnNXSElUWEc3VFptZ2lkQUpnR3dxTG9jc3pOekg4LUE?oc=5",
+    "image": null,
+    "channelId": "google-news-video-ko-sports",
+    "channelName": "SBS Australia",
+    "sourceId": "google-news-video-ko-sports",
+    "sourceName": "SBS Australia",
+    "sourceHomepage": "https://www.sbs.com.au",
+    "category": "Sports",
+    "publishedAt": 1782784479000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWW1XM2JsdnBGWkVGazRIaENRaVFvMUY5S1VSWkV4d09zZkVETTNneXZTa3lKN2pvcjBnVHB5Nml0QzJLd1V5dmtPMDlVRzE5TG1mc1hCVDV5TThna1JZZHYwMEY0SWN6Rlk5MTNubEZPVFJIaHdqN2VqbjVMYi10S2h2Y3E3OUFzQWotNGpSTzBGY2ZXelVOLXVlMUlNWkFsV01jNzRWM2dPMVV5TFVwRXNqSnNXSElUWEc3VFptZ2lkQUpnR3dxTG9jc3pOekg4LUE?oc=5"
+  },
+  {
     "id": "google-news-video-ko-world-cbmiwkfvx3lxte9cztllctm3sk0wvfbfu2lwaxbynk1vx0llnewxdhlmtnizada5ane5ahztmfvammzfcnzfveu0n2zdc2nt",
     "type": "video-link",
     "title": "Rhythm Heaven: Miracle Stars and Black Flag, a refreshing blast arriving this July - 게임메카",
@@ -594,14 +594,14 @@
   {
     "id": "google-news-video-ko-tech-cbmivefvx3lxte5bdflfsjhtvnetbg1qcxdmnulobzjcynnkdmvsvlo0nk91bedmnnu4quvmv0vorc1qew14mexdnhzpmupm",
     "type": "video-link",
-    "title": "신성델타테크, AI 홈 로봇 ‘레미’ 공개 예정 - 부산경남대표방송 KNN 뉴스",
-    "excerpt": "신성델타테크, AI 홈 로봇 ‘레미’ 공개 예정 부산경남대표방송 KNN 뉴스",
+    "title": "신성델타테크, AI 홈 로봇 ‘레미’ 공개 예정 - knn.co.kr",
+    "excerpt": "신성델타테크, AI 홈 로봇 ‘레미’ 공개 예정 knn.co.kr",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdFlFSjhtVnEtbG1QcXdmNUlObzJCYnNkdmVSVlo0Nk91bEdmNnU4QUVMV0VORC1qeW14MExDNHZPMUpMUkpQM2ZNT2QtSWstZjJXUA?oc=5",
     "image": null,
     "channelId": "google-news-video-ko-tech",
-    "channelName": "부산경남대표방송 KNN 뉴스",
+    "channelName": "knn.co.kr",
     "sourceId": "google-news-video-ko-tech",
-    "sourceName": "부산경남대표방송 KNN 뉴스",
+    "sourceName": "knn.co.kr",
     "sourceHomepage": "https://news.knn.co.kr",
     "category": "Tech",
     "publishedAt": 1782723060000,
@@ -622,6 +622,38 @@
     "category": "World",
     "publishedAt": 1782720205000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGc2RpLUNVUGJxSHY3Nk5PTElnN1ZJWVVQby1FeE5qMjltamdPV3o0Vl93bE5zYU85NnBZQ0xidWlLNnk3MXpwcXlERm0xWDctN0RIdDJQQW1UbktVN1RlaG5JbFM3aHRyRHNzaFE1dzJzcWhy0gF0QVVfeXFMUEZzZGktQ1VQYnFIdjc2Tk9MSWc3VklZVVBvLUV4TmoyOW1qZ09XejRWX3dsTnNhTzk2cFlDTGJ1aUs2eTcxenBxeURGbTFYNy03REh0MlBBbVRuS1U3VGVobklsUzdodHJEc3NoUTV3MnNxaHI?oc=5"
+  },
+  {
+    "id": "google-news-video-ko-world-cbmia0fvx3lxtfbfzy1daee5uuh2t0n3sc1imu14qvy2tw1laflvb2joyjrzd3lpu21aywnlntctevbxaxpeqwpcvf9iqnvn",
+    "type": "video-link",
+    "title": "\"Put Me in Solitary Confinement\": Unusual Request Amid Fears of '10 Million Won Monthly' Threat - SBS 뉴스",
+    "excerpt": "\"Put Me in Solitary Confinement\": Unusual Request Amid Fears of '10 Million Won Monthly' Threat SBS 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfZy1DaEE5UUh2T0N3SC1IMU14QVY2TW1laFlvb2JoYjRzd3lpU21aYWNlNTcteVBxaXpEQWpCVF9iQnVnWUxTX0FzcHQ5NmxDS0Z3REhfWkZTZVA0YVM4VjM1ekJBUGdQOHFN0gFmQVVfeXFMUGVjMmRCQTBqckxQZEdCaG40RTQtWFlfUk1WUDRRNGpFSGVEelBSaENwSVB0dHVjQnZXeENUNVFIcGRZTXd1NktTY1pJamI2aG5oMkxnbjVWc0VvMHR0YmVMTV9EYjdR?oc=5",
+    "image": null,
+    "channelId": "google-news-video-ko-world",
+    "channelName": "SBS 뉴스",
+    "sourceId": "google-news-video-ko-world",
+    "sourceName": "SBS 뉴스",
+    "sourceHomepage": "https://m.news.sbs.co.kr",
+    "category": "World",
+    "publishedAt": 1782717180000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfZy1DaEE5UUh2T0N3SC1IMU14QVY2TW1laFlvb2JoYjRzd3lpU21aYWNlNTcteVBxaXpEQWpCVF9iQnVnWUxTX0FzcHQ5NmxDS0Z3REhfWkZTZVA0YVM4VjM1ekJBUGdQOHFN0gFmQVVfeXFMUGVjMmRCQTBqckxQZEdCaG40RTQtWFlfUk1WUDRRNGpFSGVEelBSaENwSVB0dHVjQnZXeENUNVFIcGRZTXd1NktTY1pJamI2aG5oMkxnbjVWc0VvMHR0YmVMTV9EYjdR?oc=5"
+  },
+  {
+    "id": "google-news-video-ko-tech-cbmi5anbvv95cuxqvuj0twd0bfntcnblngxks3fjngf1tepzmm44ufz3dtvmytb6b1jbbxjwaerla1bfymr2z0lesjrzclpj",
+    "type": "video-link",
+    "title": "금값, 사상 최고치 찍더니 20% 폭락..'골드바 품귀' 끝? 금테크 개미들 밤잠 설치는 이유 - MSN",
+    "excerpt": "금값, 사상 최고치 찍더니 20% 폭락..'골드바 품귀' 끝? 금테크 개미들 밤잠 설치는 이유 MSN",
+    "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQVUJ0TWd0bFNTcnBlNGxKS3FjNGF1TEpZMm44UFZ3dTVMYTB6b1JBbXJWaERla1BFYmR2Z0lESjRZclpjeWN2NWlKQWlEUzAtLW1UQTRqZGV4TUNVMHlGTmlVREp1Q2RsN0plOVAxSHVFT2U4NHVJTkUxYWRRTm9WTy1oQUZUa05JRmRyT3l5QWRUM1ZCZzNBOFQ3WUJnM2l6LTRYN1hReVVGVmE1dDEtb2pMT0RZWlZGa2R4djlfREpJUkNiUEdCV1BUZmhOM0FVQ0hJZFNNenVZMGxPWnpKdWRrU2xwdXBLMGhpeHdrcGh2cHVadHNMNXBXeklGRWc3RTRTMmJROGt3N1hMdVNaY04taWM3cGx4VHVXd1VSZXpRTlYwa0FKUERLbU9Ob1FBTmtsalN2blN5SVQzV1ZGNlM3Mm5Kekt5X1dzNE9TRnpITThiRW9MSVU0Q25sdXZCN3JBOV9HY0dCR194TXV5QUZzTGlQQy1zbFZkV211Ny1YYlVHa3pxc1dKMUZJcHFTVzBJM05ha0xFQ1ZxeWdGOWlBQTY2cERUY3N2emh3cGZ5T1BrLUVnUVlCUy1reWYwa1lFbnB3Rjd4WVcxekh4Y1lmd1A0cG14TWp2ZXlGTlRQX1Va?oc=5",
+    "image": null,
+    "channelId": "google-news-video-ko-tech",
+    "channelName": "MSN",
+    "sourceId": "google-news-video-ko-tech",
+    "sourceName": "MSN",
+    "sourceHomepage": "https://www.msn.com",
+    "category": "Tech",
+    "publishedAt": 1782716400000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQVUJ0TWd0bFNTcnBlNGxKS3FjNGF1TEpZMm44UFZ3dTVMYTB6b1JBbXJWaERla1BFYmR2Z0lESjRZclpjeWN2NWlKQWlEUzAtLW1UQTRqZGV4TUNVMHlGTmlVREp1Q2RsN0plOVAxSHVFT2U4NHVJTkUxYWRRTm9WTy1oQUZUa05JRmRyT3l5QWRUM1ZCZzNBOFQ3WUJnM2l6LTRYN1hReVVGVmE1dDEtb2pMT0RZWlZGa2R4djlfREpJUkNiUEdCV1BUZmhOM0FVQ0hJZFNNenVZMGxPWnpKdWRrU2xwdXBLMGhpeHdrcGh2cHVadHNMNXBXeklGRWc3RTRTMmJROGt3N1hMdVNaY04taWM3cGx4VHVXd1VSZXpRTlYwa0FKUERLbU9Ob1FBTmtsalN2blN5SVQzV1ZGNlM3Mm5Kekt5X1dzNE9TRnpITThiRW9MSVU0Q25sdXZCN3JBOV9HY0dCR194TXV5QUZzTGlQQy1zbFZkV211Ny1YYlVHa3pxc1dKMUZJcHFTVzBJM05ha0xFQ1ZxeWdGOWlBQTY2cERUY3N2emh3cGZ5T1BrLUVnUVlCUy1reWYwa1lFbnB3Rjd4WVcxekh4Y1lmd1A0cG14TWp2ZXlGTlRQX1Va?oc=5"
   },
   {
     "id": "google-news-video-ko-science-cbmi4wjbvv95cuxnq1zzc3nfbvlyrullcxlnc2fwy3dpbzn5qtbsu1zwbududjhmegjjx1faddnkz1r5y3baujjpt2tmdxzy",
@@ -688,6 +720,22 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xWW04QUx3VlRGaFNXVVQ2SmFYd09FU2V1WnlWRzBpSkNDTl81ZXhXWjg2VXViQnVYeFRraWlqeWxIWExmRWQ1UmlRMUdsOWFHVUdQR29aRE9pcURHX1hmaDZSdTRoQQ?oc=5"
   },
   {
+    "id": "google-news-video-ko-business-cbmiaefvx3lxtfa2rdvonzrtvzi0n2dhrwxfywdswhhsufnqyuq4ukt0res5bzblmhrxcddeovdhym9zegnsbe1yvjlpnxpc",
+    "type": "video-link",
+    "title": "How can a company navigate business cycles and achieve lasting success: Chairman and President of Midea Group - KIPOST",
+    "excerpt": "How can a company navigate business cycles and achieve lasting success: Chairman and President of Midea Group KIPOST",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2RDVONzRtVzI0N2dhRWxFYWdsWHhsUFNqYUQ4Ukt0REs5bzBlMHRXcDdEOVdHYm9ZeGNSbE1yVjlpNXpCb0V4T180aG41QTJsaUJEOVYwWjFPZ25PZEI5SlhabnNLd0lw0gFsQVVfeXFMTXRha3JTdllwVDc3Zlp4OXVha2xrRnlwUkxlWXYycW1fNjcydl9YbGZoYXJ3NEhjVlU1b3RTa2x0dG5HaUdrZWRBTE5MZTN2V1FDRnNUaktIekRLalNCcGdLSVJiTXplMElSaXhy?oc=5",
+    "image": null,
+    "channelId": "google-news-video-ko-business",
+    "channelName": "KIPOST",
+    "sourceId": "google-news-video-ko-business",
+    "sourceName": "KIPOST",
+    "sourceHomepage": "https://www.kipost.net",
+    "category": "Business",
+    "publishedAt": 1782706620000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2RDVONzRtVzI0N2dhRWxFYWdsWHhsUFNqYUQ4Ukt0REs5bzBlMHRXcDdEOVdHYm9ZeGNSbE1yVjlpNXpCb0V4T180aG41QTJsaUJEOVYwWjFPZ25PZEI5SlhabnNLd0lw0gFsQVVfeXFMTXRha3JTdllwVDc3Zlp4OXVha2xrRnlwUkxlWXYycW1fNjcydl9YbGZoYXJ3NEhjVlU1b3RTa2x0dG5HaUdrZWRBTE5MZTN2V1FDRnNUaktIekRLalNCcGdLSVJiTXplMElSaXhy?oc=5"
+  },
+  {
     "id": "google-news-video-ko-tech-cbmiu0fvx3lxte1tznzecfu3vljoowk2a29us0zgnddtmutfuevgcgfswfrzas0xttyweextr2djszvbwg9vvl9nbkd1d2dk",
     "type": "video-link",
     "title": "Hyundai, Kia win Cannes Lions bronze for child safety technology campaign - 네이트",
@@ -702,22 +750,6 @@
     "category": "Tech",
     "publishedAt": 1782704820000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TZnZEcFU3VlJOOWk2a29uS0ZGNDdTMUtFUEVGcGFSWFRZaS0xTTYweExtR2dJSzVBWG9VVl9nbkd1d2dkdDlsNjBPREFZSGZKaTZz?oc=5"
-  },
-  {
-    "id": "google-news-video-ko-tech-cbmiakfvx3lxte5rzdztu2pyqk9xb3pymlbqweotdkezzvlsxzjqdvdhtkpyujhmcm1ux05wvhl0d3libxjsm0pgbuoyvm5y",
-    "type": "video-link",
-    "title": "NC, KAIST Push Beyond the Limits of Generative AI with Game AI - 게임뷰",
-    "excerpt": "NC, KAIST Push Beyond the Limits of Generative AI with Game AI 게임뷰",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rZDZtU2pYQk9xb3pYMlBqWEotdkEzZVlsXzJQdVdhTkpyUjhmcm1uX05WVHl0d3libXJSM0pGbUoyVm5YdHE2UlVtd2hVVS01dVFNeV9zNVl1OFp3azUtVlFWYmlmekZ2eEE?oc=5",
-    "image": null,
-    "channelId": "google-news-video-ko-tech",
-    "channelName": "게임뷰",
-    "sourceId": "google-news-video-ko-tech",
-    "sourceName": "게임뷰",
-    "sourceHomepage": "https://www.gamevu.co.kr",
-    "category": "Tech",
-    "publishedAt": 1782694939000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rZDZtU2pYQk9xb3pYMlBqWEotdkEzZVlsXzJQdVdhTkpyUjhmcm1uX05WVHl0d3libXJSM0pGbUoyVm5YdHE2UlVtd2hVVS01dVFNeV9zNVl1OFp3azUtVlFWYmlmekZ2eEE?oc=5"
   },
   {
     "id": "google-news-video-ko-tech-cbmigafbvv95cuxouexjqvdlqld0lxiwtk9jrhfuatlma0vtzw4wrhfanggyullwvgvyd2rhnuv3rgvbaxhyu2frmkrraut4",
@@ -846,22 +878,6 @@
     "category": "Health",
     "publishedAt": 1782441035000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxTTdIYkhaYTJYNDVWYWk4WmlXaHJkMGFTQ2Q3RURQZm1YcUhCaU83aU4zWGtJNlVQeHBVNXdWemQxWEZNV3JuRC1iZzl5dHV0UjZj0gFMQVVfeXFMT0tyOFNJQVJoS0k0QUU5TDVIMFB0cmNTYkt2Z25FU0Q3cUhLN042SnM0Nl9xcV9ZOHRWWVh0TXY1c1VRWG85czkyMmp2NQ?oc=5"
-  },
-  {
-    "id": "google-news-video-ko-world-cbmia0fvx3lxte9qqzz1theybehftljrzwnfmev3x1nhzmfwqk9yeet1t19qwfbry0p5zhf4ugytmndprgw3thhkexnld3zk",
-    "type": "video-link",
-    "title": "\"Analyzed Data, But No Clear Reason...\" Hong Myung-bo Holds Press Conference Day After Shock Defeat to South Africa - SBS 뉴스",
-    "excerpt": "\"Analyzed Data, But No Clear Reason...\" Hong Myung-bo Holds Press Conference Day After Shock Defeat to South Africa SBS 뉴스",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QQzZ1THEybEhfTlJrZWNFMEV3X1NHZmFWQk9yeEt1T19QWFBrY0p5ZHF4UGYtMndPRGw3THhKeXNld3ZKbnFDdldqcWtBeGVzM0VxWUFHY1ZEbERLNGhMZU5mS0VhN2tPQlEw0gFmQVVfeXFMUGYtRGhQcTd4T1J2N3lacGNSZmZpR0xmcFA5bFJ0R3BfNFIyTDgtWmxhMGlxMEJKTkJ1c3VOQzNMTEpNSkFXTUxkb0RQb1hwakxVbWlnRWtZeVlEaHJHS1dOLTQ1eHRB?oc=5",
-    "image": null,
-    "channelId": "google-news-video-ko-world",
-    "channelName": "SBS 뉴스",
-    "sourceId": "google-news-video-ko-world",
-    "sourceName": "SBS 뉴스",
-    "sourceHomepage": "https://m.news.sbs.co.kr",
-    "category": "World",
-    "publishedAt": 1782435960000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QQzZ1THEybEhfTlJrZWNFMEV3X1NHZmFWQk9yeEt1T19QWFBrY0p5ZHF4UGYtMndPRGw3THhKeXNld3ZKbnFDdldqcWtBeGVzM0VxWUFHY1ZEbERLNGhMZU5mS0VhN2tPQlEw0gFmQVVfeXFMUGYtRGhQcTd4T1J2N3lacGNSZmZpR0xmcFA5bFJ0R3BfNFIyTDgtWmxhMGlxMEJKTkJ1c3VOQzNMTEpNSkFXTUxkb0RQb1hwakxVbWlnRWtZeVlEaHJHS1dOLTQ1eHRB?oc=5"
   },
   {
     "id": "google-news-video-ko-world-cbmihwfbvv95cuxqmnj5anfxulfjb1fdblnbtllobdblmy1nn0hwr0pcenp6nlywnvvyzfrzanawtzl3ywrxnjhdy3jvsg5s",

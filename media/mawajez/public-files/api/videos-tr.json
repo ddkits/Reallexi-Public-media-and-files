@@ -1,5 +1,37 @@
 [
   {
+    "id": "google-news-video-tr-tech-cbmiwwfbvv95cuxny1pvsxc3dvutymlwr1lhlxl0otb3rwzmnnhibmrzx1zcby1wsljbvunly3bcu1z6wtyyclbnotr2q21s",
+    "type": "video-link",
+    "title": "EthLabs, Ethereum yıllardır gördüğü en büyük liderlik değişimini yaşarken faaliyete geçiyor - CoinDesk",
+    "excerpt": "EthLabs, Ethereum yıllardır gördüğü en büyük liderlik değişimini yaşarken faaliyete geçiyor CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY1pvSXc3dVUtYmlWR1lhLXl0OTB3RWZMNnhIbmRzX1ZCby1WSlJBVUNLY3BCU1Z6WTYyclBNOTR2Q21SYlZpZlpoc1JycTJLMlhmNG9Xdm55Uk5DSDN3Y3RicFhKNEs0ZHNCa1pVbnJNWmlETlJtMXp5bVZWdlpBbG8xRF9QXzFsV1YyelV6ajJlcUplUFBITVFKQUhUYndvTUtZX1lJb25JY2VQSXdNNHVTdmEyQUFua25rVnR6aG9JSnM?oc=5",
+    "image": null,
+    "channelId": "google-news-video-tr-tech",
+    "channelName": "CoinDesk",
+    "sourceId": "google-news-video-tr-tech",
+    "sourceName": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "category": "Tech",
+    "publishedAt": 1782915285000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY1pvSXc3dVUtYmlWR1lhLXl0OTB3RWZMNnhIbmRzX1ZCby1WSlJBVUNLY3BCU1Z6WTYyclBNOTR2Q21SYlZpZlpoc1JycTJLMlhmNG9Xdm55Uk5DSDN3Y3RicFhKNEs0ZHNCa1pVbnJNWmlETlJtMXp5bVZWdlpBbG8xRF9QXzFsV1YyelV6ajJlcUplUFBITVFKQUhUYndvTUtZX1lJb25JY2VQSXdNNHVTdmEyQUFua25rVnR6aG9JSnM?oc=5"
+  },
+  {
+    "id": "google-news-video-tr-tech-cbmiqwfbvv95cuxoanvgogrfdg0ytwfrrgmzc2jpslpunv9nu3jhmwrfa1dzq1cxu1dybu9coenrm2twngjalu0xbwdmy1j1",
+    "type": "video-link",
+    "title": "Ethereum, kurumsal benimsemeye odaklanan yeni bir kar amacı gütmeyen kuruluş kazandı - CoinDesk",
+    "excerpt": "Ethereum, kurumsal benimsemeye odaklanan yeni bir kar amacı gütmeyen kuruluş kazandı CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanVGOGRFdG0yTWFRRGMzc2JpSlpuNV9nU3JHMWRfa1dZQ1cxU1dYbU9COENRM2tWNGJaLU0xbWdMY1J1UVhuOGJfSXZUUWs4Vm5FTVhZNjRkcGFtSnkwU0NiSUlCRE53UmlPb2kwZzFFRUdjZlRJQ2dUenFsYkNoUU9tTFl6b2RWc1VNVFVaTGlueVVUOUJaek9XUHpIbWRSdGVQczdJZlZ2anM?oc=5",
+    "image": null,
+    "channelId": "google-news-video-tr-tech",
+    "channelName": "CoinDesk",
+    "sourceId": "google-news-video-tr-tech",
+    "sourceName": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "category": "Tech",
+    "publishedAt": 1782913479000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanVGOGRFdG0yTWFRRGMzc2JpSlpuNV9nU3JHMWRfa1dZQ1cxU1dYbU9COENRM2tWNGJaLU0xbWdMY1J1UVhuOGJfSXZUUWs4Vm5FTVhZNjRkcGFtSnkwU0NiSUlCRE53UmlPb2kwZzFFRUdjZlRJQ2dUenFsYkNoUU9tTFl6b2RWc1VNVFVaTGlueVVUOUJaek9XUHpIbWRSdGVQczdJZlZ2anM?oc=5"
+  },
+  {
     "id": "google-news-video-tr-tech-cbmirwfbvv95cuxodi1gshfnbjz1wjrmluqwu18tlvf0ukzwuhnmckrbcjledgphznhlsg1koedyvm1gc3jkwxprehhgajj6",
     "type": "video-link",
     "title": "Tokenize edilmiş Google hisselerinin fiyatları, nadir görülen bir DeFi kredi suistimali sonucunda %7.700 oranında arttı - CoinDesk",
@@ -160,22 +192,6 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYUJvdGhiSExvMEdXUEhvVjd1cl9mRGdUZUlUUjRjY0lscEZOb2ItQUFsZ3NLc0VnSVM1N2xRYlNoR1pCLU1OdVh6VXM3VTIwVHZIQmtVWHNBc2VtYWpNdHp2VU5ua24zTnpqMGlzM3BLR1FhSlVlb1c4anVXMm1xaUxvcFltTDhOU2lOQ0ZndC02bkdPRkpGcnl2YzJoTFNO0gGmAUFVX3lxTE9rbWlxaXZieFEzUjRXYmlwZmdtaTI4R3VoaGpYOHhwcE9PVnFaVE1GU1pCR1UtRWgyU293RzNnTF95UGFESXlXbmZ4VWE3N05fVzVmTGFEeF83eGMyYmhPYWQ3OHktRFBzMkgzNUJRakZHVWVZYjI3WjNIX1AxUVlQV2RsVTA1UU1VRENLWE1ZREctYUc4UGIwbldKWDBOYVhpdl9PcEE?oc=5"
   },
   {
-    "id": "google-news-video-tr-entertainment-cbmisgfbvv95cuxpvtnmai1edxbxvhpmajnfvufergffeeoymvnfdjfarhhpunvhmnnbzzbgszd5c3vfnmg5ohrnv0laejew",
-    "type": "video-link",
-    "title": "29 Haziran - 5 Temmuz: Ankara, İzmir ve Bursa’da Hangi Film ve Tiyatro Oyunları Var? - Onedio",
-    "excerpt": "29 Haziran - 5 Temmuz: Ankara, İzmir ve Bursa’da Hangi Film ve Tiyatro Oyunları Var? Onedio",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVTNmai1EdXBXVHpmajNFVUFERGFfeEoyMVNfdjFaRHhPUnVHMnNBZzBGSzd5c3VfNmg5OHRNV0laejEwTVB2VkJhU2RFTFliOVVkM21Qc19DX0dGMzExS0xZQnppU1F5ZDRXbjRtNE8zakZ1RktjWmU5MDh2a1BlaklPd2hzcTg3T3pBZmFVNEp2M0o5V0sybEdMQ3g0bWVybVdvS2c4N01FUEZqcmQ1QUtB?oc=5",
-    "image": null,
-    "channelId": "google-news-video-tr-entertainment",
-    "channelName": "Onedio",
-    "sourceId": "google-news-video-tr-entertainment",
-    "sourceName": "Onedio",
-    "sourceHomepage": "https://onedio.com",
-    "category": "Entertainment",
-    "publishedAt": 1782803820000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVTNmai1EdXBXVHpmajNFVUFERGFfeEoyMVNfdjFaRHhPUnVHMnNBZzBGSzd5c3VfNmg5OHRNV0laejEwTVB2VkJhU2RFTFliOVVkM21Qc19DX0dGMzExS0xZQnppU1F5ZDRXbjRtNE8zakZ1RktjWmU5MDh2a1BlaklPd2hzcTg3T3pBZmFVNEp2M0o5V0sybEdMQ3g0bWVybVdvS2c4N01FUEZqcmQ1QUtB?oc=5"
-  },
-  {
     "id": "google-news-video-tr-sports-cbmiw0fvx3lxte9zcgdoajnwowzkrevzzxjrewsyukxpvdzgrli4u0t1mk5zsgnybllymkh5m2vva2o2nmzkswrjmxa0x0pj",
     "type": "video-link",
     "title": "BeIN SPORTS HABER Canlı Yayını | #beINSPORTS Kate Middleton (ZGbvGjI4TA) - Mshale",
@@ -222,22 +238,6 @@
     "category": "Entertainment",
     "publishedAt": 1782744480000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX3hfcFQyUWFwVXdielJ4Nnk5UXZrWU5iWUhpbGZhU3p2NHZ6UE5hbkJGNFN6MHYyR2RadkF4a1JxWktUMFhYUld1X1BVdHN2QnpRY2xPNFhWTTFaM0xFa1ZZWk5GN0lEeXFLZ3ZUN1VRbjNBZ3U1RktlV2VsVUJ5NGlMZDFGb3c2VW44Z3N0RDFQT1poNlExb01QZm5Lc1IxNV9HbjQxSnpFQ2FFaFh3eFJKaVBkQV9mTXVZc2gzUlJjdXFqTkVYSWM1NFNRUQ?oc=5"
-  },
-  {
-    "id": "google-news-video-tr-sports-cbmingfbvv95cuxqde5zqtbhqmnlthjxdmlvb1zlcezqys1qm29fbknxbjbpu3rpx0s1cu11ymhucwzanuxjzuxpvehxajhk",
-    "type": "video-link",
-    "title": "Fenerbahçe'nin teklifini duyurdular! Transferde Greenwood kapışması - beinsports.com.tr",
-    "excerpt": "Fenerbahçe'nin teklifini duyurdular! Transferde Greenwood kapışması beinsports.com.tr",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdE5ZQTBhQmNlTHJxdmlVb1ZLcEZqYS1qM29FbkNxbjBPU3RPX0s1cU11YmhUcWZaNUxJZUxPVEhxajhkR0ZYZVphX292M0NRTVpFeXRlUTJuX2xOWjJpTDZWWHYxTTdjWnlINmE5djRsNzJud2Fxb0RrLWxSLUtsVlJ2VklEMDBJeHp0YXNwcy1EejJwVE53YWdyMkJhdw?oc=5",
-    "image": null,
-    "channelId": "google-news-video-tr-sports",
-    "channelName": "beinsports.com.tr",
-    "sourceId": "google-news-video-tr-sports",
-    "sourceName": "beinsports.com.tr",
-    "sourceHomepage": "https://beinsports.com.tr",
-    "category": "Sports",
-    "publishedAt": 1782743764000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdE5ZQTBhQmNlTHJxdmlVb1ZLcEZqYS1qM29FbkNxbjBPU3RPX0s1cU11YmhUcWZaNUxJZUxPVEhxajhkR0ZYZVphX292M0NRTVpFeXRlUTJuX2xOWjJpTDZWWHYxTTdjWnlINmE5djRsNzJud2Fxb0RrLWxSLUtsVlJ2VklEMDBJeHp0YXNwcy1EejJwVE53YWdyMkJhdw?oc=5"
   },
   {
     "id": "google-news-video-tr-entertainment-cbmimwfbvv95cuxoaf9stdrlwnfqotbjdv9tmex6avd1btdabda3rdnya2i5egpkdgmwwvpvzkzfouoxaxd6zmqxwhnkvghd",
@@ -334,6 +334,22 @@
     "category": "Tech",
     "publishedAt": 1782735291000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaFRNclItRURUTzdtb24talZIWEwwMHRxS3lSR1hSOXRnVEJCd2xBTGJ5bm1GV3ZzX2dMa2lENkstVXRHQUZ3Y3M2ZjIwREtSYU1FZF84YUJrTklDeG4xd3JfZFF5TXIxWWkwZTl6c0lhNlkzUktwTnVzMGRvQVBWRGdIbnFrX0VTQnFKVGNFV09VR3pSWDhWN1VxN3IySVljZlEyQ05KcVlHZWVTR2d6MmtxRFpvQTFJVEtqUw?oc=5"
+  },
+  {
+    "id": "google-news-video-tr-entertainment-cbminwfbvv95cuxpu2lanui3y044rmm3yzr1of91u210ujbrnu0tm044swt1etdmauvxn3fjrzjktnfqav8yynnkr2nwruxl",
+    "type": "video-link",
+    "title": "Alanya'da film gibi kovalamaca! Kaçan zanlıyı jet ski'li Yunuslar yakaladı - Yeni Alanya",
+    "excerpt": "Alanya'da film gibi kovalamaca! Kaçan zanlıyı jet ski'li Yunuslar yakaladı Yeni Alanya",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2laNUI3Y044RmM3YzR1OF91U210UjBrNU0tM044SWt1eTdmaUVxN3FjRzJKTnFQaV8yYnNKR2NWRUxlU2gzWEc0MWs5XzJOTkVUbVpqRW1KY3lSaXJjd25CbnRmWHlqaGcyb2Fmc1BfSUFoLTdqeGE1RmJiaGhzaTBPcGczWUNDX0RmYWN1YU00Qjl1VFBFRUg3M2w1bXfSAaQBQVVfeXFMTVVQTkRFNG5nNUZpZ2Vja1pNMy1TdmlweTgzd3ZONzBwREEwU0VTazFtM1dFN0xXTFRNekRqMmpackVJYTA4WllkY3gzV0xBQS1mT3g1Q2ttWXNsTkRiaFdSLU9HWDF4OF9TanlJd21fY2JfTU8zWkRqVWM0SHU1U2pXQ3lxQ1dwS18zSnYwVEFLZnRnelNwQklubTUyT1VzdVVjclc?oc=5",
+    "image": null,
+    "channelId": "google-news-video-tr-entertainment",
+    "channelName": "Yeni Alanya",
+    "sourceId": "google-news-video-tr-entertainment",
+    "sourceName": "Yeni Alanya",
+    "sourceHomepage": "https://www.yenialanya.com",
+    "category": "Entertainment",
+    "publishedAt": 1782725940000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2laNUI3Y044RmM3YzR1OF91U210UjBrNU0tM044SWt1eTdmaUVxN3FjRzJKTnFQaV8yYnNKR2NWRUxlU2gzWEc0MWs5XzJOTkVUbVpqRW1KY3lSaXJjd25CbnRmWHlqaGcyb2Fmc1BfSUFoLTdqeGE1RmJiaGhzaTBPcGczWUNDX0RmYWN1YU00Qjl1VFBFRUg3M2w1bXfSAaQBQVVfeXFMTVVQTkRFNG5nNUZpZ2Vja1pNMy1TdmlweTgzd3ZONzBwREEwU0VTazFtM1dFN0xXTFRNekRqMmpackVJYTA4WllkY3gzV0xBQS1mT3g1Q2ttWXNsTkRiaFdSLU9HWDF4OF9TanlJd21fY2JfTU8zWkRqVWM0SHU1U2pXQ3lxQ1dwS18zSnYwVEFLZnRnelNwQklubTUyT1VzdVVjclc?oc=5"
   },
   {
     "id": "google-news-video-tr-world-cbmiywfbvv95cuxpt2c3smhututjvlvhvlbxoethm2npzuv0rfleahbwcjhfmwtsowztufl6q2ppquflz1doyktld0s4r2jo",

@@ -32,22 +32,6 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VUmZjV21WTzNRNTNrUGkwRGl3UlMtTUg4YlVWQzYxV1JhelB6MndzRXZXWG1iN210em1UalJMeGtpWlpJbjhWS0R4VFIwR2xpNnVRZkZQZGdtbkNNb3NNeElR?oc=5"
   },
   {
-    "id": "google-news-video-vi-world-cbmisafbvv95cuxpunq4u3h4v2fishdpbdhrnu9xzgnrvme5of9hsmfcm0dyzdjny1zus2fot3itvhcyy3jxduxxnhzpv3ex",
-    "type": "video-link",
-    "title": "Video of France vs Sweden goals: Mbappe shines with a double - Laodong.vn",
-    "excerpt": "Video of France vs Sweden goals: Mbappe shines with a double Laodong.vn",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnQ4U3h4V2FISHdPbDhrNU9XZGNRVmE5OF9HSmFCM0dyZDJNY1ZUS2FoT3ItVHcyY3JXdUxXNHZpV3ExRVFJUXJMeGViYllubjM0cGFXM3dzNHFScEN1QlRUMUV0MFdRcUQ1RGJObVl6WHJXNVI4S3VlSTlDajZ1bThPU084S1F0eGFDbElrUnlOdEh0b3RDLWVRN1BicDhkUVhYM2hvWDRNUjI1U211LQ?oc=5",
-    "image": null,
-    "channelId": "google-news-video-vi-world",
-    "channelName": "Laodong.vn",
-    "sourceId": "google-news-video-vi-world",
-    "sourceName": "Laodong.vn",
-    "sourceHomepage": "https://news.laodong.vn",
-    "category": "World",
-    "publishedAt": 1782904629000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnQ4U3h4V2FISHdPbDhrNU9XZGNRVmE5OF9HSmFCM0dyZDJNY1ZUS2FoT3ItVHcyY3JXdUxXNHZpV3ExRVFJUXJMeGViYllubjM0cGFXM3dzNHFScEN1QlRUMUV0MFdRcUQ1RGJObVl6WHJXNVI4S3VlSTlDajZ1bThPU084S1F0eGFDbElrUnlOdEh0b3RDLWVRN1BicDhkUVhYM2hvWDRNUjI1U211LQ?oc=5"
-  },
-  {
     "id": "google-news-video-vi-science-cbmioafbvv95cuxqynjkturrx0dtvlrnrmd6oxfswm94ag1wmfbpslnpn3zenhrqdzzrwnb5cdf6zxbbbkxpv1jmzjlnwjhs",
     "type": "video-link",
     "title": "Many regulations related to online gaming activities have officially come into effect. - Vietnam.vn",
@@ -94,22 +78,6 @@
     "category": "Health",
     "publishedAt": 1782892548000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DUUpvN1hEVGwzRVhOcDlsTFB3YzMxQUVsX1lIX1J6ZnhlTm1lc1pXczNRemp6Nmh2WWlQdnlreWthbGpTV0xLWVoyd1dySGxtUmF5TTRZZS00dTNIX3lTbmg1cHZOOWRWa0VYbnl4MW9Xd2RyLV8zbUQ0MmlWUXM?oc=5"
-  },
-  {
-    "id": "google-news-video-vi-health-cbmixwfbvv95cuxnmefix2lnuuf1cv9vb2m0nxu4dktecnfna2hyb3htsnjinerieezzcm03ndq3txvpczzqaduxb25hdkc1",
-    "type": "video-link",
-    "title": "On the first day of applying the new health insurance policy, eye patients reduce medical examination and treatment costs - Laodong.vn",
-    "excerpt": "On the first day of applying the new health insurance policy, eye patients reduce medical examination and treatment costs Laodong.vn",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMEFiX2lNUUF1cV9vb2M0NXU4dktEcnFNa2hyb3htSnJINERIeEZzcm03NDQ3TXVPczZQaDUxb25hdkc1cUI3TmRWb3VKM2tRVzhRNEFkVTlid09KV0xBc3hoODZxLWsxSzVYcGRUbnZmdEFFZmNOZ0wzWklTRmw4OENZQ0ItVExXTmFwTmJ4enlDNTliUDFnOEhZNnVJMl9wQWdheTloQ1JVOXE3dkZaM0NDbk1QR3FnbmNJdkJPTDJMMHhpWmF3?oc=5",
-    "image": null,
-    "channelId": "google-news-video-vi-health",
-    "channelName": "Laodong.vn",
-    "sourceId": "google-news-video-vi-health",
-    "sourceName": "Laodong.vn",
-    "sourceHomepage": "https://news.laodong.vn",
-    "category": "Health",
-    "publishedAt": 1782892274000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMEFiX2lNUUF1cV9vb2M0NXU4dktEcnFNa2hyb3htSnJINERIeEZzcm03NDQ3TXVPczZQaDUxb25hdkc1cUI3TmRWb3VKM2tRVzhRNEFkVTlid09KV0xBc3hoODZxLWsxSzVYcGRUbnZmdEFFZmNOZ0wzWklTRmw4OENZQ0ItVExXTmFwTmJ4enlDNTliUDFnOEhZNnVJMl9wQWdheTloQ1JVOXE3dkZaM0NDbk1QR3FnbmNJdkJPTDJMMHhpWmF3?oc=5"
   },
   {
     "id": "google-news-video-vi-business-cbmingfbvv95cuxpqy16unb4bgrdqwhnskrwzvdizeplntnwlufwdjzrohhzce9bnuq3aenms1bwmgk2a2ppellamlmtel9d",
@@ -240,6 +208,22 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYTdPVWV6UnU4MllqLXIzbF90b1Mwa3JvbmxZUFdKUzdiLXNWU1Fwd25vWEJLWC02VDg5d2tndExKbUNydjFrZUVVT25sbS1xN2VXdDBWRml6cmhKZldqdEtybDd0aUo0bHNrc1ZQTXI4NmhRcWVUUUtKODJEYm5ZNUFlVVNkM2daRjVmMlctZ0E4dw?oc=5"
   },
   {
+    "id": "google-news-video-vi-entertainment-cbmiy0fvx3lxte5wyvpysetftwnruzfmwxvqtxnyohffrjzozzz0cddfx1pqlvq0cedjrk8tmmkxbdlirwpnzc1vckjratvx",
+    "type": "video-link",
+    "title": "Vietnamese music groups are still struggling to survive. - Vietnam.vn",
+    "excerpt": "Vietnamese music groups are still struggling to survive. Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wYVpYSEtFTWNrUzFmWXVqTXNYOHFfRjZOZzZ0cDdfX1pqLVQ0cEdjRk8tMmkxbDliRWpnZC1vckJraTVxUnRUd3dKNU44M0kwMk9HZVlxUDlJVTFvMzg1WEJ3NA?oc=5",
+    "image": null,
+    "channelId": "google-news-video-vi-entertainment",
+    "channelName": "Vietnam.vn",
+    "sourceId": "google-news-video-vi-entertainment",
+    "sourceName": "Vietnam.vn",
+    "sourceHomepage": "https://www.vietnam.vn",
+    "category": "Entertainment",
+    "publishedAt": 1782873742000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wYVpYSEtFTWNrUzFmWXVqTXNYOHFfRjZOZzZ0cDdfX1pqLVQ0cEdjRk8tMmkxbDliRWpnZC1vckJraTVxUnRUd3dKNU44M0kwMk9HZVlxUDlJVTFvMzg1WEJ3NA?oc=5"
+  },
+  {
     "id": "google-news-video-vi-health-cbmioafbvv95cuxpwxlobkjltlzvuxh5uunzohrbdgvubu80n29pzf9hcljwsg9oyzvlcy1ymunon2zmuk9xvy1ysgzqwgxh",
     "type": "video-link",
     "title": "Buying health supplements: Should you choose a reputable brand or trust rumors? - Vietnam.vn",
@@ -302,6 +286,22 @@
     "category": "Tech",
     "publishedAt": 1782864859000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNekJsMDMwYTZDOUN2VVFTQkVQb2gwUktOME81TjZFcDFIQlMwOFVnYmY4ZlZVdFhvMTZYT21aTnFGSGRoRU51Rkgwdjd2QVdTNHRfN1RLQ1NJY08wMk9KQmtpN2ZHaWFXemtCZy0yNlBTTUlub2lUVFNlTnZTY3I0U1pvMVh1ZWQ4bXprZHAtVUdNUE1fc3Zj?oc=5"
+  },
+  {
+    "id": "google-news-video-vi-sports-cbmikgfbvv95cuxnuljmnlbna1pvuzextvdzsklfek9vc2vlrnn4mkm4vwjlrzrumw1qywetnfdiqxn5m1jxzmz3vs1gmggt",
+    "type": "video-link",
+    "title": "Video of the France vs Sweden football match: The Mbappe - Olise duo shines brightly. - Vietnam.vn",
+    "excerpt": "Video of the France vs Sweden football match: The Mbappe - Olise duo shines brightly. Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUlJMNlBna1pVUzExTVdZSklfek9Vc2VlRnN4MkM4VWJlRzRUMW1QYWEtNFdiQXN5M1JxZmZ3VS1GMGgtMm9zQlNtd2J3T2c0NzlNTkpJR3pCYjNxVG5GWExScmhsOGdTS0laVWstY3dZNXNqNGJDM0ZpMzlNb2FQOUUwbFUyTnlycHZTMmNscnFTQQ?oc=5",
+    "image": null,
+    "channelId": "google-news-video-vi-sports",
+    "channelName": "Vietnam.vn",
+    "sourceId": "google-news-video-vi-sports",
+    "sourceName": "Vietnam.vn",
+    "sourceHomepage": "https://www.vietnam.vn",
+    "category": "Sports",
+    "publishedAt": 1782864487000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUlJMNlBna1pVUzExTVdZSklfek9Vc2VlRnN4MkM4VWJlRzRUMW1QYWEtNFdiQXN5M1JxZmZ3VS1GMGgtMm9zQlNtd2J3T2c0NzlNTkpJR3pCYjNxVG5GWExScmhsOGdTS0laVWstY3dZNXNqNGJDM0ZpMzlNb2FQOUUwbFUyTnlycHZTMmNscnFTQQ?oc=5"
   },
   {
     "id": "google-news-video-vi-sports-cbmiggfbvv95cuxqejd6wefjcjnrstjtcvvuahplvvjgbw50v1lizvlty0vnqlzueutsyxlhzfvfs2vtwfrzzvlxt2s5tldq",
@@ -496,22 +496,6 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56NmJTb3l1VUtoYXVMQ1lNeXItVTZjNEItcURyeHk4Q3RfMHljRF8yQzQ5aS1hNGFLamI5Ni1tVVpPQWQ4eWJ3d2dodXY2RFl1ZWJ0TFJQMURrYTR5aXAxUDRncndfYjV4?oc=5"
   },
   {
-    "id": "google-news-video-vi-entertainment-cbmieefvx3lxte81d01dukx6zzzkqncyagxfegxpahbfcf9wm2xtsg9hoexmq0hxofytrdbrogpzz1m0b2hqvxzrdm0zuepp",
-    "type": "video-link",
-    "title": "ONEUS quay trở lại với cảm xúc mùa hèTeaser MV 'Under' của Nhật Bản - starnewskorea.com",
-    "excerpt": "ONEUS quay trở lại với cảm xúc mùa hèTeaser MV 'Under' của Nhật Bản starnewskorea.com",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81d01DUkx6ZzZkQncyaGxFeGxpaHBFcF9WM2xTSG9hOExMQ0hXOFYtRDBrOGpZZ1M0b2hQVXZRdm0zUEppdWZwLXBfcmtSMHlXWldfQ0prU0NKeU1WWWQtS29OQ2N4aGtja2RlczJVeHdsZXlDNUprRA?oc=5",
-    "image": null,
-    "channelId": "google-news-video-vi-entertainment",
-    "channelName": "starnewskorea.com",
-    "sourceId": "google-news-video-vi-entertainment",
-    "sourceName": "starnewskorea.com",
-    "sourceHomepage": "https://www.starnewskorea.com",
-    "category": "Entertainment",
-    "publishedAt": 1782781731000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81d01DUkx6ZzZkQncyaGxFeGxpaHBFcF9WM2xTSG9hOExMQ0hXOFYtRDBrOGpZZ1M0b2hQVXZRdm0zUEppdWZwLXBfcmtSMHlXWldfQ0prU0NKeU1WWWQtS29OQ2N4aGtja2RlczJVeHdsZXlDNUprRA?oc=5"
-  },
-  {
     "id": "google-news-video-vi-tech-cbmixgfbvv95cuxpac1ladfhz1lvekqwchpquelndxi5dgzmzvbsvwvnsnbmcnzszxdfuxbrnfmwwv9utzjuqxz5u0n5zzbl",
     "type": "video-link",
     "title": "Series of shippers and technology motorbike taxi drivers fined by Hanoi traffic police for unacceptable violations - Laodong.vn",
@@ -542,6 +526,22 @@
     "category": "Business",
     "publishedAt": 1782774000000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd0VyM3ZQWS1ZcjF5bjRmb0J1WHZwTXQ1UXQ0MzVDWTFVSFh4SjhUY3YyeHBhd1BzSzUwMjFyd2hMM3Q3Y0lfRkpjT1A4c2x6NGNCN2ltWTRwR0l2U0M2RVpHaXNrVGhiQnRhbHFPRl81bm14RWd5WXk3MGRLS3E0UW5hTjY3MlAxbnAwUVF6Rjl6XzY0amx4cWRjeW5MQjZ6UHFJbENoRTUtT3liQ2JFWA?oc=5"
+  },
+  {
+    "id": "google-news-video-vi-entertainment-cbmixafbvv95cuxns3j0a0z6r204shlwbfrxmmldtnn3zzrlz1p4c0xezk1jtfninwrfeklgdlqxluv3r1fnrlrplw5kshbf",
+    "type": "video-link",
+    "title": "Ca sĩ Tim gây phẫn nộ, mỉa mai Messi - MSN",
+    "excerpt": "Ca sĩ Tim gây phẫn nộ, mỉa mai Messi MSN",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS3J0a0Z6R204SHlWbFRxMmlDTnN3ZzRLZ1p4c0xEZk1jTFNiNWRfeklGdlQxLUV3R1FnRlRPLW5KSHBFVUZ4WGFkalFxcWh0SHRkMVRtaldDakd0V1FQaXRlYUNvSGc0dldTM1pJTmxHc1FRRUJzQktuYURFREVNMGE2Tk4zTm10eTZHSmQwQ0tVOTdhWkFGQkR4dkxLdXZWZXJwa2tranlHQ2JoUHBtWEQwQ1JiMkhDMTBIbUFITFVyajVC?oc=5",
+    "image": null,
+    "channelId": "google-news-video-vi-entertainment",
+    "channelName": "MSN",
+    "sourceId": "google-news-video-vi-entertainment",
+    "sourceName": "MSN",
+    "sourceHomepage": "https://www.msn.com",
+    "category": "Entertainment",
+    "publishedAt": 1782756641000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS3J0a0Z6R204SHlWbFRxMmlDTnN3ZzRLZ1p4c0xEZk1jTFNiNWRfeklGdlQxLUV3R1FnRlRPLW5KSHBFVUZ4WGFkalFxcWh0SHRkMVRtaldDakd0V1FQaXRlYUNvSGc0dldTM1pJTmxHc1FRRUJzQktuYURFREVNMGE2Tk4zTm10eTZHSmQwQ0tVOTdhWkFGQkR4dkxLdXZWZXJwa2tranlHQ2JoUHBtWEQwQ1JiMkhDMTBIbUFITFVyajVC?oc=5"
   },
   {
     "id": "google-news-video-vi-entertainment-cbmihafbvv95cuxocediv0vgc3fudxn0ylddbjzpmfftqy1ez1fsyuvhqm5bvmznz1jmewdqbti1du51dzrpy3ftbdkwufzh",
@@ -624,6 +624,22 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbDRiYlVybTFsWTBsS1I4dlMtZXV0dEF3bGxXM0J4SGU1cUYyUmdXQW9XOEpWUXRwVkQyOElfOTB0a01rT1FpNTB1QVd6dHRPUmdPbVd3S2xqWjNBNkk5bk9oRjJ4WV9ld3dhR2VySlUxeEp0YVdmQ3lCR05tSFlGdmN2TUhQM3ZBTmFIRzhIRjVjNklhMGhBaVRYTFBUY3QxX3c?oc=5"
   },
   {
+    "id": "google-news-video-vi-business-cbmi4afbvv95cuxqvernc0lcs01lcg1sunjnek9aadhzx3ludws4ttq3dzzzdev0t3zcchcwothaouv0du5qv0jsu3rlz3d6",
+    "type": "video-link",
+    "title": "NextGen Business Innovator 2026 Finale: Top 12 Break Through with Practical Mindsets and Technology - UEF",
+    "excerpt": "NextGen Business Innovator 2026 Finale: Top 12 Break Through with Practical Mindsets and Technology UEF",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVERnc0lCS01lcG1SUnJnek9aaDhzX3lUdWs4TTQ3dzZzdEV0T3ZCcHcwOThaOUV0dU5qV0JSU3RLZ3d6XzBaSXdxTGRrcjFsUmcxM1BXOGR1U3cwMGxyMW5KRVhqSTUzXzNmaTF3bmJwZjZlY01pWk02NGlQeVFCVWlheHI3QW1oRkFaR1BMbVNiNFE4MFZYNXkzb1hmbndYTWl2OGQ4UFpBWmh3MmRCaHlrM1lpVWwwaFU2ZGtwVFNUU050LUlqRHhycWgtaHdJWE9KbDBWOUxMOGZVYmZhUQ?oc=5",
+    "image": null,
+    "channelId": "google-news-video-vi-business",
+    "channelName": "UEF",
+    "sourceId": "google-news-video-vi-business",
+    "sourceName": "UEF",
+    "sourceHomepage": "https://www.uef.edu.vn",
+    "category": "Business",
+    "publishedAt": 1782716400000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVERnc0lCS01lcG1SUnJnek9aaDhzX3lUdWs4TTQ3dzZzdEV0T3ZCcHcwOThaOUV0dU5qV0JSU3RLZ3d6XzBaSXdxTGRrcjFsUmcxM1BXOGR1U3cwMGxyMW5KRVhqSTUzXzNmaTF3bmJwZjZlY01pWk02NGlQeVFCVWlheHI3QW1oRkFaR1BMbVNiNFE4MFZYNXkzb1hmbndYTWl2OGQ4UFpBWmh3MmRCaHlrM1lpVWwwaFU2ZGtwVFNUU050LUlqRHhycWgtaHdJWE9KbDBWOUxMOGZVYmZhUQ?oc=5"
+  },
+  {
     "id": "google-news-video-vi-entertainment-cbmiuwfbvv95cuxptuduvgz4x05uyvlxrupysezjz3doy3zib0dkc2rjeflot1gyuuzvthlzvmjkrda0sdhxn29yafpradhh",
     "type": "video-link",
     "title": "Police take traditional culture and music art to promote law enforcement - vietnamnews.vn",
@@ -638,22 +654,6 @@
     "category": "Entertainment",
     "publishedAt": 1782701100000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTUdUVGZ4X05uYVlxRUpYSEZJZ3dOY3ZIb0dkc2RJeFlOT1gyUUZVTHlZVmJKRDA0SDhXN29yaFpraDhHaVpUeFowN085b3dVcGFFM0xTOUt6Slp4S0tiZVJCdmpReFY5UEhKeTdPMGNaMWNrZ25RSm1UWWg2Z0RZa0g1emRPYmFpSk5NV1hqeXZjaVdYVlAxdS1TaGk3MnhNaUlzSUlxckw5d3FVRHNnRzdJdzBUZEdNZHVR?oc=5"
-  },
-  {
-    "id": "google-news-video-vi-tech-cbmifkfvx3lxtfa5mfq2ouryr09kthnqtlpjmnjbrkrtyjhizmhvttkwnzj3cjnoalhyc3gxymdfcvrtrnz1sk9sx1hhu3e0",
-    "type": "video-link",
-    "title": "Video: Driver selling his car to \"rob\" other vehicles on the road, nearly crashes into oncoming traffic. - Vietnam.vn",
-    "excerpt": "Video: Driver selling his car to \"rob\" other vehicles on the road, nearly crashes into oncoming traffic. Vietnam.vn",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5MFQ2OURYR09KTHNqTlpjMnJBRkRtYjhiZmhvTTkwNzJ3cjNOalhyc3gxYmdFcVRtRnZ1Sk9sX1hhU3E0ckJHQm9jVmJlM0xsNUVOTWxlQV9MelhOVHlJbHF5MG10a0FFV2UycTEwTUFQSFdBUENwZFJ1NUxoQQ?oc=5",
-    "image": null,
-    "channelId": "google-news-video-vi-tech",
-    "channelName": "Vietnam.vn",
-    "sourceId": "google-news-video-vi-tech",
-    "sourceName": "Vietnam.vn",
-    "sourceHomepage": "https://www.vietnam.vn",
-    "category": "Tech",
-    "publishedAt": 1782695219000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5MFQ2OURYR09KTHNqTlpjMnJBRkRtYjhiZmhvTTkwNzJ3cjNOalhyc3gxYmdFcVRtRnZ1Sk9sX1hhU3E0ckJHQm9jVmJlM0xsNUVOTWxlQV9MelhOVHlJbHF5MG10a0FFV2UycTEwTUFQSFdBUENwZFJ1NUxoQQ?oc=5"
   },
   {
     "id": "google-news-video-vi-sports-cbmisgfbvv95cuxqdwtrvdzxa085tfoyzjhfylvivhnqwlvat2dinc1qunjmv2hxvepfstbquwzit2itt1riqtnpzzfvwhlq",
@@ -704,6 +704,22 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWG1MNUF6Zm1pODJUcWlKNC1HU0xBWGp6Wjl3NDhoWVQybzUtRUtuZ1JHMEJvRjNxU05VSnZuYzdSVXdjblhyTFJDR3hTSFRRNGVRY0ZmbVcyX0trWEdESERONkxHMEs4UW1JMVZwRXZvWXVSbU1KV3VMclptNVdYN1JrVzVmOHVIRmI2NDhoenFGdkhKcVlpaTJHY1RBODhKeGg4MmtzRU9mSm12bFV4dHhjRTgtTEFZNWp6VXVfdTFrVTA4RUE?oc=5"
   },
   {
+    "id": "google-news-video-vi-world-cbmilafbvv95cuxobgkyu2vncgfmtxzxsevssuxqx0xwdwtgu2dhmtdutda2tug5z0zqveuztkr2yutwq0zzztzvsfzyqjmt",
+    "type": "video-link",
+    "title": "Nhìn lại vòng bảng World Cup 2026 qua những con số - Znews",
+    "excerpt": "Nhìn lại vòng bảng World Cup 2026 qua những con số Znews",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObGkyU2VncGFMTXZXSEVsSUxqX0xWdWtGU2dHMTdUTDA2TUg5Z0ZqVEUzTkR2YUtWQ0ZzZTZVSFZyQjMtMTlncmh6TWE2R2FPazltZkJxS09DcV9IWXc3Ni1WWDVJUnBVVHRfYlFIRHZoR2pjc21uN0tmMWQ1OXhDSFhzcm1OVnlvSHNpMTlqNmluVDZi?oc=5",
+    "image": null,
+    "channelId": "google-news-video-vi-world",
+    "channelName": "Znews",
+    "sourceId": "google-news-video-vi-world",
+    "sourceName": "Znews",
+    "sourceHomepage": "https://znews.vn",
+    "category": "World",
+    "publishedAt": 1782640108000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObGkyU2VncGFMTXZXSEVsSUxqX0xWdWtGU2dHMTdUTDA2TUg5Z0ZqVEUzTkR2YUtWQ0ZzZTZVSFZyQjMtMTlncmh6TWE2R2FPazltZkJxS09DcV9IWXc3Ni1WWDVJUnBVVHRfYlFIRHZoR2pjc21uN0tmMWQ1OXhDSFhzcm1OVnlvSHNpMTlqNmluVDZi?oc=5"
+  },
+  {
     "id": "google-news-video-vi-health-cbmi3afbvv95cuxqmwyxvgntu0zqvg0yxzz2wtrkz1zosfz5qudfndg1zta0ytlrvlhvunhvqnfimll1c01tuzlgawzusfjq",
     "type": "video-link",
     "title": "Cuc Phuong Commune will organize regular health check-ups and free screenings for residents belonging to priority groups in 2026. - Vietnam.vn",
@@ -718,22 +734,6 @@
     "category": "Health",
     "publishedAt": 1782639044000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMWYxVGNTU0ZQVG0yXzZ2WTRKZ1ZoSFZ5QUdFNDg1ZTA0YTlrVlhvUnhvQnFIMll1c01tUzlGaWZUSFJQU2Rjdm5XNVE2WEUtV295bk1tblBIYTNHRW9tMGFabzBMbGp1d01NekRZTy0zVkZMNVRNSklDRkFhMkptX1NhUUpKT2oxWFMwTENwNWJMRFRkOFYzdU9xeWV2eVh6N0tYVEJ2cTlWYjU5cHdSWEZjZzNoN2c1SldNeXh3elBTeUxTa0taTGw3aDh3WkplbGVZUnpHcHFWWS1G?oc=5"
-  },
-  {
-    "id": "google-news-video-vi-sports-cbmimgfbvv95cuxqohbhrnrdwmxprlfjderiuzqxdghurvdcm1pfvnn4djg0atfdcv8xz3fqltm1zkpgwkjbwvlvewlxmhpf",
-    "type": "video-link",
-    "title": "Breaking down a door to rescue a driver trapped after an accident in Quang Ninh - Laodong.vn",
-    "excerpt": "Breaking down a door to rescue a driver trapped after an accident in Quang Ninh Laodong.vn",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOHBhRnRDWmxpRlFjdERiUzQxdGhURVdCM1pfVnN4djg0aTFDcV8xZ3FqLTM1ZkpGWkJBWVlVeWlXMHpFV3lhY1RoX1dxaDY5UzhRLVR5a3ppQnJBdkllZDcwSFVZNFRoUGZxaHgxaUI4RHRJamdab1pqSlVId0JibDBJTTRMZlV5RGpkeWNhR01XamhDd3VYQ2R3?oc=5",
-    "image": null,
-    "channelId": "google-news-video-vi-sports",
-    "channelName": "Laodong.vn",
-    "sourceId": "google-news-video-vi-sports",
-    "sourceName": "Laodong.vn",
-    "sourceHomepage": "https://news.laodong.vn",
-    "category": "Sports",
-    "publishedAt": 1782634280000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOHBhRnRDWmxpRlFjdERiUzQxdGhURVdCM1pfVnN4djg0aTFDcV8xZ3FqLTM1ZkpGWkJBWVlVeWlXMHpFV3lhY1RoX1dxaDY5UzhRLVR5a3ppQnJBdkllZDcwSFVZNFRoUGZxaHgxaUI4RHRJamdab1pqSlVId0JibDBJTTRMZlV5RGpkeWNhR01XamhDd3VYQ2R3?oc=5"
   },
   {
     "id": "google-news-video-vi-entertainment-cbmiwgfbvv95cuxpzfnhqnlyu0r1vmleq0hkqzrrqkxpvhgtsvdgzw91meitovd1ujg2uwu3cnzucednnflwrc1pbhjmavve",
@@ -800,20 +800,20 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONUtjSXpzNnN0X0cySGUyTTdiQ1dOVFhYMW5ScEFNanlRMVk5eFo4NldCVjNFVnBCR0lCek9scEpMR243QTdfQ2lCQjR1NnVqdzdiVnFTR1BBaGsyOExsZ2VONnVoYTFqcGN0QjJrT1RaRzNxcERORXNSMWJDNVUtZ25HaENBc3JJRGRuYWVRNDMwWXpkMU9zcDhmZ3F4azJVTFNj?oc=5"
   },
   {
-    "id": "google-news-video-vi-sports-cbmiyefvx3lxte1sddzommnazutrwl9kr3k5wdzbug9vbhb3ufc5zk1iq3jtytnbnhletlriyxfpchh6x2xnajlaukxqeuk4",
+    "id": "google-news-video-vi-health-cbmisgfbvv95cuxpuudczufjquzgwnnydnjrwdhaejbvawvzddjudkvhovflnnbdedmwzlntcnzya2v3bkxunkldr2txajhf",
     "type": "video-link",
-    "title": "NHẬN ĐỊNH - DỰ ĐOÁN BOSNIA & HERZEGOVINA VS QATAR | 02H00 NGÀY 25/06/2026 Mortgage Broker (QSGv3j1ZaK) - Mshale",
-    "excerpt": "NHẬN ĐỊNH - DỰ ĐOÁN BOSNIA & HERZEGOVINA VS QATAR | 02H00 NGÀY 25/06/2026 Mortgage Broker (QSGv3j1ZaK) Mshale",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sdDZOMmNaZUtrWl9kR3k5WDZBUG9VbHB3UFc5Zk1IQ3JTYTNBNHlETlRIYXFpcHh6X2xNajlaUkxqeUk4NW9ZOThaR0w0ZnRkOTVRVFlPbC1fNW1DOUpSTA?oc=5",
+    "title": "Lacking sufficient funds for treatment in Japan, what is the current health condition of People's Artist Cong Ly? - Vietnam.vn",
+    "excerpt": "Lacking sufficient funds for treatment in Japan, what is the current health condition of People's Artist Cong Ly? Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUUdCZUFjQUZGWnNYdnJrWDhaejBvaWVzdDJUdkVhOVFLNnBDeDMwZlNtcnZya2V3bkxuNklDR2tXajhfVWIwMVFibURSWUtDWlJ2MkdlbXk3Vk1scXgxVWl6T2ZadE1uWW1lbGZueUc3aGtfQkdWT2lVUUpydnlGbjlHSzBFbV9qdXBJQmFOYkNncjZ2LU9oNEVCdW00SDFqLTBpeUdkM2ZNOE9rYzdZd253?oc=5",
     "image": null,
-    "channelId": "google-news-video-vi-sports",
-    "channelName": "Mshale",
-    "sourceId": "google-news-video-vi-sports",
-    "sourceName": "Mshale",
-    "sourceHomepage": "https://mshale.com",
-    "category": "Sports",
-    "publishedAt": 1782556698000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sdDZOMmNaZUtrWl9kR3k5WDZBUG9VbHB3UFc5Zk1IQ3JTYTNBNHlETlRIYXFpcHh6X2xNajlaUkxqeUk4NW9ZOThaR0w0ZnRkOTVRVFlPbC1fNW1DOUpSTA?oc=5"
+    "channelId": "google-news-video-vi-health",
+    "channelName": "Vietnam.vn",
+    "sourceId": "google-news-video-vi-health",
+    "sourceName": "Vietnam.vn",
+    "sourceHomepage": "https://www.vietnam.vn",
+    "category": "Health",
+    "publishedAt": 1782603136000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUUdCZUFjQUZGWnNYdnJrWDhaejBvaWVzdDJUdkVhOVFLNnBDeDMwZlNtcnZya2V3bkxuNklDR2tXajhfVWIwMVFibURSWUtDWlJ2MkdlbXk3Vk1scXgxVWl6T2ZadE1uWW1lbGZueUc3aGtfQkdWT2lVUUpydnlGbjlHSzBFbV9qdXBJQmFOYkNncjZ2LU9oNEVCdW00SDFqLTBpeUdkM2ZNOE9rYzdZd253?oc=5"
   },
   {
     "id": "google-news-video-vi-world-cbmikafbvv95cuxqdlnksfzfadhtmxh6y1i5dhzsvflis0lxdw5xofdbethnqk9vwtnpbtnusmxhctlztkjsrdzjawnwvwzr",
@@ -830,6 +830,22 @@
     "category": "World",
     "publishedAt": 1782554833000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdlNkSFZfaDhtMXh6Y1I5dHZsVFlIS0lxdW5XOFdBeThNQk9vWTNpbTNuSmxhcTlzTkJSRDZJaWNWVWZrV2R3Y3VWYkJGMkY4LTBFZXZEZzNDZ3B6WFh1SVlnTWNsbF9WNG00cFc4ckhtUUpGdGlJNXc0ejJaX0lQa01EZHhiTk1LUDJqY01wSGU?oc=5"
+  },
+  {
+    "id": "google-news-video-vi-sports-cbmivgfbvv95cuxnwjh3reducupoefv4znvzsfrjq3jhukzqs1dotvzpngj4wuh1b3hhvjrsnhludw9jazhzu182cuwzterk",
+    "type": "video-link",
+    "title": "Da Nang shapes urban planning identity from heritage resources - Laodong.vn",
+    "excerpt": "Da Nang shapes urban planning identity from heritage resources Laodong.vn",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWjh3REdUcUpOeFV4ZnVzSFRJQ3JhUkZQS1doTVZPNGJ4WUh1b3hHVjRsNHludW9jazhZU182cUwzTERkVTRFZjRJLXlkdmZFMHZ5RlVmTlZYUWNFSG5yN3FGODNQZ0xnQ0xBSzI4WFF3ZW1Lb3ZERGd0eWMzeGRqVjluMFcxMkFJZDVxZFhtQktxRVM1VG1jd2o0cHp1Tl94T3RDVU9wY2pSQWN3VjZqdE1OU1E2c2luRExsNUZn?oc=5",
+    "image": null,
+    "channelId": "google-news-video-vi-sports",
+    "channelName": "Laodong.vn",
+    "sourceId": "google-news-video-vi-sports",
+    "sourceName": "Laodong.vn",
+    "sourceHomepage": "https://news.laodong.vn",
+    "category": "Sports",
+    "publishedAt": 1782548155000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWjh3REdUcUpOeFV4ZnVzSFRJQ3JhUkZQS1doTVZPNGJ4WUh1b3hHVjRsNHludW9jazhZU182cUwzTERkVTRFZjRJLXlkdmZFMHZ5RlVmTlZYUWNFSG5yN3FGODNQZ0xnQ0xBSzI4WFF3ZW1Lb3ZERGd0eWMzeGRqVjluMFcxMkFJZDVxZFhtQktxRVM1VG1jd2o0cHp1Tl94T3RDVU9wY2pSQWN3VjZqdE1OU1E2c2luRExsNUZn?oc=5"
   },
   {
     "id": "google-news-video-vi-world-cbmirafbvv95cuxquks0x0lis2jct1fllwzvatq3wjrvcvrhudbts2rkswl1d19psknoxzjhn0w5clzcodriqlrhwdkwxzlm",
@@ -928,6 +944,22 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVmJKUWlVdnVIYWFldWdxakdHQktrSzEyb05jOEtJZjJ0QmFQbjZoOHU3VFR3dDU2YnNkaHBEUzhoa2lfR1VMYTRWMXdGR1pmd29jZk5fMzRvdV9GMm9zNG9Hc0pvOWYzWnkwSWI3YXdITXNjNk4zaUpPalRUWUdzbGJfVzVMM1owdVByNmlDaWdxZWNiVnAzeUdnaDJkaHBO?oc=5"
   },
   {
+    "id": "google-news-video-vi-world-cbmirwfbvv95cuxqve9svhz3mm9wvng0sgdmdhu4wfo5wgi3ujlun1jvtfhlnmnvaupxzjvkqwlvn3luyvuzqm9onvhwvuhx",
+    "type": "video-link",
+    "title": "Video highlight FIFA World Cup 2026™: Diễn biến, bàn thắng Cape Verde vs Ả Rập Xê Út - bnews.vn",
+    "excerpt": "Video highlight FIFA World Cup 2026™: Diễn biến, bàn thắng Cape Verde vs Ả Rập Xê Út bnews.vn",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVE9sVHZ3Mm9WVng0SGdMdHU4WFo5WGI3UjluN1JvTFhLNmNVaUpXZjVKQWlvN3lUYVUzQm9ONVhwVUhxczJIblAxVUxFdGg2Ykc1Zi1LLUh1ekZpaDAzckc4alROUUpNcUdyRDd5aDNPakZCMV83eGhrLV9ZSE9CemJwWFZFUDNHWDc0SHYtV1c3TFNPUW91T1YzWmVDX0pHNTUtc0FIaTRVc1RsR0dj?oc=5",
+    "image": null,
+    "channelId": "google-news-video-vi-world",
+    "channelName": "bnews.vn",
+    "sourceId": "google-news-video-vi-world",
+    "sourceName": "bnews.vn",
+    "sourceHomepage": "https://bnews.vn",
+    "category": "World",
+    "publishedAt": 1782533400000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVE9sVHZ3Mm9WVng0SGdMdHU4WFo5WGI3UjluN1JvTFhLNmNVaUpXZjVKQWlvN3lUYVUzQm9ONVhwVUhxczJIblAxVUxFdGg2Ykc1Zi1LLUh1ekZpaDAzckc4alROUUpNcUdyRDd5aDNPakZCMV83eGhrLV9ZSE9CemJwWFZFUDNHWDc0SHYtV1c3TFNPUW91T1YzWmVDX0pHNTUtc0FIaTRVc1RsR0dj?oc=5"
+  },
+  {
     "id": "google-news-video-vi-health-cbmiwgfbvv95cuxnaflzrkz4tdhleus5zk41cfbnu2roznzwx2hmr2t6x01vlwvhdetnrex6cmg2ddvjy0fnv2vrdmtwnzm2",
     "type": "video-link",
     "title": "AI News - Weekly Life: Basic Out-of-Network Medical Examinations Covered by Health Insurance - baonghean.vn",
@@ -974,22 +1006,6 @@
     "category": "Health",
     "publishedAt": 1782470236000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVl82OFFBcWp6eWRma2ljcE1vejJIS0lDN01KWFNKZ3VOODY4dDNOVS03aXlhQlJEZWVlaGlWeEFrRnZIZ1FOd3hvMC1HNGktRjRlWFVRbFhRd3lZZDF3LXBTUHpNck1HZWptN2Jvb3RFN0l4YlhxaUc4UDBUUHllM0E5cWF0dkRPVTBhTEpFNjRnZ2N5TG5heFUyWDgzOWNWRmNQUk9Rb1g1MWZ2?oc=5"
-  },
-  {
-    "id": "google-news-video-vi-world-cbmikafbvv95cuxpemdfvjbuaddtrhpwckwtcld3q3fruhzntxjan1i5rvpiwmpsx1f4d0vis01stm9jnweweun2yzbmctv6",
-    "type": "video-link",
-    "title": "Ba đội chủ nhà cùng ghi điểm tại World Cup 2026 - Znews",
-    "excerpt": "Ba đội chủ nhà cùng ghi điểm tại World Cup 2026 Znews",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemdfVjBUaDdTRHpwckwtcld3Q3FRUHZnTXJaN1I5RVpiWmpSX1F4d0VIS01STm9JNWEweUN2YzBMcTV6QURaeHdMSFdMN0JjcWdLMFg4SVVWSmVDdWttMndSZXNJVWIzV3doenRqaTdWZTVkYjdUV0Z6dGZDRjlqaVhLNHlTcGNtbTdNNDRLbVM?oc=5",
-    "image": null,
-    "channelId": "google-news-video-vi-world",
-    "channelName": "Znews",
-    "sourceId": "google-news-video-vi-world",
-    "sourceName": "Znews",
-    "sourceHomepage": "https://znews.vn",
-    "category": "World",
-    "publishedAt": 1782466031000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemdfVjBUaDdTRHpwckwtcld3Q3FRUHZnTXJaN1I5RVpiWmpSX1F4d0VIS01STm9JNWEweUN2YzBMcTV6QURaeHdMSFdMN0JjcWdLMFg4SVVWSmVDdWttMndSZXNJVWIzV3doenRqaTdWZTVkYjdUV0Z6dGZDRjlqaVhLNHlTcGNtbTdNNDRLbVM?oc=5"
   },
   {
     "id": "google-news-video-vi-sports-cbmiqafbvv95cuxocevwahjodxdlwvffx1fewth6suztrglinxc3evg1z3dyrwxaa1gzdulfn2iya2fzt3bzb3fmznctemoz",
@@ -1072,6 +1088,22 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ05jVDV5N1I5al9BcmI0d3QtbHdEaGE2SzNYLXNVZGZXWUkzVmZmN3hENXUxSVlfblBlU2puV25yVlhlZXpjRnd1VGJ2NWdiUHZpWDh3elpGaXVBNjB5S3JPZWo0TGc1TXhKazlZckJTcnJQX204M21PNmg3OFMwZWNBb0o?oc=5"
   },
   {
+    "id": "google-news-video-vi-tech-cbmijgfbvv95cuxowdzpcfq5nud6uwpscf9welizuzbhz2dldfbybfffouuzwefit0hoq2i2mgf2bu1sbvpltmxdsnrsaldo",
+    "type": "video-link",
+    "title": "Strategic tasks on technology development - vietnamnews.vn",
+    "excerpt": "Strategic tasks on technology development vietnamnews.vn",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWDZpcFQ5NUd6UWpscF9welIzUzBHZ2dldFBYbFFFOUUzWEFIT0hOQ2I2MGF2bU1SbVpLTmxDSnRSaldoU1UxR2NjOTZNMjV0WDViZHRRRDhueS1yTmswLV9mVTRhOWsyR1BMWVdrWUxaUVVReFhzSkxXUmxnZHlTdUFjOGhXaDd3d1NjSzBR?oc=5",
+    "image": null,
+    "channelId": "google-news-video-vi-tech",
+    "channelName": "vietnamnews.vn",
+    "sourceId": "google-news-video-vi-tech",
+    "sourceName": "vietnamnews.vn",
+    "sourceHomepage": "https://vietnamnews.vn",
+    "category": "Tech",
+    "publishedAt": 1782382620000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWDZpcFQ5NUd6UWpscF9welIzUzBHZ2dldFBYbFFFOUUzWEFIT0hOQ2I2MGF2bU1SbVpLTmxDSnRSaldoU1UxR2NjOTZNMjV0WDViZHRRRDhueS1yTmswLV9mVTRhOWsyR1BMWVdrWUxaUVVReFhzSkxXUmxnZHlTdUFjOGhXaDd3d1NjSzBR?oc=5"
+  },
+  {
     "id": "google-news-video-vi-business-cbmisgfbvv95cuxpqzlxog9xtfvfehfbegltvwtvvxvuy2dtcljnzll3bjcxnnvowgljbhfxtzz2a0r6dedxu1zqyvowujm3",
     "type": "video-link",
     "title": "Điện Biên approves UAV sandbox for low-altitude economy development - vietnamnews.vn",
@@ -1118,22 +1150,6 @@
     "category": "World",
     "publishedAt": 1782369900000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNndQRDVoaHlXUkVvZ3EtZkIxNXF4Y1ZXcno5R2pEbl9qUGRLc3h3VGEyYWNDSmVPeFluWVNrcHo4TG0tU0RzTm5kM1JicEk4d21pNXlpSENUTV9vcnZTRFI4WE9ERnlVdXZuYm9RZkM3ZkpTZ05oZFNGYUJKNEs1VjZRU3VsbG45Zlo4?oc=5"
-  },
-  {
-    "id": "google-news-video-vi-entertainment-cbmipafbvv95cuxomghvdhrdqmztay1tblewqjdma3zqnv9iumw0rmluz18xrmoxzepwdurfskl3svlitdvude9lwkrravzp",
-    "type": "video-link",
-    "title": "Video: HELLUVA BOSS Ra Mắt Clip Đầu Tiên Từ Mùa 3 - BroadwayWorld",
-    "excerpt": "Video: HELLUVA BOSS Ra Mắt Clip Đầu Tiên Từ Mùa 3 BroadwayWorld",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMGhvdHRDQmZtay1TblEwQjdMa3ZQNV9IUmw0RmlUZ18xRmoxZEpWdURfSkl3SVlITDVUdE9LWkRraVZpaFo4dWpRN21vcXVvS3VJZjJPd0NVTXR6QnY3R1RJcFhBZ04wcElzSmNDREVqMDgtRlJMNXBDaVJIYW8zT19uckMtYk92ZnlYejNQbUprMjluQl90MEc5SmJ6SFVySXFnSA?oc=5",
-    "image": null,
-    "channelId": "google-news-video-vi-entertainment",
-    "channelName": "BroadwayWorld",
-    "sourceId": "google-news-video-vi-entertainment",
-    "sourceName": "BroadwayWorld",
-    "sourceHomepage": "https://www.broadwayworld.com",
-    "category": "Entertainment",
-    "publishedAt": 1782361294000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMGhvdHRDQmZtay1TblEwQjdMa3ZQNV9IUmw0RmlUZ18xRmoxZEpWdURfSkl3SVlITDVUdE9LWkRraVZpaFo4dWpRN21vcXVvS3VJZjJPd0NVTXR6QnY3R1RJcFhBZ04wcElzSmNDREVqMDgtRlJMNXBDaVJIYW8zT19uckMtYk92ZnlYejNQbUprMjluQl90MEc5SmJ6SFVySXFnSA?oc=5"
   },
   {
     "id": "google-news-video-vi-world-cbmisgfbvv95cuxoazq5zdntbvrrcfpkshztuhr3zmxhr3jfoe82vv95t2ricxz6u0l6x1rgotdbcgruvm1qaw5qbzzvduyw",

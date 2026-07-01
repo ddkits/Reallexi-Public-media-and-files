@@ -6,9 +6,9 @@ Use this file when preparing the Mawajez News Hub Chrome Web Store listing.
 
 Name: Mawajez News Hub
 
-Short description: Search multilingual public news feeds, save favorites locally, and reopen Mawajez sessions.
+Short description: Search multilingual public news feeds, save favorites locally, open a side panel, and get optional alerts.
 
-Detailed description: Mawajez News Hub gives readers fast access to Mawajez public news feeds from the browser toolbar. Search headlines, filter by category and language, save favorite article or video links locally, and reopen recent Mawajez tabs. The extension is built for public news discovery and stores user preferences in the browser.
+Detailed description: Mawajez News Hub gives readers fast access to Mawajez public news feeds from the browser toolbar and side panel. Search headlines, filter by category and language, save favorite article or video links locally, receive optional notifications for newly detected matching stories, and reopen recent Mawajez tabs. The extension is built for public news discovery and stores user preferences in the browser.
 
 Category: News and Weather
 
@@ -34,7 +34,7 @@ Public media repo target: `ddkits/Reallexi-Public-media-and-files`, folder `medi
 
 ## Permission Review
 
-`storage`: stores language, favorites, cached public feeds, and popup filter/session state locally.
+`storage`: stores language, category preferences, notification setting, refresh interval, favorites, cached public feeds, and popup filter/session state locally.
 
 `alarms`: refreshes public Mawajez feed cache on a periodic schedule.
 
@@ -42,9 +42,13 @@ Public media repo target: `ddkits/Reallexi-Public-media-and-files`, folder `medi
 
 `sessions`: restores a recently closed Mawajez tab after a user clicks Restore tab.
 
+`sidePanel`: opens the same Mawajez news experience in the browser side panel from a user click.
+
+`notifications`: shows optional new-news alerts after the user enables notifications in settings.
+
 Host permission `https://mawajez.com/*`: fetches public Mawajez API JSON and opens Mawajez pages only.
 
-The extension does not request `activeTab`, `tabs`, `downloads`, `scripting`, `unlimitedStorage`, `sidePanel`, or declarative net request permissions.
+The extension does not request `activeTab`, `tabs`, `downloads`, `scripting`, `unlimitedStorage`, or declarative net request permissions.
 
 ## Remote Code
 
@@ -52,7 +56,7 @@ No remote JavaScript or WebAssembly is loaded. All extension JavaScript and CSS 
 
 ## User Data
 
-The extension does not collect personal data. Favorites, selected language, cached feed JSON, and popup state are kept in browser storage. Saved favorites may contain public source URLs and article/video metadata selected by the user.
+The extension does not collect personal data. Favorites, selected language, selected categories, notification setting, refresh interval, cached feed JSON, and popup or side-panel state are kept in browser storage. Saved favorites may contain public source URLs and article/video metadata selected by the user.
 
 Privacy policy: https://github.com/ddkits/Reallexi-Public-media-and-files/blob/main/media/mawajez/policies/PRIVACY.md
 
