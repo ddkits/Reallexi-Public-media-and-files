@@ -13,10 +13,17 @@ Features:
 - Inline and side-by-side diff
 - Export to workspace, file picker, or untitled editor
 - Replace current file only after confirmation
+- Status bar and explorer/context menu access for Markdown and HTML files
+- Markdown and HTML snippets
+- Advanced Markdown and HTML editor tools
 
 Privacy statement: MD2HTML Converter works locally in your editor or browser. Your content is not sent to Reallexi servers for conversion.
 
 Website: https://reallexi.io
+
+Sponsor: https://github.com/sponsors/ddkits
+
+Buy Me a Coffee: https://www.buymeacoffee.com/ddkits
 
 Screenshots:
 

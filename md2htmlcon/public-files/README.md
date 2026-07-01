@@ -17,10 +17,14 @@ MD2HTML Converter is built for developers, writers, editors, and content teams w
 - Convert Markdown to HTML with GitHub-flavored Markdown support.
 - Convert HTML and webpages back to Markdown.
 - Capture selected page content from Chrome or Edge.
+- Pull the current browser page into the converter with exact-origin permission prompts.
+- Use Mouse Reader to hover and click a page element, then convert just that element.
 - Convert the current VS Code file or selection.
+- Use advanced Markdown and HTML editors with snippet insert buttons, cleanup, and stats.
 - Preview sanitized HTML safely.
 - Compare source and output edits in inline or side-by-side diff views.
 - Copy or export converted files as `.html`, `.md`, `.txt`, `.diff`, or `.patch`.
+- Open MD2HTML quickly from VS Code Markdown/HTML status bar actions, editor menus, explorer menus, and snippets.
 
 ## Convert From VS Code
 
@@ -38,7 +42,9 @@ The converter opens in a VS Code webview using your editor theme. Exporting lets
 
 ## Convert From Chrome Or Edge
 
-Use the popup or side panel to paste content, convert the current page, or convert selected text from a right-click menu.
+Use the popup or side panel to paste content, pull the current page, convert selected text from a right-click menu, or use Mouse Reader to click one page element and capture it.
+
+When a page needs host access, MD2HTML Converter asks for that specific origin instead of requiring broad always-on host permissions. Browser-internal pages such as `chrome://` and `edge://` cannot be captured by extensions, so paste content manually for those pages.
 
 Context menu actions:
 
@@ -51,7 +57,9 @@ Context menu actions:
 
 ## Preview, Edit, Compare, And Export
 
-The main converter has a source editor, converted output editor, sanitized preview, and diff view. If you edit the generated output manually, MD2HTML Converter clearly marks it as `Output edited manually` and lets you reset it back to the latest generated conversion.
+The main converter has advanced Markdown and HTML editors, a converted output editor, sanitized preview, and diff view. Editor toolbars include quick inserts for headings, links, images, code blocks, tables, task lists, HTML sections, and cleanup.
+
+If you edit the generated output manually, MD2HTML Converter clearly marks it as `Output edited manually` and lets you reset it back to the latest generated conversion.
 
 ![Diff view](assets/screenshots/diff-view.png)
 
@@ -69,6 +77,11 @@ MD2HTML Converter is built by Reallexi.
 
 Built by Reallexi — https://reallexi.io
 
+Sponsor the work:
+
+- GitHub Sponsors: https://github.com/sponsors/ddkits
+- Buy Me a Coffee: https://www.buymeacoffee.com/ddkits
+
 ## Developer Setup
 
 ```bash
@@ -84,8 +97,11 @@ npm run media:sync
 Generated packages:
 
 - `dist/vscode/md2html-converter-<version>.vsix`
+- `dist/vscode/md2html-converter-<version>-unpacked/`
 - `dist/chrome/md2html-converter-chrome-<version>.zip`
+- `dist/chrome/md2html-converter-chrome-<version>-unpacked/`
 - `dist/edge/md2html-converter-edge-<version>.zip`
+- `dist/edge/md2html-converter-edge-<version>-unpacked/`
 
 Versioning is guarded and automatic: root commands such as `npm run test`, `npm run build`,
 `npm run compile`, and `npm run package:all` bump the patch version once, sync workspace package
