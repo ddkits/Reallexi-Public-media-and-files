@@ -75,3 +75,28 @@ button:hover {
   display: grid;
   gap: 8px;
 }
+
+.supportButton {
+  display: grid;
+  grid-template-columns: 18px minmax(0, 1fr) 16px;
+  gap: 8px;
+  padding: 0 10px;
+  text-align: left;
+}
+
+.supportButton svg {
+  width: 16px;
+  height: 16px;
+  align-self: center;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 2;
+}
+
+.supportButton span {
+  min-width: 0;
+  overflow-wrap: anywhere;
+  color: var(--muted);
+}

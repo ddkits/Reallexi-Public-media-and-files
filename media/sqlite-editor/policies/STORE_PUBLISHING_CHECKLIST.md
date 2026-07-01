@@ -23,7 +23,13 @@ dist/browser-extensions/sqlite-free-editor-edge-<version>.zip
 
 ## Public Media Bundle
 
-Publish shared store media and policy files from:
+`npm run package` stages shared store media and policy files at:
+
+```text
+dist/store-assets/sqlite-editor/
+```
+
+Copy that generated folder into the public media repository at:
 
 ```text
 media/sqlite-editor/
@@ -33,7 +39,7 @@ Required bundle contents:
 
 - `icons/` for extension icons and Reallexi marks.
 - `screenshots/` for store screenshots and demo media.
-- `policies/` for privacy, Edge disclosure, and Chrome requirements files.
+- `policies/` for privacy, Edge disclosure, Edge form answers, and Chrome requirements files.
 - `public-files/` for README, changelog, license, package metadata, and package artifact details.
 - `browser-extensions/` for packed and unpacked Chrome and Edge extension builds.
 

@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Reallexi SQLite Editor",
   "short_name": "SQLite Editor",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "description": "Open, inspect, query, and export local SQLite database files in Chrome.",
   "action": {
     "default_title": "Reallexi SQLite Editor",

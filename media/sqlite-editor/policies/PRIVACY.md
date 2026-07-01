@@ -8,4 +8,6 @@ Database contents, SQL queries, imports, exports, backups, save operations, down
 
 The extension uses packaged code and packaged dependencies. It does not load or execute remote JavaScript or WebAssembly.
 
+The extension's use of local file information is limited to providing and improving its single purpose as a SQLite database editor. It complies with the Chrome Web Store User Data Policy, including the Limited Use requirements, and does not sell or transfer user data for advertising or unrelated purposes.
+
 Support: https://github.com/ReallexiLLC/sqlite-editor/issues
