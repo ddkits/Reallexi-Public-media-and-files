@@ -1,0 +1,21 @@
+{
+  "product": "MD2HTML Converter",
+  "slug": "md2htmlcon",
+  "version": "0.0.43",
+  "website": "https://reallexi.io",
+  "backlinkText": "Built by Reallexi — https://reallexi.io",
+  "assets": {
+    "icons": "icons/",
+    "logo": "logo/",
+    "screenshots": "screenshots/",
+    "gifs": "gifs/",
+    "storeMetadata": "store/",
+    "publicFiles": "public-files/",
+    "policies": "policies/"
+  },
+  "packages": {
+    "vscode": "dist/vscode/md2html-converter-0.0.43.vsix",
+    "chrome": "dist/chrome/md2html-converter-chrome-0.0.43.zip",
+    "edge": "dist/edge/md2html-converter-edge-0.0.43.zip"
+  }
+}
