@@ -99,8 +99,11 @@ Expected assets:
 
 - Icons: `icons/icon.png`, `icons/reallexi-logo.png`, `icons/reallexi-logo.svg`
 - Screenshots and demo media: `screenshots/sqlite-editor-data.png`, `screenshots/sqlite-editor-sql.png`, `screenshots/sqlite-editor-demo.gif`
+- Chrome upload-ready screenshots: `store-ready/chrome/screenshots/*-1280x800.png` and `store-ready/chrome/screenshots/*-640x400.png`
+- Chrome required small promotional image: `store-ready/chrome/promotional/sqlite-editor-small-promo-440x280.png`
+- Chrome optional marquee promotional image: `store-ready/chrome/promotional/sqlite-editor-marquee-promo-1400x560.png`
 - Policies: `policies/PRIVACY.md`, `policies/EDGE_ADDONS_COMPLIANCE.md`, `policies/EDGE_ADDONS_STORE_SUBMISSION_ANSWERS.md`, `policies/CHROME_WEB_STORE_REQUIREMENTS.md`, `policies/STORE_PUBLISHING_CHECKLIST.md`
-- Public files: `public-files/README.md`, `public-files/CHANGELOG.md`, `public-files/LICENSE`, `public-files/package.json`
+- Public files: `public-files/README.md`, `public-files/CHANGELOG.md`, `public-files/LICENSE`, `public-files/package.json`, `public-files/STORE_IMAGE_ASSETS.md`
 - Browser package: `browser-extensions/sqlite-free-editor-chrome-<version>.zip`
 
 ## Store Asset Checklist

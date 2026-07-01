@@ -9,12 +9,20 @@ Generated packages:
 - VS Code: `sqlite-free-editor-<version>.vsix`
 - Edge packed: `dist/browser-extensions/sqlite-free-editor-edge-<version>.zip`
 - Edge unpacked: `dist/browser-extensions/edge/`
+- Edge store-ready media: `dist/store-assets/sqlite-editor/store-ready/edge/`
 
 Owner: Reallexi LLC
 
 Support: https://github.com/ReallexiLLC/sqlite-editor/issues
 
 Privacy policy URL: https://github.com/ddkits/Reallexi-Public-media-and-files/blob/main/media/sqlite-editor/policies/PRIVACY.md
+
+Store image assets:
+
+- Extension logo: `media/sqlite-editor/store-ready/edge/logos/sqlite-editor-logo-300x300.png`
+- Screenshots: `media/sqlite-editor/store-ready/edge/screenshots/*-1280x800.png` and `media/sqlite-editor/store-ready/edge/screenshots/*-640x480.png`
+- Small promotional tile: `media/sqlite-editor/store-ready/edge/promotional/sqlite-editor-small-promo-440x280.png`
+- Large promotional tile: `media/sqlite-editor/store-ready/edge/promotional/sqlite-editor-large-promo-1400x560.png`
 
 ## Single Purpose Description
 

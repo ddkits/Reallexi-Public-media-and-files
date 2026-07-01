@@ -1,7 +1,7 @@
 {
   "name": "sqlite-free-editor",
   "displayName": "Reallexi SQLite Editor",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "publisher": "ReallexiLLC",
   "author": "Sam Ayoub",
   "description": "Free visual SQLite database editor for VS Code with table browsing, row editing, SQL console, CSV/JSON import and export, backups, integrity checks, and SQL.js support.",
