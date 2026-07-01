@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="560" viewBox="0 0 1400 560">
+    <rect width="1400" height="560" fill="#0f1115"/>
+    <rect x="84" y="67" width="1232" height="426" rx="18" fill="#171a21" stroke="#303644" stroke-width="2"/>
+    <circle cx="252" cy="179" r="45" fill="#2dd4bf"/>
+    <circle cx="336" cy="179" r="28" fill="#60a5fa"/>
+    <text x="476" y="190" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="67" font-weight="850" fill="#f4f7fb">betterConsole</text>
+    <text x="476" y="263" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="29" fill="#98a2b3">Privacy-first debugging workflow for Chrome and Edge</text>
+    <rect x="476" y="325" width="448" height="20" rx="8" fill="#2dd4bf"/>
+    <rect x="476" y="370" width="588" height="20" rx="8" fill="#303644"/>
+  </svg>
