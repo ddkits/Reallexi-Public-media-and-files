@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.21
+
+- Added Manifest V3 Chrome and Edge browser extension builds to `npm run package`.
+- Added packed ZIP and unpacked folder outputs for Chrome and Edge under `dist/browser-extensions`.
+- Updated store publishing docs and generated public media bundles to include browser extension artifacts.
+
 ## 0.1.19
 
 - Added GitHub Sponsors and Buy Me a Coffee funding metadata, README support links, and in-editor sponsor links.

@@ -1,7 +1,7 @@
 {
   "product": "betterConsole",
   "mediaFolder": "media/betterconsole",
-  "generatedAt": "2026-07-01T14:30:54.585Z",
+  "generatedAt": "2026-07-01T17:36:39.399Z",
   "icons": [
     "icons/betterconsole-icon-128.png",
     "icons/betterconsole-icon-16.png",
@@ -37,6 +37,12 @@
     "policies/chrome-web-store-listing.md",
     "policies/edge-addons-compliance.md",
     "policies/privacy-policy.md",
-    "policies/store-submission-checklist.md"
+    "policies/store-submission-checklist.md",
+    "policies/vscode-marketplace-listing.md"
+  ],
+  "extensions": [
+    "extensions/betterConsole-chrome-v1.0.0.zip",
+    "extensions/betterConsole-edge-v1.0.0.zip",
+    "extensions/betterConsole-vscode-v1.0.0.vsix"
   ]
 }

@@ -4,13 +4,13 @@ Use this file to complete the Microsoft Edge Add-ons submission form for betterC
 
 ## Single Purpose Description
 
-betterConsole helps developers debug web pages by capturing browser console activity locally, grouping repeated issues, searching and filtering logs, explaining likely causes, generating sanitized debug reports, and opening user-controlled online searches for fixes.
+betterConsole helps developers debug web pages by capturing browser console activity locally, following the active tab by default, grouping repeated issues, opening issue accordions with source and root-cause details, searching and filtering logs, generating sanitized debug reports, and opening user-controlled online searches for fixes.
 
 ## Permission Justification
 
 ### storage justification
 
-Required to store captured console entries, grouped issue metadata, user settings, issue notes, ignored patterns, bookmarks, retention preferences, and generated report state locally in the browser. No stored data is transmitted to a remote server by default.
+Required to store captured console entries, grouped issue metadata, user settings, issue notes, ignored patterns, bookmarks, capture state, startup keep/reset preference, retention preferences, and generated report state locally in the browser. No stored data is transmitted to a remote server by default.
 
 ### activeTab justification
 
@@ -18,7 +18,7 @@ Required for user-initiated actions from the popup, including refreshing the pac
 
 ### tabs justification
 
-Required to identify the current active tab, associate captured logs with the correct tab, display current-tab status, open the side panel for the active tab, and clear logs for only the current tab when requested.
+Required to identify the current active tab, refresh capture when the active tab changes, associate captured logs with the correct tab, display current-tab status, open the side panel for the active tab, open user-requested solution search tabs, and clear logs for only the current tab when requested.
 
 ### sidePanel justification
 
@@ -34,7 +34,7 @@ Required only when the user exports logs or downloads a generated debug report. 
 
 ### scripting justification
 
-Required for the user-triggered "Capture" action that re-injects the packaged content script into the active tab if capture needs to be refreshed. The extension injects only scripts bundled inside the extension package.
+Required for the user-triggered "Refresh tab" action and active-tab refresh that re-inject the packaged content script into the active tab if capture needs to be refreshed. The extension injects only scripts bundled inside the extension package.
 
 ### unlimitedStorage justification
 
@@ -62,7 +62,7 @@ All JavaScript used by betterConsole is included in the extension package. The e
 
 ### What user data do you plan to collect from users now or in the future?
 
-betterConsole does not collect or transmit user data to ddkits or third-party servers. It stores debugging data locally in the user's browser, including console messages, errors, stack traces, source URLs, page URLs, timestamps, tab IDs, settings, issue notes, and exported report content. Users can clear, copy, export, download, or search with this data at their discretion.
+betterConsole does not collect or transmit user data to ddkits or third-party servers. It stores debugging data locally in the user's browser, including console messages, errors, stack traces, source URLs, page URLs, timestamps, tab IDs, settings, capture state, issue notes, and exported report content. Users can pause capture, keep or reset logs on startup, clear, copy, export, download, or search with this data at their discretion.
 
 ## Privacy Policy URL
 

@@ -1,5 +1,21 @@
 [
   {
+    "id": "google-news-video-it-sports-cbmifefvx3lxtfbidxn6v3nbsdbiu1plrkz2ee5eog9qslvgr2rfmfdluxe4rdcwcudvznizaddmyll6wja5mjf0cfbrtmy5",
+    "type": "video-link",
+    "title": "Sinner incanta Wimbledon: il video del recupero e riga contro Borges - Sky Sport",
+    "excerpt": "Sinner incanta Wimbledon: il video del recupero e riga contro Borges Sky Sport",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIdXN6V3NBSDBiU1pLRkZ2eE5EOG9qSlVGR2RFMFdlUXE4RDcwcUdVZnIzaDdMYll6WjA5MjF0cFBRTmY5UDNxaDVkTUd1WjRyN0YzN29DLV9KbDVWVTg0OW95VE1rSEYzTExHODdGTlJUVlNwNlNCdUtrWjE?oc=5",
+    "image": null,
+    "channelId": "google-news-video-it-sports",
+    "channelName": "Sky Sport",
+    "sourceId": "google-news-video-it-sports",
+    "sourceName": "Sky Sport",
+    "sourceHomepage": "https://sport.sky.it",
+    "category": "Sports",
+    "publishedAt": 1782911335000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIdXN6V3NBSDBiU1pLRkZ2eE5EOG9qSlVGR2RFMFdlUXE4RDcwcUdVZnIzaDdMYll6WjA5MjF0cFBRTmY5UDNxaDVkTUd1WjRyN0YzN29DLV9KbDVWVTg0OW95VE1rSEYzTExHODdGTlJUVlNwNlNCdUtrWjE?oc=5"
+  },
+  {
     "id": "google-news-video-it-business-cbmilwfbvv95cuxoytvfbtnuauxysjvzahnvr1bjr2pes1hqyjfdzdzwq3z6yxvzs1rdtwpmmer3ahk1euk3m0s3ltzun1hw",
     "type": "video-link",
     "title": "Video. Come questo Paese sta utilizzando l'IA nelle scuole - Euronews",
@@ -16,20 +32,20 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYTVfbTNuaUxySjVZaHNVR1BjR2pES1hqYjFDZDZWQ3Z6YXVZS1RDTWpMMER3aHk1eUk3M0s3LTZUN1hWUUpGX1g3VGpaaS1WRm1FUGpnU1ZZV0tnTGcwaHB6Y1h6SzJ6Z3lfMU1ZU0NDT2F4aGFxQ180eGVmTTFNTkMtS3ppSDJrRHhmMFViVEpxaE0wVDdR?oc=5"
   },
   {
-    "id": "google-news-video-it-world-cbmivgfbvv95cuxnruphewjjytfnlxhqdlzrawhsujvlaudfzkvsa3o1dgheumm4y1haungxtmzivgtxmmnfndhft3rauf9y",
+    "id": "google-news-video-it-entertainment-cbmilwfbvv95cuxqndg0addabhvzevzbdvnzwtvsmjdrz1fsswjwvvrhtfzmu2njrljmvhjmdw9ftfqzogdtvmxpvef6rfg2",
     "type": "video-link",
-    "title": "Marianna Bonavolontà sbarca al Social World Film Festival a Vico Equense - Gazzetta di Napoli",
-    "excerpt": "Marianna Bonavolontà sbarca al Social World Film Festival a Vico Equense Gazzetta di Napoli",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRUpheWJJYTFnLXhQdlZraWhSUjVLaUdFZkVsa3o1dGhEUmM4Y1haUngxTmZIVGtxMmNfNDhfT3RaUF9Yd1lhQWh1Sl80ZjktZnl4S3FBWl9QU3VOQm5yR2Y5ZDBIVVBZWHZiR253aFJpWE9mT1J5RkNFX3BfM1drYklxTkplTGMzdEN6bVpyOTFaZHRoMURDUHA0Q3h6UGRiUF9tWjBMOUk2S0I4czk0WjRoNy1Jc2YzMWxyRU9n?oc=5",
+    "title": "Ciné 2026. FilmClub punta sul cinema italiano e sui grandi classici - Cinecittà News",
+    "excerpt": "Ciné 2026. FilmClub punta sul cinema italiano e sui grandi classici Cinecittà News",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNDg0aDdabHVzeVZBdVNZWTVsMjdrZ1FsSWJwVVRhTFZmU2NJRlJMVHJmdW9fTFQzOGdtVmxPVEF6RFg2WTFFQWdnNVNBV1ptbnZmZE9ST3kzazg1Ni1IZ09iQTZabFlhaWI3NkhwRnJsYXhMU3RhUk9sSXlCTEUtQlVXXzBLakRtZktyUjVJUXdJeEswVU1F?oc=5",
     "image": null,
-    "channelId": "google-news-video-it-world",
-    "channelName": "Gazzetta di Napoli",
-    "sourceId": "google-news-video-it-world",
-    "sourceName": "Gazzetta di Napoli",
-    "sourceHomepage": "https://www.gazzettadinapoli.it",
-    "category": "World",
-    "publishedAt": 1782908362000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRUpheWJJYTFnLXhQdlZraWhSUjVLaUdFZkVsa3o1dGhEUmM4Y1haUngxTmZIVGtxMmNfNDhfT3RaUF9Yd1lhQWh1Sl80ZjktZnl4S3FBWl9QU3VOQm5yR2Y5ZDBIVVBZWHZiR253aFJpWE9mT1J5RkNFX3BfM1drYklxTkplTGMzdEN6bVpyOTFaZHRoMURDUHA0Q3h6UGRiUF9tWjBMOUk2S0I4czk0WjRoNy1Jc2YzMWxyRU9n?oc=5"
+    "channelId": "google-news-video-it-entertainment",
+    "channelName": "Cinecittà News",
+    "sourceId": "google-news-video-it-entertainment",
+    "sourceName": "Cinecittà News",
+    "sourceHomepage": "https://cinecittanews.it",
+    "category": "Entertainment",
+    "publishedAt": 1782906243000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNDg0aDdabHVzeVZBdVNZWTVsMjdrZ1FsSWJwVVRhTFZmU2NJRlJMVHJmdW9fTFQzOGdtVmxPVEF6RFg2WTFFQWdnNVNBV1ptbnZmZE9ST3kzazg1Ni1IZ09iQTZabFlhaWI3NkhwRnJsYXhMU3RhUk9sSXlCTEUtQlVXXzBLakRtZktyUjVJUXdJeEswVU1F?oc=5"
   },
   {
     "id": "google-news-video-it-health-cbmizgfbvv95cuxpag03ugzitkvky2zkdmstvnazc2c0nwzetk9lyuhuymxsc09yd3vla2xpuxy5mglytfvfshzqtnv5muxz",
@@ -112,6 +128,22 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS3Q5aTNIZ3FfYktnZWFad2NFOE9PNmw4dEkwVi00bmxybHQ3M1JNcmdSenpxLTZZMjE5NWdCMHRWQ2tyMTBYaGtuX3BJaXlQWWY5dkoxaEhyYjM1VXpadXI5aDN1a2R6VVdTbEt4TmlsVGZ5TWMzNVNkb2RUeEd6WEh4cElfRGlSS3ppTEozemo3NlNzSy0tQ19NVUxHVmliRFJUWGpNZmh0cnM0NDh2aGFlV01OQjQ?oc=5"
   },
   {
+    "id": "google-news-video-it-tech-cbmidkfvx3lxte1qzuxtc2lgx1ryynvlunnjcjvhoe40szjmuzrtewpcddzxcjfkv2djqlo1bkjlunmts0pmy0hqc251yxza",
+    "type": "video-link",
+    "title": "Tech: a Milano la prima World Tech Conference - egnews.it",
+    "excerpt": "Tech: a Milano la prima World Tech Conference egnews.it",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QZUxTc2lGX1RyYnVlUnNJcjVHOE40SzJmUzRteWpCdDZXcjFKV2dJQlo1bkJLUnMtS0pmY0hqc251YXZaQ2tYc0V6b20yQzc2emFLYnF6NXI2bmRPNUxXb3BMRXNTOW9YM252bnBUWF80dHcyUXc?oc=5",
+    "image": null,
+    "channelId": "google-news-video-it-tech",
+    "channelName": "egnews.it",
+    "sourceId": "google-news-video-it-tech",
+    "sourceName": "egnews.it",
+    "sourceHomepage": "https://www.egnews.it",
+    "category": "Tech",
+    "publishedAt": 1782896412000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QZUxTc2lGX1RyYnVlUnNJcjVHOE40SzJmUzRteWpCdDZXcjFKV2dJQlo1bkJLUnMtS0pmY0hqc251YXZaQ2tYc0V6b20yQzc2emFLYnF6NXI2bmRPNUxXb3BMRXNTOW9YM252bnBUWF80dHcyUXc?oc=5"
+  },
+  {
     "id": "google-news-video-it-health-cbmi3gfbvv95cuxnuupqvglqy1fkces5tjk5t3nwynflohgzmmxrzmd0rxbitzlsqwpnalayylfqnvfjn3vkn3nsofjhdmji",
     "type": "video-link",
     "title": "\"Basca meda, ita depeus papai\": advice in Sardinian from the Oristano Local Health Authority - L'Unione Sarda.it",
@@ -160,22 +192,6 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeGtqVGQwc1BGSlNPNVJlNVVqVGR4M2t6dmRMZF9KM2FCRVpNQWswaHhnR0xqS3ZyeTM2dGFvSDFlZ19HYWU0QnMwMDdYN1Vfc3VtVGRpTllER2YxVXh5YTctOXNnV3N5bWJoQWxaVjhNT0pXd3NGZFppTTJLOE00YmFGOUpINGJNTmNEc1hCYkZNbFFrU0xNNUtfQmJKWmMtT29sTWxQZE1MVk0?oc=5"
   },
   {
-    "id": "google-news-video-it-business-cbmiwafbvv95cuxprzftqjz2njnnouvyoxnxoxryotlssc03wu02detenewtvzvfwfpydnvlzllvn0tkqwytnmzuruzktgs4",
-    "type": "video-link",
-    "title": "Come un imprenditore svizzero ha creato un business musicale a Londra - SWI swissinfo.ch",
-    "excerpt": "Come un imprenditore svizzero ha creato un business musicale a Londra SWI swissinfo.ch",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzFTQjZ2NjNnOUVYOXNXOXRyOTlsSC03WU02dEtENEwtVzVfWFpydnVLZllVN0tKQWYtNmZuRUZKTGs4RjVsNW9mWkJZaU5DWDBDLW9uU3JadU5jc2VWMm9sQXpKMXU0Qm50ME9iSGV4YkZ1NDU3QVZoOXVXMklSQ2hyVVRILTlpaXROUGVmeWlOVWNTWUdLTFpHV1NYeWFkSjlveEdmUjhkSi1JdHVGSnpBcHBOaVd1VjFnZDMxWVU?oc=5",
-    "image": null,
-    "channelId": "google-news-video-it-business",
-    "channelName": "SWI swissinfo.ch",
-    "sourceId": "google-news-video-it-business",
-    "sourceName": "SWI swissinfo.ch",
-    "sourceHomepage": "https://www.swissinfo.ch",
-    "category": "Business",
-    "publishedAt": 1782889316000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzFTQjZ2NjNnOUVYOXNXOXRyOTlsSC03WU02dEtENEwtVzVfWFpydnVLZllVN0tKQWYtNmZuRUZKTGs4RjVsNW9mWkJZaU5DWDBDLW9uU3JadU5jc2VWMm9sQXpKMXU0Qm50ME9iSGV4YkZ1NDU3QVZoOXVXMklSQ2hyVVRILTlpaXROUGVmeWlOVWNTWUdLTFpHV1NYeWFkSjlveEdmUjhkSi1JdHVGSnpBcHBOaVd1VjFnZDMxWVU?oc=5"
-  },
-  {
     "id": "google-news-video-it-entertainment-cbmiekfvx3lxte9fy1bjsm5krtazt09neljlzla3mhh6ztrgltytsursd1k0owzmsmm4anazzf9xmmriztbjq3vyslngr2xo",
     "type": "video-link",
     "title": "22 film da vedere in streaming a luglio, da Enola Holmes 3 a La lezione. FOTO - Sky TG24",
@@ -210,8 +226,8 @@
   {
     "id": "google-news-video-it-entertainment-cbmi7gfbvv95cuxpmnl1wfnrsmrzberznnf1sdk1shz3njjlqmhdyjn0eehoetjfvdhsbjfzmgh6wtdslwtvuzrfufrndy1l",
     "type": "video-link",
-    "title": "\"Je so' pazzo\", in anteprima il trailer del film su Pino Daniele con Massimiliano Caiazzo - la Repubblica",
-    "excerpt": "\"Je so' pazzo\", in anteprima il trailer del film su Pino Daniele con Massimiliano Caiazzo la Repubblica",
+    "title": "\"Je so' pazzo\", il trailer: così Massimiliano Caiazzo diventa Pino Daniele - la Repubblica",
+    "excerpt": "\"Je so' pazzo\", il trailer: così Massimiliano Caiazzo diventa Pino Daniele la Repubblica",
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMnl1WFNrSmRZbERzNnF1SDk1SHZ3NjJlQmhDYjN0eEhoeTJFVDhSbjFzMGh6WTdSLWtvUzRFUFRndy1lOXBVOXdSU0drTFZXQ3NkbHJPZFA4eFRpRUhqQkRGQURvZGNQQl9UZ25LMEt5SUpqdHNaZ0prV0hBR09SMUt5UndnMnBhUmxYOUY1M1RvM3FOeU5VVFkyTWtxaF8xZ0dUVUhNN0dHMkl4aFZNUzdfUncyY25fUEpTVDJ0eWQ1YThHMFE5bmZyREdvcFh4cVNZX05ndXpwNW1Xa1dxY190S2tRZDJtQUVsUnZn?oc=5",
     "image": null,
     "channelId": "google-news-video-it-entertainment",
@@ -224,52 +240,20 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMnl1WFNrSmRZbERzNnF1SDk1SHZ3NjJlQmhDYjN0eEhoeTJFVDhSbjFzMGh6WTdSLWtvUzRFUFRndy1lOXBVOXdSU0drTFZXQ3NkbHJPZFA4eFRpRUhqQkRGQURvZGNQQl9UZ25LMEt5SUpqdHNaZ0prV0hBR09SMUt5UndnMnBhUmxYOUY1M1RvM3FOeU5VVFkyTWtxaF8xZ0dUVUhNN0dHMkl4aFZNUzdfUncyY25fUEpTVDJ0eWQ1YThHMFE5bmZyREdvcFh4cVNZX05ndXpwNW1Xa1dxY190S2tRZDJtQUVsUnZn?oc=5"
   },
   {
-    "id": "google-news-video-it-tech-cbmi6wfbvv95cuxpa0txb19iugjpec0zb3bva04yduw0tfnxz0nsuul6rtrgn3pcd3jpb3f5b3fptvjpmnnqnde0s29yctdh",
+    "id": "google-news-video-it-business-cbmirgfbvv95cuxou2jvyy15vhnomldzlw5jnnpennhfanbdtfhzstnzy3jidlrncdbcbunktetjm1nxytjbuhbtvw1wnnl5",
     "type": "video-link",
-    "title": "Ambulanze hi-tech per il 118, Castro e Caruso: “Servizio più sicuro. Lavoriamo per rafforzare il personale” CLICCA PER IL VIDEO - Sicilia Medica",
-    "excerpt": "Ambulanze hi-tech per il 118, Castro e Caruso: “Servizio più sicuro. Lavoriamo per rafforzare il personale” CLICCA PER IL VIDEO Sicilia Medica",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPa0txb19IUGJPeC0zb3Bva04ydUw0TFNXZ0NSUUl6RTRGN3pCd3Jpb3F5b3FPTVJpMnNqNDE0S29ycTdhVjJBaDlDdzZCMURIbEY5U00xSHU5dkxXbllkbGFwMmhSSGVGU0tBcUhCQmhJVmlTVjk3S0Jna0NUOVk2dmFiQllDd2lmZkJfT3BwTC1YQmRKd0FaT3hmVlU1Q0RTWTZHdXd0ZWhmdTBxeUJKS2tTeXRPVWhMTEN2RDItS0VNQngtVHcwTzBMSGJOUG1BVElZeFV2azFfd3p5bndydzVKT1dtenM2eWRN?oc=5",
+    "title": "Paraguay batte Germania, le lacrime del radiocronista allo stadio – Video - Startupbusiness.it",
+    "excerpt": "Paraguay batte Germania, le lacrime del radiocronista allo stadio – Video Startupbusiness.it",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU2JVYy15VHNOMldZLW5jNnpENnhFanBDTFhzSTNZY3JIdlRncDBCbUNkTEtJM1NxYTJBUHBtVW1wNnl5anBrR1F1ZEwtazN5SGlLSzE4dFRSMFN2TzVvcmVyYk9pWko5ck1LU2xuT0p3ejQyU3NvMEZDa0VqSXVRb29pUmJ5X204UWF6NWxDZDVQQnpmdnBCVGFscjhNWjFJVVhzakM5al9mZjA2T1E?oc=5",
     "image": null,
-    "channelId": "google-news-video-it-tech",
-    "channelName": "Sicilia Medica",
-    "sourceId": "google-news-video-it-tech",
-    "sourceName": "Sicilia Medica",
-    "sourceHomepage": "https://siciliamedica.com",
-    "category": "Tech",
-    "publishedAt": 1782856989000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPa0txb19IUGJPeC0zb3Bva04ydUw0TFNXZ0NSUUl6RTRGN3pCd3Jpb3F5b3FPTVJpMnNqNDE0S29ycTdhVjJBaDlDdzZCMURIbEY5U00xSHU5dkxXbllkbGFwMmhSSGVGU0tBcUhCQmhJVmlTVjk3S0Jna0NUOVk2dmFiQllDd2lmZkJfT3BwTC1YQmRKd0FaT3hmVlU1Q0RTWTZHdXd0ZWhmdTBxeUJKS2tTeXRPVWhMTEN2RDItS0VNQngtVHcwTzBMSGJOUG1BVElZeFV2azFfd3p5bndydzVKT1dtenM2eWRN?oc=5"
-  },
-  {
-    "id": "google-news-video-it-science-cbmi9gfbvv95cuxozjnlvflqykpnewv0vnfntwppmfdymdjjvjzjwfrdekhqaestb0w2ywtqchjgnzrochbhv1o4ajvnyu5y",
-    "type": "video-link",
-    "title": "Mondiali 2026, Francia-Svezia 1-0: il gol perfetto di capitan Mbappé - RaiNews",
-    "excerpt": "Mondiali 2026, Francia-Svezia 1-0: il gol perfetto di capitan Mbappé RaiNews",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZjNLVFlQYkpNeWV0VnFnTWppMFdYMDJJVjZjWFRDekhqaEstb0w2YWtQcHJGNzROcHBHV1o4ajVnYU5YZnppaDItb3pKdHJrbHdOcXJNaTE5SXh2aDktOHVIQnNHV2lVdnVzaUNFNWFzUUFLVlpqNm1RM2hYaU53dVFiS0stRVlRNnAwWmFRTjRlOWtXeUZid2ZIUWxqRmdCcmpyUjZDR1pKdi1tYktCVVhRUWxBaFVxWmFuZ1RGQlBSV1h4TlBUSGxGVVEySW5JNkdoQlZQcXdaVTlNenlidlZpVXdJZGhMSk96cW5uU1pBTGRpZXfSAfsBQVVfeXFMTk1fYzhRaURVcXBzSjJKNDU3Y2pPT1pqZXV5RTJCd0dQQ0Qza093Rnd1aGtRMERGMnAyTS12Q21PM3FBXzc5TENraDVwd2xJcnAybmoyZG52enRfaUxTLUdneGtmT3FKWTJBc0ZWMkdyOEtoZEpOYnRFbWxHczJYYll3WGcwbWlYNXY4aVc0MEs0TE9xYVU0SmNhMlQ3Z0xYYXNYcEtDRlZWdEJyTWNBLV9Melh6NFhQQURJZk9HRUVqaHJHN1BPZjBTX21MWWxtSGVyVHdGc3p3OUZvZ3ZSb2tfdWhkN2owLUhDUzJYTWE4OU5DWEN2bHdOWEU?oc=5",
-    "image": null,
-    "channelId": "google-news-video-it-science",
-    "channelName": "RaiNews",
-    "sourceId": "google-news-video-it-science",
-    "sourceName": "RaiNews",
-    "sourceHomepage": "https://www.rainews.it",
-    "category": "Science",
-    "publishedAt": 1782856113000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZjNLVFlQYkpNeWV0VnFnTWppMFdYMDJJVjZjWFRDekhqaEstb0w2YWtQcHJGNzROcHBHV1o4ajVnYU5YZnppaDItb3pKdHJrbHdOcXJNaTE5SXh2aDktOHVIQnNHV2lVdnVzaUNFNWFzUUFLVlpqNm1RM2hYaU53dVFiS0stRVlRNnAwWmFRTjRlOWtXeUZid2ZIUWxqRmdCcmpyUjZDR1pKdi1tYktCVVhRUWxBaFVxWmFuZ1RGQlBSV1h4TlBUSGxGVVEySW5JNkdoQlZQcXdaVTlNenlidlZpVXdJZGhMSk96cW5uU1pBTGRpZXfSAfsBQVVfeXFMTk1fYzhRaURVcXBzSjJKNDU3Y2pPT1pqZXV5RTJCd0dQQ0Qza093Rnd1aGtRMERGMnAyTS12Q21PM3FBXzc5TENraDVwd2xJcnAybmoyZG52enRfaUxTLUdneGtmT3FKWTJBc0ZWMkdyOEtoZEpOYnRFbWxHczJYYll3WGcwbWlYNXY4aVc0MEs0TE9xYVU0SmNhMlQ3Z0xYYXNYcEtDRlZWdEJyTWNBLV9Melh6NFhQQURJZk9HRUVqaHJHN1BPZjBTX21MWWxtSGVyVHdGc3p3OUZvZ3ZSb2tfdWhkN2owLUhDUzJYTWE4OU5DWEN2bHdOWEU?oc=5"
-  },
-  {
-    "id": "google-news-video-it-entertainment-cbmisgfbvv95cuxobfc1b28wv3vldkdudfbxy2e4ogtjek1jbfvvmwh3oxjtzxhytelky2hhsfdezu1yumuyyk1qvuxtcnda",
-    "type": "video-link",
-    "title": "Ciné 2026. Notorious Pictures si prepara a portare in sala il film su Giulia Cecchettin - Cinecittà News",
-    "excerpt": "Ciné 2026. Notorious Pictures si prepara a portare in sala il film su Giulia Cecchettin Cinecittà News",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObFc1b28wV3VldkdudFBxY2E4OGtJek1JbFVvMWh3OXJTZXhYTElKY2hhSFdEZU1yUmUyYk1QVUxtcndaT2daRWJLOVE3eDdjM1lSRE1Gc2VvdHREQnFuNllIRHFwY1RyNWw2N2VKcEs0RnlIR1FXVEx0b29tRGpUZVRtNV9GR0x3MnNDZFRwZGE1WmlvUkVVOHUxYy1ja2hNZS1FVkZhRk5NcmRCa241TUx3?oc=5",
-    "image": null,
-    "channelId": "google-news-video-it-entertainment",
-    "channelName": "Cinecittà News",
-    "sourceId": "google-news-video-it-entertainment",
-    "sourceName": "Cinecittà News",
-    "sourceHomepage": "https://cinecittanews.it",
-    "category": "Entertainment",
-    "publishedAt": 1782845981000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObFc1b28wV3VldkdudFBxY2E4OGtJek1JbFVvMWh3OXJTZXhYTElKY2hhSFdEZU1yUmUyYk1QVUxtcndaT2daRWJLOVE3eDdjM1lSRE1Gc2VvdHREQnFuNllIRHFwY1RyNWw2N2VKcEs0RnlIR1FXVEx0b29tRGpUZVRtNV9GR0x3MnNDZFRwZGE1WmlvUkVVOHUxYy1ja2hNZS1FVkZhRk5NcmRCa241TUx3?oc=5"
+    "channelId": "google-news-video-it-business",
+    "channelName": "Startupbusiness.it",
+    "sourceId": "google-news-video-it-business",
+    "sourceName": "Startupbusiness.it",
+    "sourceHomepage": "https://www.startupbusiness.it",
+    "category": "Business",
+    "publishedAt": 1782871012000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU2JVYy15VHNOMldZLW5jNnpENnhFanBDTFhzSTNZY3JIdlRncDBCbUNkTEtJM1NxYTJBUHBtVW1wNnl5anBrR1F1ZEwtazN5SGlLSzE4dFRSMFN2TzVvcmVyYk9pWko5ck1LU2xuT0p3ejQyU3NvMEZDa0VqSXVRb29pUmJ5X204UWF6NWxDZDVQQnpmdnBCVGFscjhNWjFJVVhzakM5al9mZjA2T1E?oc=5"
   },
   {
     "id": "google-news-video-it-entertainment-cbmiekfvx3lxte5pdjnrz3lomerqrwrunlnyzfr2nm1fwxhjuejsa09vrzgyyw9rww9gnfn2d0jyt1otalldac1cmdhpas1k",
@@ -288,20 +272,20 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PdjNRZ3lOMERQRWRuNlNYZFR2Nm1FWXhJUEJSa09vRzgyYW9rWW9GNFN2d0JYT1otallDaC1CMDhPaS1KVjBLdzFFUHowVDZGYzBhWnNfSWtoMDNROVZIRy01ekZwN2tLUG5BTUtrNEFZTVhXaTRvQVV3?oc=5"
   },
   {
-    "id": "google-news-video-it-business-cbmiyafbvv95cuxom1f4rmhyogdysnpwy2yynjrlrkv1btexz0zmvku2detrel9tavrxrnuzvwlgtf9zdwhqqujjdvb1swi5",
+    "id": "google-news-video-it-entertainment-cbmi0wfbvv95cuxnn3leq0nhoujtszzktufsvf96cmloyw1bawnxuwjezdl1nk1nag05s0vyuwhfaxfwynfwwmhqbe1vbepj",
     "type": "video-link",
-    "title": "TG4: Milano, salvò alcune ragazze dalle molestie e poi venne destituito Video - Mediaset Infinity",
-    "excerpt": "TG4: Milano, salvò alcune ragazze dalle molestie e poi venne destituito Video Mediaset Infinity",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM1F4RmhYOGdySnpWY2YyNjRlRkV1bTExZ0ZMVkU2dEtRel9taVRxRnUzVWlGTF9ZdWhqQUJjdVB1SWI5UHB5SHprbC0tejR4T21mTkRENnF6SS1yUjhmNVVlcU9OdjZBZXZma01yN2QzbXNGUkQ3OEV0LXJ0RF9hR3NxOVdXUGwwYjIwODUzVEZoLXZoemRuc3ZGaU5qYm9faEY5bUFFSTVxOExGZ295MUZEbkFZRk84NFl5dGZVcEpIRFNialZoYQ?oc=5",
+    "title": "Il western con Sydney Sweeney che ha fatto flop al cinema ora rinasce in streaming: perché recuperarlo - Il Cineocchio",
+    "excerpt": "Il western con Sydney Sweeney che ha fatto flop al cinema ora rinasce in streaming: perché recuperarlo Il Cineocchio",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN3lEQ0NhOUJtSzZkTUFsVF96cmloYW1BaWNxUWJEZDl1Nk1NaG05S0VyUWhfaXFWYnFWWmhqbE1vbEpjVkJicS1BcXlkbjJIRXZObzMyY3dGNFdkTWUxemRnb0VER0E5d2hneENoUDNTSEhIc3J6QXZWQnJDTnViYWpmOUdNRm9HRDRxZ2N4Sm9MRW9LcFRuZDRyaC1ETEJvZ2ZVVWUweWRVQk5tZmNKbHNaZkt0bG10VXkyYV94LUp1RnpMVUxxNXZUeGJXWmU2Yzg0?oc=5",
     "image": null,
-    "channelId": "google-news-video-it-business",
-    "channelName": "Mediaset Infinity",
-    "sourceId": "google-news-video-it-business",
-    "sourceName": "Mediaset Infinity",
-    "sourceHomepage": "https://mediasetinfinity.mediaset.it",
-    "category": "Business",
-    "publishedAt": 1782841628000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM1F4RmhYOGdySnpWY2YyNjRlRkV1bTExZ0ZMVkU2dEtRel9taVRxRnUzVWlGTF9ZdWhqQUJjdVB1SWI5UHB5SHprbC0tejR4T21mTkRENnF6SS1yUjhmNVVlcU9OdjZBZXZma01yN2QzbXNGUkQ3OEV0LXJ0RF9hR3NxOVdXUGwwYjIwODUzVEZoLXZoemRuc3ZGaU5qYm9faEY5bUFFSTVxOExGZ295MUZEbkFZRk84NFl5dGZVcEpIRFNialZoYQ?oc=5"
+    "channelId": "google-news-video-it-entertainment",
+    "channelName": "Il Cineocchio",
+    "sourceId": "google-news-video-it-entertainment",
+    "sourceName": "Il Cineocchio",
+    "sourceHomepage": "https://www.ilcineocchio.it",
+    "category": "Entertainment",
+    "publishedAt": 1782841804000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN3lEQ0NhOUJtSzZkTUFsVF96cmloYW1BaWNxUWJEZDl1Nk1NaG05S0VyUWhfaXFWYnFWWmhqbE1vbEpjVkJicS1BcXlkbjJIRXZObzMyY3dGNFdkTWUxemRnb0VER0E5d2hneENoUDNTSEhIc3J6QXZWQnJDTnViYWpmOUdNRm9HRDRxZ2N4Sm9MRW9LcFRuZDRyaC1ETEJvZ2ZVVWUweWRVQk5tZmNKbHNaZkt0bG10VXkyYV94LUp1RnpMVUxxNXZUeGJXWmU2Yzg0?oc=5"
   },
   {
     "id": "google-news-video-it-science-cbmi4wfbvv95cuxpcvpszxatrux1rxatedlqce81edzewfjqd3rsatr5t05mwfn3y0t1avpktg5psmjqsu1vvfbomzfyq2qt",
@@ -318,22 +302,6 @@
     "category": "Science",
     "publishedAt": 1782837532000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcVpSZXAtRUx1RXAteDlQcE81eDZEWFJQd3RSaTR5T05mWFN3Y0t1aVpkTG5PSmJQSU1vVFBoMzFYQ2QtWmoxU2xRd2RzUUJCV21iQXZwYm91MEJ1aWpWMExza3pKZEhmc0F0em8yRmZoSm1UVV9zaUkwZTFOekh6WHBzZUt3djdQZHg5X1hyak1Yek5sM2tZSjN3NndIVTUzVXZwamNZcjFhTGRMclpXSHZuaTZIX3RYOERMWlZ6RG1hYTJZU2NUZm9tZ3QycUlTZ09GQnNBRURpWm92ZVczSUgwd9IB6AFBVV95cUxPdEJJR3l5SkxVc1ZXOHFndjFTUUVwY2lZU2VCa3Ita3FqbV8tYTVmZ3BwS3hDaHpyaFNvUTdKY3VxOGdRMU8yWHlnOWs5T29rWi1ENi1LVmpObFpLWkFBU0RuQ08zdDdDS3JlUUhNX1RWV1BmMUppUHIxMUZ0c3hWaUNtUWpfNDVCRE9YOFRDTnBJRWZkcFpMM0tpRUlxZ0JHTzczcEI2SHFtOTh5WHJkSjY2YnMycVBUQkg0ZlFVRDVGT2h2b2tUcHNTWDF5SFhyNkdXdlEyZnVzTzRnMmhnSmJvQVZFaEtw?oc=5"
-  },
-  {
-    "id": "google-news-video-it-health-cbmi_afbvv95cuxpbdi1cl8tqnv6bgvrzhnhzmkzqjiwavbzqkmzc0fxeethwettdmfum2k0ewdbou5edtjnalbynjnhtehl",
-    "type": "video-link",
-    "title": "Come aumentare la massa muscolare dopo i 40 anni: la regola delle 72 ore che punta sul recupero spesso trascurato - Il Giornale d'Italia",
-    "excerpt": "Come aumentare la massa muscolare dopo i 40 anni: la regola delle 72 ore che punta sul recupero spesso trascurato Il Giornale d'Italia",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbDI1cl8tQnV6bGVrZHNHZmkzQjIwaVBzQkMzc0FXeEthWEttdmFUM2k0eWdBOU5EdTJnalBYNjNHTEhLdGVqMFJ2SnBBc19iVGdLRHBhelhkT0ZYNUtPU2JLd2lsRms3U2Z2Z0psWGEwUXEzQ3pqR0dlWE16SGRVN1lJVUNub3JDQnRsTmU4Y3IyRW9sZkV0U1NFUVF3OTh1X2NOT21sMFJnZ1cxV1poQlhVV255SVhGQWQzVGJXS0dSWGJZVEszLUhHZXlsbldkYWZlRHRiOXFyU29TYTgzcXBacC1EdGtoU00wZWNWRUZEM0xRSUMwbS03N0Y?oc=5",
-    "image": null,
-    "channelId": "google-news-video-it-health",
-    "channelName": "Il Giornale d'Italia",
-    "sourceId": "google-news-video-it-health",
-    "sourceName": "Il Giornale d'Italia",
-    "sourceHomepage": "https://www.ilgiornaleditalia.it",
-    "category": "Health",
-    "publishedAt": 1782833943000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbDI1cl8tQnV6bGVrZHNHZmkzQjIwaVBzQkMzc0FXeEthWEttdmFUM2k0eWdBOU5EdTJnalBYNjNHTEhLdGVqMFJ2SnBBc19iVGdLRHBhelhkT0ZYNUtPU2JLd2lsRms3U2Z2Z0psWGEwUXEzQ3pqR0dlWE16SGRVN1lJVUNub3JDQnRsTmU4Y3IyRW9sZkV0U1NFUVF3OTh1X2NOT21sMFJnZ1cxV1poQlhVV255SVhGQWQzVGJXS0dSWGJZVEszLUhHZXlsbldkYWZlRHRiOXFyU29TYTgzcXBacC1EdGtoU00wZWNWRUZEM0xRSUMwbS03N0Y?oc=5"
   },
   {
     "id": "google-news-video-it-entertainment-cbmigwfbvv95cuxqcmtluvdgqkjzdkk3sgpasndmc3hodhk3yki4stj5n3hcexvkm0vha1yxazrpcupuewxntnpgvzlym045",
@@ -448,20 +416,36 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOW5ZVzlENjQ3LUtzWmpEWlRoU3VxODhXRGo4cmZGU3ZxcHlqamw2a1FQS091d3Z6Xzh0REpBMXBZd0FYTlBpWmVDTXlSb29lMTBYYzc5bnRYdXhFRTB1RWVVZFNhWUlHQlZlVTBydFhCYVNPcEFzQVBZcjBkQjlFejlIVEFlel93REhtcmZXQkN4a2thYVQ2LVZRNWVaekNRbF9tSlkzMFVnZw?oc=5"
   },
   {
-    "id": "google-news-video-it-business-cbmiqgfbvv95cuxnzdiyylnsuk9uweo0yvl4dnq3mg1leejrdxc5rtetdxzwvkpyx25brec5bkxvofj1agxurg5oq1dtcfow",
+    "id": "google-news-video-it-business-cbmi4wfbvv95cuxotxizbmnhznjkchbvbglbtxjucnhhlxjuqlryn2ezaxj4qu9bmhrmnjbjwvjoqkjinujrywszxzl6t1rj",
     "type": "video-link",
-    "title": "Brasile ‘miracolo’ al fotofinish, la torcida delle suore esplode – Video - Startupbusiness.it",
-    "excerpt": "Brasile ‘miracolo’ al fotofinish, la torcida delle suore esplode – Video Startupbusiness.it",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDIyYlNsUk9UWEo0YVl4dnQ3MG1leEJRdXc5RTEtdXZWVkpyX25BREc5bkxvOFJ1aGxURG5OQ1dtcFowVXRlTEFDci14VTFYTHltODB2em95UjdCMU8tWGlIRDNmdUxTRHlUQTFhbXcwZEVuT1RIcFJ0dThreGtFdFpMaFhoMGhnUlM2SG5CMWdsVWs1OG1IT29ERktVS3BHYlRCR0NOUW1GQQ?oc=5",
+    "title": "La vendita di Circle (CRCL) potrebbe essere una 'reazione eccessiva', ma Open USD deve affrontare una prova di adozione - CoinDesk",
+    "excerpt": "La vendita di Circle (CRCL) potrebbe essere una 'reazione eccessiva', ma Open USD deve affrontare una prova di adozione CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTXIzbmNHZnJkcHBvbGlBTXJucnhhLXJuQlRYN2EzaXJ4QU9BMHRmNjBJWVJoQkJiNUJRYWszXzl6T1RJSHJaUjg3dXpuNjRCMVJxTF8wdU43a054TjFhVUVwVnVXcUZkaTJGbFBXTHBjbUdfMWZDY3Z2dE1nYmtNYUxqR3RJOUEwQ3pGczJoU1h1UTM3T0xVZjN5d2k3dzU0X00xOWNmaEhRbFBDN05ZTklZb1JYREtxNzlzOGhYRVBZUVJhR211TjVEcHYtX2xmUklXVlBNcnZsM2FtWnQ3RnA4MA?oc=5",
     "image": null,
     "channelId": "google-news-video-it-business",
-    "channelName": "Startupbusiness.it",
+    "channelName": "CoinDesk",
     "sourceId": "google-news-video-it-business",
-    "sourceName": "Startupbusiness.it",
-    "sourceHomepage": "https://www.startupbusiness.it",
+    "sourceName": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
     "category": "Business",
-    "publishedAt": 1782802800000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDIyYlNsUk9UWEo0YVl4dnQ3MG1leEJRdXc5RTEtdXZWVkpyX25BREc5bkxvOFJ1aGxURG5OQ1dtcFowVXRlTEFDci14VTFYTHltODB2em95UjdCMU8tWGlIRDNmdUxTRHlUQTFhbXcwZEVuT1RIcFJ0dThreGtFdFpMaFhoMGhnUlM2SG5CMWdsVWs1OG1IT29ERktVS3BHYlRCR0NOUW1GQQ?oc=5"
+    "publishedAt": 1782812460000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTXIzbmNHZnJkcHBvbGlBTXJucnhhLXJuQlRYN2EzaXJ4QU9BMHRmNjBJWVJoQkJiNUJRYWszXzl6T1RJSHJaUjg3dXpuNjRCMVJxTF8wdU43a054TjFhVUVwVnVXcUZkaTJGbFBXTHBjbUdfMWZDY3Z2dE1nYmtNYUxqR3RJOUEwQ3pGczJoU1h1UTM3T0xVZjN5d2k3dzU0X00xOWNmaEhRbFBDN05ZTklZb1JYREtxNzlzOGhYRVBZUVJhR211TjVEcHYtX2xmUklXVlBNcnZsM2FtWnQ3RnA4MA?oc=5"
+  },
+  {
+    "id": "google-news-video-it-health-cbmiakfvx3lxte5obdfpyvzpmgg3elvfcunqbg83uw5dbxnvawp4n3nky2llqkfpxzjwcnfxngvzvdzlmtg5uw5gujrtzzyy",
+    "type": "video-link",
+    "title": "Director Carl Rinsch Sentenced to 30 Months in Netflix Fraud Case After Keanu Reeves and Attorneys Cite Mental Health Struggles - IMDb",
+    "excerpt": "Director Carl Rinsch Sentenced to 30 Months in Netflix Fraud Case After Keanu Reeves and Attorneys Cite Mental Health Struggles IMDb",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ObDFpYVZPMGg3elVFcUNqbG83UW5DbXNvaWp4N3NkY2llQkFPXzJWcnFxNGVZVDZlMTg5UW5GUjRtZzYyRXd6dTNpTHQyRE9QMTBScVFrRzNkZV92N1h5SjlBcTF4UmtMMEE?oc=5",
+    "image": null,
+    "channelId": "google-news-video-it-health",
+    "channelName": "IMDb",
+    "sourceId": "google-news-video-it-health",
+    "sourceName": "IMDb",
+    "sourceHomepage": "https://www.imdb.com",
+    "category": "Health",
+    "publishedAt": 1782774254000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ObDFpYVZPMGg3elVFcUNqbG83UW5DbXNvaWp4N3NkY2llQkFPXzJWcnFxNGVZVDZlMTg5UW5GUjRtZzYyRXd6dTNpTHQyRE9QMTBScVFrRzNkZV92N1h5SjlBcTF4UmtMMEE?oc=5"
   },
   {
     "id": "google-news-video-it-sports-cbmijafbvv95cuxpmksts2ewa0fru1zruuthd3dzsdfxdnlyrmtyu1m2q0vwmtfrd2rdugrvekrst2vws05tenlccfrzqwm3",
@@ -494,6 +478,22 @@
     "category": "Health",
     "publishedAt": 1782748823000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWXNkNmJJUHVkWmdBLWpvQUNuZTFsT0pRLWczV3RjQnd3MjdFMXo0YUhjajU5bHRkb0EtOExCY0lYcGVkWkMyS3V1M3JOTFhiSWcyTWxhMWdaNlNTN1ZkNmhhcGNqS05mZTV1TUlKNDJUQjZNUlF4cDNOcG4yZ2g2cU5JcHIzMXFNVzRQbkpGMnFPRkh3Umc?oc=5"
+  },
+  {
+    "id": "google-news-video-it-health-cbmilafbvv95cuxoze1zshbqsmpxbljja1pimgq0qwdor3hzvg93t293vl9kamtxm29yn1v0bnd3repudc1vdi1jr0drahdu",
+    "type": "video-link",
+    "title": "New York: calo per United Health - Teleborsa",
+    "excerpt": "New York: calo per United Health Teleborsa",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZE1zSHBqSmpxblJJa1pIMGQ0QWdOR3hzVG93T293Vl9kamtXM29YN1V0bnd3REpUdC1Vdi1jR0draHdUREFwYWo0NlNzWFVxMXNwU0ZtSF9zc2RQVXMyTnpVUUlJM3g3b2xsVEFJYVphcDNBcWVBUVJPSnJPU21DODA1UjFCM1pXTzU1TnRiNDdBeUlj?oc=5",
+    "image": null,
+    "channelId": "google-news-video-it-health",
+    "channelName": "Teleborsa",
+    "sourceId": "google-news-video-it-health",
+    "sourceName": "Teleborsa",
+    "sourceHomepage": "https://www.teleborsa.it",
+    "category": "Health",
+    "publishedAt": 1782748809000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZE1zSHBqSmpxblJJa1pIMGQ0QWdOR3hzVG93T293Vl9kamtXM29YN1V0bnd3REpUdC1Vdi1jR0draHdUREFwYWo0NlNzWFVxMXNwU0ZtSF9zc2RQVXMyTnpVUUlJM3g3b2xsVEFJYVphcDNBcWVBUVJPSnJPU21DODA1UjFCM1pXTzU1TnRiNDdBeUlj?oc=5"
   },
   {
     "id": "google-news-video-it-sports-cbmihafbvv95cuxnneyymg11uzflnezurulirexnendumnhhsjdfnxz2nxvnvfjvcuoztdvlztrlbvptdtrcmgdkenawvm1c",
@@ -574,22 +574,6 @@
     "category": "World",
     "publishedAt": 1782739342000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOREJaZ3MwVm9FUVNLQzZUVDNtWGVDclRQZmVqMWpmZ0gwaXVJTVZjOTBLOFhlTmpCTDNHNlc1bklMZkxwcGNfSWFLYjlCVmNHOWtqX2ZYUVFESkR3SXhmc2c0ajl1djBjZFlndVE3ZHcyQlJaVllLck8zbUN2X0tLZUJiSHY3cldNY1A3R1c5OWpOVnRHN0E3dVdJU24yLURPVjBYSGl2T2tUN0do?oc=5"
-  },
-  {
-    "id": "google-news-video-it-entertainment-cbmiw0fvx3lxtfa2ukljcxjvrtjtofn1uvm4ohlldfbrlxfabwk5zjayve9jbmt1zxhab0hzrjllcjf5emctr0lkdujxtmxv",
-    "type": "video-link",
-    "title": "Tutto quello che sappiamo su \"Film & Video\" - CorriereNerd.it",
-    "excerpt": "Tutto quello che sappiamo su \"Film & Video\" CorriereNerd.it",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2UklJcXJVRTJTOFN1UVM4OHlLdFBRLXFabWk5ZjAyVE9jbmt1ZXhab0hZRjlLcjF5emctR0lkdUJxTmxVVGJ3bzBxd3NobUNWcmNDQ0QwZFJ5SWc?oc=5",
-    "image": null,
-    "channelId": "google-news-video-it-entertainment",
-    "channelName": "CorriereNerd.it",
-    "sourceId": "google-news-video-it-entertainment",
-    "sourceName": "CorriereNerd.it",
-    "sourceHomepage": "https://www.corrierenerd.it",
-    "category": "Entertainment",
-    "publishedAt": 1782739266000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2UklJcXJVRTJTOFN1UVM4OHlLdFBRLXFabWk5ZjAyVE9jbmt1ZXhab0hZRjlLcjF5emctR0lkdUJxTmxVVGJ3bzBxd3NobUNWcmNDQ0QwZFJ5SWc?oc=5"
   },
   {
     "id": "google-news-video-it-tech-cbmikafbvv95cuxntdfwbu9jvkdosnnotnrdexlywwkyu1ljnflwd2dsvur2d3jqruljshjxvexoy1poogfjluf4vddcy3hb",
@@ -752,6 +736,22 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSFhBaHFxYmdMRVFrSjBfYTdpTkhnWnp1V3NkUVBMWExaWml5c3Z1S1hZYVhoQ2xQVnVseVMxdVo3NVg1RGVwcXd4aFpLY0cyZ3VaWHpmUEg4djF0S1NLb09rc1l2bUhEdXRTUlUzeVhlSXlFbG4wTC1mYWhIVUhRY0FOaDBtUndrME5nT1JmVUhoWGhOOC1teEtQV1NBdTg?oc=5"
   },
   {
+    "id": "google-news-video-it-sports-cbmiygfbvv95cuxodzh0cnk3lvbzeedvotjrrev6duh1curicef0zwthowrztkp1ald1wld2uxjptthfd2zvlws5qnjosthp",
+    "type": "video-link",
+    "title": "Sport in tv oggi (domenica 28 giugno): orari e programma. Dove vedere gli eventi in streaming - OA Sport",
+    "excerpt": "Sport in tv oggi (domenica 28 giugno): orari e programma. Dove vedere gli eventi in streaming OA Sport",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdzh0cnk3LVBZeEdvOTJrREV6dUh1cURicEF0ZWthOWRZTkp1ald1Wld2UXJpTThfd2ZVLWs5QnJOSThpdGhWZ2UzUS1nQmdSSnBMZjA0dXlHZHUybHRFUF9VS2ZlbGJkczNKblJrTEJQMkFYM0FFZXRTZWp2R2w0Q0RoSW8zZEZyelRZMTZsNGo0MW1ocnBhcVA3ZV9TQl9vLWRKank1SGpsdlJpS0Rpa3ZZaHN4NVJWaUtjaHZDWTBTNnlQUGlhQzhR0gHPAUFVX3lxTFBEdktPeVRnRnNnQzYyMUxXVGhfZjdxQXQxSDlycExXcUdIZGZnMjUtUl9YRlg1b1ZIcnlfYXZLWTdrR0hjbmF0bGpLRGhhRF9iYkZWX3FhTlYxRER5bWtudXlscUdNMlJUUXRPYllPNzFVMzVGQUdmQjJiaEoxbE85RVJlR1lDaDJzMTIwcXNPbTZXcHlaOVNrYk80QV9PM20xd2M0MFBzRWE5ekpzY3pWRDhTb0pzb19maEpsYkpFN01Ma3l3NHBPeDh6WXJtQQ?oc=5",
+    "image": null,
+    "channelId": "google-news-video-it-sports",
+    "channelName": "OA Sport",
+    "sourceId": "google-news-video-it-sports",
+    "sourceName": "OA Sport",
+    "sourceHomepage": "https://www.oasport.it",
+    "category": "Sports",
+    "publishedAt": 1782708281000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdzh0cnk3LVBZeEdvOTJrREV6dUh1cURicEF0ZWthOWRZTkp1ald1Wld2UXJpTThfd2ZVLWs5QnJOSThpdGhWZ2UzUS1nQmdSSnBMZjA0dXlHZHUybHRFUF9VS2ZlbGJkczNKblJrTEJQMkFYM0FFZXRTZWp2R2w0Q0RoSW8zZEZyelRZMTZsNGo0MW1ocnBhcVA3ZV9TQl9vLWRKank1SGpsdlJpS0Rpa3ZZaHN4NVJWaUtjaHZDWTBTNnlQUGlhQzhR0gHPAUFVX3lxTFBEdktPeVRnRnNnQzYyMUxXVGhfZjdxQXQxSDlycExXcUdIZGZnMjUtUl9YRlg1b1ZIcnlfYXZLWTdrR0hjbmF0bGpLRGhhRF9iYkZWX3FhTlYxRER5bWtudXlscUdNMlJUUXRPYllPNzFVMzVGQUdmQjJiaEoxbE85RVJlR1lDaDJzMTIwcXNPbTZXcHlaOVNrYk80QV9PM20xd2M0MFBzRWE5ekpzY3pWRDhTb0pzb19maEpsYkpFN01Ma3l3NHBPeDh6WXJtQQ?oc=5"
+  },
+  {
     "id": "google-news-video-it-world-cbmiwwfbvv95cuxncvp0qk93rzdsqvfmq1rzvujys3v6y2tbtxeycepxttnyrujoyzhqb25crjr0qkq2s1o0wjzdzjvjc1ny",
     "type": "video-link",
     "title": "Harley-Davidson Bagger World Cup: a Granado e Gutierrez le vittorie di Assen - motogp.com",
@@ -768,20 +768,36 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcVp0Qk93RzdsQVFmQ1RZVUJYS3V6Y2tBTXEycEpxTTNyRUJoYzhqb25CRjR0QkQ2S1o0WjZDZjVjc1NYYmxxb1dFdUx3M1gxa0c0WFliS2wzVEd2X1ZSUHliaGJZQmlQMXlNUmJ4d2dSZU9GWEdQYmNrcDQtREZZQ1pCYUNHT0VSdVdlQjUtOURpVmhKaE8tWGEtRjc5bE9GOURxR3pOUnNMampRR3ZVS0JiOUxKVWFUTDhBY2x0TkxiYWM?oc=5"
   },
   {
-    "id": "google-news-video-it-sports-cbmikafbvv95cuxnt012r1jxn3puzlbncgdvve0ym3zobtzyodlxnghuvgn2xzdxx0ttcv9ovulpr0lwa3nlswjtmfjpzk1n",
+    "id": "google-news-video-it-sports-cbmikwfbvv95cuxomty1c1vtnllqcnlkowtktuu2qjfvd0zwdzzcovg4tgpvnda0cwvdvu9sy2d5vjfsqxfwc0jnywttcgdf",
     "type": "video-link",
-    "title": "F1, GP Austria: Mercedes resta il team di riferimento. E Kimi Antonelli volava... VIDEO - Sky Sport",
-    "excerpt": "F1, GP Austria: Mercedes resta il team di riferimento. E Kimi Antonelli volava... VIDEO Sky Sport",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT012R1JXN3pUZlBNcGdVVE0yM3ZObTZyODlXNGhUVGN2XzdXX0ttcV9oVUlPR0lWa3NlSWJtMFJPZk1NVGh5OE16ZUFZZDFHc01zLXBrQXFyaDRvbWRlUjY0Q0FLdTZCbmtyYXptdEpoS25Xa2wtcDcteTZSaVNtc0dSZmdSZVh3NlhNczNpLWQ?oc=5",
+    "title": "MotoGp, ad Assen tripletta Aprilia: video e highlights - Sky TG24",
+    "excerpt": "MotoGp, ad Assen tripletta Aprilia: video e highlights Sky TG24",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMTY1c1VTNllqcnlKOWtkTUU2QjFVd0ZwdzZCOVg4TGpvNDA0cWVDVU9sY2d5VjFsQXFwc0JNYWttcGdfeWdxTFRwazNyWVZNMTdjcTA0eG12emRZS2JmdWJRNzVpaVZWb2djNTAzUFNjc0M1LXcxWTVtWURMS1VGTXNMTmNxZThqOG5Dc3RUX3lkems?oc=5",
     "image": null,
     "channelId": "google-news-video-it-sports",
-    "channelName": "Sky Sport",
+    "channelName": "Sky TG24",
     "sourceId": "google-news-video-it-sports",
+    "sourceName": "Sky TG24",
+    "sourceHomepage": "https://tg24.sky.it",
+    "category": "Sports",
+    "publishedAt": 1782660222000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMTY1c1VTNllqcnlKOWtkTUU2QjFVd0ZwdzZCOVg4TGpvNDA0cWVDVU9sY2d5VjFsQXFwc0JNYWttcGdfeWdxTFRwazNyWVZNMTdjcTA0eG12emRZS2JmdWJRNzVpaVZWb2djNTAzUFNjc0M1LXcxWTVtWURMS1VGTXNMTmNxZThqOG5Dc3RUX3lkems?oc=5"
+  },
+  {
+    "id": "google-news-video-it-tech-cbmiogfbvv95cuxpbxdtng13u3rvx3d0ewzjy2rwa2flsfrknhfwrtlrtgtisejrn3o1tlbzegr3udjinwnfx05yajzvmnnm",
+    "type": "video-link",
+    "title": "Cos'è successo a Bagnaia? L'analisi con lo Sky Tech - Sky Sport",
+    "excerpt": "Cos'è successo a Bagnaia? L'analisi con lo Sky Tech Sky Sport",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXdTNG13U3RVX3d0eWZjY2RWa2FLSFRkNHFWRTlrTGtISEJRN3o1TlBzeGR3UDJiNWNFX05YajZvMnNmVzdRNUtvN0YtRU9ZTEVrMjBVWVhlRWdVUUlXRVM5SnY0V1dEOEROMW9HYjYzWVA4eEJ4MzB4c2FLb2FQcUotMzZZNGd5Z2Nydmdyb3hFV3dyb0VKMHdWbFZvWlNuRXc?oc=5",
+    "image": null,
+    "channelId": "google-news-video-it-tech",
+    "channelName": "Sky Sport",
+    "sourceId": "google-news-video-it-tech",
     "sourceName": "Sky Sport",
     "sourceHomepage": "https://sport.sky.it",
-    "category": "Sports",
-    "publishedAt": 1782660922000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT012R1JXN3pUZlBNcGdVVE0yM3ZObTZyODlXNGhUVGN2XzdXX0ttcV9oVUlPR0lWa3NlSWJtMFJPZk1NVGh5OE16ZUFZZDFHc01zLXBrQXFyaDRvbWRlUjY0Q0FLdTZCbmtyYXptdEpoS25Xa2wtcDcteTZSaVNtc0dSZmdSZVh3NlhNczNpLWQ?oc=5"
+    "category": "Tech",
+    "publishedAt": 1782655571000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXdTNG13U3RVX3d0eWZjY2RWa2FLSFRkNHFWRTlrTGtISEJRN3o1TlBzeGR3UDJiNWNFX05YajZvMnNmVzdRNUtvN0YtRU9ZTEVrMjBVWVhlRWdVUUlXRVM5SnY0V1dEOEROMW9HYjYzWVA4eEJ4MzB4c2FLb2FQcUotMzZZNGd5Z2Nydmdyb3hFV3dyb0VKMHdWbFZvWlNuRXc?oc=5"
   },
   {
     "id": "google-news-video-it-tech-cbmimgfbvv95cuxnuultcdnvq1y4sk9cdxrfltjlbfvaa3g1y29ttvrknur2uwg1al90wtdxtljrqxftm3utvkzrefu5aklk",
@@ -814,22 +830,6 @@
     "category": "Health",
     "publishedAt": 1782635625000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdWxrM1gwRnpsYWlITFhQMzVjdDlRQWh1WkJyUE5pUlloOTdqQ0N4dmtjU3pjc2JZN3dXNmJYTmpuaU9vYkV4Zy02cVZIS3g0cGdrcXNuSU9oSGZHTWcwQ3Y5TmNUZ0xyRUxVRDB1QlQ3Y0tkbHlVdV9iWk1laDJVMXFiZVNrMktQRWx1MjlDUlJ3RDFPc3g4d1MzZHlSVVpHc0NR?oc=5"
-  },
-  {
-    "id": "google-news-video-it-sports-cbmipafbvv95cuxpenvurdbsujh0welbd29hzvg1eedhowfuluvxsxvkmndasnd4wwzzn3ryrtnuumjtm1rpa3bjv3jcdjvg",
-    "type": "video-link",
-    "title": "Moviementi: sport sociale e per tutti, i video della settimana - uisp.it",
-    "excerpt": "Moviementi: sport sociale e per tutti, i video della settimana uisp.it",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPenVuRDBSUjh0WElBd29hZVg1eEdHOWFuLUVXSXVKMndaSnd4WWZzN3RYRTNuUmJtM1Rpa3BJV3JCdjVGVnJmbWMzQVhuSm1BdUJfNkJtXzBnQUxyMExzd0dMOVV4Qnd2OXZIY0dfR1RqTlhQVkdjY3JqU0R1WklGTWR0Z2NJWUhWaHcwWm50V29xMlZYS2pWZElpNm9JUzJIN20xdQ?oc=5",
-    "image": null,
-    "channelId": "google-news-video-it-sports",
-    "channelName": "uisp.it",
-    "sourceId": "google-news-video-it-sports",
-    "sourceName": "uisp.it",
-    "sourceHomepage": "https://www.uisp.it",
-    "category": "Sports",
-    "publishedAt": 1782633620000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPenVuRDBSUjh0WElBd29hZVg1eEdHOWFuLUVXSXVKMndaSnd4WWZzN3RYRTNuUmJtM1Rpa3BJV3JCdjVGVnJmbWMzQVhuSm1BdUJfNkJtXzBnQUxyMExzd0dMOVV4Qnd2OXZIY0dfR1RqTlhQVkdjY3JqU0R1WklGTWR0Z2NJWUhWaHcwWm50V29xMlZYS2pWZElpNm9JUzJIN20xdQ?oc=5"
   },
   {
     "id": "google-news-video-it-world-cbmieefvx3lxte1ltglgqkvnquvzazfzwnpjqufumk12a2hgwkzfvkhqb19zwlzqmjryuzlcvg03zmh2a05fcwr0selnz2vr",
@@ -880,6 +880,22 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR2JIamk0V3VrMUh5N0EtVFprREN4QWk1cEZJNHd0ZTZwNkpFYlVGb2hQTE16VU5wMlQ4ZUd2cDhNWEQ4WWlObENBc0tadkdIWmY4QzlTZnlqOTh0c2N6MkpndmdqVDlXQ0hvWW11WEJxTXFSS1h1Qy1aTFZoUEM5WUcwb3JEdGo1VW1DV2FVSDRQUUhVLU9ZR2Z5RWwxdw?oc=5"
   },
   {
+    "id": "google-news-video-it-tech-cbmisgfbvv95cuxqwfy1ahvnbnk0b2pfy2pcc01fvgpxofpnu2dilumzeer1z2myzwxwd29mekdxb1rvs0ttn01zdtbiadzl",
+    "type": "video-link",
+    "title": "Assen, bagarre tra Martin e Bez: l'analisi allo Sky Tech - Sky Sport",
+    "excerpt": "Assen, bagarre tra Martin e Bez: l'analisi allo Sky Tech Sky Sport",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWFY1aHVnbnk0b2pfY2pCc01FVGpXOFpnU2diLUMzeER1Z2MyZWxWd29Mekdxb1RvS0tTN01zdTBiaDZLSmwxeGNDYkdPNUtjZGRuQ0FIaGlKOEU3eDBwS2RwdExLUWZwak9BeG04OU13S1ltNXd5X1VwUDZmbHZ1T0ZIMVA0cDVqeU10X0RVbHNzSVAyd3MzbnRRM0tWY3FLMDItUzhDUlpoY1Rxd3hxRWJ3?oc=5",
+    "image": null,
+    "channelId": "google-news-video-it-tech",
+    "channelName": "Sky Sport",
+    "sourceId": "google-news-video-it-tech",
+    "sourceName": "Sky Sport",
+    "sourceHomepage": "https://sport.sky.it",
+    "category": "Tech",
+    "publishedAt": 1782572100000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWFY1aHVnbnk0b2pfY2pCc01FVGpXOFpnU2diLUMzeER1Z2MyZWxWd29Mekdxb1RvS0tTN01zdTBiaDZLSmwxeGNDYkdPNUtjZGRuQ0FIaGlKOEU3eDBwS2RwdExLUWZwak9BeG04OU13S1ltNXd5X1VwUDZmbHZ1T0ZIMVA0cDVqeU10X0RVbHNzSVAyd3MzbnRRM0tWY3FLMDItUzhDUlpoY1Rxd3hxRWJ3?oc=5"
+  },
+  {
     "id": "google-news-video-it-entertainment-cbmidefvx3lxtfbgwk5tv0y4mgxmrxqzvnewr0fsdfk3z0gxuxvwz0hcx1duqlbqvu5klwnfbkv2wxhgae1pamzybe1stfhs",
     "type": "video-link",
     "title": "Ora le auto elettriche cinesi proiettano film dai fari - InsideEVs Italia",
@@ -894,38 +910,6 @@
     "category": "Entertainment",
     "publishedAt": 1782571184000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGWk5tV0Y4MGxMRXQzVnEwR0FsdFk3Z0gxUXVwZ0hCX1duQlBqVU5kLWNFbkV2WXhGaE1pamZybE1sTFhsQkF6RmRCY0otSDJtSFBsbTVna3pONVVOYUtQZTA3dzVqdXZIRXZEQ0NOcnpwcVpC?oc=5"
-  },
-  {
-    "id": "google-news-video-it-tech-cbmisafbvv95cuxpcmt3clflzwfsz3j6mtdkms1vwfu5exz3njljq2m2ewi1mwtonmowdhjqahltelpisuzhzxzwtjfzbk1f",
-    "type": "video-link",
-    "title": "Assen, la lotta tra Marquez e Bagnaia rivista allo Sky Tech - Sky Sport",
-    "excerpt": "Assen, la lotta tra Marquez e Bagnaia rivista allo Sky Tech Sky Sport",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmt3clFLZWFSZ3J6MTdKMS1VWFU5eXZ3NjlJQ2M2eWI1MWtoNmowdHJqaHltelpiSUZhZXZwTjFzbk1feWZla1Q3azNDUUt5d3ZHVU1UdUpUTWlSekU1NzVhUE1HdGxVWFN6S29RVXVOOEt5N2Q5N2ZVdF91ZFFCSXVFYkZEUkgzaE04QlVOMXNPZkF6azRYVVBuZmpCOXJ3MVBCQXE5VmtmQV9TcnBHVA?oc=5",
-    "image": null,
-    "channelId": "google-news-video-it-tech",
-    "channelName": "Sky Sport",
-    "sourceId": "google-news-video-it-tech",
-    "sourceName": "Sky Sport",
-    "sourceHomepage": "https://sport.sky.it",
-    "category": "Tech",
-    "publishedAt": 1782570330000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmt3clFLZWFSZ3J6MTdKMS1VWFU5eXZ3NjlJQ2M2eWI1MWtoNmowdHJqaHltelpiSUZhZXZwTjFzbk1feWZla1Q3azNDUUt5d3ZHVU1UdUpUTWlSekU1NzVhUE1HdGxVWFN6S29RVXVOOEt5N2Q5N2ZVdF91ZFFCSXVFYkZEUkgzaE04QlVOMXNPZkF6azRYVVBuZmpCOXJ3MVBCQXE5VmtmQV9TcnBHVA?oc=5"
-  },
-  {
-    "id": "google-news-video-it-sports-cbmijwfbvv95cuxqnfnobnfwnkctujdgv0g3vvjynddov2tpb3lzeu5hzknuzvp6bxfwoek0qk9menczyzlot1flcnbpvxhf",
-    "type": "video-link",
-    "title": "Hamilton is back: la clip di Sky Sport - Sky Sport",
-    "excerpt": "Hamilton is back: la clip di Sky Sport Sky Sport",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFNobnFwNkctUjdGV0g3VVJYNDdOV2tpb3lZeU5hZkNUZVp6bXFWOEk0Qk9menczYzlOT1FlcnBPVXhfZGdJWGMtMjJWRnZ4TkY0cmx0WjdHWS1COWQ0QW1UTkRiNkNCMVNjMVpHV2pidDZyYVEwd1RiN1JYVmx6ODQ4YkV1cld4aU9BYzdUNA?oc=5",
-    "image": null,
-    "channelId": "google-news-video-it-sports",
-    "channelName": "Sky Sport",
-    "sourceId": "google-news-video-it-sports",
-    "sourceName": "Sky Sport",
-    "sourceHomepage": "https://sport.sky.it",
-    "category": "Sports",
-    "publishedAt": 1782568722000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFNobnFwNkctUjdGV0g3VVJYNDdOV2tpb3lZeU5hZkNUZVp6bXFWOEk0Qk9menczYzlOT1FlcnBPVXhfZGdJWGMtMjJWRnZ4TkY0cmx0WjdHWS1COWQ0QW1UTkRiNkNCMVNjMVpHV2pidDZyYVEwd1RiN1JYVmx6ODQ4YkV1cld4aU9BYzdUNA?oc=5"
   },
   {
     "id": "google-news-video-it-sports-cbmiiafbvv95cuxoq1frreixr0fgehdjneznsufytnvxwhr6t0nlve51t2fqbk9ksvlyvjhultq5cndtlxzhz2zun1oztezp",
@@ -1072,6 +1056,22 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQUtlTVp3RmVjWTZWeXNjdUNBMjBNUWJ4ZUNhQmZyVUJtWDdabV9BRkJ2VEh6ZENlYmtLS0R1SGw1TzN3SFZtaE5abS00eEg3ZUxfZjZhYmpxWUlOYURaaVFyeU8zX3FiTllBc1FFVV92SDZjbXp6VmthN3FpeFpXcWpNU1dmQ2d2MlhVNGl0aUhpaE5EQy0tNmZXZmdRanQtMXpzX3NBNjVqYnVHRGpTaHltRlhLcklhTlgwTzVSb3ZxVjlwcFI5bkwxR1N3YkFabG1ndDVsUUFVX0FCSkpqS1hDTHbSAeoBQVVfeXFMT19aSkhDc2lUdTN5enRsTG1KbFRnWUtKS0JwMm1laDZIR0IyajFQdTJISGNLenZFRzZfUWxWaTFjQ01BQ0ltSVVtMnJEVjlVQ1NZMG5ZVGFNUWVDZ1dEaGI0YzZaZDE4VzBjQmxkTnR5bmhXU1kxd0hncGs5Z0Y3d2FnbTY4dzVYbk5zMW9iQ1dlc3UwV3BUVHlsNlRHbDlWOWMwSTBXb05OVVlDMzFoazIyZzdxQWd0dWxsZ0xuZUIzQzY2MXBRZE1DYUxHNlNWYjVIWUpIZ2RESmhpUURMQkpOUm0ycnJudGJR?oc=5"
   },
   {
+    "id": "google-news-video-it-business-cbmipwfbvv95cuxoznhmd0fwmkvwouxvahdicuswqm16wwdyodvrngtvynp1dha1blb0a2dfym92qva4vxhob3zramy3b055",
+    "type": "video-link",
+    "title": "VIDEO | Padova Flash, le notizie da tutto il territorio - TgPadova",
+    "excerpt": "VIDEO | Padova Flash, le notizie da tutto il territorio TgPadova",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZnhMd0FwMkVwOUxVaHdicUswQm16WWdyODVRNGtvYnp1dHA1blB0a2dFYm92QVA4VXhob3ZramY3b055bUtVNm5kMDVGdEdaOVA0R3F0cG9UTGg4MTdKMVpmc29XTGdJZlZ0NTNDbC0xYzFpcTNXcmFGSnBOUnVpRFJCVTFIWGNDSmFqemttclB3MzBvTlBkbEpESDg1TWtXWVZqYkZQOA?oc=5",
+    "image": null,
+    "channelId": "google-news-video-it-business",
+    "channelName": "TgPadova",
+    "sourceId": "google-news-video-it-business",
+    "sourceName": "TgPadova",
+    "sourceHomepage": "https://tgpadova.telenuovo.it",
+    "category": "Business",
+    "publishedAt": 1782461400000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZnhMd0FwMkVwOUxVaHdicUswQm16WWdyODVRNGtvYnp1dHA1blB0a2dFYm92QVA4VXhob3ZramY3b055bUtVNm5kMDVGdEdaOVA0R3F0cG9UTGg4MTdKMVpmc29XTGdJZlZ0NTNDbC0xYzFpcTNXcmFGSnBOUnVpRFJCVTFIWGNDSmFqemttclB3MzBvTlBkbEpESDg1TWtXWVZqYkZQOA?oc=5"
+  },
+  {
     "id": "google-news-video-it-tech-cbmi3afbvv95cuxptmtwrgxuvjhmbjdqved4sf9fduxplvljueg3qvdcxzyxrlrledzuvm5zduhfd1bwvum1sdgtvxlqz3fp",
     "type": "video-link",
     "title": "Se il digitale uccide il suono di una chitarra, la sua forma vale ancora qualcosa? - la Repubblica",
@@ -1088,22 +1088,6 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTmtwRGxUVjhMbjdQVEd4SF9fdUxpLVljUEg3QVdCXzYxRlRLeDZUVm5zdUhFd1BWVUM1SDgtVXlQZ3FpRlNCVFhiekJKZ2Q2YXExSzdJeEhGZmNGSGJ4aVZDaTF2NG5JVm9SYXJ0SWV0YVNqdkpWN3JsY3N2Mm9TWUtNbkltaTE5NngtWGlPbDBOTldhSkdNSG82SDgteDNFY05aSk4yRXlwV2hvOG9UY2JFM3RkcnlyVXU5dWYwd0VNVjJYRFJXbDJ2X2hDS25pMGVDcmU5NzlFVUx00gHiAUFVX3lxTFBUTGhUVTZFN3FDNFlabkozLVVqREJnMHJ1c0VGaEVqN1JVVTc1dHpuZGRuWEFqQ2NpVTFyZUpkMEpHUDJ0WW1tZThqNkNIX1l3bzNsb0dHd2wxcEgtWUZ6MGlCajNlZjUtWVlwb0dxTzBXY2ZXZ2lVenBQZlY5YWE3NGpUNnkxV3NwWDFTcTZSbkhwZURCZ1JBMmtXZHozRUd6Ym5hWFFvSXlYUk1kMm9zY0o3RmwzTnBLa2ZnSkZqeGFoTGFzWWJiQVRWZk5CbVpuQlo0a1hpWVJsZnNCLUh5NGc?oc=5"
   },
   {
-    "id": "google-news-video-it-tech-cbmiuwfbvv95cuxoyjfleehqt2jqujvndm9puu5jsgdrdtjimtzevgpiqzy0alvyohkxctzrrfztrk85nhrttgjsrkdrwlfy",
-    "type": "video-link",
-    "title": "Tech, Contucci: ‘grandi scienziati hanno sottoscritto manifesto per centro di ricerca europeo su Ai’ - egnews.it",
-    "excerpt": "Tech, Contucci: ‘grandi scienziati hanno sottoscritto manifesto per centro di ricerca europeo su Ai’ egnews.it",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYjFLeEhqT2JqUjVNdm9PUU5JSGdrdTJIMTZEVGpIQzY0alVyOHkxcTZrRFZtRk85NHRtTGJsRkdrWlFYemJGOE1BdGl1RHJCQlhOZVRTNzhlWUVKTkZZLUh2QkFOMTFTUGE5elE0bFVQelRlRjlnQ1Z3b01WTThZaTQ3YzFHRndqM2N2S1RoMS0wUmRhMTFQYUtMZmVmUi1QOFZSZ0NqMXdqQU03dDVEVlRfcU5yR21iYXpv?oc=5",
-    "image": null,
-    "channelId": "google-news-video-it-tech",
-    "channelName": "egnews.it",
-    "sourceId": "google-news-video-it-tech",
-    "sourceName": "egnews.it",
-    "sourceHomepage": "https://www.egnews.it",
-    "category": "Tech",
-    "publishedAt": 1782459503000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYjFLeEhqT2JqUjVNdm9PUU5JSGdrdTJIMTZEVGpIQzY0alVyOHkxcTZrRFZtRk85NHRtTGJsRkdrWlFYemJGOE1BdGl1RHJCQlhOZVRTNzhlWUVKTkZZLUh2QkFOMTFTUGE5elE0bFVQelRlRjlnQ1Z3b01WTThZaTQ3YzFHRndqM2N2S1RoMS0wUmRhMTFQYUtMZmVmUi1QOFZSZ0NqMXdqQU03dDVEVlRfcU5yR21iYXpv?oc=5"
-  },
-  {
     "id": "google-news-video-it-entertainment-cbmi8wfbvv95cuxoqkthrurydhhuywnetlhqownzv0d3rwnzzlfvsxayzu5dammtb05nug01mll0sezglxc0rjiydvzjnkpp",
     "type": "video-link",
     "title": "Formentera: ecco tutti i film e video musicali (alcuni di successo) girati sull'isola. Diversi residenti hanno fatto da comparsa - Formentera News",
@@ -1118,6 +1102,22 @@
     "category": "Entertainment",
     "publishedAt": 1782448451000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQktHRURydHhuYWNETlhqOWNZV0d3RWNzZlFvSXAyZU5DamMtb05nUG01Mll0SEZGLXc0RjIydVZJNkpPbFBMaGgyVkFEYi1aMmdLOHNIYWJ5SWdIV2J3TkhPZGdDVmVWZTNtNmFfQ1NQQWxCNDRMSl96ODRXbnh0OHFxczZJUEk0czJyeUtOVDItT2lOZGtCVzR6NkhCQVJpYlo3LS1WYzROQWJleDJ5bXpGbG95UER1aWcyRUI5bDFhVFBkVURqZHByd3RJc2lkTlpGWTY5eGN5UUQwa2daWHRManBjcWxmbEhZcDhMSnlMdk0?oc=5"
+  },
+  {
+    "id": "google-news-video-it-world-cbmitwfbvv95cuxpr1bwqmy0mddwnxlyrmc5wendyk5orkhny2rgoxp6ae1jt3h5wupht18xwti2zuxsov96eljwthbfzxbo",
+    "type": "video-link",
+    "title": "Bud Spencer Tribute 2026: Cinecittà World celebra il gigante buono del cinema italiano - ComingSoon.it",
+    "excerpt": "Bud Spencer Tribute 2026: Cinecittà World celebra il gigante buono del cinema italiano ComingSoon.it",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR1BWQmY0MDdWNXlYRmc5WENDYk5ORkhnY2RGOXp6aE1jT3h5WUpHT18xWTI2ZUxsOV96elJwTHBfZXBOWEhMSmp2UHMwM1NET05XTGxfemtsVjh3MEhpNkNsNDMwb0FsNDA1Q0ZqQ0RmWW5Kb3p4S2RpMm1RZGRqRWVVZlVMdm9uX1F1X1RUM3R3T29GajNoOXYtNjZxRE94QlJYcV90cjJ0LWZjZTFNakxHZTBWMnc?oc=5",
+    "image": null,
+    "channelId": "google-news-video-it-world",
+    "channelName": "ComingSoon.it",
+    "sourceId": "google-news-video-it-world",
+    "sourceName": "ComingSoon.it",
+    "sourceHomepage": "https://www.comingsoon.it",
+    "category": "World",
+    "publishedAt": 1782406320000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR1BWQmY0MDdWNXlYRmc5WENDYk5ORkhnY2RGOXp6aE1jT3h5WUpHT18xWTI2ZUxsOV96elJwTHBfZXBOWEhMSmp2UHMwM1NET05XTGxfemtsVjh3MEhpNkNsNDMwb0FsNDA1Q0ZqQ0RmWW5Kb3p4S2RpMm1RZGRqRWVVZlVMdm9uX1F1X1RUM3R3T29GajNoOXYtNjZxRE94QlJYcV90cjJ0LWZjZTFNakxHZTBWMnc?oc=5"
   },
   {
     "id": "google-news-video-it-health-cbmiakfvx3lxte9hnlnzcjrknuvtx2jluexautv1skhncxblmue4zefxsm0xzexnyjfkodbwltnur1lmvkfqq2vcswjlz1zn",
@@ -1182,21 +1182,5 @@
     "category": "Health",
     "publishedAt": 1782324773000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaFMyUXVxVDFkeXRtUkF0Y0lVRjQ3UWpFRDY2a1B2SGNqUUsxX2thdDhuYmdJb0EzSGcxWjFzT0U2bm9yRmhlQktyY3c4eWJJc1FKa21UMDJLUjlmMmh2VzRmRF9lQlJ3czg4eEZpZUhEMnBadlVGX0ZsMUVEc0R4bVprSDUzLWlCdlpzQmNSS3k1bFFaQlAtR09oTEMzS29RRUR5cERjYzZLR0RlbGRvT3RCWQ?oc=5"
-  },
-  {
-    "id": "google-news-video-it-health-cbmi2gfbvv95cuxoyumxu2y0nljjzge5rhcxv1y3nwncwhnszwe0tfdqyurvaxh0strvu2u2df80bmthmkzpwuzvwlv1vzlx",
-    "type": "video-link",
-    "title": "Cake, Kneu Health: \"Con smartphone e ricerca Oxford cambiamo la cura di demenza e Parkinson\" - Corriere Toscano",
-    "excerpt": "Cake, Kneu Health: \"Con smartphone e ricerca Oxford cambiamo la cura di demenza e Parkinson\" Corriere Toscano",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYUMxU2Y0NlJjZGE5RHcxV1Y3NWNCWHNSZWE0TFdqYURVaXh0STRVU2U2dF80bmthMkZpWUZVWlV1VzlxWFU0cXJ3Z05SZWcweWw0YXdFZDFQRUFoZVgyVExPYkZHUUlvNC1RN1d1M2JzQjVtczVNVDlfRGZOaE4wc1ptSzBIbm1LZXEyS0w4ZjI0c2V1NW9DV2hpTXFZOHdMa3MwTnhhNnVHLU0xczFSWFkyaDR2cnNHeVlRcXpsUC1vQlRwREZaX1dua3hzTjdnc3FtVGttLWdadw?oc=5",
-    "image": null,
-    "channelId": "google-news-video-it-health",
-    "channelName": "Corriere Toscano",
-    "sourceId": "google-news-video-it-health",
-    "sourceName": "Corriere Toscano",
-    "sourceHomepage": "https://corrieretoscano.it",
-    "category": "Health",
-    "publishedAt": 1782317573000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYUMxU2Y0NlJjZGE5RHcxV1Y3NWNCWHNSZWE0TFdqYURVaXh0STRVU2U2dF80bmthMkZpWUZVWlV1VzlxWFU0cXJ3Z05SZWcweWw0YXdFZDFQRUFoZVgyVExPYkZHUUlvNC1RN1d1M2JzQjVtczVNVDlfRGZOaE4wc1ptSzBIbm1LZXEyS0w4ZjI0c2V1NW9DV2hpTXFZOHdMa3MwTnhhNnVHLU0xczFSWFkyaDR2cnNHeVlRcXpsUC1vQlRwREZaX1dua3hzTjdnc3FtVGttLWdadw?oc=5"
   }
 ]

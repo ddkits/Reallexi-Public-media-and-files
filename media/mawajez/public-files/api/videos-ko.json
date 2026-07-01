@@ -1,5 +1,21 @@
 [
   {
+    "id": "google-news-video-ko-world-cbmiykfvx3lxtfayuxdgylhimdheuenis0yyz3jkukxqwgvcmkmtsgrcmgdisjgtsxf0bldaejlyeu9azkjnrlbinugyvxlg",
+    "type": "video-link",
+    "title": "지바 이치카와에서 인기 아기 원숭이 '펀치'에게 레이저 광선 조사(照射) - nhk.or.jp",
+    "excerpt": "지바 이치카와에서 인기 아기 원숭이 '펀치'에게 레이저 광선 조사(照射) nhk.or.jp",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyUXdGYlhIMDhEUENIS0YyZ3JKUkxqWGVCMkMtSGRCMGdiSjgtSXF0bldaejlYeU9aZkJnRlBiNUgyVXlGQ2pFdS10NVNwTFdsSmI2TklPdGRaOUN6QV9wZVlB?oc=5",
+    "image": null,
+    "channelId": "google-news-video-ko-world",
+    "channelName": "nhk.or.jp",
+    "sourceId": "google-news-video-ko-world",
+    "sourceName": "nhk.or.jp",
+    "sourceHomepage": "https://www3.nhk.or.jp",
+    "category": "World",
+    "publishedAt": 1782902963000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyUXdGYlhIMDhEUENIS0YyZ3JKUkxqWGVCMkMtSGRCMGdiSjgtSXF0bldaejlYeU9aZkJnRlBiNUgyVXlGQ2pFdS10NVNwTFdsSmI2TklPdGRaOUN6QV9wZVlB?oc=5"
+  },
+  {
     "id": "google-news-video-ko-health-cbmizefvx3lxte0tdutuvljmd1oyrkrnb1rvqtbvvkzsm3bwwk5kmw5wcgfaa2prtxnumuhdqzj1n2pbbzvjbgtksfhxwnlt",
     "type": "video-link",
     "title": "영월군, '어르신 건강관리 사업' 참여자 모집 - G1방송",
@@ -82,8 +98,8 @@
   {
     "id": "google-news-video-ko-tech-cbmigafbvv95cuxpaxpqcvvutmvelwtvbjlydmtdsvnfz3buaghcrhgxznhuwl9rsxnwz3f3ouhobdzxx0jyslhsb1rmzmfz",
     "type": "video-link",
-    "title": "빚까지 내 투자 vs 적금 부어 목돈…軍테크 두 얼굴 - 이데일리",
-    "excerpt": "빚까지 내 투자 vs 적금 부어 목돈…軍테크 두 얼굴 이데일리",
+    "title": "따박따박 적금 부은 군인, 빚내 코인 산 군인…軍테크 두 얼굴 - 이데일리",
+    "excerpt": "따박따박 적금 부은 군인, 빚내 코인 산 군인…軍테크 두 얼굴 이데일리",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaXpqcVVuTmVELWtVbjlydmtDSVNfZ3BUaGhCRHgxZnhUWl9RSXNwZ3F3OUhObDZXX0JySlhsb1RmZmFza1dScExiSElhRHB2MTRscExudmtScmhkQ0hHZUZZOUVQbUNZX3YwQzdjOFlfSVR3TGh5VEU0SWtfNFFMMQ?oc=5",
     "image": null,
     "channelId": "google-news-video-ko-tech",
@@ -512,6 +528,22 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQckxEeVd3X000bktHYUVaVW4wTHNNT2hDSW5XcXVkT2x3cEoxYUJtem56aC1vUFlTbm1IQl84NHhNckc4b1BCa2V1aUFmZWJUNUxsUGs3dk40WFVfaEJpeHFIRkdKa1k3VDFfdHpYV1Fpd3VkdmhoVUdiVS1KekRSdw?oc=5"
   },
   {
+    "id": "google-news-video-ko-tech-cbmigafbvv95cuxotzruenvrvhp6ztnor3foruvyug5aywlbenfirldfau40wkvvcnh1chhes2jmbuexagxmx3buugrfbmht",
+    "type": "video-link",
+    "title": "잠재고객 침투하는 中 지커…강남·판교서 테크 워크샵 - 이데일리",
+    "excerpt": "잠재고객 침투하는 中 지커…강남·판교서 테크 워크샵 이데일리",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTzRuenVrVHp6ZTNOR3FoRUVYUG5aYWlBenFiRldfaU40WkVvcnh1cHhES2JmbUExaGxmX3BuUGRFbmhTdEc1LXI4LVFXTDlxSUNhWEdjcWdMOHF1S0xmVjRHcVY4ZkgzaHMxdElvX1BLdVdoNkhHenlzN2JSa2hnbQ?oc=5",
+    "image": null,
+    "channelId": "google-news-video-ko-tech",
+    "channelName": "이데일리",
+    "sourceId": "google-news-video-ko-tech",
+    "sourceName": "이데일리",
+    "sourceHomepage": "https://www.edaily.co.kr",
+    "category": "Tech",
+    "publishedAt": 1782778101000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTzRuenVrVHp6ZTNOR3FoRUVYUG5aYWlBenFiRldfaU40WkVvcnh1cHhES2JmbUExaGxmX3BuUGRFbmhTdEc1LXI4LVFXTDlxSUNhWEdjcWdMOHF1S0xmVjRHcVY4ZkgzaHMxdElvX1BLdVdoNkhHenlzN2JSa2hnbQ?oc=5"
+  },
+  {
     "id": "google-news-video-ko-health-cbmigafbvv95cuxowmthx180amhuy0vjchk2amm3ckxyd3fzyvewufvonlndohlasgniyu9tn3a1dli2aun6d1c0wty3vmpi",
     "type": "video-link",
     "title": "SK인텔릭스 \"웰니스로봇으로 AI 건강상담 받으세요\" - 이데일리",
@@ -594,14 +626,14 @@
   {
     "id": "google-news-video-ko-tech-cbmivefvx3lxte5bdflfsjhtvnetbg1qcxdmnulobzjcynnkdmvsvlo0nk91bedmnnu4quvmv0vorc1qew14mexdnhzpmupm",
     "type": "video-link",
-    "title": "신성델타테크, AI 홈 로봇 ‘레미’ 공개 예정 - 부산경남대표방송 KNN 뉴스",
-    "excerpt": "신성델타테크, AI 홈 로봇 ‘레미’ 공개 예정 부산경남대표방송 KNN 뉴스",
+    "title": "신성델타테크, AI 홈 로봇 ‘레미’ 공개 예정 - knn.co.kr",
+    "excerpt": "신성델타테크, AI 홈 로봇 ‘레미’ 공개 예정 knn.co.kr",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdFlFSjhtVnEtbG1QcXdmNUlObzJCYnNkdmVSVlo0Nk91bEdmNnU4QUVMV0VORC1qeW14MExDNHZPMUpMUkpQM2ZNT2QtSWstZjJXUA?oc=5",
     "image": null,
     "channelId": "google-news-video-ko-tech",
-    "channelName": "부산경남대표방송 KNN 뉴스",
+    "channelName": "knn.co.kr",
     "sourceId": "google-news-video-ko-tech",
-    "sourceName": "부산경남대표방송 KNN 뉴스",
+    "sourceName": "knn.co.kr",
     "sourceHomepage": "https://news.knn.co.kr",
     "category": "Tech",
     "publishedAt": 1782723060000,
@@ -688,6 +720,22 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xWW04QUx3VlRGaFNXVVQ2SmFYd09FU2V1WnlWRzBpSkNDTl81ZXhXWjg2VXViQnVYeFRraWlqeWxIWExmRWQ1UmlRMUdsOWFHVUdQR29aRE9pcURHX1hmaDZSdTRoQQ?oc=5"
   },
   {
+    "id": "google-news-video-ko-business-cbmiaefvx3lxtfa2rdvonzrtvzi0n2dhrwxfywdswhhsufnqyuq4ukt0res5bzblmhrxcddeovdhym9zegnsbe1yvjlpnxpc",
+    "type": "video-link",
+    "title": "How can a company navigate business cycles and achieve lasting success: Chairman and President of Midea Group - KIPOST",
+    "excerpt": "How can a company navigate business cycles and achieve lasting success: Chairman and President of Midea Group KIPOST",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2RDVONzRtVzI0N2dhRWxFYWdsWHhsUFNqYUQ4Ukt0REs5bzBlMHRXcDdEOVdHYm9ZeGNSbE1yVjlpNXpCb0V4T180aG41QTJsaUJEOVYwWjFPZ25PZEI5SlhabnNLd0lw0gFsQVVfeXFMTXRha3JTdllwVDc3Zlp4OXVha2xrRnlwUkxlWXYycW1fNjcydl9YbGZoYXJ3NEhjVlU1b3RTa2x0dG5HaUdrZWRBTE5MZTN2V1FDRnNUaktIekRLalNCcGdLSVJiTXplMElSaXhy?oc=5",
+    "image": null,
+    "channelId": "google-news-video-ko-business",
+    "channelName": "KIPOST",
+    "sourceId": "google-news-video-ko-business",
+    "sourceName": "KIPOST",
+    "sourceHomepage": "https://www.kipost.net",
+    "category": "Business",
+    "publishedAt": 1782706620000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2RDVONzRtVzI0N2dhRWxFYWdsWHhsUFNqYUQ4Ukt0REs5bzBlMHRXcDdEOVdHYm9ZeGNSbE1yVjlpNXpCb0V4T180aG41QTJsaUJEOVYwWjFPZ25PZEI5SlhabnNLd0lw0gFsQVVfeXFMTXRha3JTdllwVDc3Zlp4OXVha2xrRnlwUkxlWXYycW1fNjcydl9YbGZoYXJ3NEhjVlU1b3RTa2x0dG5HaUdrZWRBTE5MZTN2V1FDRnNUaktIekRLalNCcGdLSVJiTXplMElSaXhy?oc=5"
+  },
+  {
     "id": "google-news-video-ko-tech-cbmiu0fvx3lxte1tznzecfu3vljoowk2a29us0zgnddtmutfuevgcgfswfrzas0xttyweextr2djszvbwg9vvl9nbkd1d2dk",
     "type": "video-link",
     "title": "Hyundai, Kia win Cannes Lions bronze for child safety technology campaign - 네이트",
@@ -702,22 +750,6 @@
     "category": "Tech",
     "publishedAt": 1782704820000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TZnZEcFU3VlJOOWk2a29uS0ZGNDdTMUtFUEVGcGFSWFRZaS0xTTYweExtR2dJSzVBWG9VVl9nbkd1d2dkdDlsNjBPREFZSGZKaTZz?oc=5"
-  },
-  {
-    "id": "google-news-video-ko-tech-cbmiakfvx3lxte5rzdztu2pyqk9xb3pymlbqweotdkezzvlsxzjqdvdhtkpyujhmcm1ux05wvhl0d3libxjsm0pgbuoyvm5y",
-    "type": "video-link",
-    "title": "NC, KAIST Push Beyond the Limits of Generative AI with Game AI - 게임뷰",
-    "excerpt": "NC, KAIST Push Beyond the Limits of Generative AI with Game AI 게임뷰",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rZDZtU2pYQk9xb3pYMlBqWEotdkEzZVlsXzJQdVdhTkpyUjhmcm1uX05WVHl0d3libXJSM0pGbUoyVm5YdHE2UlVtd2hVVS01dVFNeV9zNVl1OFp3azUtVlFWYmlmekZ2eEE?oc=5",
-    "image": null,
-    "channelId": "google-news-video-ko-tech",
-    "channelName": "게임뷰",
-    "sourceId": "google-news-video-ko-tech",
-    "sourceName": "게임뷰",
-    "sourceHomepage": "https://www.gamevu.co.kr",
-    "category": "Tech",
-    "publishedAt": 1782694939000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rZDZtU2pYQk9xb3pYMlBqWEotdkEzZVlsXzJQdVdhTkpyUjhmcm1uX05WVHl0d3libXJSM0pGbUoyVm5YdHE2UlVtd2hVVS01dVFNeV9zNVl1OFp3azUtVlFWYmlmekZ2eEE?oc=5"
   },
   {
     "id": "google-news-video-ko-tech-cbmigafbvv95cuxouexjqvdlqld0lxiwtk9jrhfuatlma0vtzw4wrhfanggyullwvgvyd2rhnuv3rgvbaxhyu2frmkrraut4",
@@ -848,22 +880,6 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxTTdIYkhaYTJYNDVWYWk4WmlXaHJkMGFTQ2Q3RURQZm1YcUhCaU83aU4zWGtJNlVQeHBVNXdWemQxWEZNV3JuRC1iZzl5dHV0UjZj0gFMQVVfeXFMT0tyOFNJQVJoS0k0QUU5TDVIMFB0cmNTYkt2Z25FU0Q3cUhLN042SnM0Nl9xcV9ZOHRWWVh0TXY1c1VRWG85czkyMmp2NQ?oc=5"
   },
   {
-    "id": "google-news-video-ko-world-cbmia0fvx3lxte9qqzz1theybehftljrzwnfmev3x1nhzmfwqk9yeet1t19qwfbry0p5zhf4ugytmndprgw3thhkexnld3zk",
-    "type": "video-link",
-    "title": "\"Analyzed Data, But No Clear Reason...\" Hong Myung-bo Holds Press Conference Day After Shock Defeat to South Africa - SBS 뉴스",
-    "excerpt": "\"Analyzed Data, But No Clear Reason...\" Hong Myung-bo Holds Press Conference Day After Shock Defeat to South Africa SBS 뉴스",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QQzZ1THEybEhfTlJrZWNFMEV3X1NHZmFWQk9yeEt1T19QWFBrY0p5ZHF4UGYtMndPRGw3THhKeXNld3ZKbnFDdldqcWtBeGVzM0VxWUFHY1ZEbERLNGhMZU5mS0VhN2tPQlEw0gFmQVVfeXFMUGYtRGhQcTd4T1J2N3lacGNSZmZpR0xmcFA5bFJ0R3BfNFIyTDgtWmxhMGlxMEJKTkJ1c3VOQzNMTEpNSkFXTUxkb0RQb1hwakxVbWlnRWtZeVlEaHJHS1dOLTQ1eHRB?oc=5",
-    "image": null,
-    "channelId": "google-news-video-ko-world",
-    "channelName": "SBS 뉴스",
-    "sourceId": "google-news-video-ko-world",
-    "sourceName": "SBS 뉴스",
-    "sourceHomepage": "https://m.news.sbs.co.kr",
-    "category": "World",
-    "publishedAt": 1782435960000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QQzZ1THEybEhfTlJrZWNFMEV3X1NHZmFWQk9yeEt1T19QWFBrY0p5ZHF4UGYtMndPRGw3THhKeXNld3ZKbnFDdldqcWtBeGVzM0VxWUFHY1ZEbERLNGhMZU5mS0VhN2tPQlEw0gFmQVVfeXFMUGYtRGhQcTd4T1J2N3lacGNSZmZpR0xmcFA5bFJ0R3BfNFIyTDgtWmxhMGlxMEJKTkJ1c3VOQzNMTEpNSkFXTUxkb0RQb1hwakxVbWlnRWtZeVlEaHJHS1dOLTQ1eHRB?oc=5"
-  },
-  {
     "id": "google-news-video-ko-world-cbmihwfbvv95cuxqmnj5anfxulfjb1fdblnbtllobdblmy1nn0hwr0pcenp6nlywnvvyzfrzanawtzl3ywrxnjhdy3jvsg5s",
     "type": "video-link",
     "title": "Cape Verde: Why Are They So Good? / SBS News - SBS 뉴스",
@@ -880,19 +896,19 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMnJ5anFXUlFJb1FDblNBTllObDBlMy1nN0hWR0pCenp6NlYwNVVYZFRzanAwTzl3YWRxNjhDY3JvSG5SbTZjV1ZpNDliNXMtbzViLVhpNDFBa3BBelFaTEpKSGFLRlNjT2I5bU12TU1QN0hXeHY1Uk1OeFFxZFF5bjJEWTJMWlnSAWZBVV95cUxQRG91NnNZNmNhSFNrWEs1amdOZkZDZnN3bzNSb2xBSi1ZX0htTUxKSmlseXp2N0wtOWNkelZOTDFJNXpKdU9xMndPdUJyNnpqaFJaYTYwZzh1akhIZlQ0cW9aRnhwZHc?oc=5"
   },
   {
-    "id": "google-news-video-ko-health-cbmickfvx3lxte5ra0dimdlpmv9fmeo3n1czzk1dwwpldk1fdfj1qw9nckwxlwtub2x6qjhwvmzjr2e4d2x5v1vwumutx2m0",
+    "id": "google-news-video-ko-health-cbmip0fvx3lxte5ubkhbtjeznkzxvvnxbjzjre9kzna0dfhoy0pisxfgeey2uupsvhz6cmtfz3h5a0j1txrin2iyuq",
     "type": "video-link",
     "title": "[자막뉴스] 한의난임과 한의약 건강돌봄 사업 우수 성과 공유 > 뉴스 - 한의신문",
     "excerpt": "[자막뉴스] 한의난임과 한의약 건강돌봄 사업 우수 성과 공유 > 뉴스 한의신문",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Ra0diMDlpMV9fMEo3N1czZk1DWWpLdk1FdFJ1QW9NckwxLWtUb2x6QjhWVmZJR2E4d2x5V1VWUmUtX2M0UmFMWDhxcG82VlJoYkozZThJVWI0ZXRQc1VIRFp2MHVINXpvQXYybnQ4VnVlQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5ubkhBTjEzNkZxVVNXbjZJRE9KZnA0dFhoY0piSXFGeEY2UUpsVHZ6cmtFZ3h5a0J1TXRIN2IyUQ?oc=5",
     "image": null,
     "channelId": "google-news-video-ko-health",
     "channelName": "한의신문",
     "sourceId": "google-news-video-ko-health",
     "sourceName": "한의신문",
-    "sourceHomepage": "https://www.akomnews.com",
+    "sourceHomepage": "https://akomnews.com",
     "category": "Health",
-    "publishedAt": 1782352860000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Ra0diMDlpMV9fMEo3N1czZk1DWWpLdk1FdFJ1QW9NckwxLWtUb2x6QjhWVmZJR2E4d2x5V1VWUmUtX2M0UmFMWDhxcG82VlJoYkozZThJVWI0ZXRQc1VIRFp2MHVINXpvQXYybnQ4VnVlQQ?oc=5"
+    "publishedAt": 1782354660000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5ubkhBTjEzNkZxVVNXbjZJRE9KZnA0dFhoY0piSXFGeEY2UUpsVHZ6cmtFZ3h5a0J1TXRIN2IyUQ?oc=5"
   }
 ]

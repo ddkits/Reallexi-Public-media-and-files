@@ -6,34 +6,110 @@
     <title>Mawajez</title>
     <link rel="stylesheet" href="popup.css" />
   </head>
-  <body>
-    <main class="popup-shell">
+  <body data-view="popup">
+    <main class="extension-shell">
       <header class="topbar">
-        <div class="brand"><span></span>Mawajez</div>
-        <button id="openSite" title="Open Mawajez" aria-label="Open Mawajez">↗</button>
+        <div class="brand-mark" aria-label="Mawajez">
+          <span class="brand-dot"></span>
+          <span>
+            <strong>Mawajez</strong>
+            <small>News Hub</small>
+          </span>
+        </div>
+        <div class="toolbar" aria-label="Extension actions">
+          <button id="syncNow" class="icon-button" type="button" title="Refresh feeds" aria-label="Refresh feeds">Sync</button>
+          <button id="openPanel" class="icon-button" type="button" title="Open side panel" aria-label="Open side panel">Panel</button>
+          <button id="openSite" class="icon-button primary" type="button" title="Open Mawajez" aria-label="Open Mawajez">Open</button>
+        </div>
       </header>
 
-      <section class="filters">
-        <input id="search" type="search" placeholder="Search news" />
-        <select id="language" aria-label="Language"></select>
+      <section class="summary-strip" aria-label="Feed status">
+        <div>
+          <span class="eyebrow">Live public feeds</span>
+          <strong id="headlineCount">Loading</strong>
+        </div>
+        <span id="lastRefresh" class="timestamp">Preparing sync</span>
       </section>
 
-      <nav id="categories" class="categories" aria-label="Categories"></nav>
+      <section class="filters" aria-label="Search and language">
+        <label class="field-label">
+          <span>Search</span>
+          <input id="search" type="search" placeholder="Headlines, sources, categories" autocomplete="off" />
+        </label>
+        <label class="field-label language-field">
+          <span>Language</span>
+          <select id="language" aria-label="Language"></select>
+        </label>
+      </section>
 
-      <section class="status-row">
+      <nav id="categoryFilter" class="category-scroll" aria-label="Category filter"></nav>
+
+      <section class="quick-actions" aria-label="Saved and settings">
         <button id="favoritesOnly" type="button">Favorites</button>
-        <button id="restoreSession" type="button">Restore tab</button>
-        <span id="status">Loading</span>
+        <button id="restoreSession" type="button">Restore Mawajez tab</button>
+        <button id="settingsToggle" type="button">Settings</button>
+      </section>
+
+      <section id="settingsPanel" class="settings-panel" aria-label="News preferences" hidden>
+        <div class="settings-grid">
+          <label class="field-label">
+            <span>Mission</span>
+            <select id="mission">
+              <option value="daily-briefing">Daily briefing</option>
+              <option value="research">Research</option>
+              <option value="market-watch">Market watch</option>
+              <option value="sports-tracking">Sports tracking</option>
+              <option value="entertainment-watch">Entertainment watch</option>
+            </select>
+          </label>
+          <label class="field-label">
+            <span>Auto refresh</span>
+            <select id="refreshMinutes">
+              <option value="15">Every 15 minutes</option>
+              <option value="30">Every 30 minutes</option>
+              <option value="60">Every hour</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="toggle-row">
+          <label><input id="articlesToggle" type="checkbox" /> Articles</label>
+          <label><input id="videosToggle" type="checkbox" /> Videos</label>
+          <label><input id="notificationsToggle" type="checkbox" /> New-news notifications</label>
+        </div>
+
+        <div>
+          <div class="section-title">Preferred categories</div>
+          <div id="preferenceCategories" class="preference-grid"></div>
+        </div>
       </section>
 
       <section id="feed" class="feed" aria-live="polite"></section>
+
+      <footer class="support-footer" aria-label="Support Mawajez">
+        <div>
+          <span class="eyebrow">Support</span>
+          <strong>Keep Mawajez public and fast</strong>
+        </div>
+        <a class="support-link" href="https://github.com/sponsors/ddkits" target="_blank" rel="noopener noreferrer">
+          GitHub Sponsors
+          <span>github.com/sponsors/ddkits</span>
+        </a>
+        <a class="support-link" href="https://buymeacoffee.com/ddkits" target="_blank" rel="noopener noreferrer">
+          Buy Me a Coffee
+          <span>buymeacoffee.com/ddkits</span>
+        </a>
+      </footer>
     </main>
 
     <template id="storyTemplate">
       <article class="story">
-        <button class="fav" type="button" aria-label="Save">☆</button>
+        <button class="fav" type="button" aria-label="Save story">Save</button>
         <a class="story-link" target="_blank" rel="noopener noreferrer">
-          <span class="source"></span>
+          <span class="story-topline">
+            <span class="source"></span>
+            <span class="kind"></span>
+          </span>
           <strong class="title"></strong>
           <small class="meta"></small>
         </a>

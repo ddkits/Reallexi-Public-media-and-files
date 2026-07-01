@@ -6,8 +6,8 @@
     <text x="120" y="91" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" fill="#f4f7fb">betterConsole</text>
     <rect x="1054" y="66" width="130" height="36" rx="8" fill="#0f1115" stroke="#f6c453"/>
     <text x="1088" y="90" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#f4f7fb">Sponsor</text>
-    <text x="78" y="178" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="850" fill="#f4f7fb">Plain-English explanations and practical fixes</text>
-    <text x="80" y="220" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" fill="#98a2b3">Rule-based suggestions help developers move from error message to likely cause quickly.</text>
+    <text x="78" y="178" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="850" fill="#f4f7fb">Issue accordions reveal the likely root cause</text>
+    <text x="80" y="220" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" fill="#98a2b3">Open a grouped issue for source context, solution steps, notes, report, and stack trace.</text>
     <rect x="78" y="252" width="592" height="406" rx="12" fill="#0f1115" stroke="#303644"/>
     
       <rect x="96" y="274" width="544" height="76" rx="8" fill="#1f2430" stroke="#303644"/>

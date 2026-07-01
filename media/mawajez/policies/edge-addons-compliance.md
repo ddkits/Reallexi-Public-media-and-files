@@ -4,19 +4,21 @@ Use this file when completing the Microsoft Edge Add-ons submission form for Maw
 
 ## Single Purpose Description
 
-Mawajez News Hub provides quick browser access to Mawajez public news feeds so users can search headlines, filter by category and language, save favorites locally, and reopen Mawajez news sessions.
+Mawajez News Hub provides quick browser and side-panel access to Mawajez public news feeds so users can search headlines, filter by category and language, save favorites locally, receive optional new-news notifications, and reopen Mawajez news sessions.
 
 ## Permission Justification
 
-storage: Required to store the user's selected language, local favorites, cached public Mawajez feed JSON, popup filter state, and temporary extension session preferences in the browser.
+storage: Required to store the user's selected language, category preferences, notification setting, refresh interval, local favorites, cached public Mawajez feed JSON, popup filter state, and temporary extension session preferences in the browser.
 
 activeTab: Not requested by the current extension manifest. The extension does not need temporary access to the active tab.
 
 tabs: Not requested by the current extension manifest. The extension opens Mawajez pages from explicit user clicks and does not request sensitive tab metadata.
 
-sidePanel: Not requested by the current extension manifest. Mawajez uses a browser action popup.
+sidePanel: Required to open the same Mawajez news hub experience in the browser side panel when the user clicks the Panel button.
 
 alarms: Required to refresh cached public Mawajez feed JSON on a periodic schedule.
+
+notifications: Required only when the user enables new-news notifications in settings. Notifications alert the user about newly detected public Mawajez stories that match the selected language and preferred categories.
 
 downloads: Not requested by the current extension manifest. Downloadable gallery exports are handled by the Mawajez website.
 
@@ -42,7 +44,7 @@ No remote code is used. Runtime network access is limited to public Mawajez JSON
 
 ## Data Usage
 
-Mawajez does not collect, sell, share, or broker personal data through the extension. The extension stores favorites, selected language, cached public feed JSON, popup filters, and recently selected session state locally in browser storage. Saved items may include source URLs and article/video metadata chosen by the user. No account, payment, precise location, health, financial, authentication, or personal communication data is requested.
+Mawajez does not collect, sell, share, or broker personal data through the extension. The extension stores favorites, selected language, selected categories, notification setting, refresh interval, cached public feed JSON, popup or side-panel filters, and recently selected session state locally in browser storage. Saved items may include source URLs and article/video metadata chosen by the user. No account, payment, precise location, health, financial, authentication, or personal communication data is requested.
 
 ## Privacy Policy URL
 
