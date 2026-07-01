@@ -4,7 +4,7 @@ Use this file to complete the Microsoft Edge Add-ons submission form for betterC
 
 ## Single Purpose Description
 
-betterConsole helps developers debug web pages by capturing browser console activity locally, following the active tab by default, grouping repeated issues, searching and filtering logs, explaining likely causes, generating sanitized debug reports, and opening user-controlled online searches for fixes.
+betterConsole helps developers debug web pages by capturing browser console activity locally, following the active tab by default, grouping repeated issues, opening issue accordions with source and root-cause details, searching and filtering logs, generating sanitized debug reports, and opening user-controlled online searches for fixes.
 
 ## Permission Justification
 
@@ -18,7 +18,7 @@ Required for user-initiated actions from the popup, including refreshing the pac
 
 ### tabs justification
 
-Required to identify the current active tab, refresh capture when the active tab changes, associate captured logs with the correct tab, display current-tab status, open the side panel for the active tab, and clear logs for only the current tab when requested.
+Required to identify the current active tab, refresh capture when the active tab changes, associate captured logs with the correct tab, display current-tab status, open the side panel for the active tab, open user-requested solution search tabs, and clear logs for only the current tab when requested.
 
 ### sidePanel justification
 
