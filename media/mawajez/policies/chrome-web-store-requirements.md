@@ -89,6 +89,21 @@ Icons:
 Logos:
 
 - `media/logos/mawajez-logo.svg`
+- `media/logos/edge-extension-logo-300x300.png`
+
+Chrome image checks:
+
+- Required extension icon: `media/icons/icon128.png`
+- Required small promo tile: `media/promotional/chrome-small-promo-tile-440x280.png`
+- Optional marquee promo tile: `media/promotional/chrome-marquee-promo-tile-1400x560.png`
+- Screenshots: generated at `1280x800`
+
+Edge image checks:
+
+- Extension logo: `media/logos/edge-extension-logo-300x300.png`
+- Optional small promo tile: `media/promotional/edge-promo-tile-440x280.png`
+- Optional large promo tile: `media/promotional/edge-marquee-promo-tile-1400x560.png`
+- Screenshots: generated at `1280x800`
 
 ## Review Notes
 

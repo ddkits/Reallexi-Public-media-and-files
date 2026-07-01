@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T15:31:22.764Z",
+  "generatedAt": "2026-07-01T17:26:48.681Z",
   "project": "mawajez",
   "owner": "RealLexi LLC",
   "publicRepoTargets": [
@@ -29,7 +29,8 @@
       "https://mawajez.com/*"
     ],
     "logos": [
-      "media/logos/mawajez-logo.svg"
+      "media/logos/mawajez-logo.svg",
+      "media/logos/edge-extension-logo-300x300.png"
     ],
     "screenshots": [
       "media/screenshots/mawajez-onboarding-1280x800.png",
@@ -44,6 +45,7 @@
     "category": "News and Weather",
     "shortDescription": "Search public news feeds, save favorites, open a side panel, and get optional alerts.",
     "package": "extensions/mawajez-news-hub-chrome.zip",
+    "extensionIcon": "media/icons/icon128.png",
     "promotionalImages": [
       "media/promotional/chrome-small-promo-tile-440x280.png",
       "media/promotional/chrome-marquee-promo-tile-1400x560.png"
@@ -73,7 +75,8 @@
       "https://mawajez.com/*"
     ],
     "logos": [
-      "media/logos/mawajez-logo.svg"
+      "media/logos/mawajez-logo.svg",
+      "media/logos/edge-extension-logo-300x300.png"
     ],
     "screenshots": [
       "media/screenshots/mawajez-onboarding-1280x800.png",
@@ -88,6 +91,7 @@
     "category": "News and Weather",
     "shortDescription": "Search public Mawajez feeds, save favorites, open a side panel, and get optional alerts.",
     "package": "extensions/mawajez-news-hub-edge.zip",
+    "extensionLogo": "media/logos/edge-extension-logo-300x300.png",
     "promotionalImages": [
       "media/promotional/edge-promo-tile-440x280.png",
       "media/promotional/edge-marquee-promo-tile-1400x560.png"

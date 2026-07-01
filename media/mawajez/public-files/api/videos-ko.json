@@ -1,5 +1,21 @@
 [
   {
+    "id": "google-news-video-ko-world-cbmiykfvx3lxtfayuxdgylhimdheuenis0yyz3jkukxqwgvcmkmtsgrcmgdisjgtsxf0bldaejlyeu9azkjnrlbinugyvxlg",
+    "type": "video-link",
+    "title": "지바 이치카와에서 인기 아기 원숭이 '펀치'에게 레이저 광선 조사(照射) - nhk.or.jp",
+    "excerpt": "지바 이치카와에서 인기 아기 원숭이 '펀치'에게 레이저 광선 조사(照射) nhk.or.jp",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyUXdGYlhIMDhEUENIS0YyZ3JKUkxqWGVCMkMtSGRCMGdiSjgtSXF0bldaejlYeU9aZkJnRlBiNUgyVXlGQ2pFdS10NVNwTFdsSmI2TklPdGRaOUN6QV9wZVlB?oc=5",
+    "image": null,
+    "channelId": "google-news-video-ko-world",
+    "channelName": "nhk.or.jp",
+    "sourceId": "google-news-video-ko-world",
+    "sourceName": "nhk.or.jp",
+    "sourceHomepage": "https://www3.nhk.or.jp",
+    "category": "World",
+    "publishedAt": 1782902963000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyUXdGYlhIMDhEUENIS0YyZ3JKUkxqWGVCMkMtSGRCMGdiSjgtSXF0bldaejlYeU9aZkJnRlBiNUgyVXlGQ2pFdS10NVNwTFdsSmI2TklPdGRaOUN6QV9wZVlB?oc=5"
+  },
+  {
     "id": "google-news-video-ko-health-cbmizefvx3lxte0tdutuvljmd1oyrkrnb1rvqtbvvkzsm3bwwk5kmw5wcgfaa2prtxnumuhdqzj1n2pbbzvjbgtksfhxwnlt",
     "type": "video-link",
     "title": "영월군, '어르신 건강관리 사업' 참여자 모집 - G1방송",
@@ -336,6 +352,22 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kVGVydUJmSUoyV3NYclBZSjFNaEtIdnVRS20xeVVTeW9DVFc3M2tsTGRFcy0wV1IyM3d6aWpYa2M4MmpfUmhpS0k2R1pfZ0pZczBoY2d0S3V4aGxucDUtQ1Z3?oc=5"
   },
   {
+    "id": "google-news-video-ko-sports-cbmiu0fvx3lxte92cljnq2hyzwx5vmlgshlmsuxlzvdpvtc1elbdvdj4uevomtjveejddlrhwmvvmznnr3hbdw8ztmd1tko3",
+    "type": "video-link",
+    "title": "'아프리카 최강' 모로코, 네덜란드 잡고 16강행 - 네이트",
+    "excerpt": "'아프리카 최강' 모로코, 네덜란드 잡고 16강행 네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92clJnQ2hyZWx5VmlGSHlmSUxlZVdpVTc1elBDVDJ4UEVOMTJVeEJDdlRHWmVvMzNnR3hBdW8zTmd1Tko3SWdvYjc2bVpXOFdXODZB?oc=5",
+    "image": null,
+    "channelId": "google-news-video-ko-sports",
+    "channelName": "네이트",
+    "sourceId": "google-news-video-ko-sports",
+    "sourceName": "네이트",
+    "sourceHomepage": "https://news.nate.com",
+    "category": "Sports",
+    "publishedAt": 1782852360000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92clJnQ2hyZWx5VmlGSHlmSUxlZVdpVTc1elBDVDJ4UEVOMTJVeEJDdlRHWmVvMzNnR3hBdW8zTmd1Tko3SWdvYjc2bVpXOFdXODZB?oc=5"
+  },
+  {
     "id": "google-news-video-ko-entertainment-cbmiakfvx3lxtfbzuw5rdwpcdzjjwmdbtlr3c19zmw5ptnfnymdxrehlttzumgxoutryqnf5zmpiq01lr01mou9um2trmv9f",
     "type": "video-link",
     "title": "월드 오브 워크래프트: 한밤, 신규 콘텐츠 '계시' 업데이트 - 인벤",
@@ -464,22 +496,6 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzWWliQ0VxOTRsN0pfRjhQSnUxamhJSTFLMjlRMmZWZFlibWRydWlNUTJmbERIcmduWEF1bHJZZTFzTGhxMDQzR2xIOXdwRlZ0eGc?oc=5"
   },
   {
-    "id": "google-news-video-ko-sports-cbmi0gfbvv95cuxnww1xm2jsdnbgwkvgazriaenravfvmuy5s1vswkv4d09zzkvettnnexzta3lkn2pvcjbnvhb5nml0qzjl",
-    "type": "video-link",
-    "title": "익스플레이너: 호주도 운동하는 아이 줄어… 어린이, 가장 많이 하는 스포츠는? - SBS Australia",
-    "excerpt": "익스플레이너: 호주도 운동하는 아이 줄어… 어린이, 가장 많이 하는 스포츠는? SBS Australia",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWW1XM2JsdnBGWkVGazRIaENRaVFvMUY5S1VSWkV4d09zZkVETTNneXZTa3lKN2pvcjBnVHB5Nml0QzJLd1V5dmtPMDlVRzE5TG1mc1hCVDV5TThna1JZZHYwMEY0SWN6Rlk5MTNubEZPVFJIaHdqN2VqbjVMYi10S2h2Y3E3OUFzQWotNGpSTzBGY2ZXelVOLXVlMUlNWkFsV01jNzRWM2dPMVV5TFVwRXNqSnNXSElUWEc3VFptZ2lkQUpnR3dxTG9jc3pOekg4LUE?oc=5",
-    "image": null,
-    "channelId": "google-news-video-ko-sports",
-    "channelName": "SBS Australia",
-    "sourceId": "google-news-video-ko-sports",
-    "sourceName": "SBS Australia",
-    "sourceHomepage": "https://www.sbs.com.au",
-    "category": "Sports",
-    "publishedAt": 1782784479000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWW1XM2JsdnBGWkVGazRIaENRaVFvMUY5S1VSWkV4d09zZkVETTNneXZTa3lKN2pvcjBnVHB5Nml0QzJLd1V5dmtPMDlVRzE5TG1mc1hCVDV5TThna1JZZHYwMEY0SWN6Rlk5MTNubEZPVFJIaHdqN2VqbjVMYi10S2h2Y3E3OUFzQWotNGpSTzBGY2ZXelVOLXVlMUlNWkFsV01jNzRWM2dPMVV5TFVwRXNqSnNXSElUWEc3VFptZ2lkQUpnR3dxTG9jc3pOekg4LUE?oc=5"
-  },
-  {
     "id": "google-news-video-ko-world-cbmiwkfvx3lxte9cztllctm3sk0wvfbfu2lwaxbynk1vx0llnewxdhlmtnizada5ane5ahztmfvammzfcnzfveu0n2zdc2nt",
     "type": "video-link",
     "title": "Rhythm Heaven: Miracle Stars and Black Flag, a refreshing blast arriving this July - 게임메카",
@@ -510,6 +526,22 @@
     "category": "Tech",
     "publishedAt": 1782778575000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQckxEeVd3X000bktHYUVaVW4wTHNNT2hDSW5XcXVkT2x3cEoxYUJtem56aC1vUFlTbm1IQl84NHhNckc4b1BCa2V1aUFmZWJUNUxsUGs3dk40WFVfaEJpeHFIRkdKa1k3VDFfdHpYV1Fpd3VkdmhoVUdiVS1KekRSdw?oc=5"
+  },
+  {
+    "id": "google-news-video-ko-tech-cbmigafbvv95cuxotzruenvrvhp6ztnor3foruvyug5aywlbenfirldfau40wkvvcnh1chhes2jmbuexagxmx3buugrfbmht",
+    "type": "video-link",
+    "title": "잠재고객 침투하는 中 지커…강남·판교서 테크 워크샵 - 이데일리",
+    "excerpt": "잠재고객 침투하는 中 지커…강남·판교서 테크 워크샵 이데일리",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTzRuenVrVHp6ZTNOR3FoRUVYUG5aYWlBenFiRldfaU40WkVvcnh1cHhES2JmbUExaGxmX3BuUGRFbmhTdEc1LXI4LVFXTDlxSUNhWEdjcWdMOHF1S0xmVjRHcVY4ZkgzaHMxdElvX1BLdVdoNkhHenlzN2JSa2hnbQ?oc=5",
+    "image": null,
+    "channelId": "google-news-video-ko-tech",
+    "channelName": "이데일리",
+    "sourceId": "google-news-video-ko-tech",
+    "sourceName": "이데일리",
+    "sourceHomepage": "https://www.edaily.co.kr",
+    "category": "Tech",
+    "publishedAt": 1782778101000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTzRuenVrVHp6ZTNOR3FoRUVYUG5aYWlBenFiRldfaU40WkVvcnh1cHhES2JmbUExaGxmX3BuUGRFbmhTdEc1LXI4LVFXTDlxSUNhWEdjcWdMOHF1S0xmVjRHcVY4ZkgzaHMxdElvX1BLdVdoNkhHenlzN2JSa2hnbQ?oc=5"
   },
   {
     "id": "google-news-video-ko-health-cbmigafbvv95cuxowmthx180amhuy0vjchk2amm3ckxyd3fzyvewufvonlndohlasgniyu9tn3a1dli2aun6d1c0wty3vmpi",
@@ -622,38 +654,6 @@
     "category": "World",
     "publishedAt": 1782720205000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGc2RpLUNVUGJxSHY3Nk5PTElnN1ZJWVVQby1FeE5qMjltamdPV3o0Vl93bE5zYU85NnBZQ0xidWlLNnk3MXpwcXlERm0xWDctN0RIdDJQQW1UbktVN1RlaG5JbFM3aHRyRHNzaFE1dzJzcWhy0gF0QVVfeXFMUEZzZGktQ1VQYnFIdjc2Tk9MSWc3VklZVVBvLUV4TmoyOW1qZ09XejRWX3dsTnNhTzk2cFlDTGJ1aUs2eTcxenBxeURGbTFYNy03REh0MlBBbVRuS1U3VGVobklsUzdodHJEc3NoUTV3MnNxaHI?oc=5"
-  },
-  {
-    "id": "google-news-video-ko-world-cbmia0fvx3lxtfbfzy1daee5uuh2t0n3sc1imu14qvy2tw1laflvb2joyjrzd3lpu21aywnlntctevbxaxpeqwpcvf9iqnvn",
-    "type": "video-link",
-    "title": "\"Put Me in Solitary Confinement\": Unusual Request Amid Fears of '10 Million Won Monthly' Threat - SBS 뉴스",
-    "excerpt": "\"Put Me in Solitary Confinement\": Unusual Request Amid Fears of '10 Million Won Monthly' Threat SBS 뉴스",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfZy1DaEE5UUh2T0N3SC1IMU14QVY2TW1laFlvb2JoYjRzd3lpU21aYWNlNTcteVBxaXpEQWpCVF9iQnVnWUxTX0FzcHQ5NmxDS0Z3REhfWkZTZVA0YVM4VjM1ekJBUGdQOHFN0gFmQVVfeXFMUGVjMmRCQTBqckxQZEdCaG40RTQtWFlfUk1WUDRRNGpFSGVEelBSaENwSVB0dHVjQnZXeENUNVFIcGRZTXd1NktTY1pJamI2aG5oMkxnbjVWc0VvMHR0YmVMTV9EYjdR?oc=5",
-    "image": null,
-    "channelId": "google-news-video-ko-world",
-    "channelName": "SBS 뉴스",
-    "sourceId": "google-news-video-ko-world",
-    "sourceName": "SBS 뉴스",
-    "sourceHomepage": "https://m.news.sbs.co.kr",
-    "category": "World",
-    "publishedAt": 1782717180000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfZy1DaEE5UUh2T0N3SC1IMU14QVY2TW1laFlvb2JoYjRzd3lpU21aYWNlNTcteVBxaXpEQWpCVF9iQnVnWUxTX0FzcHQ5NmxDS0Z3REhfWkZTZVA0YVM4VjM1ekJBUGdQOHFN0gFmQVVfeXFMUGVjMmRCQTBqckxQZEdCaG40RTQtWFlfUk1WUDRRNGpFSGVEelBSaENwSVB0dHVjQnZXeENUNVFIcGRZTXd1NktTY1pJamI2aG5oMkxnbjVWc0VvMHR0YmVMTV9EYjdR?oc=5"
-  },
-  {
-    "id": "google-news-video-ko-tech-cbmi5anbvv95cuxqvuj0twd0bfntcnblngxks3fjngf1tepzmm44ufz3dtvmytb6b1jbbxjwaerla1bfymr2z0lesjrzclpj",
-    "type": "video-link",
-    "title": "금값, 사상 최고치 찍더니 20% 폭락..'골드바 품귀' 끝? 금테크 개미들 밤잠 설치는 이유 - MSN",
-    "excerpt": "금값, 사상 최고치 찍더니 20% 폭락..'골드바 품귀' 끝? 금테크 개미들 밤잠 설치는 이유 MSN",
-    "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQVUJ0TWd0bFNTcnBlNGxKS3FjNGF1TEpZMm44UFZ3dTVMYTB6b1JBbXJWaERla1BFYmR2Z0lESjRZclpjeWN2NWlKQWlEUzAtLW1UQTRqZGV4TUNVMHlGTmlVREp1Q2RsN0plOVAxSHVFT2U4NHVJTkUxYWRRTm9WTy1oQUZUa05JRmRyT3l5QWRUM1ZCZzNBOFQ3WUJnM2l6LTRYN1hReVVGVmE1dDEtb2pMT0RZWlZGa2R4djlfREpJUkNiUEdCV1BUZmhOM0FVQ0hJZFNNenVZMGxPWnpKdWRrU2xwdXBLMGhpeHdrcGh2cHVadHNMNXBXeklGRWc3RTRTMmJROGt3N1hMdVNaY04taWM3cGx4VHVXd1VSZXpRTlYwa0FKUERLbU9Ob1FBTmtsalN2blN5SVQzV1ZGNlM3Mm5Kekt5X1dzNE9TRnpITThiRW9MSVU0Q25sdXZCN3JBOV9HY0dCR194TXV5QUZzTGlQQy1zbFZkV211Ny1YYlVHa3pxc1dKMUZJcHFTVzBJM05ha0xFQ1ZxeWdGOWlBQTY2cERUY3N2emh3cGZ5T1BrLUVnUVlCUy1reWYwa1lFbnB3Rjd4WVcxekh4Y1lmd1A0cG14TWp2ZXlGTlRQX1Va?oc=5",
-    "image": null,
-    "channelId": "google-news-video-ko-tech",
-    "channelName": "MSN",
-    "sourceId": "google-news-video-ko-tech",
-    "sourceName": "MSN",
-    "sourceHomepage": "https://www.msn.com",
-    "category": "Tech",
-    "publishedAt": 1782716400000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQVUJ0TWd0bFNTcnBlNGxKS3FjNGF1TEpZMm44UFZ3dTVMYTB6b1JBbXJWaERla1BFYmR2Z0lESjRZclpjeWN2NWlKQWlEUzAtLW1UQTRqZGV4TUNVMHlGTmlVREp1Q2RsN0plOVAxSHVFT2U4NHVJTkUxYWRRTm9WTy1oQUZUa05JRmRyT3l5QWRUM1ZCZzNBOFQ3WUJnM2l6LTRYN1hReVVGVmE1dDEtb2pMT0RZWlZGa2R4djlfREpJUkNiUEdCV1BUZmhOM0FVQ0hJZFNNenVZMGxPWnpKdWRrU2xwdXBLMGhpeHdrcGh2cHVadHNMNXBXeklGRWc3RTRTMmJROGt3N1hMdVNaY04taWM3cGx4VHVXd1VSZXpRTlYwa0FKUERLbU9Ob1FBTmtsalN2blN5SVQzV1ZGNlM3Mm5Kekt5X1dzNE9TRnpITThiRW9MSVU0Q25sdXZCN3JBOV9HY0dCR194TXV5QUZzTGlQQy1zbFZkV211Ny1YYlVHa3pxc1dKMUZJcHFTVzBJM05ha0xFQ1ZxeWdGOWlBQTY2cERUY3N2emh3cGZ5T1BrLUVnUVlCUy1reWYwa1lFbnB3Rjd4WVcxekh4Y1lmd1A0cG14TWp2ZXlGTlRQX1Va?oc=5"
   },
   {
     "id": "google-news-video-ko-science-cbmi4wjbvv95cuxnq1zzc3nfbvlyrullcxlnc2fwy3dpbzn5qtbsu1zwbududjhmegjjx1faddnkz1r5y3baujjpt2tmdxzy",
@@ -896,19 +896,19 @@
     "mawajezUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMnJ5anFXUlFJb1FDblNBTllObDBlMy1nN0hWR0pCenp6NlYwNVVYZFRzanAwTzl3YWRxNjhDY3JvSG5SbTZjV1ZpNDliNXMtbzViLVhpNDFBa3BBelFaTEpKSGFLRlNjT2I5bU12TU1QN0hXeHY1Uk1OeFFxZFF5bjJEWTJMWlnSAWZBVV95cUxQRG91NnNZNmNhSFNrWEs1amdOZkZDZnN3bzNSb2xBSi1ZX0htTUxKSmlseXp2N0wtOWNkelZOTDFJNXpKdU9xMndPdUJyNnpqaFJaYTYwZzh1akhIZlQ0cW9aRnhwZHc?oc=5"
   },
   {
-    "id": "google-news-video-ko-health-cbmickfvx3lxte5ra0dimdlpmv9fmeo3n1czzk1dwwpldk1fdfj1qw9nckwxlwtub2x6qjhwvmzjr2e4d2x5v1vwumutx2m0",
+    "id": "google-news-video-ko-health-cbmip0fvx3lxte5ubkhbtjeznkzxvvnxbjzjre9kzna0dfhoy0pisxfgeey2uupsvhz6cmtfz3h5a0j1txrin2iyuq",
     "type": "video-link",
     "title": "[자막뉴스] 한의난임과 한의약 건강돌봄 사업 우수 성과 공유 > 뉴스 - 한의신문",
     "excerpt": "[자막뉴스] 한의난임과 한의약 건강돌봄 사업 우수 성과 공유 > 뉴스 한의신문",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Ra0diMDlpMV9fMEo3N1czZk1DWWpLdk1FdFJ1QW9NckwxLWtUb2x6QjhWVmZJR2E4d2x5V1VWUmUtX2M0UmFMWDhxcG82VlJoYkozZThJVWI0ZXRQc1VIRFp2MHVINXpvQXYybnQ4VnVlQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5ubkhBTjEzNkZxVVNXbjZJRE9KZnA0dFhoY0piSXFGeEY2UUpsVHZ6cmtFZ3h5a0J1TXRIN2IyUQ?oc=5",
     "image": null,
     "channelId": "google-news-video-ko-health",
     "channelName": "한의신문",
     "sourceId": "google-news-video-ko-health",
     "sourceName": "한의신문",
-    "sourceHomepage": "https://www.akomnews.com",
+    "sourceHomepage": "https://akomnews.com",
     "category": "Health",
-    "publishedAt": 1782352860000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Ra0diMDlpMV9fMEo3N1czZk1DWWpLdk1FdFJ1QW9NckwxLWtUb2x6QjhWVmZJR2E4d2x5V1VWUmUtX2M0UmFMWDhxcG82VlJoYkozZThJVWI0ZXRQc1VIRFp2MHVINXpvQXYybnQ4VnVlQQ?oc=5"
+    "publishedAt": 1782354660000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5ubkhBTjEzNkZxVVNXbjZJRE9KZnA0dFhoY0piSXFGeEY2UUpsVHZ6cmtFZ3h5a0J1TXRIN2IyUQ?oc=5"
   }
 ]

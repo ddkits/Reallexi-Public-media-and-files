@@ -1,21 +1,5 @@
 [
   {
-    "id": "google-news-video-tr-tech-cbmiwwfbvv95cuxny1pvsxc3dvutymlwr1lhlxl0otb3rwzmnnhibmrzx1zcby1wsljbvunly3bcu1z6wtyyclbnotr2q21s",
-    "type": "video-link",
-    "title": "EthLabs, Ethereum yıllardır gördüğü en büyük liderlik değişimini yaşarken faaliyete geçiyor - CoinDesk",
-    "excerpt": "EthLabs, Ethereum yıllardır gördüğü en büyük liderlik değişimini yaşarken faaliyete geçiyor CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY1pvSXc3dVUtYmlWR1lhLXl0OTB3RWZMNnhIbmRzX1ZCby1WSlJBVUNLY3BCU1Z6WTYyclBNOTR2Q21SYlZpZlpoc1JycTJLMlhmNG9Xdm55Uk5DSDN3Y3RicFhKNEs0ZHNCa1pVbnJNWmlETlJtMXp5bVZWdlpBbG8xRF9QXzFsV1YyelV6ajJlcUplUFBITVFKQUhUYndvTUtZX1lJb25JY2VQSXdNNHVTdmEyQUFua25rVnR6aG9JSnM?oc=5",
-    "image": null,
-    "channelId": "google-news-video-tr-tech",
-    "channelName": "CoinDesk",
-    "sourceId": "google-news-video-tr-tech",
-    "sourceName": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "category": "Tech",
-    "publishedAt": 1782915285000,
-    "mawajezUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY1pvSXc3dVUtYmlWR1lhLXl0OTB3RWZMNnhIbmRzX1ZCby1WSlJBVUNLY3BCU1Z6WTYyclBNOTR2Q21SYlZpZlpoc1JycTJLMlhmNG9Xdm55Uk5DSDN3Y3RicFhKNEs0ZHNCa1pVbnJNWmlETlJtMXp5bVZWdlpBbG8xRF9QXzFsV1YyelV6ajJlcUplUFBITVFKQUhUYndvTUtZX1lJb25JY2VQSXdNNHVTdmEyQUFua25rVnR6aG9JSnM?oc=5"
-  },
-  {
     "id": "google-news-video-tr-tech-cbmiqwfbvv95cuxoanvgogrfdg0ytwfrrgmzc2jpslpunv9nu3jhmwrfa1dzq1cxu1dybu9coenrm2twngjalu0xbwdmy1j1",
     "type": "video-link",
     "title": "Ethereum, kurumsal benimsemeye odaklanan yeni bir kar amacı gütmeyen kuruluş kazandı - CoinDesk",
@@ -62,6 +46,22 @@
     "category": "Entertainment",
     "publishedAt": 1782902257000,
     "mawajezUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGFoaEhEZmswLXRoeDZHVVNLM0hnYm1xY3VRQ0ZsOVJoWDBsOXBLVXpMNGt3dDhBNmtrcEZObjVJTno5d0VZMGZSTkVTczY1aUlmSG9ZNzVEWjZhc1FXbWpMdG1UN0NOalFLOUVZaXhYOW5XN1lXN2NZYzNsR24zdjNDM3g2YlBNR3dOT01US29JcmZ5djI1NEhxV1dfTUhiNTdQNmpNVDFGZFlDSm91SkwyNEVXaUc3MXc?oc=5"
+  },
+  {
+    "id": "google-news-video-tr-sports-cbmiwkfvx3lxte5tuljrmfj3ufzpsepnelvnetnzdzjoatfmbjfwy1pasunzdkf3umffyw44ngpuzew1os1tlwcxa3q2rwnx",
+    "type": "video-link",
+    "title": "Mbappe ve Olise şov! Fransa, İsveç karşısında 3 golle turladı - beinsports.com.tr",
+    "excerpt": "Mbappe ve Olise şov! Fransa, İsveç karşısında 3 golle turladı beinsports.com.tr",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TUlJRMFJ3UFZpSEpNelVNeTNzdzJoaTFmbjFwY1paSUNzdkF3UmFfYW44NGpuZEw1OS1TLWcxa3Q2RWNXWVMtLWlmNGtLOXRCUkVUSnRaWGdlUQ?oc=5",
+    "image": null,
+    "channelId": "google-news-video-tr-sports",
+    "channelName": "beinsports.com.tr",
+    "sourceId": "google-news-video-tr-sports",
+    "sourceName": "beinsports.com.tr",
+    "sourceHomepage": "https://beinsports.com.tr",
+    "category": "Sports",
+    "publishedAt": 1782899076000,
+    "mawajezUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TUlJRMFJ3UFZpSEpNelVNeTNzdzJoaTFmbjFwY1paSUNzdkF3UmFfYW44NGpuZEw1OS1TLWcxa3Q2RWNXWVMtLWlmNGtLOXRCUkVUSnRaWGdlUQ?oc=5"
   },
   {
     "id": "google-news-video-tr-entertainment-cbmilafbvv95cuxnz0pzx24wtdjrdedjt3bjr284b0mxcxjrwu90rkjtalrmvjhnzu92adrpegjtb2xucdq1yldwntnfofy5",
