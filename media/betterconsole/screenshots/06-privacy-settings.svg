@@ -6,8 +6,8 @@
     <text x="120" y="91" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" fill="#f4f7fb">betterConsole</text>
     <rect x="1054" y="66" width="130" height="36" rx="8" fill="#0f1115" stroke="#a78bfa"/>
     <text x="1088" y="90" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#f4f7fb">Sponsor</text>
-    <text x="78" y="178" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="850" fill="#f4f7fb">Local-first settings and retention controls</text>
-    <text x="80" y="220" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" fill="#98a2b3">Logs stay in browser storage, cleanup rules are configurable, and data remains user-controlled.</text>
+    <text x="78" y="178" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="850" fill="#f4f7fb">Local-first capture and retention controls</text>
+    <text x="80" y="220" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" fill="#98a2b3">Pause capture, keep logs across restarts, reset on startup, or clear data whenever needed.</text>
     <rect x="78" y="252" width="592" height="406" rx="12" fill="#0f1115" stroke="#303644"/>
     
       <rect x="96" y="274" width="544" height="76" rx="8" fill="#1f2430" stroke="#303644"/>
