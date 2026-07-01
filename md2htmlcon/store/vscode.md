@@ -21,6 +21,8 @@ Privacy statement: MD2HTML Converter works locally in your editor or browser. Yo
 
 Website: https://reallexi.io
 
+Author and copyright: Reallexi LLC
+
 Sponsor: https://github.com/sponsors/ddkits
 
 Buy Me a Coffee: https://www.buymeacoffee.com/ddkits

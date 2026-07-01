@@ -77,6 +77,8 @@ MD2HTML Converter is built by Reallexi.
 
 Built by Reallexi — https://reallexi.io
 
+Author and copyright: Reallexi LLC.
+
 Sponsor the work:
 
 - GitHub Sponsors: https://github.com/sponsors/ddkits
@@ -102,6 +104,12 @@ Generated packages:
 - `dist/chrome/md2html-converter-chrome-<version>-unpacked/`
 - `dist/edge/md2html-converter-edge-<version>.zip`
 - `dist/edge/md2html-converter-edge-<version>-unpacked/`
+
+Release packages contain compiled, minified JavaScript only. TypeScript sources, tests,
+source maps, `node_modules`, and source folders are excluded from the VS Code, Chrome, and
+Edge extension outputs, and `npm run package` validates that before finishing. Client-side
+extension JavaScript cannot be made impossible to inspect, but the packaged output is kept
+clean, minimal, and source-free.
 
 Versioning is guarded and automatic: root commands such as `npm run test`, `npm run build`,
 `npm run compile`, and `npm run package:all` bump the patch version once, sync workspace package
