@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-30T22:05:58.182Z",
+  "generatedAt": "2026-07-01T15:20:17.140Z",
   "product": "Reallexi SQLite Editor",
-  "packageType": "Visual Studio Code extension",
+  "packageType": "Visual Studio Code extension and Manifest V3 browser extensions",
   "packageName": "sqlite-free-editor",
-  "version": "0.1.19",
+  "version": "0.1.21",
   "publisher": "ReallexiLLC",
   "privacyPolicyUrl": "https://github.com/ddkits/Reallexi-Public-media-and-files/blob/main/media/sqlite-editor/policies/PRIVACY.md",
   "support": {
@@ -33,5 +33,11 @@
     "media/sqlite-editor/public-files/LICENSE",
     "media/sqlite-editor/public-files/package.json"
   ],
-  "packageArtifact": "media/sqlite-editor/packages/sqlite-free-editor-0.1.19.vsix"
+  "packageArtifact": "media/sqlite-editor/packages/sqlite-free-editor-0.1.21.vsix",
+  "browserExtensions": {
+    "chromeZip": "media/sqlite-editor/browser-extensions/sqlite-free-editor-chrome-0.1.21.zip",
+    "edgeZip": "media/sqlite-editor/browser-extensions/sqlite-free-editor-edge-0.1.21.zip",
+    "chromeUnpacked": "media/sqlite-editor/browser-extensions/unpacked/chrome",
+    "edgeUnpacked": "media/sqlite-editor/browser-extensions/unpacked/edge"
+  }
 }

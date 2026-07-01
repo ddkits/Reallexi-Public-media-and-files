@@ -10,7 +10,16 @@ Run:
 npm run package
 ```
 
-The command bumps the patch version, builds the extension and webview, and creates a `.vsix` package.
+The command bumps the patch version, builds the VS Code extension and webview, creates a `.vsix` package, builds the standalone browser editor, creates unpacked Chrome and Edge Manifest V3 folders, creates packed Chrome and Edge ZIPs, and refreshes the public media bundle.
+
+Browser extension outputs:
+
+```text
+dist/browser-extensions/chrome/
+dist/browser-extensions/edge/
+dist/browser-extensions/sqlite-free-editor-chrome-<version>.zip
+dist/browser-extensions/sqlite-free-editor-edge-<version>.zip
+```
 
 ## Public Media Bundle
 
@@ -26,6 +35,7 @@ Required bundle contents:
 - `screenshots/` for store screenshots and demo media.
 - `policies/` for privacy, Edge disclosure, and Chrome requirements files.
 - `public-files/` for README, changelog, license, package metadata, and package artifact details.
+- `browser-extensions/` for packed and unpacked Chrome and Edge extension builds.
 
 ## Support Links
 
