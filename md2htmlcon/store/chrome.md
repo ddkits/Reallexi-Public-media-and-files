@@ -32,4 +32,13 @@ Screenshots:
 - assets/screenshots/browser-side-panel.png
 - assets/screenshots/diff-view.png
 
+Store-ready assets:
+
+- assets/store-assets/chrome/icons/store-icon-128.png
+- assets/store-assets/chrome/screenshots/converter-1280x800.png
+- assets/store-assets/chrome/screenshots/converter-640x400.png
+- assets/store-assets/chrome/promotional/small-promo-tile-440x280.png
+- assets/store-assets/chrome/promotional/marquee-promo-tile-1400x560.png
+- assets/store-assets/chrome/promotional/large-promo-tile-920x680.png
+
 Version: <version>

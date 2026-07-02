@@ -33,4 +33,10 @@ Screenshots:
 - assets/screenshots/converter-ui.png
 - assets/screenshots/diff-view.png
 
+Marketplace-ready assets:
+
+- assets/store-assets/vscode/icons/marketplace-icon-128.png
+- assets/store-assets/vscode/screenshots/vscode-webview-1280x800.png
+- assets/store-assets/vscode/promotional/marketplace-banner-1280x400.png
+
 Version: <version>
