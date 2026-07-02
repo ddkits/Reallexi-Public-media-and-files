@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.54 - 2026-07-02
+
+- Automated patch version bump for root command execution.
+
 ## 0.0.53 - 2026-07-02
 
 - Automated patch version bump for root command execution.
