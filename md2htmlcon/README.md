@@ -11,7 +11,7 @@ Public assets, store metadata, and policy files for MD2HTML Converter.
 - Public README, changelog, and license: `public-files/`
 - Privacy and store policy files: `policies/`
 
-Built by Reallexi — https://reallexi.io
+Built by Reallexi - https://reallexi.io
 
 Sponsor: https://github.com/sponsors/ddkits
 
