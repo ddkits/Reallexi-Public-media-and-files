@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T21:21:43.469Z",
+  "generatedAt": "2026-07-26T05:43:24.823Z",
   "formats": [
     "jpeg",
     "png"
@@ -94,5 +94,9 @@
       "width": 1400,
       "height": 560
     }
-  }
+  },
+  "publicFiles": [
+    "media/realmemory/public-files/CHANGELOG.md",
+    "media/realmemory/CHANGELOG.md"
+  ]
 }
