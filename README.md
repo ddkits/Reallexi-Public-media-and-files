@@ -6,3 +6,7 @@ Public README, store, and hosted-policy assets live here.
 - `videos-imges-downloader/` - assets for the image, video, and screen recorder browser extension.
 - `realmemory/` - assets for Real Memory Browser Agent.
 - `store/` - legacy/shared store media.
+
+## Real Memory AI Agent
+
+[1.5.303 release guide, optional Adaptive harness settings and screenshots](realmemory/releases/1.5.303/README.md). [Product guide](realmemory/README.md).
