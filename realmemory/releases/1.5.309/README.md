@@ -36,7 +36,7 @@ Version 1.5.309 makes the optional VS Code Adaptive harness visible, readable, a
 
 ![Harness chat compact](harness-chat-compact.png)
 
-The screenshots are source-rendered previews from the real production HTML functions, using identical fixtures at 1024×1000 and 320×1000. Example exchanges are explicitly labelled and are not presented as a live model conversation. The after-state has zero page errors and no horizontal page overflow. A separate private native-host proof confirms the installed 1.5.309 extension opens Chat and Scrum in VS Code 1.142, loads both robot icons, and resolves the packaged stylesheet.
+The screenshots are source-rendered previews from the real production HTML functions, using identical fixtures at 1024×1000 and 320×1000. Example exchanges are explicitly labelled and are not presented as a live model conversation. The after-state has zero page errors and no horizontal page overflow. Native VS Code proof was captured for the shared 1.5.307 UI/runtime build; 1.5.309 was then installed successfully, its runtime/validator/credential/style hashes match source, and its packaged ESM entrypoint test passes. A new live application mission was not started solely to manufacture release evidence.
 
 ## Install and start
 
@@ -92,7 +92,7 @@ Repeated Continue actions do not erase the fingerprint count. Reaching the confi
 - Final post-package full suite: **3,137 passing**, the same single platform skip.
 - Focused packaged checks: **25 passing**, covering the recorded ESLint fingerprint and saved-config repair, native ESM import, shipped CSS, path ownership, focused/full validation ordering, runtime routing, and Windows Git-test cleanup.
 - Standalone CLI publication dry-run: passed for `@reallexi/rmai@1.5.309`.
-- Installed VSIX: activated in real VS Code 1.142 with an isolated profile; Chat and Scrum commands registered and opened.
+- Installed VSIX: VS Code reports `reallexillc.real-memory-ai-agent@1.5.309`; source and installed runtime/validator/credential/style hashes match.
 - Artifact scan: no private source paths, source maps, or matching local credential values in the VSIX, CLI tarball, or browser ZIPs. The CLI tarball contains exactly four files.
 
 Checksums are in [SHA256SUMS](SHA256SUMS).
@@ -105,7 +105,9 @@ Private source, regression tests, pasted traces, runtime databases, native scree
 
 - Private source commit: [`005350a0`](https://github.com/ddkits/Ollama-VScode-Free-Agent/commit/005350a00d2b525aa6636b91144be6596ba4ccf5), tagged `v1.5.309`.
 - Audited packages are attached to the [public prerelease](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/tag/rmai-v1.5.309).
-- npm and VS Code Marketplace outcomes are recorded here after their credentialed publication attempts; a local dry-run is not described as a registry publication.
+- GitHub build/test workflow: [passed](https://github.com/ddkits/Ollama-VScode-Free-Agent/actions/runs/40213928537).
+- npm publication workflow: [blocked](https://github.com/ddkits/Ollama-VScode-Free-Agent/actions/runs/40213933360) by registry `E404`/missing permission for `@reallexi/rmai-ui-linux-amd64@1.5.309`; the local tarball and dry-run passed, but the package is not claimed as registry-published.
+- VS Code Marketplace publication: blocked because the configured publisher PAT is not authorized (`TF400813`); the VSIX remains available from this audited prerelease.
 
 ## Product and support
 

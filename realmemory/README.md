@@ -85,7 +85,8 @@ Publication outcomes:
 
 - Private source and tag `v1.5.309` pushed: [source commit](https://github.com/ddkits/Ollama-VScode-Free-Agent/commit/005350a00d2b525aa6636b91144be6596ba4ccf5).
 - Audited local packages are offered as [prerelease downloads](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/tag/rmai-v1.5.309).
-- Registry and Marketplace outcomes are stated in the 1.5.309 release guide after their credentialed publication attempts; a local dry-run is not described as publication.
+- The [GitHub build/test workflow](https://github.com/ddkits/Ollama-VScode-Free-Agent/actions/runs/40213928537) passed.
+- npm registry publication is blocked by `E404`/package permission for the first platform package; Marketplace publication is blocked by publisher authorization `TF400813`. The release guide records both attempts and does not mislabel the successful local dry-run as publication.
 
 Screenshots and documents are public; private source changes, regression tests, runtime databases, pasted traces and raw local proof remain outside this media repository.
 
