@@ -38,5 +38,7 @@ This patch changes runtime retry coordination rather than the webview layout. Th
 
 - Private source commit: [`68db1cc0`](https://github.com/ddkits/Ollama-VScode-Free-Agent/commit/68db1cc0)
 - Private source release: [`v1.5.314`](https://github.com/ddkits/Ollama-VScode-Free-Agent/releases/tag/v1.5.314)
-- Public packages: `rmai-v1.5.314` (this release)
-- Protected build, npm publication, and Marketplace outcomes are reported after their workflows finish; an unavailable registry or publisher authorization is not reported as a successful publication.
+- Public packages: [`rmai-v1.5.314`](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/tag/rmai-v1.5.314) (this release)
+- Protected build/test passed: [run 40242026770](https://github.com/ddkits/Ollama-VScode-Free-Agent/actions/runs/40242026770).
+- Protected npm publication failed at the first platform package with registry E404/permission for `@reallexi/rmai-ui-linux-amd64@1.5.314`: [run 40242029812](https://github.com/ddkits/Ollama-VScode-Free-Agent/actions/runs/40242029812). The CLI is available as the release tarball above, but 1.5.314 is not claimed as npm-published.
+- VS Code Marketplace publication failed with TF400813 because the configured publisher PAT is not authorized. The audited VSIX remains available above.
