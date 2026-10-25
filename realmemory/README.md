@@ -1,4 +1,4 @@
-# RM AI Agent 1.5.308 — Adaptive harness and verified repair flow
+# RM AI Agent 1.5.309 — Adaptive harness and verified repair flow
 
 Optional project guidance, verified repair memory and bounded recovery for the VS Code agent, with synchronized browser and npm CLI builds.
 
@@ -13,16 +13,17 @@ Optional project guidance, verified repair memory and bounded recovery for the V
 - The Scrum board now has bounded horizontal lanes and a dedicated Harness reader with Conversation and Activity tabs. Narrow views switch between Board and Harness, and reduced-motion preferences are respected.
 - A scoped validation repair reruns the exact failed check first, then the full project validation. The focused pass verifies the fix but cannot mark the project complete by itself.
 - Concrete ESLint rule-loader errors use the configured rule, resolved rule, and plugin in their fingerprint, so genuinely new rule failures receive separate bounded repair opportunities while identical failures remain capped.
+- A single verified ESLint 8 `no-unassigned-vars` key is repaired locally to `no-unused-vars`; ambiguous configuration is left for review instead of accepting another model-only success claim.
 
 ## Settings screenshots
 
-![Adaptive harness desktop settings](releases/1.5.308/adaptive-harness-desktop.png)
+![Adaptive harness desktop settings](releases/1.5.309/adaptive-harness-desktop.png)
 
-![Adaptive harness compact settings](releases/1.5.308/adaptive-harness-compact.png)
+![Adaptive harness compact settings](releases/1.5.309/adaptive-harness-compact.png)
 
-![Harness and Scrum workspace](releases/1.5.308/harness-board-desktop.png)
+![Harness and Scrum workspace](releases/1.5.309/harness-board-desktop.png)
 
-![Harness message reader](releases/1.5.308/harness-chat-compact.png)
+![Harness message reader](releases/1.5.309/harness-chat-compact.png)
 
 These are screenshots of the actual source-rendered VS Code webview in Chromium, using the same Controller route at 1024×1000 and 320×1000. The compact view is scrolled to Model flow. They demonstrate settings layout and messages, not a live installed model mission. Before/after comparison and raw test logs stay in private release evidence.
 
@@ -30,21 +31,21 @@ These are screenshots of the actual source-rendered VS Code webview in Chromium,
 
 ### VS Code
 
-Install the [audited 1.5.308 VSIX](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/download/rmai-v1.5.308/real-memory-ai-agent-1.5.308.vsix) through **Extensions → … → Install from VSIX**. Reload VS Code after replacing an installed version.
+Install the [audited 1.5.309 VSIX](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/download/rmai-v1.5.309/real-memory-ai-agent-1.5.309.vsix) through **Extensions → … → Install from VSIX**. Reload VS Code after replacing an installed version.
 
 Open a project folder, open RM AI Agent, and choose a provider and model. For local inference, connect the Ollama or llama.cpp server you already run. Use the connection test before sending a task. Choose Agent mode for implementation work, and review the active approval settings before allowing file changes or commands.
 
 ### CLI
 
 ```sh
-npm install --global ./reallexi-rmai-1.5.308.tgz
+npm install --global ./reallexi-rmai-1.5.309.tgz
 rmai --version
 rmai settings
 rmai chat --project .
 rmai run "Fix the failing tests" --dry-run
 ```
 
-First download the [audited CLI tarball](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/download/rmai-v1.5.308/reallexi-rmai-1.5.308.tgz). Node.js 18 or newer is required. The CLI is independent of the VS Code extension. These Adaptive harness controls are currently a VS Code feature; the CLI and Chrome/Edge clients keep their own settings.
+First download the [audited CLI tarball](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/download/rmai-v1.5.309/reallexi-rmai-1.5.309.tgz). Node.js 18 or newer is required. The CLI is independent of the VS Code extension. These Adaptive harness controls are currently a VS Code feature; the CLI and Chrome/Edge clients keep their own settings.
 
 ## Enable the harness
 
@@ -74,17 +75,17 @@ For a documented sign-in failure, inspect the current README credential, authent
 
 ## Validation and release status
 
-Both pre-package and final post-package suites passed 3,136 tests, with one POSIX-only test skipped on Windows. The required `npm run package` completed for 1.5.308; nine focused packaged checks and the CLI publish dry-run passed. The installed extension, validator, credential helper and shipped stylesheet hashes match the packaged build.
+Both pre-package and final post-package suites passed 3,137 tests, with one POSIX-only test skipped on Windows. The required `npm run package` completed for 1.5.309; 25 focused packaged checks and the CLI publish dry-run passed. The installed extension, validator, credential helper and shipped stylesheet hashes match the packaged build.
 
-The packaged VSIX, Chrome/Edge ZIPs and CLI tarball were inspected: no private source entries, source maps or matching local credential values were found. The CLI tarball has exactly four files: executable, package manifest, README and license. Checksums are in [SHA256SUMS](releases/1.5.308/SHA256SUMS).
+The packaged VSIX, Chrome/Edge ZIPs and CLI tarball were inspected: no private source entries, source maps or matching local credential values were found. The CLI tarball has exactly four files: executable, package manifest, README and license. Checksums are in [SHA256SUMS](releases/1.5.309/SHA256SUMS).
 
 The production dependency audit still reports two high-severity findings in the existing Node 18 compatibility LangChain/Zod chain. This release is not described as vulnerability-free or fully published. The original application's live sign-in mission was not rerun or manually marked complete; its seed and runtime database were preserved.
 
 Publication outcomes:
 
-- Private source and tag `v1.5.308` pushed: [source commit](https://github.com/ddkits/Ollama-VScode-Free-Agent/commit/155b41f70bf2bef344b5947b2f09b786c8d80962).
-- Audited local packages are offered as [prerelease downloads](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/tag/rmai-v1.5.308).
-- Registry and Marketplace outcomes are stated in the 1.5.308 release guide after their credentialed publication attempts; a local dry-run is not described as publication.
+- Private source and tag `v1.5.309` pushed: [source commit](https://github.com/ddkits/Ollama-VScode-Free-Agent/commit/005350a00d2b525aa6636b91144be6596ba4ccf5).
+- Audited local packages are offered as [prerelease downloads](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/tag/rmai-v1.5.309).
+- Registry and Marketplace outcomes are stated in the 1.5.309 release guide after their credentialed publication attempts; a local dry-run is not described as publication.
 
 Screenshots and documents are public; private source changes, regression tests, runtime databases, pasted traces and raw local proof remain outside this media repository.
 

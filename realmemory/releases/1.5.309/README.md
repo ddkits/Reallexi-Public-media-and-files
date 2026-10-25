@@ -1,6 +1,6 @@
-# RM AI Agent 1.5.308 — Adaptive harness and verified repair flow
+# RM AI Agent 1.5.309 — Adaptive harness and verified repair flow
 
-Version 1.5.308 makes the optional VS Code Adaptive harness visible, readable, and responsible for coordinating validation repair around the selected model. It also repairs the installed-extension loading failure seen in 1.5.304 and ships synchronized VS Code, Chrome, Edge, MCP, and standalone CLI packages.
+Version 1.5.309 makes the optional VS Code Adaptive harness visible, readable, and responsible for coordinating validation repair around the selected model. It also repairs the installed-extension loading failure seen in 1.5.304 and ships synchronized VS Code, Chrome, Edge, MCP, and standalone CLI packages.
 
 ## What changed
 
@@ -10,6 +10,7 @@ Version 1.5.308 makes the optional VS Code Adaptive harness visible, readable, a
 - A validation path is converted to workspace-relative form only after the host proves it belongs to the active workspace. Foreign drives, outside absolute roots, traversal, dependencies, generated output, and vendor paths stay blocked.
 - When a scoped repair is saved, the harness reruns the exact failed check from the trusted validation bundle. A focused pass confirms the fix but does not complete the project; the full validation bundle must pass next.
 - Different ESLint rule-loader failures now have different persisted fingerprints. A repair that exposes a new incompatible rule can receive its own bounded diagnosis instead of exhausting the previous rule's budget; identical failures and the total validation loop remain capped.
+- For the recorded ESLint 8 failure, the host replaces one unambiguous `no-unassigned-vars` config key with compatible `no-unused-vars` and reruns lint. Ambiguous configs remain blocked for evidence-backed review rather than being rewritten broadly.
 - Validation failure, diagnosis, repair submission, focused verification, and final validation status appear as bounded transient Harness messages.
 - Native model reasoning and output remain transient. They are not added to chat history, the runtime DB, or host logs. Known credential fields are redacted.
 - Supported native three-argument scrypt evidence is computed from the documented credential and inspected source parameters. Unsupported or ambiguous algorithms remain explicit inspection work; model-invented hashes are not accepted as proof.
@@ -35,27 +36,27 @@ Version 1.5.308 makes the optional VS Code Adaptive harness visible, readable, a
 
 ![Harness chat compact](harness-chat-compact.png)
 
-The screenshots are source-rendered previews from the real production HTML functions, using identical fixtures at 1024×1000 and 320×1000. Example exchanges are explicitly labelled and are not presented as a live model conversation. The after-state has zero page errors and no horizontal page overflow. A separate private native-host proof confirms the installed 1.5.308 extension opens Chat and Scrum in VS Code 1.142, loads both robot icons, and resolves the packaged stylesheet.
+The screenshots are source-rendered previews from the real production HTML functions, using identical fixtures at 1024×1000 and 320×1000. Example exchanges are explicitly labelled and are not presented as a live model conversation. The after-state has zero page errors and no horizontal page overflow. A separate private native-host proof confirms the installed 1.5.309 extension opens Chat and Scrum in VS Code 1.142, loads both robot icons, and resolves the packaged stylesheet.
 
 ## Install and start
 
 ### VS Code
 
-Download the [audited 1.5.308 VSIX](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/download/rmai-v1.5.308/real-memory-ai-agent-1.5.308.vsix), then use **Extensions → … → Install from VSIX** and reload the affected VS Code window.
+Download the [audited 1.5.309 VSIX](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/download/rmai-v1.5.309/real-memory-ai-agent-1.5.309.vsix), then use **Extensions → … → Install from VSIX** and reload the affected VS Code window.
 
 Open **RM AI Agent → Settings → Controller** to choose the provider/model and enable Adaptive harness for the current workspace.
 
 ### Standalone CLI
 
 ```sh
-npm install --global ./reallexi-rmai-1.5.308.tgz
+npm install --global ./reallexi-rmai-1.5.309.tgz
 rmai --version
 rmai settings
 rmai chat --project .
 rmai run "Fix the failing tests" --dry-run
 ```
 
-Download the [audited CLI tarball](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/download/rmai-v1.5.308/reallexi-rmai-1.5.308.tgz). Node.js 18 or newer is required. The Adaptive harness controls described here currently belong to the VS Code extension; they do not train model weights or add new CLI settings.
+Download the [audited CLI tarball](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/download/rmai-v1.5.309/reallexi-rmai-1.5.309.tgz). Node.js 18 or newer is required. The Adaptive harness controls described here currently belong to the VS Code extension; they do not train model weights or add new CLI settings.
 
 ## Enable the harness
 
@@ -86,24 +87,24 @@ Repeated Continue actions do not erase the fingerprint count. Reaching the confi
 
 ## Validation and release evidence
 
-- Pre-package full suite: **3,136 passing**, one POSIX-only test skipped on Windows.
-- Required `npm run package`: passed for **1.5.308**.
-- Final post-package full suite: **3,136 passing**, the same single platform skip.
-- Focused packaged checks: **9 passing**, covering the recorded ESLint fingerprint progression, native ESM import, shipped CSS, path ownership, and focused/full validation ordering.
-- Standalone CLI publication dry-run: passed for `@reallexi/rmai@1.5.308`.
+- Pre-package full suite: **3,137 passing**, one POSIX-only test skipped on Windows.
+- Required `npm run package`: passed for **1.5.309**.
+- Final post-package full suite: **3,137 passing**, the same single platform skip.
+- Focused packaged checks: **25 passing**, covering the recorded ESLint fingerprint and saved-config repair, native ESM import, shipped CSS, path ownership, focused/full validation ordering, runtime routing, and Windows Git-test cleanup.
+- Standalone CLI publication dry-run: passed for `@reallexi/rmai@1.5.309`.
 - Installed VSIX: activated in real VS Code 1.142 with an isolated profile; Chat and Scrum commands registered and opened.
 - Artifact scan: no private source paths, source maps, or matching local credential values in the VSIX, CLI tarball, or browser ZIPs. The CLI tarball contains exactly four files.
 
 Checksums are in [SHA256SUMS](SHA256SUMS).
 
-The production dependency audit still reports two high findings in the existing Node 18 LangChain/Zod compatibility chain. This release is not described as vulnerability-free. A later installed 1.5.307 trace exposed the ESLint fingerprint collision repaired in 1.5.308; that external application mission remained validation-blocked and is not presented as completed here.
+The production dependency audit still reports two high findings in the existing Node 18 LangChain/Zod compatibility chain. This release is not described as vulnerability-free. A later installed 1.5.307 trace exposed the ESLint fingerprint collision repaired in 1.5.309; that external application mission remained validation-blocked and is not presented as completed here.
 
 Private source, regression tests, pasted traces, runtime databases, native screenshots containing local paths, and raw proof logs are not included in this public media repository.
 
 ## Publication status
 
-- Private source commit: [`155b41f7`](https://github.com/ddkits/Ollama-VScode-Free-Agent/commit/155b41f70bf2bef344b5947b2f09b786c8d80962), tagged `v1.5.308`.
-- Audited packages are attached to the [public prerelease](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/tag/rmai-v1.5.308).
+- Private source commit: [`005350a0`](https://github.com/ddkits/Ollama-VScode-Free-Agent/commit/005350a00d2b525aa6636b91144be6596ba4ccf5), tagged `v1.5.309`.
+- Audited packages are attached to the [public prerelease](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/tag/rmai-v1.5.309).
 - npm and VS Code Marketplace outcomes are recorded here after their credentialed publication attempts; a local dry-run is not described as a registry publication.
 
 ## Product and support
