@@ -9,4 +9,4 @@ Public README, store, and hosted-policy assets live here.
 
 ## Real Memory AI Agent
 
-[1.5.312 release guide, pre-write ESLint configuration validation, bounded repair flow, settings and screenshots](realmemory/releases/1.5.312/README.md). [Product guide](realmemory/README.md).
+[1.5.314 release guide, bounded preservation recovery, automatic-continuation safety, settings and screenshots](realmemory/releases/1.5.314/README.md). [Product guide](realmemory/README.md).

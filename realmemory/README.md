@@ -1,9 +1,10 @@
-# RM AI Agent 1.5.312 — Safe ESLint configuration repair
+# RM AI Agent 1.5.314 — Bounded preservation recovery
 
 Optional project guidance, verified repair memory and bounded recovery for the VS Code agent, with synchronized browser and npm CLI builds.
 
 ## What changed
 
+- When a Writer proposes a destructive whole-file replacement, it gets one bounded correction grounded in the current source. If that correction is also destructive—even when disguised as a `replacements[]` entry covering most of the file—the harness parks the chunk immediately instead of repeating the same request through eight cooldown attempts. The blocker follows automatic same-specification continuation while the protected source SHA-256 is unchanged; a legitimate edit invalidates it and reopens repair. Provider stalls, rate limits and stale anchors keep their normal retry behavior.
 - Filename-less ESLint configuration syntax failures are localized before a model repair begins. The harness runs a read-only syntax check across the active package's existing flat configs and inherited ancestor configs, identifies the one malformed file, fingerprints that exact failure, and limits repair to the proven config. One proven missing closer is repaired locally. Every local or model-produced config candidate must parse before it can replace disk bytes, preventing alternating malformed writes. Application components are never guessed from an ESM loader-only stack.
 - Malformed structured Ollama responses that repeat the RM output-boundary key are cancelled before the repeated protocol text reaches the Harness reader. Partial output is never applied, one same-model recovery keeps the original task evidence, and a second failure stops at `provider_retry` instead of streaming forever.
 - Adaptive harness controls are beside the VS Code model and flow selectors.
@@ -33,21 +34,21 @@ These are screenshots of the actual source-rendered VS Code webview in Chromium,
 
 ### VS Code
 
-Install the [audited 1.5.312 VSIX](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/download/rmai-v1.5.312/real-memory-ai-agent-1.5.312.vsix) through **Extensions → … → Install from VSIX**. Reload VS Code after replacing an installed version.
+Install the [audited 1.5.314 VSIX](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/download/rmai-v1.5.314/real-memory-ai-agent-1.5.314.vsix) through **Extensions → … → Install from VSIX**. Reload VS Code after replacing an installed version.
 
 Open a project folder, open RM AI Agent, and choose a provider and model. For local inference, connect the Ollama or llama.cpp server you already run. Use the connection test before sending a task. Choose Agent mode for implementation work, and review the active approval settings before allowing file changes or commands.
 
 ### CLI
 
 ```sh
-npm install --global ./reallexi-rmai-1.5.312.tgz
+npm install --global ./reallexi-rmai-1.5.314.tgz
 rmai --version
 rmai settings
 rmai chat --project .
 rmai run "Fix the failing tests" --dry-run
 ```
 
-First download the [audited CLI tarball](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/download/rmai-v1.5.312/reallexi-rmai-1.5.312.tgz). Node.js 18 or newer is required. The CLI is independent of the VS Code extension. These Adaptive harness controls are currently a VS Code feature; the CLI and Chrome/Edge clients keep their own settings.
+First download the [audited CLI tarball](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/download/rmai-v1.5.314/reallexi-rmai-1.5.314.tgz). Node.js 18 or newer is required. The CLI is independent of the VS Code extension. These Adaptive harness controls are currently a VS Code feature; the CLI and Chrome/Edge clients keep their own settings.
 
 ## Enable the harness
 
@@ -77,7 +78,7 @@ For a documented sign-in failure, inspect the current README credential, authent
 
 ## Validation and release status
 
-The full suite passed 3,141 tests, with one POSIX-only test skipped on Windows. The required `npm run package` completed for 1.5.312, 59 focused post-package checks passed, and package/credential audits plus the standalone CLI publication dry-run passed. The user-provided 1.5.311 trace is the before-state evidence: ownership is correctly restricted to `eslint.config.js`, but malformed model candidates alternate parser errors. The regression proves they are rejected before disk mutation.
+The full suite passed 3,144 tests, with one POSIX-only test skipped on Windows. The required `npm run package` completed for 1.5.314, 62 focused post-package checks passed, and package/credential audits plus the standalone CLI publication dry-run passed. The user-provided 1.5.312 trace is the before-state evidence: the preservation guard correctly rejects destructive `server.js` rewrites, but the pool repeats the unchanged initial/correction pair through all eight attempts and automatic continuation can restart it. The regressions prove the second destructive answer parks immediately, survives an unchanged continuation, and reopens only when source evidence changes.
 
 The packaged VSIX, Chrome/Edge ZIPs and CLI tarball were inspected: no private source entries, source maps or matching local credential values were found. The installed VSIX runtime hash matches the source build. Checksums are in [SHA256SUMS](releases/1.5.312/SHA256SUMS).
 
