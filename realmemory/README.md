@@ -1,9 +1,10 @@
-# RM AI Agent 1.5.310 — Bounded output-boundary recovery
+# RM AI Agent 1.5.311 — Proven ESLint configuration repair
 
 Optional project guidance, verified repair memory and bounded recovery for the VS Code agent, with synchronized browser and npm CLI builds.
 
 ## What changed
 
+- Filename-less ESLint configuration syntax failures are localized before a model repair begins. The harness runs a read-only syntax check across the active package's existing flat configs and inherited ancestor configs, identifies the one malformed file, fingerprints that exact failure, and limits repair to the proven config. It no longer guesses application components from an ESM loader-only stack.
 - Malformed structured Ollama responses that repeat the RM output-boundary key are cancelled before the repeated protocol text reaches the Harness reader. Partial output is never applied, one same-model recovery keeps the original task evidence, and a second failure stops at `provider_retry` instead of streaming forever.
 - Adaptive harness controls are beside the VS Code model and flow selectors.
 - Project guidance lets you save corrections and preferences explicitly.
@@ -32,21 +33,21 @@ These are screenshots of the actual source-rendered VS Code webview in Chromium,
 
 ### VS Code
 
-Install the [audited 1.5.310 VSIX](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/download/rmai-v1.5.310/real-memory-ai-agent-1.5.310.vsix) through **Extensions → … → Install from VSIX**. Reload VS Code after replacing an installed version.
+Install the [audited 1.5.311 VSIX](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/download/rmai-v1.5.311/real-memory-ai-agent-1.5.311.vsix) through **Extensions → … → Install from VSIX**. Reload VS Code after replacing an installed version.
 
 Open a project folder, open RM AI Agent, and choose a provider and model. For local inference, connect the Ollama or llama.cpp server you already run. Use the connection test before sending a task. Choose Agent mode for implementation work, and review the active approval settings before allowing file changes or commands.
 
 ### CLI
 
 ```sh
-npm install --global ./reallexi-rmai-1.5.310.tgz
+npm install --global ./reallexi-rmai-1.5.311.tgz
 rmai --version
 rmai settings
 rmai chat --project .
 rmai run "Fix the failing tests" --dry-run
 ```
 
-First download the [audited CLI tarball](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/download/rmai-v1.5.310/reallexi-rmai-1.5.310.tgz). Node.js 18 or newer is required. The CLI is independent of the VS Code extension. These Adaptive harness controls are currently a VS Code feature; the CLI and Chrome/Edge clients keep their own settings.
+First download the [audited CLI tarball](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/download/rmai-v1.5.311/reallexi-rmai-1.5.311.tgz). Node.js 18 or newer is required. The CLI is independent of the VS Code extension. These Adaptive harness controls are currently a VS Code feature; the CLI and Chrome/Edge clients keep their own settings.
 
 ## Enable the harness
 
@@ -76,18 +77,17 @@ For a documented sign-in failure, inspect the current README credential, authent
 
 ## Validation and release status
 
-The final post-package suite passed 3,138 tests, with one POSIX-only test skipped on Windows. The required `npm run package` completed for 1.5.310, the targeted boundary-loop regression passed, and package/credential audits passed. The original trace is the before-state evidence; the regression proves the repeated marker is cancelled and withheld from the transient output channel.
+The full suite passed 3,139 tests, with one POSIX-only test skipped on Windows. The required `npm run package` completed for 1.5.311, 23 focused post-package checks passed, and package/credential audits plus the standalone CLI publication dry-run passed. The user-provided 1.5.310 trace is the before-state evidence: it shows the same filename-less ESLint loader failure being attributed to unrelated frontend and backend source files. The regression proves that only the malformed inherited config enters repair scope.
 
-The packaged VSIX, Chrome/Edge ZIPs and CLI tarball were inspected: no private source entries, source maps or matching local credential values were found. Checksums are in [SHA256SUMS](releases/1.5.310/SHA256SUMS).
+The packaged VSIX, Chrome/Edge ZIPs and CLI tarball were inspected: no private source entries, source maps or matching local credential values were found. The installed VSIX runtime hash matches the source build. Checksums are in [SHA256SUMS](releases/1.5.311/SHA256SUMS).
 
 The production dependency audit still reports two high-severity findings in the existing Node 18 compatibility LangChain/Zod chain. This release is not described as vulnerability-free or fully published. The original application's live sign-in mission was not rerun or manually marked complete; its seed and runtime database were preserved.
 
 Publication outcomes:
 
-- Private source and tag `v1.5.310` pushed: [source commit](https://github.com/ddkits/Ollama-VScode-Free-Agent/commit/76749993).
-- Audited packages are offered as [release downloads](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/tag/rmai-v1.5.310).
-- The [GitHub build/test workflow](https://github.com/ddkits/Ollama-VScode-Free-Agent/actions/runs/40219499955) passed.
-- npm registry publication is blocked by `E404`/package permission for the first platform package; Marketplace publication is blocked by publisher authorization `TF400813`. The release guide records both attempts and does not mislabel the successful local dry-run as publication.
+- Private source, tag and release `v1.5.311` pushed: [source commit](https://github.com/ddkits/Ollama-VScode-Free-Agent/commit/a131929984f23e21bc665b4ef76e3707bbeb66e1).
+- Audited packages are offered as [release downloads](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/tag/rmai-v1.5.311).
+- CI, npm registry and Marketplace outcomes are recorded in the 1.5.311 release guide after their protected workflows finish. A successful local dry-run is not described as registry publication.
 
 Screenshots and documents are public; private source changes, regression tests, runtime databases, pasted traces and raw local proof remain outside this media repository.
 
