@@ -1,9 +1,10 @@
-# RM AI Agent 1.5.309 — Adaptive harness and verified repair flow
+# RM AI Agent 1.5.310 — Bounded output-boundary recovery
 
 Optional project guidance, verified repair memory and bounded recovery for the VS Code agent, with synchronized browser and npm CLI builds.
 
 ## What changed
 
+- Malformed structured Ollama responses that repeat the RM output-boundary key are cancelled before the repeated protocol text reaches the Harness reader. Partial output is never applied, one same-model recovery keeps the original task evidence, and a second failure stops at `provider_retry` instead of streaming forever.
 - Adaptive harness controls are beside the VS Code model and flow selectors.
 - Project guidance lets you save corrections and preferences explicitly.
 - Verified repair memory is a separate opt-in. It records involved file paths and a successful-validation observation after a diagnosed repair passes its check.
@@ -31,21 +32,21 @@ These are screenshots of the actual source-rendered VS Code webview in Chromium,
 
 ### VS Code
 
-Install the [audited 1.5.309 VSIX](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/download/rmai-v1.5.309/real-memory-ai-agent-1.5.309.vsix) through **Extensions → … → Install from VSIX**. Reload VS Code after replacing an installed version.
+Install the [audited 1.5.310 VSIX](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/download/rmai-v1.5.310/real-memory-ai-agent-1.5.310.vsix) through **Extensions → … → Install from VSIX**. Reload VS Code after replacing an installed version.
 
 Open a project folder, open RM AI Agent, and choose a provider and model. For local inference, connect the Ollama or llama.cpp server you already run. Use the connection test before sending a task. Choose Agent mode for implementation work, and review the active approval settings before allowing file changes or commands.
 
 ### CLI
 
 ```sh
-npm install --global ./reallexi-rmai-1.5.309.tgz
+npm install --global ./reallexi-rmai-1.5.310.tgz
 rmai --version
 rmai settings
 rmai chat --project .
 rmai run "Fix the failing tests" --dry-run
 ```
 
-First download the [audited CLI tarball](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/download/rmai-v1.5.309/reallexi-rmai-1.5.309.tgz). Node.js 18 or newer is required. The CLI is independent of the VS Code extension. These Adaptive harness controls are currently a VS Code feature; the CLI and Chrome/Edge clients keep their own settings.
+First download the [audited CLI tarball](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/download/rmai-v1.5.310/reallexi-rmai-1.5.310.tgz). Node.js 18 or newer is required. The CLI is independent of the VS Code extension. These Adaptive harness controls are currently a VS Code feature; the CLI and Chrome/Edge clients keep their own settings.
 
 ## Enable the harness
 
@@ -75,17 +76,16 @@ For a documented sign-in failure, inspect the current README credential, authent
 
 ## Validation and release status
 
-Both pre-package and final post-package suites passed 3,137 tests, with one POSIX-only test skipped on Windows. The required `npm run package` completed for 1.5.309; 25 focused packaged checks and the CLI publish dry-run passed. The installed extension, validator, credential helper and shipped stylesheet hashes match the packaged build.
+The final post-package suite passed 3,138 tests, with one POSIX-only test skipped on Windows. The required `npm run package` completed for 1.5.310, the targeted boundary-loop regression passed, and package/credential audits passed. The original trace is the before-state evidence; the regression proves the repeated marker is cancelled and withheld from the transient output channel.
 
-The packaged VSIX, Chrome/Edge ZIPs and CLI tarball were inspected: no private source entries, source maps or matching local credential values were found. The CLI tarball has exactly four files: executable, package manifest, README and license. Checksums are in [SHA256SUMS](releases/1.5.309/SHA256SUMS).
+The packaged VSIX, Chrome/Edge ZIPs and CLI tarball were inspected: no private source entries, source maps or matching local credential values were found. Checksums are in [SHA256SUMS](releases/1.5.310/SHA256SUMS).
 
 The production dependency audit still reports two high-severity findings in the existing Node 18 compatibility LangChain/Zod chain. This release is not described as vulnerability-free or fully published. The original application's live sign-in mission was not rerun or manually marked complete; its seed and runtime database were preserved.
 
 Publication outcomes:
 
-- Private source and tag `v1.5.309` pushed: [source commit](https://github.com/ddkits/Ollama-VScode-Free-Agent/commit/005350a00d2b525aa6636b91144be6596ba4ccf5).
-- Audited local packages are offered as [prerelease downloads](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/tag/rmai-v1.5.309).
-- The [GitHub build/test workflow](https://github.com/ddkits/Ollama-VScode-Free-Agent/actions/runs/40213928537) passed.
+- Private source and tag `v1.5.310` pushed: [source commit](https://github.com/ddkits/Ollama-VScode-Free-Agent/commit/76749993).
+- Audited packages are offered as [release downloads](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/tag/rmai-v1.5.310).
 - npm registry publication is blocked by `E404`/package permission for the first platform package; Marketplace publication is blocked by publisher authorization `TF400813`. The release guide records both attempts and does not mislabel the successful local dry-run as publication.
 
 Screenshots and documents are public; private source changes, regression tests, runtime databases, pasted traces and raw local proof remain outside this media repository.
