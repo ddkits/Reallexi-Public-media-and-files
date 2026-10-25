@@ -9,4 +9,4 @@ Public README, store, and hosted-policy assets live here.
 
 ## Real Memory AI Agent
 
-[1.5.303 release guide, optional Adaptive harness settings and screenshots](realmemory/releases/1.5.303/README.md). [Product guide](realmemory/README.md).
+[1.5.308 release guide, responsive Harness workspace, verified repair flow, settings and screenshots](realmemory/releases/1.5.308/README.md). [Product guide](realmemory/README.md).
