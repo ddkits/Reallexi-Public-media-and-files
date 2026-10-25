@@ -87,7 +87,7 @@ Publication outcomes:
 
 - Private source, tag and release `v1.5.312` pushed: [source commit](https://github.com/ddkits/Ollama-VScode-Free-Agent/commit/d3d3767ff2155b452b28c526cd75118dfafe22ec).
 - Audited packages are offered as [release downloads](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/tag/rmai-v1.5.312).
-- CI, npm registry and Marketplace outcomes are recorded in the 1.5.312 release guide after their protected workflows finish. A successful local dry-run is not described as registry publication.
+- Protected GitHub build/test passed. Protected npm publication failed with registry E404/permission for the first `@reallexi/rmai-ui-*` package, and Marketplace publication failed because the configured publisher PAT is unauthorized. Exact run links and error scope are in the [1.5.312 release guide](releases/1.5.312/README.md); the downloadable VSIX, browser ZIPs and CLI tarball remain available.
 
 Screenshots and documents are public; private source changes, regression tests, runtime databases, pasted traces and raw local proof remain outside this media repository.
 

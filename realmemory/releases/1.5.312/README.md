@@ -39,4 +39,6 @@ This patch changes validation repair safety rather than the webview layout. The 
 - Private source commit: [`d3d3767ff2155b452b28c526cd75118dfafe22ec`](https://github.com/ddkits/Ollama-VScode-Free-Agent/commit/d3d3767ff2155b452b28c526cd75118dfafe22ec)
 - Private source release: [`v1.5.312`](https://github.com/ddkits/Ollama-VScode-Free-Agent/releases/tag/v1.5.312)
 - Public packages: [`rmai-v1.5.312`](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/tag/rmai-v1.5.312)
-- Protected CI, npm and Marketplace outcomes are recorded after their workflows finish. A successful local dry-run does not prove registry or Marketplace publication.
+- Protected GitHub build/test passed: [run 40239751284](https://github.com/ddkits/Ollama-VScode-Free-Agent/actions/runs/40239751284).
+- Protected npm publication failed at the first platform package with registry E404/permission for `@reallexi/rmai-ui-linux-amd64@1.5.312`: [run 40239760368](https://github.com/ddkits/Ollama-VScode-Free-Agent/actions/runs/40239760368). The CLI is available as the release tarball above, but 1.5.312 is not claimed as npm-published.
+- VS Code Marketplace publication failed with TF400813 because the configured publisher PAT is not authorized. The audited VSIX remains available above.
