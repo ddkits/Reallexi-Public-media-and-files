@@ -2,6 +2,8 @@
 
 Effective date: June 29, 2026
 
+For the current cross-surface policy covering VS Code, Chrome, Edge, CLI, and MCP, see the [Real Memory AI Agent Privacy Policy](real-memory-ai-agent-privacy-policy.md) or the [public privacy page](https://ddkits.github.io/Ollama-VScode-Free-Agent/privacy/).
+
 Real Memory Browser Agent is published by Reallexi LLC. This policy explains what data the browser extension can access, how it is used, and how users can control it.
 
 ## Data The Extension Handles

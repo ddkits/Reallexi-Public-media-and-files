@@ -98,5 +98,37 @@
   "publicFiles": [
     "media/realmemory/public-files/CHANGELOG.md",
     "media/realmemory/CHANGELOG.md"
-  ]
+  ],
+  "marketing": {
+    "publicSite": "https://ddkits.github.io/Ollama-VScode-Free-Agent/",
+    "privacyPolicy": "realmemory/store/real-memory-ai-agent-privacy-policy.md",
+    "trailer": "realmemory/store/real-memory-ai-agent-trailer.mp4",
+    "captions": "realmemory/store/real-memory-ai-agent-trailer-captions.vtt",
+    "screenshots": [
+      {
+        "height": 1080,
+        "width": 1920,
+        "sampleData": true,
+        "path": "realmemory/store/real-memory-ai-agent-scrum-board-sample.png"
+      },
+      {
+        "height": 800,
+        "width": 1280,
+        "sampleData": true,
+        "path": "realmemory/store/real-memory-ai-agent-scrum-ticket-sample.png"
+      },
+      {
+        "height": 800,
+        "width": 320,
+        "sampleData": true,
+        "path": "realmemory/store/real-memory-ai-agent-scrum-ticket-mobile-sample.png"
+      },
+      {
+        "height": 850,
+        "width": 500,
+        "sampleData": true,
+        "path": "realmemory/store/real-memory-browser-agent-sample.png"
+      }
+    ]
+  }
 }
