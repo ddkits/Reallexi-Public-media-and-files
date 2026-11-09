@@ -1,0 +1,24 @@
+{
+  "version": "1.6.337",
+  "surface": "VS Code Scrum board",
+  "capture": "Real Chromium rendering of production webview HTML with sample data, not a live model/customer session",
+  "assets": {
+    "real-memory-ai-agent-delivery-map-sample.png": {
+      "source": "../releases/1.6.337/after-map-1440.png",
+      "sha256": "61ae436f12ab8e44184f47c1191ac749c0dacf30bd658ef352c710dd07fd131c"
+    },
+    "real-memory-ai-agent-delivery-map-blockers-sample.png": {
+      "source": "../releases/1.6.337/after-map-blockers-1440.png",
+      "sha256": "311cb7715dea09cae85b6203e077596227873bf5f5ea4c06271ac102cf30a7c3"
+    },
+    "real-memory-ai-agent-delivery-map-mobile-sample.png": {
+      "source": "../releases/1.6.337/after-map-fit-390.png",
+      "sha256": "4872e28b7be5e165dc1baad6f9a61a9d41dd9ec8c6c1a165ad35067e4514abbb"
+    },
+    "real-memory-ai-agent-scrum-board-sample.png": {
+      "source": "../releases/1.6.337/after-board-1440.png",
+      "sha256": "0acaa5a5ab2d57c86b3336919704dfb8d10b4b86eb3db793230076e02301bae3"
+    }
+  },
+  "liveStoreSubmission": "Not performed; signed-in store publishing credentials unavailable in this session"
+}

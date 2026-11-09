@@ -1,0 +1,64 @@
+{
+  "version": "1.6.337",
+  "capture": "Production VS Code webview HTML in Chromium with isolated sample-data adapter; CSP removed only in preview harness. No installed-host or live model completion claim.",
+  "before": [
+    {
+      "width": 1440,
+      "errors": [],
+      "board": {
+        "height": 639,
+        "scrollHeight": 639,
+        "overflowY": "hidden"
+      }
+    },
+    {
+      "width": 390,
+      "errors": [],
+      "board": {
+        "height": 430,
+        "scrollHeight": 430,
+        "overflowY": "hidden"
+      }
+    }
+  ],
+  "after": [
+    {
+      "width": 1440,
+      "errors": [],
+      "board": {
+        "height": 639,
+        "scrollHeight": 3967,
+        "overflowY": "auto"
+      }
+    },
+    {
+      "width": 390,
+      "errors": [],
+      "board": {
+        "height": 430,
+        "scrollHeight": 3967,
+        "overflowY": "auto"
+      }
+    }
+  ],
+  "images": {
+    "after-board-1440.png": "0acaa5a5ab2d57c86b3336919704dfb8d10b4b86eb3db793230076e02301bae3",
+    "after-board-390.png": "7c50b7dd8c606f07aa5d5a5c88d7e6148639be84a239d9e39d87b5126085ee4a",
+    "after-map-1440.png": "61ae436f12ab8e44184f47c1191ac749c0dacf30bd658ef352c710dd07fd131c",
+    "after-map-390.png": "d7740e6ede7dd93664b6666bd7bbee4e341a713cadc6c3577c416729e73d7582",
+    "after-map-blockers-1440.png": "311cb7715dea09cae85b6203e077596227873bf5f5ea4c06271ac102cf30a7c3",
+    "after-map-fit-390.png": "4872e28b7be5e165dc1baad6f9a61a9d41dd9ec8c6c1a165ad35067e4514abbb",
+    "before-board-1440.png": "257a5c3a75ce8180e955dee26327569c429053c47e84308c184d0cb2a480e544",
+    "before-board-390.png": "d58b17566631eb2696d1f6902353949293bc56eb454c9c1abff6af30e3c2ba9e",
+    "before-map-1440.png": "5e339cad0ff353b28c2e583b6f9dc7c2bb807e1309357e86fa354f97bb21e5b1",
+    "before-map-390.png": "2c9fe08ae0e21d72a0cd130aac4188b6710c0f5fec138cc5b443691e201ca3ef"
+  },
+  "verification": {
+    "focusedChecks": 292,
+    "packagedChecks": 38,
+    "artifactChecks": 44,
+    "typecheck": "passed",
+    "installedHost": "not exercised",
+    "originalProjectCompletion": "unverified"
+  }
+}
