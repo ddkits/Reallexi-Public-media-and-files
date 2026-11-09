@@ -1,0 +1,95 @@
+{
+  "version": "1.6.338",
+  "fixture": "Synthetic long prompt, eleven epics and 32 delivery tickets; not customer data",
+  "capture": "Production webview HTML with isolated VS Code adapter in Chromium; CSP removed only in preview harness",
+  "before": [
+    {
+      "width": 1440,
+      "board": {
+        "x": 12,
+        "y": 322,
+        "width": 974,
+        "height": 639
+      },
+      "map": {
+        "x": 13,
+        "y": 648.5,
+        "width": 1414,
+        "height": 251.5
+      },
+      "errors": []
+    },
+    {
+      "width": 390,
+      "board": {
+        "x": 9,
+        "y": 394.25,
+        "width": 372,
+        "height": 413.75
+      },
+      "map": {
+        "x": 10,
+        "y": 934.25,
+        "width": 370,
+        "height": 260
+      },
+      "errors": []
+    }
+  ],
+  "after": [
+    {
+      "width": 1440,
+      "board": {
+        "x": 12,
+        "y": 166,
+        "width": 974,
+        "height": 798
+      },
+      "map": {
+        "x": 13,
+        "y": 251,
+        "width": 1414,
+        "height": 662
+      },
+      "errors": []
+    },
+    {
+      "width": 390,
+      "board": {
+        "x": 8,
+        "y": 157.59375,
+        "width": 374,
+        "height": 644
+      },
+      "map": {
+        "x": 9,
+        "y": 242.59375,
+        "width": 372,
+        "height": 490
+      },
+      "errors": []
+    }
+  ],
+  "images": {
+    "after-board-1440.png": "70d67366aabb2e991b6fab90fea52dfccfef4ad49ddc6f23ec8e9daa9c46f04b",
+    "after-board-390.png": "ae2eb43f62fd34c3dd9fcc251008926aff1d0964d04b531838aef9ff085d93dc",
+    "after-map-1440.png": "4a28882460cf54afdb5cf287e16edae6b9d776a78707d2f13ab83f75fa5aa5f6",
+    "after-map-390.png": "796621ea6dd6d64d253576221be422739e5fa1aa7617b5ef5ce92a2667aeeaca",
+    "after-map-blockers-1440.png": "40a23d249d947cb8b9a9a77414c01b5d80564a6ee3d09e2107e1eff42755fc8a",
+    "before-board-1440.png": "54b1ac1cf983fbe22f24348f66251c42221ba887fef5d04debd51e5b59c35452",
+    "before-board-390.png": "4ad4240bdf816ef9aaa2ef6894c9935f56c847d4ff2b9193b6b77907c99cb596",
+    "before-map-1440.png": "17fdb7fc87e28fef7786dec8f5a490e89f1abac517508940cac15dcef1b47608",
+    "before-map-390.png": "3f2954dd0a2ac1b1de2b057121cdd8e44d9c6fde02d8048a710443d3258cc023"
+  },
+  "additionalScenarios": {
+    "after-map-blockers-1440.png": "Compact header with short request, two epics and32tickets; independent of paired long-context comparison"
+  },
+  "verification": {
+    "uiChecks": 118,
+    "packagedChecks": 57,
+    "artifactChecks": 47,
+    "typecheck": "passed",
+    "installedHost": "not exercised by this verification",
+    "originalLiveRunCompletion": "unverified"
+  }
+}

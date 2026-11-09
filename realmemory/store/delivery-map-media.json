@@ -1,23 +1,23 @@
 {
-  "version": "1.6.337",
+  "version": "1.6.338",
   "surface": "VS Code Scrum board",
   "capture": "Real Chromium rendering of production webview HTML with sample data, not a live model/customer session",
   "assets": {
     "real-memory-ai-agent-delivery-map-sample.png": {
-      "source": "../releases/1.6.337/after-map-1440.png",
-      "sha256": "61ae436f12ab8e44184f47c1191ac749c0dacf30bd658ef352c710dd07fd131c"
+      "source": "../releases/1.6.338/after-map-1440.png",
+      "sha256": "4a28882460cf54afdb5cf287e16edae6b9d776a78707d2f13ab83f75fa5aa5f6"
     },
     "real-memory-ai-agent-delivery-map-blockers-sample.png": {
-      "source": "../releases/1.6.337/after-map-blockers-1440.png",
-      "sha256": "311cb7715dea09cae85b6203e077596227873bf5f5ea4c06271ac102cf30a7c3"
+      "source": "../releases/1.6.338/after-map-blockers-1440.png",
+      "sha256": "40a23d249d947cb8b9a9a77414c01b5d80564a6ee3d09e2107e1eff42755fc8a"
     },
     "real-memory-ai-agent-delivery-map-mobile-sample.png": {
-      "source": "../releases/1.6.337/after-map-fit-390.png",
-      "sha256": "4872e28b7be5e165dc1baad6f9a61a9d41dd9ec8c6c1a165ad35067e4514abbb"
+      "source": "../releases/1.6.338/after-map-390.png",
+      "sha256": "796621ea6dd6d64d253576221be422739e5fa1aa7617b5ef5ce92a2667aeeaca"
     },
     "real-memory-ai-agent-scrum-board-sample.png": {
-      "source": "../releases/1.6.337/after-board-1440.png",
-      "sha256": "0acaa5a5ab2d57c86b3336919704dfb8d10b4b86eb3db793230076e02301bae3"
+      "source": "../releases/1.6.338/after-board-1440.png",
+      "sha256": "70d67366aabb2e991b6fab90fea52dfccfef4ad49ddc6f23ec8e9daa9c46f04b"
     }
   },
   "liveStoreSubmission": "Not performed; signed-in store publishing credentials unavailable in this session"
