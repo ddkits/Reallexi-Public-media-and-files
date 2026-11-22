@@ -1,11 +1,25 @@
 # Real Memory AI Agent
 
+## Real Memory AI Agent 1.6.606
+
+Install or update the standalone terminal client from npm:
+
+```sh
+npm install --global @reallexi/rmai@1.6.606
+rmai --version
+```
+
+In VS Code, Continue restores the saved Scrum roadmap. Focused Ollama Writer retries can use a separate advisory diagnosis when output repeats. Cancel keeps chat controls unavailable until the owned operation finishes stopping. Owned checks determine when tickets close.
+
+[Release notes and downloads](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/tag/rmai-v1.6.606) · [Public release guide](https://ddkits.github.io/Ollama-VScode-Free-Agent/wiki/releases.html)
+
+
 
 ## VS Code connected delivery wall
 
 Open **RM AI Agent: Scrum / Agile Board → Delivery map** to follow recorded feature, request, task and subtask links. Ticket colors show their current stage. Red links identify blocked prerequisites, amber links show unfinished prerequisites, and green animated links identify active work. Select a ticket to inspect prerequisites, the work it blocks, design notes, files and evidence. Drag the background to pan, change zoom, or use **Fit wall**. Long request text, epics and agent lists stay collapsed until you open details. The page scrolls, and the Kanban board scrolls vertically and horizontally and preserves its position during refreshes.
 
-A fully delivered development ticket can reach Done before the separate final Validator runs. Done on a development ticket records implementation delivery; feature acceptance and project completion still need their validation evidence. Partial writes and model replies alone do not close tickets.
+A development ticket can reach Done after its owned checks pass. Whole-project validation and acceptance still require separate evidence.
 
 ![Connected delivery wall with active and blocked dependencies](https://raw.githubusercontent.com/ddkits/Reallexi-Public-media-and-files/main/realmemory/releases/1.6.338/after-map-1440.png)
 

@@ -1,5 +1,19 @@
 # Compact Scrum board and Delivery map — 1.6.338
 
+## Real Memory AI Agent 1.6.606
+
+Install or update the standalone terminal client from npm:
+
+```sh
+npm install --global @reallexi/rmai@1.6.606
+rmai --version
+```
+
+In VS Code, Continue restores the saved Scrum roadmap. Focused Ollama Writer retries can use a separate advisory diagnosis when output repeats. Cancel keeps chat controls unavailable until the owned operation finishes stopping. Owned checks determine when tickets close.
+
+[Release notes and downloads](https://github.com/ddkits/Reallexi-Public-media-and-files/releases/tag/rmai-v1.6.606) · [Public release guide](https://ddkits.github.io/Ollama-VScode-Free-Agent/wiki/releases.html)
+
+
 Tickets now take priority over project context. Long request text, epics and repair history are collapsed under **Project details & epics**. The map keeps assigned agents, its repeated description and detailed counts under **Map details & agents**. Filters stay on one compact row; the page, ticket wall and map support scrolling. Pan, zoom and Fit wall remain available.
 
 ![Compact desktop delivery map](https://raw.githubusercontent.com/ddkits/Reallexi-Public-media-and-files/main/realmemory/releases/1.6.338/after-map-1440.png)
