@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.6.615
+
+- Scrum defect details show the recorded repair instruction so users can see the action needed for the blocker.
+
 ## 1.6.614
 
 - VS Code Scrum defect cards show the linked blocker, next repair, affected files, and recorded edits for that defect.
