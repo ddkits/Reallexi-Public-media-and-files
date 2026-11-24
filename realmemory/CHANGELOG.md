@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.6.616
+
+- VS Code Continue releases stale worker assignments, returns unfinished development to the ready queue, and keeps saved retests in validation. Linked defect evidence stays with the owning work.
+
 ## 1.6.615
 
 - Scrum defect details show the recorded repair instruction so users can see the action needed for the blocker.
