@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.6.613
+
+- VS Code Continue now runs a saved validation check after its linked bug moves to Ready. It keeps the original command and run.
+
 ## 1.6.612
 
 - VS Code Direct Model sends a failed check triggered by stalled inspection to the selected model for focused repair. It reruns the retained check after the edit and requires a passing result before completion.
