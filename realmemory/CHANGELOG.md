@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.6.614
+
+- VS Code Scrum defect cards show the linked blocker, next repair, affected files, and recorded edits for that defect.
+
 ## 1.6.613
 
 - VS Code Continue now runs a saved validation check after its linked bug moves to Ready. It keeps the original command and run.
