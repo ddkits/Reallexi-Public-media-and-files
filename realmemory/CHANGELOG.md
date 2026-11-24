@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.6.612
+
+- VS Code Direct Model sends a failed check triggered by stalled inspection to the selected model for focused repair. It reruns the retained check after the edit and requires a passing result before completion.
+- VS Code Planner can retry a rejected file-path correction once with the specific schema error and the rest of the plan intact.
+- Managed VS Code flows show the latest passing validation after repair, with earlier failures available in the Activity Log.
+- [Repair and validation guide](https://ddkits.github.io/Ollama-VScode-Free-Agent/wiki/reliable-repairs.html)
+
 ## 1.6.606
 
 - Standalone CLI available as `@reallexi/rmai`.
